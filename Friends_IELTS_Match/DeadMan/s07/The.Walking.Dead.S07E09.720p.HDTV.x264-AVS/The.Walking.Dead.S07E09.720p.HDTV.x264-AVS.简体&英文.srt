@@ -1,0 +1,3645 @@
+1
+00:00:00,260 --> 00:00:03,670
+《行尸走肉》前情提要
+Previously on AMC's "The Walking Dead..."
+
+2
+00:00:03,670 --> 00:00:05,730
+你告诉我们要准备抗争
+You told us to get ready to fight
+
+3
+00:00:05,730 --> 00:00:07,070
+现在我能了
+and I can now.
+
+4
+00:00:12,010 --> 00:00:15,300
+玛姬说她的人能搞定救世军
+Maggie said that her people could take care of the Saviors.
+
+5
+00:00:15,300 --> 00:00:17,490
+但他们只是让我们的社区陷入险境
+But so far all they've done is put our community at risk.
+
+6
+00:00:17,700 --> 00:00:21,140
+我想让你们帮我劝以西结攻击救世军
+I'm asking you to help convince Ezekiel to attack the Saviors
+
+7
+00:00:21,610 --> 00:00:22,650
+灭掉他们
+and destroy them.
+
+8
+00:00:22,950 --> 00:00:24,700
+我们会胜利的
+We'll win,
+
+9
+00:00:24,770 --> 00:00:26,510
+我们要等待合适的时机
+we need to wait for the right moment.
+
+10
+00:00:26,510 --> 00:00:29,620
+我们需要你
+We need you.
+
+11
+00:00:31,460 --> 00:00:36,460
+m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8
+
+12
+00:00:31,460 --> 00:00:36,460
+m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8
+
+13
+00:00:31,460 --> 00:00:36,460
+m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8
+
+14
+00:00:31,960 --> 00:00:36,460
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+15
+00:00:31,960 --> 00:00:36,460
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+16
+00:00:31,960 --> 00:00:36,460
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+17
+00:00:31,960 --> 00:00:36,460
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+18
+00:00:31,960 --> 00:00:36,460
+原创翻译  双语字幕
+
+19
+00:00:32,460 --> 00:00:36,460
+最新连载海外影视剧下载
+请登陆 www.YYeTs.com
+仅供交流学习  禁止商用盈利
+
+20
+00:00:37,180 --> 00:01:08,190
+m 38 -1 l 44 6 l 38 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1
+
+21
+00:00:37,680 --> 00:01:08,190
+m 200 -1 l 200 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1
+
+22
+00:00:38,190 --> 00:00:43,190
+翻译     冰蓝 Reginamoon CS小明漫画家
+
+23
+00:00:43,190 --> 00:00:48,190
+翻译     艾瑞卡 小僵僵首P好激动 送小孩
+
+24
+00:00:48,190 --> 00:00:53,190
+校对     送小孩
+
+25
+00:00:53,190 --> 00:00:58,190
+时间轴     加森  涛涛  啾啾啾
+
+26
+00:00:58,190 --> 00:01:03,190
+后期     送小哥  拉图
+
+27
+00:01:00,780 --> 00:01:03,930
+圣经
+
+28
+00:01:03,190 --> 00:01:08,190
+总监     送小孩
+
+29
+00:02:36,770 --> 00:02:37,910
+核对下
+Just checking.
+
+30
+00:04:11,200 --> 00:04:15,410
+行尸走肉
+『第七季  第九集』
+
+31
+00:04:16,010 --> 00:04:17,530
+不  绝对不行
+No! No way in hell.
+
+32
+00:04:17,530 --> 00:04:19,110
+协议不是这样的
+That was not the deal.
+
+33
+00:04:19,680 --> 00:04:22,670
+你们发誓能干掉救世军
+You people swore you could take the Saviors out,
+
+34
+00:04:22,670 --> 00:04:23,850
+你们失败了
+and you failed.
+
+35
+00:04:24,090 --> 00:04:27,050
+所以我们的协议终结了
+So any arrangement we had is now done --
+
+36
+00:04:27,540 --> 00:04:29,140
+无效了
+null and void.
+
+37
+00:04:30,330 --> 00:04:33,470
+我们不是贸易伙伴  不是朋友
+We aren't trade partners, we aren't friends,
+
+38
+00:04:34,010 --> 00:04:35,300
+从未谋面
+and we never met.
+
+39
+00:04:35,460 --> 00:04:36,200
+懂吗
+Hmm?
+
+40
+00:04:36,440 --> 00:04:37,750
+我们不认识
+We don't know each other.
+
+41
+00:04:42,450 --> 00:04:44,320
+我不欠你什么
+I owe you nothing.
+
+42
+00:04:44,360 --> 00:04:46,450
+实际上  你欠我的  因为我收留了难民
+In fact, you owe me for taking in the refugees,
+
+43
+00:04:46,460 --> 00:04:47,910
+我个人冒了很大的风险
+at great personal risk.
+
+44
+00:04:47,910 --> 00:04:49,580
+你那时真勇敢  待在这里
+Oh, you were very brave staying in here
+
+45
+00:04:49,580 --> 00:04:51,770
+而玛姬和萨沙救了这里
+while Maggie and Sasha saved this place.
+
+46
+00:04:51,820 --> 00:04:53,530
+你的勇气真是鼓舞人心
+Your courage was inspiring.
+
+47
+00:04:53,610 --> 00:04:55,480
+你不是为我工作吗
+Hey, don't you work for me?
+
+48
+00:04:55,690 --> 00:04:56,660
+我们不是朋友吗
+Aren't we friends?
+
+49
+00:04:56,660 --> 00:04:59,360
+格雷戈里  我们已经开始了
+Gregory, we already started this.
+
+50
+00:04:59,360 --> 00:05:01,200
+-是你开始的  -是我们
+- You started it. - We did.
+
+51
+00:05:01,200 --> 00:05:02,590
+我们会赢的
+And we're gonna win.
+
+52
+00:05:02,690 --> 00:05:03,820
+这些人是凶手啊
+These are killers.
+
+53
+00:05:03,820 --> 00:05:05,340
+你就想这样活着吗
+Is this how you want to live?
+
+54
+00:05:05,400 --> 00:05:07,920
+受他们的控制  他们还杀你们的人
+Under their thumb, killing your people?
+
+55
+00:05:07,920 --> 00:05:09,370
+有时候我们无法选择
+S-Sometimes we don't get to choose
+
+56
+00:05:09,370 --> 00:05:10,980
+生活的方式
+what our life looks like.
+
+57
+00:05:11,030 --> 00:05:11,900
+有时候  瑞克
+Sometimes, Ricky,
+
+58
+00:05:11,900 --> 00:05:14,810
+你得珍惜眼前的一切
+you have to count the blessings you have.
+
+59
+00:05:14,810 --> 00:05:16,900
+我们能分出多少人
+How many people can we spare?
+
+60
+00:05:17,270 --> 00:05:19,370
+这里有多少人可以战斗
+How many people here can fight?
+
+61
+00:05:19,370 --> 00:05:20,250
+我们
+"We"?
+
+62
+00:05:21,050 --> 00:05:24,050
+我都不知道我们有多少人  玛格丽特
+I don't even know how many people we have, Margaret.
+
+63
+00:05:24,180 --> 00:05:25,580
+这重要吗
+And does it even matter?
+
+64
+00:05:25,790 --> 00:05:26,550
+我是说
+I mean...
+
+65
+00:05:26,880 --> 00:05:28,310
+你们想做什么
+...w-w-what are you gonna do?
+
+66
+00:05:28,310 --> 00:05:31,170
+组一队种高粱的农民吗
+Start a platoon of sorghum farmers?
+
+67
+00:05:31,170 --> 00:05:32,550
+因为我们只有这种人
+'Cause that's what we got.
+
+68
+00:05:32,560 --> 00:05:35,480
+他们种庄稼  不想战斗
+They grow things. They're not gonna want to fight.
+
+69
+00:05:35,480 --> 00:05:36,580
+你错了
+You're wrong.
+
+70
+00:05:36,580 --> 00:05:38,080
+当人们有机会做正确的事时
+When people have the chance to do the right thing,
+
+71
+00:05:38,080 --> 00:05:39,910
+他们一般会挺身而出
+they usually step up.
+
+72
+00:05:40,490 --> 00:05:41,870
+-人们就  -在你开始唱歌之前
+- I mean, people just -- - L-Let me stop you
+
+73
+00:05:41,870 --> 00:05:44,330
+我先打断你一下  好吗
+before you break into song, okay?
+
+74
+00:05:45,320 --> 00:05:46,730
+顺便说一句
+And, by the way,
+
+75
+00:05:46,810 --> 00:05:49,030
+谁来给这些炮灰训练
+who would train all this cannon fodder?
+
+76
+00:05:49,030 --> 00:05:50,340
+-我来  -给我一周时间
+- I will. - Give me a week.
+
+77
+00:05:50,340 --> 00:05:53,770
+我是反问  好吗
+Rhetorical, okay?
+
+78
+00:05:53,770 --> 00:05:55,050
+我不想知道
+I don't want to know.
+
+79
+00:05:55,050 --> 00:05:57,190
+我再也不想听到关于此事的半个字
+I never want to hear another word about any of it, ever.
+
+80
+00:05:57,190 --> 00:05:59,210
+没了救世军  我们是不是过得更好
+Would we be better off without the Saviors,
+
+81
+00:05:59,210 --> 00:06:02,660
+-是或不是  -是  好吧
+- yes or no? - Yeah. Sure. Okay.
+
+82
+00:06:02,660 --> 00:06:06,120
+那你要怎么解决问题
+So, what will you do to fix the problem?
+
+83
+00:06:06,120 --> 00:06:07,150
+我没说过我们有问题
+I didn't say we had a problem.
+
+84
+00:06:07,150 --> 00:06:08,090
+是你们说的
+You did.
+
+85
+00:06:08,540 --> 00:06:10,910
+在我管辖范围之外发生的事
+And what happens outside of my purview
+
+86
+00:06:11,110 --> 00:06:12,880
+与我无关
+is outside of my purview.
+
+87
+00:06:13,100 --> 00:06:14,480
+搞什么
+What the hell, man?
+
+88
+00:06:14,770 --> 00:06:16,520
+你要么站我们这边  要么不站
+You're either with us or you ain't.
+
+89
+00:06:17,160 --> 00:06:19,920
+你坐在那里见风使舵  嘴里没实话
+You're sitting over there talking out of both sides of your mouth.
+
+90
+00:06:21,670 --> 00:06:24,980
+我想我已经说得很清楚了
+I -- I think I've made my position very clear.
+
+91
+00:06:25,720 --> 00:06:29,520
+我想感谢你们所有人今天没有来
+And I want to thank all of you for not being here today
+
+92
+00:06:29,910 --> 00:06:32,430
+没跟我会面
+and not having this meeting with me
+
+93
+00:06:32,440 --> 00:06:34,720
+出去时也别让人看见了
+or -- or being seen on your way out.
+
+94
+00:06:36,130 --> 00:06:38,990
+换句话说  从后门走
+In other words, go out the back.
+
+95
+00:06:48,820 --> 00:06:51,620
+-懦夫  -真想打掉那蠢货的牙齿
+- Walking ballsack. - ?Wanna knock that idiot's teeth out.
+
+96
+00:06:54,430 --> 00:06:56,460
+反正我们也不需要他
+Yeah, well, we don't need him anyway.
+
+97
+00:06:56,510 --> 00:06:57,970
+没错
+Yeah, that's right.
+
+98
+00:06:58,170 --> 00:07:00,860
+因为我们有玛姬  萨沙和耶稣
+'Cause we have Maggie and Sasha and Jesus here.
+
+99
+00:07:01,010 --> 00:07:01,900
+还有
+And...
+
+100
+00:07:02,370 --> 00:07:03,280
+伊妮德
+Enid.
+
+101
+00:07:03,550 --> 00:07:05,510
+-嗨  -怎么了
+- Hey, um -- - What's wrong?
+
+102
+00:07:05,520 --> 00:07:06,340
+没什么
+Nothing.
+
+103
+00:07:06,940 --> 00:07:07,740
+只是
+Just...
+
+104
+00:07:09,750 --> 00:07:10,650
+出来吧
+Come outside.
+
+105
+00:07:23,310 --> 00:07:24,280
+怎么了
+What's going on?
+
+106
+00:07:25,480 --> 00:07:28,930
+如果你不记得了  我是伯蒂
+So, if you don't remember, I'm Bertie.
+
+107
+00:07:29,350 --> 00:07:31,910
+你们救了我两次命
+And I owe my life to you all, twice over.
+
+108
+00:07:31,910 --> 00:07:33,120
+我们许多人都被救过
+A bunch of us do.
+
+109
+00:07:34,020 --> 00:07:35,950
+伊妮德说你们想说服格雷戈里
+Enid says that you want Gregory
+
+110
+00:07:35,950 --> 00:07:37,810
+让我们跟你们一起对抗救世军
+to get us to fight the Saviors with you.
+
+111
+00:07:37,820 --> 00:07:38,770
+这是真的吗
+Is that true?
+
+112
+00:07:39,500 --> 00:07:41,750
+-是的  -你觉得我们能赢吗
+- Yes. ?- Do you think we can win,
+
+113
+00:07:41,810 --> 00:07:43,670
+我们真的能打败他们吗
+that we really could beat them?
+
+114
+00:07:43,670 --> 00:07:44,440
+我们这种人
+Us?
+
+115
+00:07:45,810 --> 00:07:46,630
+是的
+I do.
+
+116
+00:07:51,200 --> 00:07:52,940
+伊妮德说你们能训练我们
+Well, Enid says you could show us the way.
+
+117
+00:07:53,170 --> 00:07:54,450
+-我准备好了  -我也是
+- I'm ready. - Me too.
+
+118
+00:07:54,450 --> 00:07:55,140
+-是啊  -开始吧
+-Yeah. -Let's do this.
+
+119
+00:07:55,140 --> 00:07:56,340
+-开始吧  -我加入
+- Let's do it. - I'm in.
+
+120
+00:08:02,890 --> 00:08:04,950
+-这是个开始  -我们会找到更多人
+- It's a start. - We'll get more.
+
+121
+00:08:04,950 --> 00:08:07,300
+-还是不够  -是啊
+- It still won't be enough. - No, it won't.
+
+122
+00:08:07,510 --> 00:08:09,350
+只要找到合适的东西
+Well, we find the right stuff,
+
+123
+00:08:09,990 --> 00:08:11,660
+也许根本不需要以人数取胜
+then maybe we don't need the numbers.
+
+124
+00:08:12,110 --> 00:08:14,510
+炸飞他们  烧死他们
+Blow 'em up, burn 'em to the ground.
+
+125
+00:08:14,630 --> 00:08:16,880
+你说过救世军里不仅有士兵
+You said there weren't just soldiers with the Saviors,
+
+126
+00:08:16,890 --> 00:08:18,190
+还有工人
+that there were workers there.
+
+127
+00:08:18,460 --> 00:08:19,930
+别无选择的人们
+People didn't have a choice.
+
+128
+00:08:20,270 --> 00:08:21,290
+我们必须赢
+We gotta win.
+
+129
+00:08:21,530 --> 00:08:23,930
+我们需要更多人手  另一个社区
+We need more hands, another group.
+
+130
+00:08:24,560 --> 00:08:26,010
+尼根有前哨站
+Negan has outposts.
+
+131
+00:08:26,140 --> 00:08:28,680
+地形和距离都对我们不利
+The geography, the distance works against us.
+
+132
+00:08:29,000 --> 00:08:30,090
+我们得回去
+We gotta get back.
+
+133
+00:08:30,090 --> 00:08:32,750
+如果他们来找达里尔  我们得在
+If they come looking for Daryl, we need to be there.
+
+134
+00:08:32,750 --> 00:08:33,970
+你们没必要回去
+You don't have to get back.
+
+135
+00:08:34,830 --> 00:08:35,670
+现在没必要
+Not yet.
+
+136
+00:08:38,470 --> 00:08:40,640
+这是他们的长距离对讲机
+It's one of theirs, long range.
+
+137
+00:08:41,210 --> 00:08:43,530
+我们可以偷听  了解他们的动态
+We can listen in, keep track of them.
+
+138
+00:08:44,000 --> 00:08:46,470
+如果我们不回去  那我们做什么
+So, if we're not going back, what are we doing, then?
+
+139
+00:08:46,800 --> 00:08:48,810
+是时候让你们见以西结了
+I think it's time we introduced you to Ezekiel.
+
+140
+00:08:49,970 --> 00:08:51,180
+以西结国王
+King Ezekiel.
+
+141
+00:08:53,030 --> 00:08:53,870
+国王
+King?
+
+142
+00:09:20,830 --> 00:09:22,660
+那里叫神之国吗
+It's called "The Kingdom"?
+
+143
+00:09:23,300 --> 00:09:24,010
+是啊
+Yeah.
+
+144
+00:09:25,590 --> 00:09:26,680
+名不是我取的
+I didn't name it.
+
+145
+00:09:28,720 --> 00:09:29,910
+还有多远
+How much farther?
+
+146
+00:09:30,260 --> 00:09:32,670
+严格说来  我们已经到了
+Well, technically, we're already here.
+
+147
+00:09:33,570 --> 00:09:35,660
+我是说  我们一直在这里
+I mean, we're always here,
+
+148
+00:09:36,120 --> 00:09:39,420
+但我们到了  神之国
+but here we are -- at the Kingdom.
+
+149
+00:09:39,700 --> 00:09:42,130
+这里是它的外围
+Well, its outer edge.
+
+150
+00:09:42,500 --> 00:09:45,260
+我们等什么呢
+Hey, what the hell we waitin' on?
+
+151
+00:09:45,840 --> 00:09:46,980
+等他们
+Waiting for them.
+
+152
+00:09:55,320 --> 00:09:58,460
+何人胆敢擅闯神之国领土...
+Who dares to trespass on the sovereign land of the --
+
+153
+00:10:00,380 --> 00:10:01,360
+靠
+Oh, shit.
+
+154
+00:10:02,080 --> 00:10:03,300
+耶稣  是你吗
+Jesus, is that you?
+
+155
+00:10:09,660 --> 00:10:11,140
+这些人是谁  保罗
+Who are all these people, Paul?
+
+156
+00:10:11,590 --> 00:10:12,620
+你好呀  理查德
+Hi, Richard.
+
+157
+00:10:12,700 --> 00:10:13,650
+很高兴见到你
+Nice to see you.
+
+158
+00:10:14,660 --> 00:10:15,880
+我也很高兴见到你
+It's good to see you, too.
+
+159
+00:10:16,930 --> 00:10:18,740
+你的这些朋友们是什么人
+Your friends, who are they?
+
+160
+00:10:19,820 --> 00:10:21,340
+这位是瑞克·格兰姆斯
+This is Rick Grimes.
+
+161
+00:10:22,110 --> 00:10:24,380
+他是一个和我们志同道合的社区的首领
+He's the leader of a like-minded community.
+
+162
+00:10:25,030 --> 00:10:26,500
+这些是他的一部分人马
+These are some of his people.
+
+163
+00:10:27,210 --> 00:10:30,130
+我们想觐见以西结国王
+We would like to request an audience with King Ezekiel.
+
+164
+00:10:39,880 --> 00:10:40,910
+下车
+Get out of the car.
+
+165
+00:10:44,440 --> 00:10:47,180
+你说他们是...志同道合的社区
+You say they're a... like-minded community.
+
+166
+00:10:48,070 --> 00:10:49,260
+怎么个志同道合法
+Like-minded how?
+
+167
+00:10:50,070 --> 00:10:53,930
+我们求生  做交易  和行尸战斗
+We live, we trade, we fight the dead.
+
+168
+00:10:54,470 --> 00:10:55,980
+有时也和别的东西战斗
+Sometimes others.
+
+169
+00:11:02,340 --> 00:11:03,170
+排好队
+Line up.
+
+170
+00:11:03,330 --> 00:11:05,210
+行了  这就是在浪费时间
+Okay. This is a waste of time.
+
+171
+00:11:05,210 --> 00:11:06,360
+走吧  我们回去
+Come on. Let's go.
+
+172
+00:11:06,360 --> 00:11:07,230
+也许你说得对
+Maybe you're right.
+
+173
+00:11:08,680 --> 00:11:09,950
+国王很繁忙
+The King is a busy man.
+
+174
+00:11:11,440 --> 00:11:12,930
+而这又是个危机四伏的世界
+And it's a dangerous world.
+
+175
+00:11:14,790 --> 00:11:16,730
+我们一般不会让一群陌生人
+We don't usually allow a pack of strangers
+
+176
+00:11:16,730 --> 00:11:17,940
+随意迈进我们的大门
+to waltz through our door.
+
+177
+00:11:17,950 --> 00:11:20,190
+我们想让这个世界不那么危机四伏
+We want to make the world less dangerous,
+
+178
+00:11:20,190 --> 00:11:22,690
+我们都是过来向国王表明
+and we are all here to show the King
+
+179
+00:11:22,690 --> 00:11:24,630
+我们的认真程度的
+how serious we are about that.
+
+180
+00:11:26,200 --> 00:11:27,590
+把车留在外面
+The car stays outside.
+
+181
+00:11:27,590 --> 00:11:29,140
+枪支上缴
+You gotta hand over your guns.
+
+182
+00:11:29,200 --> 00:11:30,590
+我们就两把枪
+We only have two.
+
+183
+00:11:39,240 --> 00:11:40,020
+好了
+Okay.
+
+184
+00:11:40,600 --> 00:11:41,460
+跟我来
+Follow me.
+
+185
+00:11:52,990 --> 00:11:54,160
+进去之前我想说
+Before we go in,
+
+186
+00:11:55,840 --> 00:11:57,780
+你有勇有谋
+you have a brain and a backbone,
+
+187
+00:11:57,950 --> 00:12:00,510
+所以我和你谈  而不是格雷戈里
+so I'm talking to you, not Gregory.
+
+188
+00:12:01,410 --> 00:12:03,280
+无论你这次来是为了什么
+Whatever you're trying to start here,
+
+189
+00:12:03,820 --> 00:12:05,770
+为了另一条庇护协议  或是交易
+another protection pact, a trade,
+
+190
+00:12:07,750 --> 00:12:08,570
+但这些都毫无意义
+none of it matters
+
+191
+00:12:08,570 --> 00:12:10,670
+除非我们着手处理真正的问题...
+if we don't start dealing with the real problem --
+
+192
+00:12:10,890 --> 00:12:11,980
+救世军
+the Saviors.
+
+193
+00:12:13,630 --> 00:12:15,720
+理查德  我从来没见你笑过
+You know, Richard, I've never seen you smile.
+
+194
+00:12:17,130 --> 00:12:18,960
+这一点今天可能要改变了
+I think that's gonna change today.
+
+195
+00:12:41,990 --> 00:12:43,300
+他们人数是挺多的
+They have the numbers.
+
+196
+00:12:44,320 --> 00:12:45,400
+但他们能战斗吗
+But can they fight?
+
+197
+00:12:46,180 --> 00:12:47,590
+妥妥的
+Oh, they can fight.
+
+198
+00:12:49,670 --> 00:12:50,580
+也许吧
+Maybe.
+
+199
+00:13:04,440 --> 00:13:05,250
+摩根
+Morgan?
+
+200
+00:13:22,120 --> 00:13:23,390
+你们是怎么认识的
+How do you know each other?
+
+201
+00:13:24,490 --> 00:13:26,370
+灾变刚开始我们就认识了
+We go back to the start.
+
+202
+00:13:28,320 --> 00:13:29,920
+国王准备好接见你们了
+Well, the King is ready to see you.
+
+203
+00:13:36,550 --> 00:13:39,510
+-你找到卡萝尔了吗  -找到了
+- Did you find Carol? - I did, yeah.
+
+204
+00:13:39,510 --> 00:13:40,840
+她人呢  她没出事吧
+Where is she? Is she okay?
+
+205
+00:13:40,840 --> 00:13:42,750
+她之前在这里  后来离开了
+She was here, and then she left.
+
+206
+00:13:44,120 --> 00:13:46,460
+她不满我跟着她
+You know, she wasn't too happy, me following her.
+
+207
+00:13:46,460 --> 00:13:49,760
+她想远离我们  远离所有人
+She wanted to get away from us, from everyone.
+
+208
+00:13:51,720 --> 00:13:53,600
+但我找到她时  她中枪了
+But when I found her, she was shot.
+
+209
+00:13:54,180 --> 00:13:55,640
+只是擦伤  我把她带回了这里
+It was just a graze. I got her back here.
+
+210
+00:13:55,640 --> 00:13:57,650
+这里有医生  挺厉害的
+They got doctors. They're good.
+
+211
+00:13:58,440 --> 00:13:59,390
+是他们干的吗
+Was it them?
+
+212
+00:14:01,210 --> 00:14:02,070
+是的
+It was.
+
+213
+00:14:02,920 --> 00:14:04,640
+她与他们中几人发生了冲突
+She had crossed with some of them,
+
+214
+00:14:04,640 --> 00:14:06,400
+然后其中一个跟着她  想要杀了她
+and one of them followed her, tried to kill her,
+
+215
+00:14:06,410 --> 00:14:07,510
+但我阻止了他
+but I stopped him.
+
+216
+00:14:12,420 --> 00:14:13,370
+我杀了他
+I killed him.
+
+217
+00:14:16,360 --> 00:14:17,380
+我必须这么做
+I had to.
+
+218
+00:14:20,680 --> 00:14:21,850
+卡萝尔之前在这里的
+Carol was here.
+
+219
+00:14:22,830 --> 00:14:23,920
+她得到了帮助
+She got help.
+
+220
+00:14:25,150 --> 00:14:26,270
+如今她离开了
+Now she's gone.
+
+221
+00:14:40,110 --> 00:14:41,580
+耶稣
+Jesus!
+
+222
+00:14:42,300 --> 00:14:44,730
+很高兴见到你  老朋友
+It pleases me to see you, old friend.
+
+223
+00:14:44,730 --> 00:14:47,010
+-他确实很高兴  -杰瑞
+- It pleases him, indeed! - Jerry.
+
+224
+00:14:48,930 --> 00:14:49,860
+告诉我
+Tell me,
+
+225
+00:14:49,860 --> 00:14:52,180
+你给好国王以西结带来了什么消息
+what news do you bring good King Ezekiel?
+
+226
+00:14:52,180 --> 00:14:54,170
+这些你是给我带来的新盟友吗
+Are these new allies you've brought me?
+
+227
+00:14:54,250 --> 00:14:55,970
+确实是的  陛下
+Indeed, they are, Your Majesty.
+
+228
+00:14:56,460 --> 00:14:57,310
+这位是...
+This is...
+
+229
+00:14:59,550 --> 00:15:01,430
+对了  我忘了和你们说...
+Oh, right. I forgot to mention that --
+
+230
+00:15:01,430 --> 00:15:02,580
+对  有只老虎
+Yeah, a tiger.
+
+231
+00:15:05,810 --> 00:15:07,470
+这位是瑞克·格兰姆斯
+This is Rick Grimes,
+
+232
+00:15:07,470 --> 00:15:08,970
+亚历山大的首领
+the leader of Alexandria,
+
+233
+00:15:09,180 --> 00:15:10,760
+这些是他的一部分人马
+and these are some of his people.
+
+234
+00:15:11,920 --> 00:15:14,840
+欢迎各位来到神之国  旅人们
+I welcome you all to the Kingdom, good travelers.
+
+235
+00:15:15,500 --> 00:15:17,660
+你们为何来到我们美丽的国土
+Now, what brings you to our fair land?
+
+236
+00:15:18,360 --> 00:15:20,580
+你们为何求见本王
+Why do you seek an audience with the King?
+
+237
+00:15:24,960 --> 00:15:25,990
+以西结...
+Ezekiel --
+
+238
+00:15:26,250 --> 00:15:29,370
+以西结...国王
+King...Ezekiel.
+
+239
+00:15:31,680 --> 00:15:33,320
+亚历山大
+Alexandria,
+
+240
+00:15:34,060 --> 00:15:35,420
+山顶寨
+the Hilltop,
+
+241
+00:15:36,300 --> 00:15:37,570
+神之国...
+and the Kingdom --
+
+242
+00:15:38,930 --> 00:15:42,570
+我们这三个社区有一个共同点
+all three of our communities have something in common.
+
+243
+00:15:44,240 --> 00:15:46,530
+我们都供奉救世军
+We all serve the Saviors.
+
+244
+00:15:47,620 --> 00:15:50,630
+亚历山大曾和他们干过一架
+Alexandria already fought them once,
+
+245
+00:15:50,630 --> 00:15:51,700
+我们赢了
+and we won.
+
+246
+00:15:52,280 --> 00:15:53,490
+我们以为自己解决了威胁
+We thought we took out the threat,
+
+247
+00:15:53,490 --> 00:15:55,540
+但我们那时没有摸清敌情
+but we don't know then what we know now.
+
+248
+00:15:57,400 --> 00:15:59,500
+我们只是端掉了一个哨站
+We only beat one outpost.
+
+249
+00:15:59,750 --> 00:16:01,400
+我们得知你和他们做了交易
+We've been told you have a deal with them,
+
+250
+00:16:01,410 --> 00:16:02,610
+你了解他们
+that you know them.
+
+251
+00:16:02,610 --> 00:16:03,940
+那你一定知道
+Then you know
+
+252
+00:16:03,940 --> 00:16:07,050
+他们是用暴力和恐惧进行统治的
+they rule through violence and fear.
+
+253
+00:16:07,960 --> 00:16:09,980
+陛下  我只告诉了他们...
+Your Majesty, I only told them of the --
+
+254
+00:16:09,990 --> 00:16:14,070
+我的人民并不知道我们和救世军的交易...
+Our deal with the Saviors is not known among my people --
+
+255
+00:16:14,180 --> 00:16:15,510
+这是有正当理由的
+for good cause.
+
+256
+00:16:17,010 --> 00:16:19,160
+因为你和我们说了山顶寨所受的苦
+We made you a party to that secret
+
+257
+00:16:19,200 --> 00:16:21,450
+我们才向你透露了那个秘密
+when you told us of the Hilltop's own travails,
+
+258
+00:16:21,450 --> 00:16:22,590
+但我们没想到你会向别人泄密...
+but we did not expect you to share --
+
+259
+00:16:22,590 --> 00:16:23,670
+我们可以互相帮助
+We can help each other.
+
+260
+00:16:23,670 --> 00:16:26,020
+不准打断国王
+Don't interrupt the King.
+
+261
+00:16:27,180 --> 00:16:29,520
+我们信任你
+We brought you into our confidence.
+
+262
+00:16:30,810 --> 00:16:32,380
+你为何要破坏这份信任
+Why did you break it?
+
+263
+00:16:32,910 --> 00:16:35,160
+因为我想让你听听瑞克的计划
+Because I want you to hear Rick's plans.
+
+264
+00:16:38,490 --> 00:16:39,960
+你有何计划呢
+And what plans have you,
+
+265
+00:16:40,540 --> 00:16:42,760
+亚历山大的瑞克·格兰姆斯
+Rick Grimes of Alexandria?
+
+266
+00:16:43,550 --> 00:16:46,230
+我们来此请求神之国  请求你
+We came to ask the Kingdom, to ask you,
+
+267
+00:16:46,520 --> 00:16:49,540
+加入我们  一起反抗救世军
+to join us in fighting the Saviors,
+
+268
+00:16:49,540 --> 00:16:52,190
+为所有人的自由而战
+fighting for freedom for all of us.
+
+269
+00:16:52,800 --> 00:16:56,460
+你的请求很危险
+What you are asking is very serious.
+
+270
+00:16:56,640 --> 00:17:00,040
+我们有好几个人  他们都是好人
+Several of our people -- good people...
+
+271
+00:17:00,880 --> 00:17:03,730
+被救世军残忍杀害了
+were killed by the Saviors, brutally.
+
+272
+00:17:03,850 --> 00:17:04,730
+谁
+Who?
+
+273
+00:17:06,720 --> 00:17:07,810
+亚伯拉罕
+Abraham.
+
+274
+00:17:10,170 --> 00:17:11,170
+格伦
+Glenn.
+
+275
+00:17:12,450 --> 00:17:14,820
+斯宾塞  奥利维亚
+Spencer, Olivia.
+
+276
+00:17:15,180 --> 00:17:16,760
+尤金被劫走了
+Eugene was taken.
+
+277
+00:17:17,040 --> 00:17:18,270
+他们也劫持过达里尔
+They took Daryl.
+
+278
+00:17:18,350 --> 00:17:19,580
+他逃了出来
+He escaped.
+
+279
+00:17:19,600 --> 00:17:22,450
+只要他没被抓回去  他就是个目标
+Every second he's out here, he's a target.
+
+280
+00:17:25,880 --> 00:17:27,510
+你想说自己是对的吗
+You gonna say you were right?
+
+281
+00:17:27,700 --> 00:17:28,420
+不
+No.
+
+282
+00:17:29,560 --> 00:17:30,310
+我
+I'm...
+
+283
+00:17:32,900 --> 00:17:34,490
+他们的死  我非常遗憾
+I'm just real sorry they're gone.
+
+284
+00:17:35,330 --> 00:17:38,450
+尼根杀害了格伦和亚伯拉罕
+Negan murdered Glenn and Abraham,
+
+285
+00:17:39,040 --> 00:17:40,340
+活活砸死了他们
+beat them to death.
+
+286
+00:17:40,510 --> 00:17:42,270
+恐吓山顶寨
+Terrorized the Hilltop,
+
+287
+00:17:42,330 --> 00:17:45,020
+放出行尸  只为立威
+set loose walkers just to make a point.
+
+288
+00:17:45,710 --> 00:17:48,200
+我曾以为我们能忍受他们的协议
+I used to think the deal was something we could live with.
+
+289
+00:17:48,660 --> 00:17:49,860
+很多人都这样以为
+A lot of us did.
+
+290
+00:17:50,750 --> 00:17:52,020
+但情况变了
+But that's changing.
+
+291
+00:17:53,220 --> 00:17:55,790
+所以让我们改变世界吧  陛下
+So let's change the world, Your Majesty.
+
+292
+00:17:55,790 --> 00:17:58,180
+我想坦白说出我们的请求
+I want to be honest about what we're asking.
+
+293
+00:17:59,870 --> 00:18:03,620
+我的人很强  但人手不够
+My people are strong, but there's not enough of us.
+
+294
+00:18:04,680 --> 00:18:07,020
+我们没枪  至少不够
+We don't have guns... not enough, at least.
+
+295
+00:18:08,460 --> 00:18:10,060
+没有足够的武器  就这样
+Not a lot of weapons, period.
+
+296
+00:18:11,190 --> 00:18:12,250
+我们有人手
+We have people.
+
+297
+00:18:13,910 --> 00:18:14,860
+也有武器
+And weapons.
+
+298
+00:18:15,680 --> 00:18:19,380
+如果我们联盟  先下手为强  就能打败他们
+If we strike first, together, we can beat them.
+
+299
+00:18:22,820 --> 00:18:23,660
+陛下
+Your Majesty,
+
+300
+00:18:24,580 --> 00:18:26,220
+不要再等着事情发展到
+no more waiting for things to get worse
+
+301
+00:18:26,220 --> 00:18:27,770
+不可收拾的地步了
+beyond what we can handle.
+
+302
+00:18:29,710 --> 00:18:30,940
+我们要扭转事态
+We set things right.
+
+303
+00:18:33,700 --> 00:18:34,780
+时机正好
+The time is now.
+
+304
+00:18:43,540 --> 00:18:46,360
+摩根  你怎么看
+Morgan, what say you?
+
+305
+00:18:50,540 --> 00:18:51,280
+我
+Me?
+
+306
+00:18:53,170 --> 00:18:54,030
+说吧
+Speak.
+
+307
+00:18:57,090 --> 00:18:58,050
+会死人
+People will die.
+
+308
+00:19:00,080 --> 00:19:02,570
+会死很多人  不仅是救世军  还有...
+A lot of people, and not just the Saviors. It...
+
+309
+00:19:07,360 --> 00:19:08,700
+如果能找到更好的办法
+If we can find another way,
+
+310
+00:19:09,920 --> 00:19:10,710
+必须找到
+we have to.
+
+311
+00:19:11,080 --> 00:19:13,330
+也许只是尼根的问题
+Maybe it's just about Negan...
+
+312
+00:19:13,330 --> 00:19:15,910
+只要抓住他  扣住他
+just capturing him, holding him.
+
+313
+00:19:15,910 --> 00:19:16,630
+也许
+Maybe...
+
+314
+00:19:18,360 --> 00:19:19,060
+我
+I...
+
+315
+00:19:20,800 --> 00:19:22,030
+时候不早了
+The hour grows late.
+
+316
+00:19:24,090 --> 00:19:25,850
+亚历山大的瑞克·格兰姆斯
+Rick Grimes of Alexandria...
+
+317
+00:19:27,360 --> 00:19:29,310
+国王要深思你的话
+you have given the King much to ponder.
+
+318
+00:19:30,840 --> 00:19:32,410
+在我小时候
+Well, when I was a kid,
+
+319
+00:19:34,650 --> 00:19:36,140
+妈妈给我讲过一个故事
+my mother told me a story.
+
+320
+00:19:38,580 --> 00:19:42,280
+从前有条通向王国的路
+There was a road to a kingdom,
+
+321
+00:19:43,730 --> 00:19:45,150
+路中间嵌着一块大石头
+and there was a rock in the road.
+
+322
+00:19:47,130 --> 00:19:48,590
+人们只是绕着它走
+And people would just avoid it,
+
+323
+00:19:48,590 --> 00:19:52,600
+而马匹会被绊到  伤到腿而死
+but horses would break their legs on it and die,
+
+324
+00:19:52,600 --> 00:19:54,200
+马车轮子会脱落
+wagon wheels would come off.
+
+325
+00:19:54,940 --> 00:19:57,610
+人们损失了很多要卖的货物
+People would lose the goods they'd be coming to sell.
+
+326
+00:19:59,560 --> 00:20:01,190
+一个小女孩就遇到了这种事
+That's what happened to a little girl.
+
+327
+00:20:02,420 --> 00:20:05,300
+她自家酿的啤酒桶掉了下来
+The cask of beer her family brewed fell right off.
+
+328
+00:20:05,300 --> 00:20:06,250
+摔坏了
+It broke.
+
+329
+00:20:07,270 --> 00:20:09,420
+酒都渗进土里  没了
+Dirt soaked it all up, and it was gone.
+
+330
+00:20:11,500 --> 00:20:14,490
+那是她家最后的指望
+That was her family's last chance.
+
+331
+00:20:15,440 --> 00:20:17,620
+他们挨饿  没钱买吃的
+They were hungry. They didn't have any money.
+
+332
+00:20:20,930 --> 00:20:24,940
+她只能坐在那里哭  但是
+She just... sat there and cried, but...
+
+333
+00:20:28,160 --> 00:20:30,140
+她不明白为什么石头还在那
+...she wondered why it was still there...
+
+334
+00:20:32,540 --> 00:20:34,480
+伤害着其他人
+for it to hurt someone else.
+
+335
+00:20:37,840 --> 00:20:41,980
+所以她用双手去挖石头  直到血流不止
+So she dug at that rock in the road with her hands till they bled,
+
+336
+00:20:42,980 --> 00:20:45,190
+用尽力气把它搬了出来
+used everything she had to pull it out.
+
+337
+00:20:46,040 --> 00:20:47,440
+花了好几个小时
+It took hours.
+
+338
+00:20:49,590 --> 00:20:50,350
+然后
+And then...
+
+339
+00:20:53,830 --> 00:20:55,480
+当她准备填坑的时候
+...when she was gonna fill it up,
+
+340
+00:20:55,480 --> 00:20:56,990
+她看到坑里有东西
+she saw something in it.
+
+341
+00:20:59,830 --> 00:21:01,170
+是一袋金子
+It was a bag of gold.
+
+342
+00:21:02,130 --> 00:21:02,930
+真好
+All right.
+
+343
+00:21:08,340 --> 00:21:09,970
+是国王埋下的那块石头
+The king had put that rock in the road
+
+344
+00:21:09,970 --> 00:21:13,310
+因为他知道  肯挖出它的人
+because he knew the person who dug it out,
+
+345
+00:21:13,310 --> 00:21:14,400
+肯动手的人
+who did something,
+
+346
+00:21:14,920 --> 00:21:16,530
+他们值得受奖
+they deserved a reward.
+
+347
+00:21:18,410 --> 00:21:19,860
+他们值得过上
+They deserved to have their life
+
+348
+00:21:19,860 --> 00:21:23,880
+更好的生活  直到永远
+changed for the good.... forever.
+
+349
+00:21:33,890 --> 00:21:35,950
+我邀请你们共进晚餐
+I invite you all to sup with us
+
+350
+00:21:36,920 --> 00:21:37,990
+并留宿到明天
+and stay till the morrow.
+
+351
+00:21:37,990 --> 00:21:39,680
+我们得回去
+Yeah, we need to get back home.
+
+352
+00:21:42,080 --> 00:21:44,790
+清晨我会降旨
+I shall deliver my decree in the morn.
+
+353
+00:22:20,320 --> 00:22:21,060
+抱歉
+Sorry.
+
+354
+00:22:21,380 --> 00:22:22,100
+我
+I...
+
+355
+00:22:22,660 --> 00:22:23,400
+抱歉
+Sorry.
+
+356
+00:22:23,700 --> 00:22:24,840
+我以为是行尸
+I thought you were one of the dead.
+
+357
+00:22:28,270 --> 00:22:30,180
+你为什么不掉头跑掉
+Why didn't you just run the other way?
+
+358
+00:22:30,220 --> 00:22:31,910
+我  我在训练
+Well, I'm...I'm training.
+
+359
+00:22:32,920 --> 00:22:34,070
+逼迫自己
+I'm pushing myself,
+
+360
+00:22:35,210 --> 00:22:36,790
+直面困难
+trying to step up.
+
+361
+00:22:37,990 --> 00:22:39,280
+把保险上好
+Put the safety back on.
+
+362
+00:22:40,710 --> 00:22:41,600
+我在练习射击
+Practicing shooting.
+
+363
+00:22:45,110 --> 00:22:46,510
+给你点建议
+Let me give you some advice.
+
+364
+00:22:46,890 --> 00:22:48,040
+天快黑了
+It's gonna be dark soon.
+
+365
+00:22:49,120 --> 00:22:50,750
+别一个人溜达
+Don't wander around out here on your own.
+
+366
+00:22:50,760 --> 00:22:52,030
+会没命的
+You'll get yourself killed.
+
+367
+00:22:52,890 --> 00:22:54,590
+你也不该转悠  不是吗
+Same goes for you, too, right?
+
+368
+00:22:55,760 --> 00:22:56,560
+你不是我
+You're not me.
+
+369
+00:22:56,560 --> 00:22:57,600
+回家吧  本杰明
+Go home, Benjamin.
+
+370
+00:22:58,360 --> 00:23:00,550
+-那个  我  -什么
+- Well, I...Wha...  - ?What?
+
+371
+00:23:00,960 --> 00:23:03,010
+以西结会时常来看望你
+Ezekiel's gonna keep coming out here to check on you.
+
+372
+00:23:04,450 --> 00:23:05,850
+他不想打扰你
+He doesn't want to bug you,
+
+373
+00:23:05,850 --> 00:23:07,710
+但他得知道你是否还好
+but he needs to know that you're okay.
+
+374
+00:23:09,450 --> 00:23:10,400
+他跟你说的吗
+He told you that?
+
+375
+00:23:11,640 --> 00:23:12,390
+不是
+No.
+
+376
+00:23:12,880 --> 00:23:14,380
+但我了解他
+But I know him.
+
+377
+00:23:15,860 --> 00:23:16,700
+那就告诉他...
+Well, tell him...
+
+378
+00:23:16,700 --> 00:23:17,510
+我不能
+I can't.
+
+379
+00:23:17,850 --> 00:23:19,640
+他对在意的人都会照料倍至
+He looks out for the people that he cares about.
+
+380
+00:23:22,420 --> 00:23:23,340
+你想要吃的吗
+Do you want some food?
+
+381
+00:23:23,930 --> 00:23:24,930
+或者水
+A bottle of water?
+
+382
+00:23:25,210 --> 00:23:28,100
+我多带了一些以防碰到有需要的人
+I carry extra in case I run into someone who needs it.
+
+383
+00:23:30,120 --> 00:23:30,890
+为什么
+Why?
+
+384
+00:23:32,760 --> 00:23:34,170
+因为人已经所剩不多了
+There's not a lot of us left.
+
+385
+00:23:35,280 --> 00:23:36,520
+得互相帮助
+Have to help each other.
+
+386
+00:23:41,280 --> 00:23:42,730
+或许还会再见到你
+Maybe I'll see you again.
+
+387
+00:23:43,270 --> 00:23:44,050
+或许吧
+Maybe.
+
+388
+00:23:45,390 --> 00:23:47,910
+在外面脚步要轻
+Heel-toe, heel-toe out here.
+
+389
+00:23:49,260 --> 00:23:50,050
+膝盖弯着走
+Bend at your knees.
+
+390
+00:23:50,050 --> 00:23:50,900
+你得安静点
+You want to keep quiet.
+
+391
+00:23:50,900 --> 00:23:52,810
+老远就听到你了
+I heard you from a mile away.
+
+392
+00:23:54,570 --> 00:23:55,330
+好
+Okay.
+
+393
+00:24:01,600 --> 00:24:03,080
+待一切开始时
+And when this happens,
+
+394
+00:24:03,620 --> 00:24:05,640
+待自由之声响起时
+and when we allow freedom to ring...
+
+395
+00:24:07,440 --> 00:24:09,840
+响彻每个村庄  每个小镇
+when we let it ring from every village and every hamlet,
+
+396
+00:24:09,840 --> 00:24:11,700
+每个州  每个城市时
+from every state and every city,
+
+397
+00:24:12,630 --> 00:24:14,310
+我们将能加速那一天的到来
+we will be able to speed up that day
+
+398
+00:24:14,310 --> 00:24:15,980
+那时  上帝的所有子民
+when all of God's children,
+
+399
+00:24:16,330 --> 00:24:18,170
+黑人和白人
+black men and white men,
+
+400
+00:24:18,340 --> 00:24:21,420
+犹太人和非犹太人  新教徒和天主教徒
+Jews and Gentiles, Protestants and Catholics,
+
+401
+00:24:21,730 --> 00:24:23,110
+能携手并进
+will be able to join hands
+
+402
+00:24:23,110 --> 00:24:25,900
+合唱那首古老的黑人灵歌
+and sing in the words of the old Negro spiritual --
+
+403
+00:24:26,370 --> 00:24:29,610
+终于自由了  终于自由了
+Free at last, Free at last!
+
+404
+00:24:30,740 --> 00:24:32,200
+感谢全能的上帝
+Thank God Almighty,
+
+405
+00:24:32,200 --> 00:24:36,400
+我们...终于自由了
+we are...free at last.
+
+406
+00:24:53,420 --> 00:24:55,370
+谢谢你今天来帮我讲故事
+Thanks for stepping in on story duty.
+
+407
+00:24:58,020 --> 00:24:59,850
+我来道晚安
+I stopped in to say good night.
+
+408
+00:25:01,570 --> 00:25:03,080
+你没来吃晚餐  你去哪了
+You missed supper. Where were you?
+
+409
+00:25:04,950 --> 00:25:06,420
+去林子里散了散步
+Went for a walk in the woods.
+
+410
+00:25:07,460 --> 00:25:08,370
+你出去了
+You went out there?
+
+411
+00:25:09,030 --> 00:25:10,330
+-没人陪同吗  -是的
+- Unaccompanied? - ?Yeah.
+
+412
+00:25:10,680 --> 00:25:12,550
+回来的路上干掉了两个行尸
+Took out two dead ones on my way back.
+
+413
+00:25:14,440 --> 00:25:16,140
+棍子使得不错了
+Getting pretty good with the stick.
+
+414
+00:25:16,800 --> 00:25:18,220
+想练练枪法
+Wanted to practice with the gun.
+
+415
+00:25:20,950 --> 00:25:23,490
+我看到卡萝尔在外面
+I, saw Carol out there.
+
+416
+00:25:25,900 --> 00:25:28,700
+她看起来还好吗
+Did she, uh...seem well?
+
+417
+00:25:29,670 --> 00:25:31,660
+-你跟她说话了吗  -说了
+- Did -- Did you talk to her? ?- Yeah.
+
+418
+00:25:33,450 --> 00:25:36,270
+她问我为什么带着食物和水
+She asked why I carry food and water
+
+419
+00:25:36,270 --> 00:25:37,760
+以防遇到别人
+in case I run into people.
+
+420
+00:25:38,110 --> 00:25:39,090
+你告诉她了吗
+And you told her?
+
+421
+00:25:41,750 --> 00:25:44,100
+那也是为什么我们该答应瑞克
+It's the same reason we should say yes to Rick.
+
+422
+00:25:49,040 --> 00:25:50,210
+说来听听
+Elaborate.
+
+423
+00:25:52,150 --> 00:25:53,180
+你看到了他们的眼神
+You saw their eyes.
+
+424
+00:25:56,710 --> 00:25:59,030
+有没有我们的帮助  他们都会搏命的
+They're gonna risk everything if we help them or not.
+
+425
+00:26:00,800 --> 00:26:03,820
+如果我们不帮他们  对他们置之不理
+And if we don't help them, if we turn away,
+
+426
+00:26:04,030 --> 00:26:05,530
+他们就赢不了
+then they can't win.
+
+427
+00:26:07,300 --> 00:26:09,030
+假设他们赢了
+And if they do, somehow...
+
+428
+00:26:10,820 --> 00:26:11,830
+他们就救了我们
+they will have saved us,
+
+429
+00:26:11,830 --> 00:26:13,320
+我们什么也不用干
+and we won't have done a thing.
+
+430
+00:26:16,950 --> 00:26:18,060
+我爸爸常说
+My dad always said
+
+431
+00:26:18,060 --> 00:26:19,650
+要是有人让你去逞英雄
+that if you're asked to be the hero,
+
+432
+00:26:19,740 --> 00:26:20,610
+那就去逞
+be a hero.
+
+433
+00:26:23,930 --> 00:26:26,520
+你想让我对一切都做好准备  我准备好了  
+You wanted me to be ready for anything, and I am.
+
+434
+00:26:29,270 --> 00:26:30,020
+我们准备好了
+We are.
+
+435
+00:26:40,140 --> 00:26:42,340
+感谢你的建议
+I thank you for your sage counsel.
+
+436
+00:26:43,730 --> 00:26:45,670
+你父亲会非常骄傲的
+Your father would be very proud.
+
+437
+00:26:47,130 --> 00:26:50,180
+国王很骄傲
+The King is very proud.
+
+438
+00:27:30,970 --> 00:27:32,590
+这就是这里的生活
+This is life here.
+
+439
+00:27:33,760 --> 00:27:34,600
+每一天
+Every day.
+
+440
+00:27:35,760 --> 00:27:37,310
+但这是有代价的
+But it came at a cost.
+
+441
+00:27:42,040 --> 00:27:43,760
+我曾想要更多
+And I wanted more of this.
+
+442
+00:27:45,570 --> 00:27:47,070
+我曾想要扩张
+I wanted to expand.
+
+443
+00:27:48,040 --> 00:27:49,970
+建造更多像这里一样的地方
+To create more places like this.
+
+444
+00:27:53,140 --> 00:27:55,200
+人们失去了四肢
+Men and women lost their limbs.
+
+445
+00:27:57,150 --> 00:27:58,640
+孩子们失去了双亲
+Children lost their parents
+
+446
+00:27:59,530 --> 00:28:01,440
+因为我在没必要的时候
+because I sent them into battle against the wasted
+
+447
+00:28:01,440 --> 00:28:02,760
+派他们去与行尸作战
+when I did not need to.
+
+448
+00:28:02,760 --> 00:28:04,080
+这次不同
+This is different.
+
+449
+00:28:04,370 --> 00:28:05,330
+并不是
+It isn't.
+
+450
+00:28:06,530 --> 00:28:07,440
+这次不同
+It is.
+
+451
+00:28:08,830 --> 00:28:10,740
+行尸不会统治支配我们
+The dead don't rule us.
+
+452
+00:28:12,110 --> 00:28:14,550
+外面的世界跟墙内截然不同
+The world doesn't look like this outside your walls.
+
+453
+00:28:14,550 --> 00:28:15,700
+人们过得没这么好
+People don't have it as good.
+
+454
+00:28:15,700 --> 00:28:18,230
+有些人过得凄惨之至
+Some people don't have it good at all.
+
+455
+00:28:18,480 --> 00:28:20,880
+我只能为我的子民考虑
+I have to worry about my people.
+
+456
+00:28:23,100 --> 00:28:24,980
+你称自己为国王
+You call yourself a damn king.
+
+457
+00:28:26,930 --> 00:28:28,650
+却一点没有国王的样子
+You sure as hell don't act like one.
+
+458
+00:28:30,590 --> 00:28:31,630
+这一切
+All of this...
+
+459
+00:28:33,240 --> 00:28:34,630
+都有代价
+came at a cost.
+
+460
+00:28:37,270 --> 00:28:42,380
+是用生命  残肢断臂换来的
+It was lives, arms, legs.
+
+461
+00:28:50,020 --> 00:28:52,890
+和救世军的和平并不稳定
+The peace we have with the Saviors is uneasy,
+
+462
+00:28:53,250 --> 00:28:54,250
+但起码是和平
+but it is peace.
+
+463
+00:28:56,470 --> 00:28:57,910
+我得把握住
+I have to hold on to it.
+
+464
+00:28:58,750 --> 00:28:59,680
+我得尝试
+I have to try.
+
+465
+00:29:02,030 --> 00:29:05,130
+尽管神之国不能提供你们需要的协助
+Although the Kingdom cannot grant you the aid you desire,
+
+466
+00:29:06,370 --> 00:29:08,370
+但国王同情你的困境
+the King is sympathetic to your plight.
+
+467
+00:29:10,080 --> 00:29:13,590
+我可以为友人达里尔提供庇护
+I offer our friend Daryl asylum
+
+468
+00:29:14,110 --> 00:29:15,950
+他想留多久都行
+for as long as he requires it.
+
+469
+00:29:16,700 --> 00:29:17,830
+他在这里很安全
+He will be safe here.
+
+470
+00:29:19,340 --> 00:29:22,210
+救世军不会进入我们的围墙
+The Saviors do not set foot inside our walls.
+
+471
+00:29:22,920 --> 00:29:24,800
+你觉得这种情况能撑多久
+How long do you think that's gonna last?
+
+472
+00:30:03,680 --> 00:30:04,950
+我知道会发生什么
+I knew what was coming.
+
+473
+00:30:05,770 --> 00:30:08,060
+我知道那个国王会拒绝
+I knew that King guy would say no.
+
+474
+00:30:11,450 --> 00:30:13,010
+但我还是很生气
+But it still pissed me off.
+
+475
+00:30:13,590 --> 00:30:15,030
+你跟我讲这个干什么
+What the hell are you telling me for?
+
+476
+00:30:16,360 --> 00:30:18,420
+我们睡过同一个死人
+We both had sex with the same dead guy.
+
+477
+00:30:19,760 --> 00:30:20,950
+不代表我们是朋友了
+It doesn't make us friends.
+
+478
+00:30:24,730 --> 00:30:26,850
+你能改变他的心意  但你不愿这么做
+You can change his mind, but you won't.
+
+479
+00:30:27,450 --> 00:30:28,530
+那你可以留下来
+Then you can stay.
+
+480
+00:30:29,680 --> 00:30:30,820
+我们聊聊
+We can talk.
+
+481
+00:30:34,320 --> 00:30:35,580
+我们有多少人
+How many people do we have?
+
+482
+00:30:37,580 --> 00:30:38,410
+能战斗的
+To fight?
+
+483
+00:30:39,690 --> 00:30:40,490
+我跟你们走
+I'll go with you.
+
+484
+00:30:40,490 --> 00:30:41,260
+我们连从正面
+We don't even have enough
+
+485
+00:30:41,260 --> 00:30:43,650
+攻下一个哨站的人手都不够
+to take on one outpost face-to-face yet.
+
+486
+00:30:46,350 --> 00:30:48,090
+所以神之国必须加入进来
+So the Kingdom has to get involved,
+
+487
+00:30:48,090 --> 00:30:49,980
+否则救世军会一直掌管一切
+or the Saviors will always be in charge.
+
+488
+00:30:52,130 --> 00:30:53,560
+不是士兵的问题
+It isn't about soldiers.
+
+489
+00:30:54,890 --> 00:30:56,290
+是我们使他们变得更强
+We're making them stronger.
+
+490
+00:30:57,070 --> 00:30:58,470
+给他们的食物越多
+The more food we give them,
+
+491
+00:30:58,750 --> 00:31:00,180
+武器越多  或者任何东西更多
+the more arms, the more everything,
+
+492
+00:31:00,180 --> 00:31:03,060
+每天我们中有人给他上贡
+every day any of us give them something,
+
+493
+00:31:03,760 --> 00:31:05,600
+他们就会变得越难被打败
+they become harder and harder to beat.
+
+494
+00:31:07,660 --> 00:31:09,410
+好了  开门  我们走
+All right, open it up. We're gone.
+
+495
+00:31:13,230 --> 00:31:14,060
+你不能走
+You're not.
+
+496
+00:31:16,110 --> 00:31:17,180
+我不能留在这
+I'm not staying here.
+
+497
+00:31:17,660 --> 00:31:18,520
+你必须留下
+You have to.
+
+498
+00:31:19,160 --> 00:31:20,330
+这是最聪明的做法
+It's the smartest play.
+
+499
+00:31:20,330 --> 00:31:21,290
+你心里清楚
+You know it is.
+
+500
+00:31:22,080 --> 00:31:24,830
+试着跟以西结谈谈
+Try to talk to Ezekiel.
+
+501
+00:31:26,840 --> 00:31:28,380
+或者一直盯着他直到他妥协
+Or stare him into submission --
+
+502
+00:31:28,380 --> 00:31:29,660
+不管用什么方法
+Whatever it takes.
+
+503
+00:31:33,880 --> 00:31:34,910
+我们很快回来
+We'll be back soon.
+
+504
+00:31:57,450 --> 00:31:58,340
+致所有
+For anyone out there
+
+505
+00:31:58,340 --> 00:32:00,640
+和我一样爱那个肥鬼的人
+who loved the obese bastard as much as I did,
+
+506
+00:32:00,640 --> 00:32:03,280
+我只想说几句
+I just want to say a few words.
+
+507
+00:32:03,700 --> 00:32:06,660
+肥乔不是最牛逼的那个
+Fat Joey was not the most badass son of bitch,
+
+508
+00:32:06,660 --> 00:32:09,130
+但是他很忠诚
+but he was loyal.
+
+509
+00:32:09,130 --> 00:32:10,710
+他很幽默
+He had a great sense of humor.
+
+510
+00:32:10,710 --> 00:32:12,870
+实际上前两天我们还在开玩笑
+In fact, we were just joking about oral sex
+
+511
+00:32:12,870 --> 00:32:14,850
+和露西尔口交
+with Lucille the other day.
+
+512
+00:32:15,380 --> 00:32:18,820
+他死了一切都不一样了
+Things will not be the same now that he's dead.
+
+513
+00:32:18,900 --> 00:32:20,440
+没了肥乔
+Without Fat Joey,
+
+514
+00:32:20,790 --> 00:32:25,120
+瘦乔就只是乔了
+Skinny Joey is just Joey.
+
+515
+00:32:25,120 --> 00:32:27,700
+真他妈悲催
+So it's a goddamn tragedy.
+
+516
+00:32:27,810 --> 00:32:31,490
+让我们默哀片刻
+So, let's have a moment of silence.
+
+517
+00:32:33,810 --> 00:32:35,330
+有人想挡路
+Someone's trying to block the way.
+
+518
+00:32:35,950 --> 00:32:37,030
+肯定是救世军
+Gotta be the Saviors.
+
+519
+00:32:38,140 --> 00:32:38,890
+看
+Look.
+
+520
+00:32:40,000 --> 00:32:41,210
+我想那是他们的基地
+I think that's their base over there.
+
+521
+00:32:43,010 --> 00:32:44,110
+是的
+Yeah, that's it.
+
+522
+00:32:45,080 --> 00:32:46,750
+一定是想让别人难接近他们
+Must be trying to make it hard to get to them.
+
+523
+00:32:47,120 --> 00:32:48,220
+我们得前进
+We gotta keep going.
+
+524
+00:32:49,060 --> 00:32:51,360
+我们移开车  然后再移回来
+We'll move them, and then we'll move them back.
+
+525
+00:32:51,840 --> 00:32:53,340
+他们不会知道我们来过
+They don't need to know we were here.
+
+526
+00:33:12,260 --> 00:33:13,000
+瑞克
+Rick.
+
+527
+00:33:14,580 --> 00:33:15,680
+来看看
+Come take a look at this.
+
+528
+00:33:35,220 --> 00:33:36,370
+这是为了什么
+What's all this for?
+
+529
+00:33:37,250 --> 00:33:37,990
+等等
+Wait.
+
+530
+00:33:38,300 --> 00:33:39,450
+我在卡车后面藏着的时候
+When I was hiding in the back of the truck,
+
+531
+00:33:39,450 --> 00:33:41,070
+听到有几个人讨论
+I heard a couple of them talking about this.
+
+532
+00:33:42,150 --> 00:33:43,450
+是为尸群准备的
+This is for a herd.
+
+533
+00:33:43,450 --> 00:33:44,610
+所以用的是钢索
+That's why it's a steel cable.
+
+534
+00:33:45,220 --> 00:33:46,620
+不只是为了一只行尸
+It's not just for one walker.
+
+535
+00:33:47,140 --> 00:33:47,990
+是为很多
+It's for a lot.
+
+536
+00:33:53,460 --> 00:33:55,150
+我们需要这些炸药
+We need these explosives.
+
+537
+00:33:55,150 --> 00:33:55,880
+是的
+Yeah.
+
+538
+00:33:56,580 --> 00:33:59,260
+但首先我们得想办法拆除
+But we have to figure out how to disarm it first.
+
+539
+00:34:11,340 --> 00:34:12,110
+好吧
+Okay.
+
+540
+00:34:14,950 --> 00:34:16,570
+如果这东西爆炸
+Backing up is not gonna make a difference
+
+541
+00:34:16,570 --> 00:34:17,930
+后退也没用
+if this thing goes off.
+
+542
+00:34:23,440 --> 00:34:26,150
+出现红色事件
+We got ourselves a red situation.
+
+543
+00:34:26,150 --> 00:34:27,790
+派一支搜索队
+I need a search party.
+
+544
+00:34:27,800 --> 00:34:31,370
+看看达里尔有没有犯傻跑回家
+See if Daryl ran home like the dumb animal that he is.
+
+545
+00:34:31,370 --> 00:34:33,770
+就去办  午饭前赶到
+On it. Be there in time for lunch.
+
+546
+00:34:33,770 --> 00:34:36,090
+把那个小破地儿掘地三尺
+Turn that sleepy little burg upside down.
+
+547
+00:34:36,090 --> 00:34:37,000
+我们该走了
+We gotta go.
+
+548
+00:34:37,000 --> 00:34:39,300
+我们得在他们之前回去  但我们需要这些
+We gotta get there before them, but we need these.
+
+549
+00:34:39,360 --> 00:34:41,510
+-我们得清出一条路  -是
+- We need to clear a path anyway. - Yeah.
+
+550
+00:34:42,290 --> 00:34:43,200
+罗西塔
+Rosita?
+
+551
+00:34:53,030 --> 00:34:54,040
+第一部分完成
+First part's done.
+
+552
+00:34:54,240 --> 00:34:56,730
+现在呢  我们得拆掉次级炸药
+What now? We gotta unwrap the secondary explosives --
+
+553
+00:34:56,730 --> 00:34:58,260
+炸药  火箭筒
+the dynamite, the RPGs.
+
+554
+00:34:58,260 --> 00:34:59,910
+确保别装混了
+Make sure these casings are not messed up,
+
+555
+00:34:59,910 --> 00:35:01,890
+也不要乱动
+and do not mess them up, either.
+
+556
+00:35:02,040 --> 00:35:03,220
+这些东西还能炸
+This thing could still blow.
+
+557
+00:35:03,230 --> 00:35:04,860
+都听到了  行动
+You all heard her. Let's go.
+
+558
+00:35:59,750 --> 00:36:02,180
+把完好的炸药装上车
+You can load the explosives into the trunk as long as they're in good shape.
+
+559
+00:36:02,180 --> 00:36:04,460
+不能有凹痕和撕裂  它们没激活
+No dents, no tears. They're not live.
+
+560
+00:36:04,460 --> 00:36:06,300
+还需要被触发引爆
+They still need to be triggered to be set off.
+
+561
+00:36:08,230 --> 00:36:09,320
+别拿这个
+Not that one.
+
+562
+00:36:12,020 --> 00:36:13,850
+-看起来不对劲  -好
+- I don't like the way it looks. - Okay.
+
+563
+00:36:17,710 --> 00:36:18,830
+爸
+Dad.
+
+564
+00:36:19,730 --> 00:36:20,810
+看
+Look.
+
+565
+00:36:23,080 --> 00:36:25,710
+好  它们在那
+Okay. There they are.
+
+566
+00:36:28,150 --> 00:36:29,330
+但还远
+But they're far.
+
+567
+00:36:29,330 --> 00:36:30,910
+我们还有时间
+We still have time.
+
+568
+00:36:31,400 --> 00:36:32,670
+确定吗
+You sure?
+
+569
+00:36:33,320 --> 00:36:34,570
+我们需要这些
+We need these.
+
+570
+00:36:40,430 --> 00:36:43,540
+我们得把车放回斜坡前面
+And we need to get the cars back in front of the onramp.
+
+571
+00:36:43,560 --> 00:36:45,630
+他们会知道我们拿了炸药  有什么用呢
+They'll know we took their explosives, so does it matter?
+
+572
+00:36:45,630 --> 00:36:48,400
+-我们要让尸群留在公路上  -为什么
+- We want that herd to stay on the highway. - ?Why?
+
+573
+00:36:48,670 --> 00:36:50,060
+我们也许会用到
+We may need it.
+
+574
+00:36:50,810 --> 00:36:52,960
+好了  塔拉  卡尔  快来
+Okay. Tara, Carl, come on!
+
+575
+00:37:33,120 --> 00:37:35,250
+瑞克
+Uh...Rick...
+
+576
+00:37:36,810 --> 00:37:37,990
+好了
+All right.
+
+577
+00:37:37,990 --> 00:37:39,580
+萨沙  耶稣
+Sasha, Jesus,
+
+578
+00:37:39,620 --> 00:37:41,700
+你们可以走回山顶寨吗
+can you get back to the Hilltop on foot?
+
+579
+00:37:41,890 --> 00:37:42,910
+可以
+Yeah.
+
+580
+00:37:42,910 --> 00:37:44,440
+告诉玛姬我们不会放弃
+Tell Maggie we're not giving up.
+
+581
+00:37:44,440 --> 00:37:45,550
+走
+Go!
+
+582
+00:37:46,650 --> 00:37:47,680
+给
+Here.
+
+583
+00:37:55,230 --> 00:37:58,340
+我们需要每一根炸药  火箭弹
+We need every stick, every RPG.
+
+584
+00:37:58,670 --> 00:38:00,040
+好
+Yeah.
+
+585
+00:38:01,430 --> 00:38:02,550
+瑞克
+Rick.
+
+586
+00:38:06,650 --> 00:38:08,080
+它们会堵死他们
+They're gonna cut them off.
+
+587
+00:38:09,020 --> 00:38:10,240
+我们分头走吧
+Can we just split up?
+
+588
+00:38:10,480 --> 00:38:11,280
+不行
+No.
+
+589
+00:38:11,280 --> 00:38:12,330
+车
+The cars.
+
+590
+00:38:12,330 --> 00:38:13,720
+如果能开动的话...
+If they run...
+
+591
+00:38:14,720 --> 00:38:16,520
+我们启动的时候鸣笛
+We lay on the horn when we start it --
+
+592
+00:38:16,850 --> 00:38:19,510
+我挥下手一起走  好的
+I'll bring my arm down, and we go. ?Yes.
+
+593
+00:38:19,510 --> 00:38:20,900
+跟上来
+Stay together!
+
+594
+00:38:45,370 --> 00:38:46,980
+-该死  -我们会想办法
+- Damn it! ?- We'll figure it out.
+
+595
+00:40:29,030 --> 00:40:31,270
+我就说看起来不对劲
+Yeah, I didn't like the look of that shit at all.
+
+596
+00:40:33,210 --> 00:40:34,440
+是我硬要做的
+I pushed it.
+
+597
+00:40:34,650 --> 00:40:35,900
+是我硬要做的
+I pushed it.
+
+598
+00:40:38,440 --> 00:40:39,570
+我们在这
+We're here.
+
+599
+00:40:40,160 --> 00:40:41,420
+你可以笑了
+You can smile.
+
+600
+00:40:42,690 --> 00:40:43,920
+我们成功了
+We made it.
+
+601
+00:40:44,870 --> 00:40:46,430
+我们可以做到
+We can make it.
+
+602
+00:40:47,270 --> 00:40:48,610
+我们可以
+We can.
+
+603
+00:40:55,180 --> 00:40:57,070
+我们是活下来的人
+We're the ones who live.
+
+604
+00:41:07,080 --> 00:41:08,300
+车扔了吗
+Lose the car?
+
+605
+00:41:08,300 --> 00:41:09,890
+在安全的地方
+Uh, it's somewhere safe.
+
+606
+00:41:09,890 --> 00:41:11,900
+-你什么都没找到  -没有
+- You didn't find anything. ?- No.
+
+607
+00:41:12,060 --> 00:41:14,300
+听着  我们得让所有人准备好
+Listen, we need to get everyone ready.
+
+608
+00:41:14,300 --> 00:41:15,350
+救...
+The--
+
+609
+00:42:01,140 --> 00:42:03,570
+瑞克  你好
+Rick. Hello.
+
+610
+00:42:04,400 --> 00:42:07,420
+还有  再次你好
+And...hello again.
+
+611
+00:42:08,650 --> 00:42:09,980
+想着你们不会这么快来
+We thought it'd be longer.
+
+612
+00:42:10,890 --> 00:42:12,680
+你以为我们来收贡品吗
+Do you think we're here for a tribute?
+
+613
+00:42:13,360 --> 00:42:14,630
+是不是
+Do you?
+
+614
+00:42:17,030 --> 00:42:18,470
+还有别的原因吗
+Is there another reason?
+
+615
+00:42:20,000 --> 00:42:21,060
+有
+There is.
+
+616
+00:42:22,160 --> 00:42:23,360
+我们来找达里尔
+We're here for Daryl.
+
+617
+00:42:24,080 --> 00:42:25,830
+可尼根抓走了达里尔
+But Negan took Daryl.
+
+618
+00:42:26,080 --> 00:42:29,430
+但是你儿子来了
+Oh, but... then your son showed up,
+
+619
+00:42:30,020 --> 00:42:31,420
+达里尔就失踪了
+Daryl went missing --
+
+620
+00:42:31,960 --> 00:42:34,360
+也许这两件事有关
+might those two things be connected?
+
+621
+00:42:34,720 --> 00:42:35,720
+没关
+They're not.
+
+622
+00:42:37,580 --> 00:42:39,520
+我们现在才知道他逃跑了
+We didn't know he was gone till right now.
+
+623
+00:42:42,050 --> 00:42:43,510
+那就简单了
+Then this should be easy.
+
+624
+00:42:44,770 --> 00:42:46,950
+现在  每人找一人
+Now, everyone find a buddy.
+
+625
+00:42:47,740 --> 00:42:49,810
+跟我们走
+Gonna have to follow us around.
+
+626
+00:42:50,820 --> 00:42:51,990
+如果他在这
+If he's here,
+
+627
+00:42:52,910 --> 00:42:55,570
+我们要确保让你们亲眼看他死
+we really need you all to see him die.
+
+628
+00:43:37,480 --> 00:43:38,680
+天啊
+Wow.
+
+629
+00:43:38,680 --> 00:43:42,300
+架子空空如也
+These are some bare shelving units.
+
+630
+00:43:42,590 --> 00:43:44,180
+你们办了烧烤
+You guys have a barbecue or something
+
+631
+00:43:44,180 --> 00:43:45,470
+没叫我们吗
+and not invite us?
+
+632
+00:43:46,510 --> 00:43:49,560
+真的  太悲哀了
+Seriously, this is sad.
+
+633
+00:43:50,690 --> 00:43:52,820
+希望你们没有藏东西
+Hope you're not trying to hide stuff from us,
+
+634
+00:43:52,820 --> 00:43:55,110
+因为那通常没好下场
+'cause that generally doesn't go over very well.
+
+635
+00:43:55,110 --> 00:43:56,470
+我们人很多
+We have a lot of people.
+
+636
+00:43:57,050 --> 00:43:59,440
+找东西越来越难
+It's...getting harder to find stuff,
+
+637
+00:43:59,440 --> 00:44:02,260
+我们最近的重心是寻找
+and our focus lately has been on finding things
+
+638
+00:44:02,260 --> 00:44:03,860
+尼根要的东西
+that Negan might want.
+
+639
+00:44:04,720 --> 00:44:06,950
+我们还在适应新体制
+We're still adjusting to the new system.
+
+640
+00:44:06,950 --> 00:44:08,780
+我们今天会找到更多
+We were gonna scavenge more today.
+
+641
+00:44:08,910 --> 00:44:11,390
+如果你愿意等  我们会带东西回来
+If you just wait, we'll...bring something back.
+
+642
+00:44:11,390 --> 00:44:12,670
+我们会找到更多
+We'll find more.
+
+643
+00:44:14,950 --> 00:44:16,080
+放松
+Relax.
+
+644
+00:44:16,620 --> 00:44:17,940
+我不是来收贡的
+I'm not here for a pick-up.
+
+645
+00:44:18,570 --> 00:44:19,830
+这是好事
+Good thing.
+
+646
+00:44:20,450 --> 00:44:21,390
+但那天快到了
+But that day is coming,
+
+647
+00:44:21,390 --> 00:44:23,740
+所以你们最好做该做的事
+so you best do whatever you need to.
+
+648
+00:44:23,850 --> 00:44:25,050
+好好找
+Dig deep.
+
+649
+00:44:25,540 --> 00:44:26,980
+加倍努力
+Go the extra mile.
+
+650
+00:44:27,670 --> 00:44:28,980
+冒一下险
+Take some risks!
+
+651
+00:44:28,980 --> 00:44:30,460
+我们会的
+We will.
+
+652
+00:44:32,010 --> 00:44:34,450
+我们会感激的
+Well, we will appreciate that.
+
+653
+00:44:40,420 --> 00:44:43,120
+感谢你的合作  瑞克
+Thank you for the cooperation, Rick.
+
+654
+00:44:43,660 --> 00:44:46,590
+抱歉把这里搞乱了
+My apologies for leaving the place a bit of a mess,
+
+655
+00:44:46,590 --> 00:44:51,060
+但是我们还有其他屁事要去做
+but we got a litany of other shit to attend to.
+
+656
+00:44:52,260 --> 00:44:53,570
+我猜你也是
+So do you, I guess.
+
+657
+00:44:55,450 --> 00:44:56,540
+抓紧
+Tick-tock.
+
+658
+00:44:57,340 --> 00:44:58,510
+快点
+Chop-chop.
+
+659
+00:45:05,080 --> 00:45:07,400
+还有  瑞克
+Oh! And, Rick...
+
+660
+00:45:08,460 --> 00:45:10,090
+如果达里尔真在这里出现
+if Daryl does turn up here
+
+661
+00:45:10,510 --> 00:45:14,010
+两天后  两个月后
+two days from now, two months from now...
+
+662
+00:45:14,700 --> 00:45:16,490
+见鬼  两年后
+hell, two years from now,
+
+663
+00:45:17,310 --> 00:45:20,690
+你要知道这事没有诉讼时效
+just know there's no statute of limitations on this.
+
+664
+00:45:22,500 --> 00:45:24,280
+把斧子放在手边
+Keep that hatchet handy.
+
+665
+00:45:25,490 --> 00:45:28,010
+如果他在你们这出现  你会用上的
+You're gonna need it if he turns up with you people.
+
+666
+00:45:29,490 --> 00:45:32,170
+这次可不会像你儿子那次一样了
+And it won't turn out the way it did for your boy.
+
+667
+00:45:48,720 --> 00:45:50,420
+储藏室怎么了
+What happened to the pantry?
+
+668
+00:45:50,420 --> 00:45:51,540
+不清楚
+We don't know.
+
+669
+00:45:51,540 --> 00:45:53,210
+我们得谈谈加百利
+And we need to talk about Gabriel.
+
+670
+00:45:53,570 --> 00:45:54,700
+他在哪
+Where is he?
+
+671
+00:45:54,760 --> 00:45:58,430
+你们去找物资的那晚  他在值班
+He was on watch the night you all went to scavenge.
+
+672
+00:45:58,430 --> 00:46:01,310
+我和他本来应该早上换班
+I was supposed to take over for him in the morning.
+
+673
+00:46:01,500 --> 00:46:02,950
+他没在哨岗上
+He wasn't at his post.
+
+674
+00:46:02,950 --> 00:46:05,620
+储藏室被清空了  少了一辆车
+Pantry was cleared out and a car was gone.
+
+675
+00:46:05,700 --> 00:46:07,030
+没人再看到过他
+No one's seen him since.
+
+676
+00:46:07,910 --> 00:46:09,490
+那个杂种
+That son of a bitch.
+
+677
+00:46:09,750 --> 00:46:12,600
+-他偷东西跑掉了  -看起来是这样
+- He stole our shit and ran. - ?That's...what it looks like.
+
+678
+00:46:12,600 --> 00:46:15,040
+-我不想相信  -我不相信
+- Well, I don't want to believe it. - I don't believe it.
+
+679
+00:46:15,330 --> 00:46:16,930
+加百利不是那样的人
+That's not Gabriel.
+
+680
+00:46:16,930 --> 00:46:18,600
+他不会那样对我们
+He wouldn't do that to us.
+
+681
+00:46:18,600 --> 00:46:19,950
+我也以为他变了
+I thought he changed, too,
+
+682
+00:46:19,950 --> 00:46:21,550
+但没有其他可能
+but it can't be anything else.
+
+683
+00:46:22,190 --> 00:46:23,350
+有的
+Yes, it can.
+
+684
+00:46:27,300 --> 00:46:29,500
+不敢相信他会带我们的东西跑掉
+I can't believe he would just take our stuff and go.
+
+685
+00:46:30,750 --> 00:46:32,900
+他不是那样的人
+I mean, that's -- that's not who he is.
+
+686
+00:46:33,570 --> 00:46:36,780
+他看到奥利维亚和斯宾塞死了
+Well, he saw Olivia and Spencer die
+
+687
+00:46:37,490 --> 00:46:38,800
+就在他面前
+right in front of him.
+
+688
+00:46:40,850 --> 00:46:42,510
+我知道  我只是...
+I know. I just...
+
+689
+00:46:44,340 --> 00:46:45,990
+他找到了勇气  知道吗
+He found his courage, you know?
+
+690
+00:46:46,870 --> 00:46:48,640
+我真心希望他能坚持住
+I want to believe he held on to it.
+
+691
+00:46:49,430 --> 00:46:51,380
+他为什么不带走这个
+Why wouldn't he have taken this with him?
+
+692
+00:46:52,450 --> 00:46:54,430
+他为什么丢在地板上
+Why would he leave it on the floor?
+
+693
+00:46:56,990 --> 00:46:58,980
+外面没有之前的痕迹
+There weren't tracks out there before.
+
+694
+00:46:58,980 --> 00:47:00,920
+我们没找到什么
+We didn't find anything now.
+
+695
+00:47:02,140 --> 00:47:04,310
+也许达里尔能发现些什么
+Maybe Daryl could've picked something up.
+
+696
+00:47:05,160 --> 00:47:06,510
+他走了
+He left.
+
+697
+00:47:06,940 --> 00:47:08,200
+没留纸条
+He didn't leave a note.
+
+698
+00:47:08,510 --> 00:47:10,340
+显然不想被找到
+He obviously doesn't want to be found.
+
+699
+00:47:13,650 --> 00:47:14,990
+他想的
+Yes, he does.
+
+700
+00:47:15,360 --> 00:47:18,710
+船
+
+701
+00:47:22,690 --> 00:47:24,920
+他怎么知道我们去过那里
+How would he know we were out there?
+
+702
+00:47:27,470 --> 00:47:28,800
+我不知道
+I don't know.
+
+703
+00:47:33,590 --> 00:47:34,670
+就这样吗
+So that's it?
+
+704
+00:47:35,740 --> 00:47:37,160
+你终于要离开我了
+You're finally leaving me?
+
+705
+00:47:37,530 --> 00:47:38,720
+被你发现了
+You caught me.
+
+706
+00:47:39,680 --> 00:47:41,000
+我只是
+I'm just...
+
+707
+00:47:42,290 --> 00:47:45,660
+厌倦了在家里的快乐
+sick of being so damn happy at home, you know?
+
+708
+00:47:46,630 --> 00:47:47,910
+不知道该怎么跟你说
+Didn't know how to tell you.
+
+709
+00:47:49,250 --> 00:47:50,380
+亲爱的
+Babe --
+
+710
+00:47:50,530 --> 00:47:51,710
+他们需要我
+They need me.
+
+711
+00:47:52,950 --> 00:47:54,390
+加百利需要我
+Gabriel needs me.
+
+712
+00:47:56,420 --> 00:47:58,070
+如果我问你一件事
+If I ask you something,
+
+713
+00:47:59,150 --> 00:48:00,710
+你能说实话吗
+will you tell me the truth?
+
+714
+00:48:02,040 --> 00:48:05,180
+-当然  -他们不是出去找物资的  对吧
+- Of course. - ?The others didn't go out there scavenging, did they?
+
+715
+00:48:06,840 --> 00:48:09,480
+他们又要抗击了  而他们没告诉我们
+They're going after them again, and they're not telling us.
+
+716
+00:48:09,480 --> 00:48:10,800
+瑞克有他的理由
+Rick has his reasons.
+
+717
+00:48:10,800 --> 00:48:12,910
+瑞克没有被毒打过
+Rick didn't get the shit beaten out of him.
+
+718
+00:48:14,120 --> 00:48:16,570
+你以为这只是去找加百利  但会有更多的事
+You think this is about Gabriel, but it's gonna be more.
+
+719
+00:48:16,570 --> 00:48:18,630
+总会有更多的事
+It's always more.
+
+720
+00:48:19,700 --> 00:48:23,320
+所以拜托了  别走
+So, please, please don't go.
+
+721
+00:48:27,160 --> 00:48:28,600
+加百利是我们的一员
+Gabriel's one of us.
+
+722
+00:48:30,930 --> 00:48:32,200
+我必须去
+I have to.
+
+723
+00:48:33,690 --> 00:48:36,240
+救世军的事  与此无关
+What's going on with the Saviors, that isn't this.
+
+724
+00:48:36,840 --> 00:48:38,680
+如果瑞克要对抗救世军
+If Rick is taking on the Saviors,
+
+725
+00:48:39,510 --> 00:48:41,090
+那一切都有关
+that is everything.
+
+726
+00:48:42,080 --> 00:48:44,040
+如果你们不在的时候他们发现了呢
+W-What if they find out while you're gone?
+
+727
+00:48:44,040 --> 00:48:45,080
+如果他们回来呢
+What if they come back here?
+
+728
+00:48:45,080 --> 00:48:46,170
+你想离开吗
+Do you want to leave?
+
+729
+00:48:47,620 --> 00:48:49,770
+背弃他们吗
+Just turn our backs?
+
+730
+00:48:55,090 --> 00:48:57,980
+我想要我们活着
+I want us alive.
+
+731
+00:48:59,590 --> 00:49:00,830
+两个人都活着
+Both of us.
+
+732
+00:51:20,030 --> 00:51:22,820
+纪念詹姆斯·赫特布雷德尔
+[注:亚特兰大电影人  《行尸走肉》道具组成员
+深受剧组成员喜爱
+2016年11月从片场回家路上遇车祸去世]
+

@@ -1,0 +1,999 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:02.77,00:00:06.80
+And now, a fireside chat[br]with the creators of South Park:
+
+00:00:06.98,00:00:09.85
+Matt Stone and Trey Parker.
+
+00:00:14.55,00:00:17.04
+- Hi. I'm Trey Parker.[br]- I'm Matt Stone.
+
+00:00:17.26,00:00:22.59
+- This is Scratch. Say hi, old fella.[br]- We do a show called South Park.
+
+00:00:22.83,00:00:25.32
+Tell us a little about yourselves.
+
+00:00:25.53,00:00:29.73
+I met Matthew at the University[br]of Colorado in film school.
+
+00:00:29.94,00:00:33.00
+I actually met him[br]in beginning filmmaking.
+
+00:00:33.17,00:00:38.27
+I found someone who could make me[br]laugh, even when I felt like crying.
+
+00:00:39.41,00:00:42.40
+Guys, who would you say[br]are your role models?
+
+00:00:42.58,00:00:45.91
+I'd have to say my biggest[br]role model is Matt.
+
+00:00:46.12,00:00:49.14
+I'd have to say mine[br]is Theodore Roosevelt...
+
+00:00:49.35,00:00:51.91
+...for his work with the Rough Riders.
+
+00:00:52.12,00:00:54.15
+Tell us about this episode.
+
+00:00:54.33,00:00:58.23
+It's called "Cartman Gets[br]an Anal Probe." It's our favorite.
+
+00:00:58.40,00:01:01.16
+Kyle's brother Ike[br]is abducted by aliens...
+
+00:01:01.33,00:01:04.60
+...and Cartman has strange things[br]implanted in his ass.
+
+00:01:04.77,00:01:08.21
+The reason this episode[br]is old Scratch's favorite...
+
+00:01:08.41,00:01:12.84
+...is because it's the only episode[br]we animated all by ourselves.
+
+00:01:13.01,00:01:16.31
+This was the pilot,[br]done before we had a series...
+
+00:01:16.48,00:01:19.38
+...so we had to do[br]the whole thing ourselves.
+
+00:01:19.55,00:01:23.92
+For several months, we were locked[br]into a cold, dark, little room...
+
+00:01:24.09,00:01:26.39
+...for long periods of time.
+
+00:01:26.83,00:01:31.19
+That "kick the baby" game looks fun.[br]Have you played it personally?
+
+00:01:31.40,00:01:33.66
+Neither of us have children.
+
+00:01:33.87,00:01:37.63
+The only family we have[br]is each other and old Scratch.
+
+00:01:37.80,00:01:41.47
+- We're not married yet.[br]- We can't even get dates.
+
+00:01:41.64,00:01:46.81
+The truth is, until we have children,[br]we won't know whether we'll kick them.
+
+00:01:47.31,00:01:51.48
+You write alien-encounter material[br]with a certain knowledge.
+
+00:01:51.65,00:01:55.64
+Have either of you[br]actually been abducted?
+
+00:01:56.96,00:02:01.39
+Trey, it's okay.[br]Go ahead and tell them.
+
+00:02:01.56,00:02:05.89
+I grew up near South Park,[br]so I was abducted as a small child.
+
+00:02:06.06,00:02:10.30
+I remember the experience.[br]I remember how horrible it was.
+
+00:02:10.47,00:02:12.87
+I remember too much.
+
+00:02:13.91,00:02:19.57
+So sit back, relax and enjoy[br]"Cartman Gets an Anal Probe."
+
+00:02:51.91,00:02:53.78
+Cartman Gets an Anal Probe
+
+00:02:56.58,00:03:01.11
+Damn it! My little brother's trying[br]to follow me to school again.
+
+00:03:01.29,00:03:04.35
+Ike, you can't come to school with me.
+
+00:03:04.56,00:03:08.89
+- Go home, you little dildo.[br]- Dude, don't call my brother a dildo.
+
+00:03:09.06,00:03:10.86
+- What's a dildo?[br]- I don't know.
+
+00:03:11.03,00:03:14.40
+- Cartman doesn't know either.[br]- I know what it is!
+
+00:03:14.57,00:03:17.30
+- Well, what?[br]- I'm not telling you.
+
+00:03:17.47,00:03:19.56
+What's a dildo, Kenny?
+
+00:03:22.51,00:03:26.60
+Yeah, that's what Kyle's[br]little brother is, all right.
+
+00:03:27.68,00:03:30.31
+- That kicks ass.[br]- Check this one out.
+
+00:03:30.48,00:03:33.75
+- Ready, Ike? Kick the baby.[br]- Don't kick the baby.
+
+00:03:33.92,00:03:35.32
+Kick the baby.
+
+00:03:38.52,00:03:41.08
+Looks like you didn't get much sleep.
+
+00:03:41.26,00:03:45.06
+- I had these bogus nightmares.[br]- Really? What about?
+
+00:03:45.23,00:03:49.50
+Well, I dreamt that I was lying[br]in my bed, in the dark...
+
+00:03:49.67,00:03:53.90
+...when all of a sudden,[br]this bright blue light filled the room.
+
+00:03:54.11,00:03:58.37
+And slowly my bedroom door opened.[br]The next thing I remember...
+
+00:03:58.54,00:04:01.44
+...I was being dragged[br]through a hallway.
+
+00:04:01.61,00:04:06.07
+Then I was on a table, and these[br]scary aliens wanted to operate on me.
+
+00:04:06.25,00:04:08.88
+And they had big heads and black eyes.
+
+00:04:09.05,00:04:11.15
+- Dude, visitors![br]- What?
+
+00:04:11.32,00:04:15.42
+- Those were visitors.[br]- It was just a dream. My mom said so.
+
+00:04:15.59,00:04:19.46
+- They're are real.[br]- They abduct people and mutilate cows.
+
+00:04:19.63,00:04:23.59
+Shut up. You're trying to scare me,[br]and it's not working.
+
+00:04:24.27,00:04:26.43
+- Hello, children.[br]- Hey, Chef.
+
+00:04:26.61,00:04:31.01
+- What's for lunch today?[br]- Salisbury steak with buttered noodles.
+
+00:04:31.18,00:04:35.01
+- Bean casserole or vegetable medley.[br]- Kick ass.
+
+00:04:35.18,00:04:38.62
+Did any of you see[br]the alien spaceship last night?
+
+00:04:38.78,00:04:40.34
+Yeah, fat boy saw it.
+
+00:04:40.52,00:04:44.39
+That was just a dream.[br]And I'm not fat, I'm big-boned!
+
+00:04:44.56,00:04:48.01
+Was it the ones with the big heads[br]and black eyes?
+
+00:04:48.19,00:04:52.36
+- They took him on their ship.[br]- Did they give you an anal probe?
+
+00:04:52.53,00:04:53.52
+What's that?
+
+00:04:53.70,00:04:56.72
+That's when they put a metal hoop[br]up your butt.
+
+00:04:56.90,00:05:02.24
+- They gave you an anal probe, Cartman?[br]- No! I mean, why would they do that?
+
+00:05:02.41,00:05:05.67
+They did, huh?[br]Aliens stuck stuff up your ass!
+
+00:05:05.84,00:05:07.84
+- Anal probe.[br]- Shut up, dildo!
+
+00:05:08.01,00:05:11.31
+I gotta get to the cafeteria.[br]Watch that fat boy, now.
+
+00:05:11.48,00:05:13.58
+He could be under alien control.
+
+00:05:17.69,00:05:20.52
+They were real. Sorry about your ass.
+
+00:05:20.69,00:05:25.46
+Goddamn it, they didn't do anything[br]to my ass! It was just a dream.
+
+00:05:27.67,00:05:30.10
+- Why you walking so funny?[br]- Shut up!
+
+00:05:30.80,00:05:32.43
+No, Ike, go home.
+
+00:05:32.60,00:05:36.63
+This is it. This one's for the game.[br]Kick the baby.
+
+00:05:39.98,00:05:43.38
+- Good morning, Mrs. Crabtree.[br]- Sit down, we're late!
+
+00:05:48.09,00:05:50.32
+- He's still there.[br]- Don't worry.
+
+00:05:50.49,00:05:53.98
+If something happens to him,[br]my parents will blame me.
+
+00:05:54.16,00:05:56.46
+Sit down back there!
+
+00:05:56.63,00:05:59.56
+- Whatever, you fat bitch.[br]- What did you say?!
+
+00:05:59.73,00:06:02.10
+I said, I have a bad itch.
+
+00:06:02.73,00:06:04.63
+Oh, my God!
+
+00:06:05.67,00:06:07.80
+- Visitors![br]- Oh, no!
+
+00:06:07.97,00:06:10.60
+Ike! Stop the bus!
+
+00:06:11.08,00:06:13.37
+You have to stop this bus!
+
+00:06:13.55,00:06:16.34
+- Do you want an office referral?[br]- No.
+
+00:06:16.51,00:06:18.28
+- Then sit down![br]- But l...
+
+00:06:25.76,00:06:30.06
+- Are those the same visitors you saw?[br]- Shut up, it's not working.
+
+00:06:30.23,00:06:32.82
+- We have to do something.[br]- We can't.
+
+00:06:33.00,00:06:36.30
+- That fat bitch won't let us.[br]- What did you say?!
+
+00:06:36.47,00:06:41.91
+- I said that rabbits eat lettuce.[br]- Well, yes, they certainly do.
+
+00:06:43.17,00:06:47.08
+What am I gonna do? My brother[br]has been abducted by aliens.
+
+00:06:47.25,00:06:49.21
+You farted.
+
+00:06:50.08,00:06:52.14
+Somebody's baking brownies.
+
+00:06:57.79,00:06:59.95
+That's the third cow this month.
+
+00:07:00.13,00:07:04.72
+At this rate, all my cattle will die[br]before the winter's through.
+
+00:07:04.90,00:07:09.70
+This isn't unusual. Cows turn[br]themselves inside out all the time.
+
+00:07:10.87,00:07:14.10
+People been saying[br]they've seen UFOs around.
+
+00:07:14.27,00:07:16.30
+UFOs?
+
+00:07:16.47,00:07:19.47
+And black Army CIA helicopters[br]and trucks.
+
+00:07:19.64,00:07:23.74
+That is the silliest thing[br]I've ever heard.
+
+00:07:25.22,00:07:28.19
+- What was that?[br]- That was a pigeon.
+
+00:07:28.35,00:07:30.69
+What am I supposed to do?
+
+00:07:30.86,00:07:36.09
+Just stand here and watch my cattle[br]get mutilated one by one?
+
+00:07:39.10,00:07:40.29
+My cattle!
+
+00:07:44.80,00:07:47.50
+See? There is something[br]funny going on.
+
+00:07:47.67,00:07:51.70
+There's nothing funny going on.[br]I'll get those cows back.
+
+00:07:54.15,00:07:59.58
+And now our friend Mr. Hat is going[br]to tell us about Christopher Columbus.
+
+00:07:59.75,00:08:01.62
+That's right, Mr. Garrison.
+
+00:08:01.79,00:08:06.49
+Columbus discovered America[br]and was the Indians' best friend.
+
+00:08:06.66,00:08:10.49
+He helped them win their war[br]against Frederick Douglass...
+
+00:08:10.66,00:08:15.00
+...and freed the Hebrews from Napoleon[br]and discovered France.
+
+00:08:15.17,00:08:20.60
+I have to help my stupid brother. If I[br]go home without him, my dad will yell:
+
+00:08:20.77,00:08:24.47
+"Where's your brother?[br]You weren't looking out for him."
+
+00:08:24.64,00:08:27.58
+- Let's go find him.[br]- "He can't think on his own.
+
+00:08:27.78,00:08:30.81
+Brush and floss.[br]Where has that finger been?"
+
+00:08:30.98,00:08:32.85
+- Dude![br]- Is there a problem?
+
+00:08:33.02,00:08:35.75
+- Yes, I have to go now.[br]- Really, Kyle?
+
+00:08:35.92,00:08:41.86
+- What is it? Another prostate tumor?[br]- My brother's been abducted by aliens.
+
+00:08:42.03,00:08:45.59
+It's true. Ask Cartman.[br]They gave him an anal probe.
+
+00:08:45.76,00:08:50.26
+- That's a little joke.[br]- Mr. Garrison, seriously, I have to go.
+
+00:08:50.44,00:08:54.63
+- Can I please be excused?[br]- I don't know. Did you ask Mr. Hat?
+
+00:08:54.81,00:08:57.60
+I don't wanna ask Mr. Hat.[br]I'm asking you!
+
+00:08:57.78,00:09:02.98
+- I think you should ask Mr. Hat.[br]- Mr. Hat, may I please be excused?
+
+00:09:03.15,00:09:06.55
+Well, Kyle, no![br]You hear me? You go to hell!
+
+00:09:06.72,00:09:10.92
+You go to hell and you die![br]You'll have to take your seat.
+
+00:09:11.09,00:09:14.72
+- Damn it![br]- Ha-ha, Mr. Hat yelled at you.
+
+00:09:14.93,00:09:17.22
+- My ass![br]- Damn, Cartman!
+
+00:09:18.90,00:09:21.87
+- My ass![br]- Dude, he's farting fire!
+
+00:09:22.03,00:09:25.83
+It's the alien anal probe.[br]It's shooting fire from his rectum!
+
+00:09:26.00,00:09:27.80
+No, that was just a dream.
+
+00:09:27.97,00:09:32.27
+Do you need to sit in the corner[br]until your gas is under control?
+
+00:09:32.44,00:09:35.38
+No, Mr. Garrison, I'm fine.
+
+00:09:46.39,00:09:50.38
+You cows can't get on this train.[br]This is a people train.
+
+00:09:50.56,00:09:55.50
+You cows have no business on a[br]people train, all right? You're cows.
+
+00:09:55.67,00:10:00.33
+Don't try any of that cow hypnosis[br]on me, all right?
+
+00:10:00.51,00:10:04.41
+- Because it's not gonna work.[br]- Hold it right there, cows.
+
+00:10:04.91,00:10:06.60
+Come back here!
+
+00:10:14.65,00:10:18.32
+- I sure am hungry.[br]- How can you eat when you fart fire?
+
+00:10:18.52,00:10:21.29
+Shut up, you're being[br]totally immature.
+
+00:10:21.46,00:10:24.43
+- Look, there's Wendy Testaburger.[br]- Where?
+
+00:10:40.91,00:10:46.82
+- Stan wants to kiss Wendy Testaburger[br]- Shut up, fat ass, I don't like her.
+
+00:10:46.99,00:10:51.75
+I'm not fat. You like her because[br]you throw up when she talks to you.
+
+00:10:51.92,00:10:53.48
+- I do not.[br]- Hi, guys.
+
+00:10:53.66,00:10:54.82
+Hi, Wendy.
+
+00:10:54.99,00:10:58.36
+Here, Stan, this is for you.
+
+00:10:58.53,00:10:59.90
+Bye, Wendy.
+
+00:11:00.06,00:11:02.56
+Dude, what does the note say?
+
+00:11:02.73,00:11:06.90
+Holy crap! She wants to meet me[br]at Stark's Pond after school.
+
+00:11:07.07,00:11:10.87
+- Whoa, maybe you can kiss her.[br]- Or slip her the tongue.
+
+00:11:12.28,00:11:15.58
+What? How do you know she has a cat?
+
+00:11:19.45,00:11:23.44
+Let's figure out how to ditch school[br]so we can get Ike back.
+
+00:11:23.62,00:11:25.99
+Hello, children. How are you?
+
+00:11:26.19,00:11:27.59
+- Bad.[br]- Why bad?
+
+00:11:27.76,00:11:31.56
+Have you ever had something happen[br]but nobody believed you?
+
+00:11:31.73,00:11:36.93
+Children, that's a problem we've all[br]had to face at some time or another.
+
+00:11:37.10,00:11:41.54
+Here, let me sing you a little song.[br]It might clear things up.
+
+00:12:02.49,00:12:04.22
+Chef!
+
+00:12:06.56,00:12:08.43
+- Do you feel better?[br]- No.
+
+00:12:08.60,00:12:13.20
+Come on, children, what can be so bad?[br]It's Salisbury-steak day.
+
+00:12:13.57,00:12:16.73
+- Visitors took Kyle's baby brother.[br]- What?!
+
+00:12:16.98,00:12:19.88
+What are you doing[br]eating Salisbury steak?
+
+00:12:20.04,00:12:22.67
+- Find him![br]- Mr. Garrison won't let us go.
+
+00:12:22.85,00:12:26.75
+- He thinks we're making it up.[br]- You are making it up.
+
+00:12:33.52,00:12:35.08
+- What?[br]- That was cool!
+
+00:12:35.26,00:12:38.66
+It's some kind of symbiotic[br]metamorphosis device.
+
+00:12:38.83,00:12:42.16
+This could mean the visitors[br]want to talk to us.
+
+00:12:42.33,00:12:45.33
+I see. You're joining in on the joke.
+
+00:12:45.50,00:12:48.13
+It's no joke, children. This is big.
+
+00:12:48.31,00:12:51.57
+If I don't get out of school[br]and get Ike back...
+
+00:12:51.78,00:12:53.74
+...my parents will disown me.
+
+00:12:53.95,00:12:57.04
+Hold on now.[br]You got to help the children.
+
+00:12:57.22,00:13:00.78
+You guys are going a long way[br]to try and scare me.
+
+00:13:00.95,00:13:03.08
+I want my Salisbury steak.
+
+00:13:03.25,00:13:08.59
+Fire drill, fire drill! Everybody out![br]Okay, children, this is your chance.
+
+00:13:08.76,00:13:11.32
+Killer. Thanks, Chef.
+
+00:13:11.50,00:13:16.93
+First contact with the alien visitors.[br]I've gotta get myself ready.
+
+00:13:17.10,00:13:20.50
+We got out of school[br]No more school today
+
+00:13:20.67,00:13:22.33
+We got out of school
+
+00:13:22.54,00:13:27.50
+- You guys, my ass, seriously![br]- Okay, you can stop farting fire now.
+
+00:13:27.68,00:13:31.74
+- I can't, you son of a bitch![br]- How do we get my brother back?
+
+00:13:31.92,00:13:34.89
+Would you stop going on[br]about your brother?
+
+00:13:35.05,00:13:38.35
+It was just a dream![br]I didn't have an anal probe!
+
+00:13:38.52,00:13:41.01
+I am not under alien control!
+
+00:13:52.84,00:13:55.64
+- What was that?[br]- He is under alien control.
+
+00:13:55.81,00:14:00.71
+- His butt's linked up to the visitors.[br]- Son of a bitch!
+
+00:14:04.02,00:14:07.08
+Guys, shut up.[br]I'm not under alien control.
+
+00:14:07.25,00:14:11.71
+If you visitors can hear me,[br]bring back my brother, goddamn it!
+
+00:14:11.89,00:14:14.38
+That hurts, you butt-licker!
+
+00:14:14.76,00:14:18.35
+- Kyle, look, it's them.[br]- Give me back my brother!
+
+00:14:22.97,00:14:26.66
+- Oh, my God, they killed Kenny![br]- You bastards!
+
+00:14:26.84,00:14:32.07
+Come back here! Come back![br]Damn it, we were so close!
+
+00:14:32.28,00:14:35.68
+Hey, look. I think Kenny's okay.
+
+00:14:45.89,00:14:47.05
+Wow, poor Kenny.
+
+00:14:47.23,00:14:49.32
+- Now do you believe us?[br]- No.
+
+00:14:49.49,00:14:52.49
+- Cartman, they killed Kenny.[br]- He's not dead.
+
+00:14:52.66,00:14:55.63
+Dude, Kenny is dead. See?
+
+00:14:55.80,00:14:58.79
+- Shut up, you guys.[br]- He's dead, Cartman.
+
+00:14:58.97,00:15:04.03
+Damn it, I didn't have an anal probe![br]Screw you guys, I'm going home.
+
+00:15:04.21,00:15:08.11
+- Go on and go home, you fat chicken![br]- Dildo!
+
+00:15:08.28,00:15:11.94
+- You're all I have left.[br]- Sorry, I gotta meet Wendy.
+
+00:15:12.12,00:15:16.71
+You can't. Poor Ike must be so scared,[br]up there all alone. Help me.
+
+00:15:16.89,00:15:21.45
+Like Chef says, "I'm getting a piece[br]of loving while the getting's hot."
+
+00:15:21.63,00:15:22.62
+Rats!
+
+00:15:25.36,00:15:27.19
+- Hello, Eric.[br]- Hi, Mom.
+
+00:15:27.37,00:15:30.49
+- How are you doing?[br]- Well, I'm pissed off.
+
+00:15:30.67,00:15:34.13
+Here, I made you powdered-doughnut[br]pancake surprise.
+
+00:15:34.31,00:15:38.11
+I don't want it![br]All the kids in school call me fat.
+
+00:15:38.28,00:15:41.47
+- You're not fat, you're big-boned.[br]- That's what I said.
+
+00:15:41.65,00:15:44.74
+You can have an eensy-weensy bit,[br]can't you?
+
+00:15:44.92,00:15:48.82
+- Just a weensy-eensy woo-woo?[br]- No. Leave me alone, Mom.
+
+00:15:48.99,00:15:52.55
+How about a nice chocolate[br]chicken potpie then?
+
+00:15:52.76,00:15:55.62
+Well, that does sound pretty good.
+
+00:15:55.99,00:15:57.93
+- Mom?[br]- Yes, hon?
+
+00:15:58.10,00:16:01.33
+If anybody calls or visits,[br]I'm not here, okay?
+
+00:16:01.50,00:16:05.96
+- Sure. You want some Cheesy Poofs too?[br]- Yeah, I want Cheesy Poofs.
+
+00:16:09.14,00:16:12.27
+She's not coming.[br]Let's look for the visitors.
+
+00:16:12.44,00:16:16.00
+- But her note said she'd be here.[br]- Hi, Stan.
+
+00:16:16.61,00:16:21.71
+- He throws up when you talk to him.[br]- But why, Stan?
+
+00:16:22.09,00:16:25.52
+Would you get down to business[br]so we can find Ike?
+
+00:16:25.69,00:16:29.22
+- Make sweet love by the fire.[br]- What happened to Ike?
+
+00:16:29.39,00:16:31.42
+As UFO sightings increase...
+
+00:16:31.60,00:16:36.12
+...more mysterious crop-circle[br]patterns are appearing in fields.
+
+00:16:36.30,00:16:40.76
+These crop circles, when viewed[br]from above, form strange patterns.
+
+00:16:40.94,00:16:44.00
+Hey, that kind of looks[br]like Tom Selleck.
+
+00:16:44.18,00:16:48.98
+Could it be that aliens are trying[br]to make contact with us on Earth?
+
+00:16:52.35,00:16:55.25
+No, Kitty, this is my potpie.
+
+00:16:55.42,00:16:59.79
+No, Kitty, you bad kitty.[br]No, Kitty, this is my potpie!
+
+00:16:59.96,00:17:03.02
+Mom! Kitty's being a dildo!
+
+00:17:03.19,00:17:08.72
+Then I know a certain kitty-kitty[br]who's sleeping with Mommy tonight.
+
+00:17:09.50,00:17:10.83
+What?!
+
+00:17:11.00,00:17:14.84
+I have to go home without him,[br]and my parents will kill me.
+
+00:17:15.01,00:17:17.44
+- Why don't you get the fat kid?[br]- Why?
+
+00:17:17.61,00:17:21.24
+If the fat kid has something[br]implanted in his ass...
+
+00:17:21.41,00:17:24.31
+...maybe he's a part[br]of the visitors' plan.
+
+00:17:24.48,00:17:27.75
+Use the fat kid as bait[br]to bring them back.
+
+00:17:27.92,00:17:31.75
+You're right. Come on, Stan.[br]We have to get Cartman.
+
+00:17:31.92,00:17:34.08
+Come on, Stan.
+
+00:17:34.56,00:17:38.19
+Hey, wait. When do I get[br]to make sweet love?
+
+00:17:42.70,00:17:45.13
+No, Kitty, you can't have any!
+
+00:17:46.00,00:17:50.10
+No, Kitty, this is my potpie![br]Bad kitty!
+
+00:17:51.08,00:17:52.84
+Excuse me, Kitty.
+
+00:17:53.18,00:17:56.31
+- Eric, look who's here.[br]- Good work, Mom!
+
+00:17:56.48,00:17:59.68
+- Let's play at the bus stop.[br]- I can't, Mom says...
+
+00:17:59.85,00:18:03.51
+That's okay. You need to spend time[br]with your friends.
+
+00:18:03.69,00:18:07.12
+- But I don't want to spend time...[br]- Don't be difficult!
+
+00:18:07.29,00:18:12.32
+- Now, you go and play in the fun snow.[br]- Goddamn it!
+
+00:18:13.97,00:18:17.66
+- I have to get home.[br]- Don't be such a fraidy cat.
+
+00:18:17.84,00:18:21.79
+This rope will make sure[br]they can't take you onboard again.
+
+00:18:22.27,00:18:25.17
+- This sucks![br]- How come they aren't coming?
+
+00:18:25.34,00:18:28.24
+I think we have[br]to signal them somehow.
+
+00:18:28.95,00:18:30.88
+Hey, he's like Rudolph.
+
+00:18:31.05,00:18:35.45
+All you have to do is fart[br]and the visitors are sure to come.
+
+00:18:35.62,00:18:39.65
+Really? I don't think I have[br]to fart anymore tonight.
+
+00:18:39.82,00:18:42.22
+- Sure, you do.[br]- Come on, fart!
+
+00:18:42.39,00:18:45.19
+- I don't wanna![br]- He can't hold it in forever.
+
+00:18:45.36,00:18:48.42
+- Fart, damn you![br]- Okay, that does it!
+
+00:18:48.60,00:18:52.19
+Why is it that everything today[br]has involved things...
+
+00:18:52.37,00:18:55.64
+...either going in or coming out[br]of my ass?
+
+00:18:55.81,00:18:58.60
+I'm sick of it![br]It's completely immature!
+
+00:18:58.78,00:19:00.57
+It's happening again.
+
+00:19:03.11,00:19:06.17
+- Whoa, look at that.[br]- Now do you believe us?
+
+00:19:06.35,00:19:09.58
+You can't scare me.[br]You're making it all up.
+
+00:19:09.75,00:19:13.85
+There's an 80-foot satellite dish[br]sticking out of your ass!
+
+00:19:14.06,00:19:16.25
+Sure, you guys, whatever.
+
+00:19:18.10,00:19:22.16
+Oh, boy, the aliens are going[br]to make first contact.
+
+00:19:22.33,00:19:26.86
+Hey! Down here![br]We are ready for your wisdom.
+
+00:19:27.47,00:19:31.93
+And you only got 20 minutes[br]before Sanford and Son is on!
+
+00:19:32.11,00:19:36.67
+You guys, I am seriously[br]getting pissed off right now.
+
+00:19:36.85,00:19:39.65
+I know there's no such thing[br]as aliens!
+
+00:19:41.69,00:19:44.15
+Oh, goddamn it!
+
+00:19:44.46,00:19:49.32
+What the...? I tell you, there's[br]crazy stuff going on in this town.
+
+00:19:49.49,00:19:52.22
+You can say that again, Mr. Garrison.
+
+00:19:52.40,00:19:56.06
+Come down here, you stinking aliens!
+
+00:19:58.00,00:20:00.77
+Ask them for your little brother back.
+
+00:20:00.94,00:20:05.90
+Visitors, you took my brother. He's[br]freckled and looks like a football.
+
+00:20:06.08,00:20:10.28
+At first I was happy you took him,[br]but I've learned something:
+
+00:20:10.45,00:20:13.08
+Having a little brother is special.
+
+00:20:13.25,00:20:16.69
+Heck, I'm just a kid all alone[br]in this crazy world.
+
+00:20:16.85,00:20:20.76
+If you can find it in your hearts[br]to give my brother back...
+
+00:20:20.93,00:20:23.45
+...it would make my life[br]brighter again.
+
+00:20:23.76,00:20:25.32
+That was beautiful.
+
+00:20:25.50,00:20:27.26
+- Did it work?[br]- No.
+
+00:20:27.43,00:20:31.27
+You scrawny-assed sh * *![br]What the f* * * is wrong with you?
+
+00:20:31.44,00:20:35.30
+You must be some kind of f* * *[br]to ignore a crying child!
+
+00:20:35.47,00:20:39.53
+You know what you f* * *ing like?[br]You like to f* * *!
+
+00:20:42.11,00:20:44.64
+Hey, Wendy, what's a f* * *?
+
+00:20:47.82,00:20:52.88
+Ike, jump down! Now![br]For the love of God, Ike, jump!
+
+00:20:53.06,00:20:54.22
+Don't hurt me.
+
+00:21:11.01,00:21:14.07
+I promise I'll be nice to you[br]from now on.
+
+00:21:14.25,00:21:15.94
+Don't kick the baby.
+
+00:21:21.95,00:21:23.75
+What are they talking about?
+
+00:21:38.84,00:21:42.74
+Ike, do your impersonation[br]of David Caruso's career!
+
+00:21:42.91,00:21:44.67
+It's my turn.
+
+00:21:56.92,00:22:00.76
+You guys, get me down from here!
+
+00:22:01.83,00:22:04.76
+Help! Sons of bitches!
+
+00:22:04.96,00:22:06.90
+Dildo!
+
+00:22:07.83,00:22:12.46
+- I'm sure glad that's over with.[br]- Boy, am I glad to see you, Ike!
+
+00:22:12.64,00:22:14.63
+She's fly at the sky.
+
+00:22:15.04,00:22:18.67
+Wait! Where are you going,[br]alien visitors? Come back!
+
+00:22:18.84,00:22:22.37
+Where's this amazing thing[br]you were gonna show us?
+
+00:22:22.55,00:22:25.34
+It's in the bedroom, ladies.[br]Come on in.
+
+00:22:25.52,00:22:27.98
+We can make it in time for dinner.
+
+00:22:28.15,00:22:30.18
+- Thanks for helping.[br]- Whatever.
+
+00:22:30.35,00:22:32.85
+- Hey, I didn't throw up.[br]- Cool.
+
+00:22:41.37,00:22:42.73
+Sorry.
+
+00:22:42.90,00:22:45.33
+- Hey, look, a French fry.[br]- Cool.
+
+00:22:45.50,00:22:48.37
+- What's that?[br]- It's part of a Cheesy Poof.
+
+00:22:48.54,00:22:51.51
+- Hey, what's that?[br]- That's a hamburger.
+
+00:22:51.68,00:22:55.01
+- That's from two days ago![br]- What about that?
+
+00:22:55.18,00:22:56.48
+I don't know.
+
+00:22:58.18,00:23:01.31
+The bus will be here.[br]Cartman's still gone.
+
+00:23:01.49,00:23:03.58
+We're running out of friends.
+
+00:23:03.75,00:23:06.62
+I wonder what the visitors[br]gave the cows?
+
+00:23:09.53,00:23:14.05
+Cows, I got you cornered.[br]Let's see you get away now.
+
+00:23:24.84,00:23:26.07
+Hey, Cartman.
+
+00:23:26.24,00:23:29.97
+The visitors dropped you off[br]just in time for school.
+
+00:23:30.15,00:23:34.38
+- I had a crazy nightmare last night.[br]- Really? What about?
+
+00:23:34.55,00:23:37.08
+Well, I was standing out in a field.
+
+00:23:37.25,00:23:40.69
+I had this satellite dish[br]sticking out of my butt...
+
+00:23:40.86,00:23:43.35
+...and then there were[br]cows and aliens.
+
+00:23:43.53,00:23:47.09
+Then I went on the ship,[br]and Scott Baio gave me pinkeye.
+
+00:23:47.26,00:23:49.63
+That wasn't a dream.[br]That happened.
+
+00:23:49.80,00:23:54.53
+- Right. Why don't I have pinkeye then?[br]- You do have pinkeye!
+
+00:23:54.71,00:23:57.04
+Son of a bitch!
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

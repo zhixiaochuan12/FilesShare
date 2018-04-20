@@ -1,0 +1,3715 @@
+﻿1
+00:01:11,130 --> 00:01:12,590
+{\an8}{\pos(93.2,101.2)}翻译   草草
+
+2
+00:01:13,130 --> 00:01:14,590
+{\an8}{\pos(276.1,101.2)}翻译   肉松
+
+3
+00:01:15,180 --> 00:01:16,630
+{\an8}{\pos(100.5,244.55)}翻译   盐湖凉开水
+
+4
+00:01:17,600 --> 00:01:19,010
+{\an8}{\pos(108.8,102.1)}翻译   杏仁斯嘉丽
+
+5
+00:01:19,350 --> 00:01:20,800
+{\an8}{\pos(282.8,244.1)}翻译   苏小黛
+
+6
+00:01:20,970 --> 00:01:22,430
+{\an8}{\pos(93.1,104.35)}翻译   国士章鱼X
+
+7
+00:01:23,270 --> 00:01:24,720
+{\an8}{\pos(103.5,246.8)}翻译   轩辕喵
+
+8
+00:01:24,810 --> 00:01:26,220
+{\an8}{\pos(235.3,246.8)}翻译   Lynn_宁
+
+9
+00:01:26,980 --> 00:01:28,430
+{\an8}{\pos(104.7,245.9)}时间轴   知之
+
+10
+00:01:28,980 --> 00:01:30,440
+{\an8}{\pos(276.7,248.15)}时间轴   壬虚浪影
+
+11
+00:01:31,650 --> 00:01:33,110
+{\an8}{\pos(97.1,130.95)}时间轴   萌
+
+12
+00:01:34,070 --> 00:01:35,530
+{\an8}{\pos(101.8,132.75)}后期   饿得慌
+
+13
+00:01:36,070 --> 00:01:37,490
+{\an8}{\pos(116.7,195)}顾问   老杜
+
+14
+00:01:37,700 --> 00:01:39,650
+{\pos(127.5,183.6)}校对   草草
+
+15
+00:01:40,320 --> 00:01:42,240
+{\pos(306.3,214.2)}总监   草草
+
+16
+00:02:30,670 --> 00:02:33,670
+{\pos(196,180)}纸牌屋
+
+17
+00:02:30,670 --> 00:02:33,670
+{\an2}{\pos(208.1,242.25)}第五季  第四集
+
+18
+00:02:49,810 --> 00:02:56,230
+{\an8}{\pos(165,122.85)}全片完
+
+19
+00:02:50,060 --> 00:02:56,150
+{\pos(225.9,94.05)}派拉蒙电影
+
+20
+00:14:59,790 --> 00:15:03,250
+{\an8}{\pos(162.6,167.4)}还有时间
+
+21
+00:15:13,930 --> 00:15:20,230
+{\an1}康威拿下印第安纳  密西西比  佛罗里达
+
+22
+00:16:56,990 --> 00:17:01,200
+{\an1}诺克斯维尔投票中心发生事故
+
+23
+00:16:58,080 --> 00:16:59,530
+田纳西州
+
+24
+00:16:58,080 --> 00:16:59,530
+诺克斯维尔
+
+25
+00:19:56,540 --> 00:20:01,130
+{\an1}{\pos(143.4,220.5)}诺克斯维尔投票中心疏散
+田纳西州诺克斯维尔
+
+26
+00:22:06,050 --> 00:22:08,510
+{\an1}{\pos(165.6,221.85)}汤姆·汉默施密特
+《华盛顿先驱报》
+
+27
+00:32:05,020 --> 00:32:07,360
+{\pos(312.9,252)}取消           发送
+
+28
+00:33:26,350 --> 00:33:31,860
+{\an1}康威拿下宾夕法尼亚
+
+29
+00:35:29,850 --> 00:35:36,940
+{\an7}安德伍德总统是否已认输
+
+30
+00:35:36,940 --> 00:35:46,410
+{\an7}安德伍德总统是否已认输
+
+31
+00:38:13,390 --> 00:38:15,640
+{\an1}部分州不能认证结果
+
+32
+00:38:15,640 --> 00:38:19,310
+{\an1}部分州不能认证结果
+
+33
+00:38:55,850 --> 00:38:57,100
+{\an1}汉娜·康威就结果发表讲话
+
+34
+00:38:57,100 --> 00:38:59,270
+{\an1}汉娜·康威就结果发表讲话
+
+35
+00:39:20,290 --> 00:39:23,340
+{\an1}{\pos(147,242.1)}{\an7} 艾·麦卡伦莉  我受不了了  对不起  麦卡...
+
+36
+00:39:33,390 --> 00:39:35,480
+{\an1}大选之夜的混乱
+
+37
+00:03:45,430 --> 00:03:47,470
+我不懂为什么数据这么低
+I don't understand why the numbers are so low.
+
+38
+00:03:47,470 --> 00:03:49,760
+-根本没道理  -投票率很低
+- It doesn't make any sense. - Turnout's bad.
+
+39
+00:03:49,760 --> 00:03:52,820
+我听说政治新闻网更重关注康威一方
+I hear at Politico, they're concentrating mostly on Conway art.
+
+40
+00:03:53,620 --> 00:03:55,280
+闭嘴  不然就开除你
+Shut up or you're fired.
+
+41
+00:03:56,270 --> 00:03:57,500
+...赛区对手
+...division rivals.
+
+42
+00:03:57,500 --> 00:03:59,430
+这场斗殴很有看点
+The fighting was quite a spectacle
+
+43
+00:03:59,440 --> 00:04:01,920
+但对冰球迷来说  不幸的是
+but, unfortunately for hockey fans,
+
+44
+00:04:01,920 --> 00:04:03,690
+那是昨晚比赛中
+that was just about the only action
+
+45
+00:04:03,700 --> 00:04:06,150
+唯一的看点
+to be seen in last night's game.
+
+46
+00:04:06,700 --> 00:04:08,590
+威尔  马克来了
+Will, Mark's here.
+
+47
+00:04:10,290 --> 00:04:11,750
+希望你睡了会儿
+Hope you got some sleep.
+
+48
+00:04:12,210 --> 00:04:13,470
+其实没有
+No, not really.
+
+49
+00:04:14,140 --> 00:04:16,110
+甚至跑了步  但...
+Even went for a run, but...
+
+50
+00:04:16,890 --> 00:04:17,970
+你饿吗
+You hungry?
+
+51
+00:04:18,390 --> 00:04:20,150
+我只是想在今天
+Um, I just wanted to connect
+
+52
+00:04:20,150 --> 00:04:22,180
+接下来的活动前  告诉你一下
+before the rest of this day kicks in.
+
+53
+00:04:22,660 --> 00:04:23,800
+我跟马歇尔谈过了
+I spoke to Marshall.
+
+54
+00:04:23,800 --> 00:04:25,210
+我告诉他了
+No, I told him.
+
+55
+00:04:25,480 --> 00:04:27,020
+情势很喜人
+Things are looking good.
+
+56
+00:04:28,050 --> 00:04:29,340
+非常喜人
+Very good.
+
+57
+00:04:29,570 --> 00:04:32,340
+我很想感谢你做的一切  那支广告还有...
+I really want to thank you for everything. I mean, the ad and--
+
+58
+00:04:32,340 --> 00:04:33,650
+那支广告和我无关
+I had nothing to do with that ad.
+
+59
+00:04:33,650 --> 00:04:35,680
+当然  但...
+No, of course, but...
+
+60
+00:04:35,680 --> 00:04:37,610
+谢谢你的支持
+to thank you for your support.
+
+61
+00:04:37,610 --> 00:04:38,850
+全靠你自己
+This is all you.
+
+62
+00:04:39,910 --> 00:04:40,880
+听着
+Listen...
+
+63
+00:04:41,950 --> 00:04:45,590
+我...不想说错话
+I'm... choosing my words very carefully here.
+
+64
+00:04:47,000 --> 00:04:48,250
+你得准备好
+You need to get ready.
+
+65
+00:04:48,600 --> 00:04:49,940
+今天会大获全胜
+Today's gonna be a good day.
+
+66
+00:04:50,250 --> 00:04:52,010
+你可以等进白宫再睡
+You can sleep when you get to the White House.
+
+67
+00:04:52,810 --> 00:04:53,920
+但也未必
+Or maybe not.
+
+68
+00:04:56,020 --> 00:04:58,370
+准备好吧  威尔  再见
+Get yourself together, Will. I'll see you in a bit.
+
+69
+00:05:07,850 --> 00:05:09,060
+你准备好
+Are you ready...
+
+70
+00:05:16,090 --> 00:05:17,350
+来"抓"我了吗
+to catch me?
+
+71
+00:05:25,600 --> 00:05:28,730
+道格  莉安  你们有空吗
+Doug, LeAnn... do you have a moment?
+
+72
+00:05:41,040 --> 00:05:42,720
+从山麓酒店现场发来的报道
+Reporting live from the Piedmont Hotel,
+
+73
+00:05:42,720 --> 00:05:44,900
+现场气氛很激烈
+the excitement is definitely in the air right now.
+
+74
+00:05:44,900 --> 00:05:47,640
+最好别让他们看到你证件上的名字
+Better not let them see the name on your credentials.
+
+75
+00:05:48,240 --> 00:05:50,240
+那些人很爱戴他们的总统
+Those folks out there love their president.
+
+76
+00:05:51,070 --> 00:05:52,540
+我很爱磅蛋糕
+I love pound cake.
+
+77
+00:05:53,350 --> 00:05:54,850
+不代表它对我有益
+Doesn't mean it's good for me.
+
+78
+00:05:55,460 --> 00:05:56,880
+你怎么样  赛斯
+How are you doing, Seth?
+
+79
+00:05:58,400 --> 00:06:01,140
+-你这里还有粉底没抹匀  -天啊
+- You got some foundation right here. - Oh, jeez.
+
+80
+00:06:02,800 --> 00:06:05,130
+我们还把这称为新闻
+And we call it the news.
+
+81
+00:06:05,270 --> 00:06:06,900
+我要做实况报道
+I'm doing commentary.
+
+82
+00:06:06,940 --> 00:06:09,530
+那么迟早会有人问我
+Which means eventually someone gets to ask me
+
+83
+00:06:09,530 --> 00:06:12,050
+我的文章有没有影响到总统的败选
+if my articles affected the president's loss.
+
+84
+00:06:12,640 --> 00:06:14,570
+或胜选
+Or his win.
+
+85
+00:06:17,190 --> 00:06:19,070
+祝你顺顺利利  赛斯
+I wish you the best, Seth.
+
+86
+00:06:19,850 --> 00:06:21,190
+你还会找到工作的
+You'll land somewhere.
+
+87
+00:06:21,780 --> 00:06:22,950
+你就是那种人
+You're that type.
+
+88
+00:06:24,420 --> 00:06:26,540
+我们今晚会十分成功
+We're going to have a great night tonight.
+
+89
+00:06:27,210 --> 00:06:28,920
+你没必要哄我
+You don't have to spin me.
+
+90
+00:06:29,910 --> 00:06:31,410
+我应该怎么说
+How shall I say this?
+
+91
+00:06:32,270 --> 00:06:36,610
+我单身时  总是去败选者的派对
+When I was single, I always picked the loser's party.
+
+92
+00:06:37,530 --> 00:06:40,050
+我在鲍勃·多尔的宴会厅认识了
+I met the last Mrs. Hammerschmidt drowning in tequila shots
+
+93
+00:06:40,050 --> 00:06:42,020
+正豪饮龙舌兰的上任太太
+at the Bob Dole ballroom.
+
+94
+00:06:42,460 --> 00:06:45,580
+而我现在...又单身了
+And here I am... single again.
+
+95
+00:07:02,170 --> 00:07:04,390
+-你现在不在德州了  -道格  省省吧
+- You're not in Texas anymore. - Doug, please.
+
+96
+00:07:04,390 --> 00:07:05,990
+-怎么了  -别以为你了解我
+- Please what? - Don't think you know me.
+
+97
+00:07:05,990 --> 00:07:07,230
+我只是想确定你准备好...
+Look, I just want to be sure that you're ready for--
+
+98
+00:07:07,230 --> 00:07:09,150
+麦卡伦会做他该做的事
+Macallan will do what he has to.
+
+99
+00:07:11,090 --> 00:07:12,400
+我喜欢赢
+I like to win.
+
+100
+00:07:12,710 --> 00:07:15,530
+奖杯  奖牌  焦灼的比赛  我都想赢
+Trophies, medals, staring contests. You name it.
+
+101
+00:07:15,530 --> 00:07:17,670
+你能懂这一点  就能懂我
+You understand that, you understand me.
+
+102
+00:07:24,390 --> 00:07:26,110
+大家好
+Hello, everyone.
+
+103
+00:07:27,370 --> 00:07:29,040
+现在为时尚早
+Well, it's still early.
+
+104
+00:07:29,240 --> 00:07:31,620
+今天的大选进程还远远没结束
+There's a lot more election to be had today.
+
+105
+00:07:31,620 --> 00:07:33,720
+我们只是想道个歉
+And we just want to apologize that,
+
+106
+00:07:33,720 --> 00:07:35,220
+因为我们还有点工作要做
+because we have a little more work to do,
+
+107
+00:07:35,220 --> 00:07:36,700
+我们没法早点
+we're not gonna be able to get over to the ballroom
+
+108
+00:07:36,700 --> 00:07:37,970
+抵达宴会厅了
+as early as we would like to.
+
+109
+00:07:37,970 --> 00:07:39,170
+但等我们到了那里
+But once we do get there,
+
+110
+00:07:39,170 --> 00:07:42,350
+我们就会跟你们每一位握手
+we are going to shake the hand of each and every one of you,
+
+111
+00:07:42,350 --> 00:07:44,680
+感谢你们为我们所做的
+to thank you for all the extraordinary work
+
+112
+00:07:44,680 --> 00:07:46,170
+出色工作
+that you've done for us.
+
+113
+00:07:46,730 --> 00:07:49,380
+没错  为大家鼓掌吧
+That's right, a round of applause all the way around.
+
+114
+00:07:52,140 --> 00:07:54,700
+我们等会儿派对上见
+And we'll see you all at the party a little later.
+
+115
+00:08:39,130 --> 00:08:40,040
+好点了吗
+Better?
+
+116
+00:08:40,700 --> 00:08:42,920
+嗯  好了一点
+Yeah, a little.
+
+117
+00:08:44,990 --> 00:08:47,320
+我第一次上了一位总统
+First time I've fucked a president.
+
+118
+00:08:47,450 --> 00:08:50,620
+-不要这样讲  -马歇尔说...
+- Oh, don't say that. - Marshall said...
+
+119
+00:08:51,180 --> 00:08:53,280
+我还不是总统
+I'm not a president yet.
+
+120
+00:08:53,590 --> 00:08:55,090
+就快了
+Almost.
+
+121
+00:09:04,330 --> 00:09:05,950
+我得穿好衣服
+I got to put on a suit.
+
+122
+00:09:05,950 --> 00:09:08,840
+-大家就要来了  -威尔
+- People will be here soon. - Will...
+
+123
+00:09:11,160 --> 00:09:13,310
+你就不能允许自己感受一下吗
+can't you let yourself feel it?
+
+124
+00:09:23,690 --> 00:09:25,040
+就快了
+Almost.
+
+125
+00:09:30,700 --> 00:09:33,070
+-您准备好就开始  先生  -请接通州长
+- Ready when you are, sir. - Put the governor on, please.
+
+126
+00:09:33,070 --> 00:09:34,940
+-你好  -米切  我是总统
+- Hello. - Mitch, this is the president.
+
+127
+00:09:34,940 --> 00:09:36,570
+我知道你听过简报了
+I understand you've been briefed.
+
+128
+00:09:36,570 --> 00:09:37,860
+总统先生
+Oh, Mr. President...
+
+129
+00:09:38,160 --> 00:09:40,560
+这让我们猝不及防
+this is catching us all off guard over here.
+
+130
+00:09:40,560 --> 00:09:43,200
+州的  当地的  我们都不知道
+State, local, we had no idea.
+
+131
+00:09:43,200 --> 00:09:44,220
+我理解
+I understand.
+
+132
+00:09:44,220 --> 00:09:46,460
+我跟副总统  和国务卿杜兰特在一起
+I'm with the vice president, the Secretary of State Durant,
+
+133
+00:09:46,460 --> 00:09:49,600
+反恐处助理局长格林也在线上
+and on the line with us is Counterterrorism Director Green.
+
+134
+00:09:49,600 --> 00:09:52,450
+州长  很抱歉  但我们必须行动
+Governor, sir, I'm sorry, but we needed to act.
+
+135
+00:09:52,450 --> 00:09:55,270
+我直接联系了当地执法部门
+I contacted local law enforcement directly.
+
+136
+00:09:55,270 --> 00:09:56,980
+我是过了好一会儿才知道
+Well, it took a while to get to me.
+
+137
+00:09:56,980 --> 00:09:59,130
+米切  反恐处助理局长要与我们分享一些
+Mitch, the Counterterrorism Director will be sharing information
+
+138
+00:09:59,130 --> 00:10:00,730
+绝不能外泄的信息
+that we must keep amongst ourselves.
+
+139
+00:10:00,740 --> 00:10:04,830
+我们不想做任何会影响今天投票的事
+We do not want to do anything that affects today's voting.
+
+140
+00:10:04,830 --> 00:10:06,020
+45分钟之前
+Forty-five minutes ago,
+
+141
+00:10:06,020 --> 00:10:08,740
+我们突袭了穆罕默德·卡拉比的住处  先生
+we raided the home of Muhammed Kalabi, sir.
+
+142
+00:10:08,750 --> 00:10:10,160
+在戴德里克大街
+On Deaderick Ave.
+
+143
+00:10:10,170 --> 00:10:12,720
+-嗯  -那里离体育场很近
+- Yes. - It's near the Coliseum.
+
+144
+00:10:12,960 --> 00:10:14,640
+嫌疑人不在公寓里
+The suspect was not in his apartment,
+
+145
+00:10:14,640 --> 00:10:17,150
+但是我们发现了制造炸弹的材料
+but we did find bomb-making material.
+
+146
+00:10:19,760 --> 00:10:22,120
+-天哪  -米切
+- Jesus, uh... - Now, Mitch...
+
+147
+00:10:22,120 --> 00:10:24,720
+我们最不希望的就是让你恐慌
+the last thing we want is for you to panic.
+
+148
+00:10:25,670 --> 00:10:27,740
+你一定要知道联邦政府
+You must know that you have the full support
+
+149
+00:10:27,740 --> 00:10:29,300
+会全力支持你
+of the federal government here.
+
+150
+00:10:29,300 --> 00:10:32,240
+接下来怎么办
+Um, it... Well, what... what's next?
+
+151
+00:10:32,240 --> 00:10:35,590
+我们相信他的目标是某个投票中心
+We believe his target is one of the voting centers.
+
+152
+00:10:35,590 --> 00:10:37,030
+我们知道你已经安排了警卫队
+We know you have soldiers in place,
+
+153
+00:10:37,030 --> 00:10:38,680
+采取了安全措施  设置了检查站
+security measures and checkpoints.
+
+154
+00:10:38,680 --> 00:10:40,370
+格林局长正赶去见你
+Director Green is on his way to you.
+
+155
+00:10:40,370 --> 00:10:43,360
+联调局诺克斯维尔办事处会设立指挥中心
+There will be a command center out of the FBI office in Knoxville
+
+156
+00:10:43,360 --> 00:10:44,360
+我们将进行协调
+where we will coordinate.
+
+157
+00:10:44,360 --> 00:10:46,990
+我的家人今早就在体育场投了票
+My family voted at the Coliseum this morning.
+
+158
+00:10:46,990 --> 00:10:48,250
+米切  听我说
+Mitch, listen to me.
+
+159
+00:10:48,600 --> 00:10:51,510
+不管你需要什么  我们都会提供
+Whatever you need, we will provide.
+
+160
+00:10:54,600 --> 00:10:56,140
+俄亥俄的数字怎么样
+How are the Ohio numbers?
+
+161
+00:10:56,140 --> 00:10:58,270
+投票率这么低  不好估计
+It's hard to gauge with turnout this low.
+
+162
+00:10:58,280 --> 00:10:59,620
+就是要这效果
+That was kind of the point.
+
+163
+00:10:59,630 --> 00:11:02,010
+是对于另一方  不是民主党
+For the other side, not Democrats.
+
+164
+00:11:02,010 --> 00:11:04,450
+州长担心了  你有什么数据吗
+The governor's worried. Do you have any numbers?
+
+165
+00:11:04,560 --> 00:11:06,100
+没有  只有我们给过你的
+No, just what we gave you.
+
+166
+00:11:06,100 --> 00:11:07,440
+我以为总统可能有
+I would think that the president might have
+
+167
+00:11:07,440 --> 00:11:09,950
+我们接触不到的数据
+access to some numbers that we don't.
+
+168
+00:11:09,950 --> 00:11:11,730
+如果我有  你也会有
+When I get them, you'll get them.
+
+169
+00:11:12,110 --> 00:11:13,850
+-我们很担心  -坚持住
+- We're worried. - Hang in there.
+
+170
+00:11:13,850 --> 00:11:16,520
+等过了3点这一波我再跟你联系
+I'll touch base with you after the three o'clock wave.
+
+171
+00:11:17,870 --> 00:11:20,350
+请让我单独待会儿  谢谢
+If you could all just give me a moment, please. Thank you.
+
+172
+00:11:21,100 --> 00:11:22,420
+你最好去宴会厅
+You better head over to the ballroom.
+
+173
+00:11:22,420 --> 00:11:24,220
+我们其中一人应该到场
+One of us should make an appearance.
+
+174
+00:11:24,490 --> 00:11:26,380
+先生  这一天终于到了
+Sir, the day has finally arrived.
+
+175
+00:11:26,380 --> 00:11:29,700
+是啊  让我们看看这一天有多长吧
+Yes, and let's see just how long this day lasts.
+
+176
+00:11:33,550 --> 00:11:36,740
+想像一下国安局给我打电话问
+Imagine my surprise when the NSA called me
+
+177
+00:11:36,740 --> 00:11:39,010
+穆罕默德·卡拉比的事时我有多惊讶吧
+about Muhammed Kalabi just...
+
+178
+00:11:39,370 --> 00:11:41,500
+你的电话随后就到
+moments before you did.
+
+179
+00:11:42,280 --> 00:11:44,330
+情况还在发展
+Situation is still unfolding.
+
+180
+00:11:44,340 --> 00:11:45,920
+在选举日
+On Election Day?
+
+181
+00:11:51,480 --> 00:11:52,490
+弗兰西斯
+Francis...
+
+182
+00:11:53,600 --> 00:11:56,190
+跟你共事真是一段独特的经历
+it's been quite a journey working with you.
+
+183
+00:11:59,410 --> 00:12:01,600
+卡拉比溜进了国内
+Kalabi slipped into the country,
+
+184
+00:12:01,600 --> 00:12:03,740
+他正策划着一起针对
+and he's planning a terrorist attack
+
+185
+00:12:03,740 --> 00:12:06,490
+田纳西某个投票中心的恐怖袭击
+against a voting center in Tennessee.
+
+186
+00:12:07,590 --> 00:12:10,430
+这种说法太吓人了
+And that is a terrifying proposition.
+
+187
+00:12:11,340 --> 00:12:12,510
+我需要你在白宫
+Well, I may need you to stay around
+
+188
+00:12:12,510 --> 00:12:14,330
+再多待一阵  凯茜
+the White House a bit longer, Cathy,
+
+189
+00:12:14,330 --> 00:12:17,030
+直到事态平息
+until this situation is resolved.
+
+190
+00:12:17,750 --> 00:12:18,870
+好的
+Of course.
+
+191
+00:12:20,970 --> 00:12:22,490
+我只是说
+I was only saying...
+
+192
+00:12:23,860 --> 00:12:25,440
+这一路以来很不错了
+it's been a good run.
+
+193
+00:12:38,430 --> 00:12:41,180
+说得像她能激怒我似的
+As if she could ever get under my skin.
+
+194
+00:12:41,540 --> 00:12:43,870
+我现在还不用去宴会
+I don't need to get to the party just yet.
+
+195
+00:12:44,140 --> 00:12:47,820
+人们伸着汗涔涔的手想要最后一次向我致敬
+Sweaty palms, eager to pay me their last respects.
+
+196
+00:12:47,820 --> 00:12:50,280
+但他们真正想用的致敬方式
+When what they really want to do to show their respect
+
+197
+00:12:50,290 --> 00:12:52,120
+是把所有子弹都射向我
+is to empty their bullets in my body,
+
+198
+00:12:52,120 --> 00:12:54,210
+确保我死得透透的
+just to make sure that I'm dead.
+
+199
+00:12:56,640 --> 00:12:59,040
+帕特  抱歉让你久等了
+Patti, I'm so sorry to keep you waiting.
+
+200
+00:12:59,040 --> 00:13:00,160
+哈维女士刚刚告诉我
+Miss Harvey was just telling me
+
+201
+00:13:00,160 --> 00:13:01,710
+日程安排有变
+that there's been a change in the schedule.
+
+202
+00:13:01,710 --> 00:13:04,310
+是啊  很不幸现在出现了紧急情况
+Yes, unfortunately, we're in a bit of an emergency.
+
+203
+00:13:04,510 --> 00:13:06,910
+但我希望能尽快解决
+But I hope it will be resolved soon.
+
+204
+00:13:07,400 --> 00:13:09,020
+汤姆  你好
+Tom, hello.
+
+205
+00:13:10,510 --> 00:13:11,760
+-你认识耶茨先生吧  -认识
+- You know Mr. Yates, don't you? - Yes,
+
+206
+00:13:11,760 --> 00:13:13,380
+党代会上见过
+we met at the convention.
+
+207
+00:13:13,570 --> 00:13:15,120
+莉安会在酒店
+So LeAnn will be at the hotel.
+
+208
+00:13:15,130 --> 00:13:15,810
+要是你觉得
+She can reach me
+
+209
+00:13:15,810 --> 00:13:19,090
+我应该早点而不是晚点过去的话  她会联系我
+if you feel I need to be there sooner rather than later.
+
+210
+00:13:20,580 --> 00:13:22,590
+万一是晚点过去
+In case it's later...
+
+211
+00:13:23,250 --> 00:13:25,310
+我希望你考虑一下四年后
+I want you to think four years down the road.
+
+212
+00:13:26,170 --> 00:13:28,410
+-你说什么  -他们信赖你
+- I'm sorry? - They trust you.
+
+213
+00:13:29,820 --> 00:13:32,760
+四年可转瞬即逝
+Four years is no time.
+
+214
+00:13:34,450 --> 00:13:35,700
+有辆车在等您
+We have a car waiting.
+
+215
+00:13:49,860 --> 00:13:51,710
+我们今天还握手了
+So we're shaking hands today?
+
+216
+00:13:52,130 --> 00:13:54,260
+我们还是保持那样最好
+I think it's best we keep it like that.
+
+217
+00:13:57,610 --> 00:13:59,120
+要握得像真格的一样
+Well, shake it like you mean it.
+
+218
+00:14:09,410 --> 00:14:10,450
+这样如何
+How's that?
+
+219
+00:14:17,780 --> 00:14:20,580
+你希望我直接去宴会厅吗
+So you want me to just head over to the ballroom?
+
+220
+00:14:23,270 --> 00:14:24,210
+不
+No.
+
+221
+00:14:25,410 --> 00:14:26,260
+不
+No.
+
+222
+00:14:27,430 --> 00:14:30,150
+我确实喜欢穿过大房间看你
+I do like looking at you across a large room.
+
+223
+00:14:38,710 --> 00:14:39,700
+胜利
+Victory.
+
+224
+00:14:43,430 --> 00:14:44,920
+你赢的话用这份
+This is for when you win.
+
+225
+00:14:51,040 --> 00:14:53,120
+败选演说我也写了一份
+I wrote a concession speech as well.
+
+226
+00:15:13,910 --> 00:15:17,100
+全国上下的投票点都加强了安保
+With increased security at polling places across the country,
+
+227
+00:15:17,100 --> 00:15:19,560
+今年进行投票的美国人
+will fewer Americans vote for the president this year
+
+228
+00:15:19,560 --> 00:15:21,790
+会不会比以往都少
+than in any election in recent memory?
+
+229
+00:15:22,390 --> 00:15:25,440
+尤其受关注的是典型的摇摆州
+Particular attention is being paid to typical battleground states,
+
+230
+00:15:25,450 --> 00:15:27,200
+俄亥俄和宾夕法尼亚
+Ohio and Pennsylvania,
+
+231
+00:15:27,200 --> 00:15:29,590
+在这些州  投票人数成了核心问题
+where voter turnout has become a central issue
+
+232
+00:15:29,590 --> 00:15:32,700
+这可能决定本次历史性大选的结果
+that could make all the difference in this historic election.
+
+233
+00:15:32,700 --> 00:15:35,700
+费城的投票率如果很低
+You know, if turnout is low in Philadelphia...
+
+234
+00:15:36,240 --> 00:15:37,790
+安德伍德夫妇就输定了
+the Underwoods are going under.
+
+235
+00:15:38,880 --> 00:15:40,760
+你得想个更好的开场白
+You need a better in than that.
+
+236
+00:15:42,330 --> 00:15:45,810
+你看起像是被折腾得不轻
+You look like you've been chewed up and shit out twice today.
+
+237
+00:15:45,810 --> 00:15:47,440
+似乎难以集中精力
+Seems like you're having trouble focusing.
+
+238
+00:15:47,450 --> 00:15:48,800
+你看过医生吗
+You ever see a doctor about that?
+
+239
+00:15:50,750 --> 00:15:51,570
+什么
+What?
+
+240
+00:15:51,870 --> 00:15:53,360
+因为我自信可以诊断你是
+Oh, 'cause I feel pretty comfortable diagnosing you
+
+241
+00:15:53,370 --> 00:15:55,060
+心事太重了
+with too much on your fucking mind.
+
+242
+00:15:56,760 --> 00:15:59,650
+我请你喝一杯吧  我在庆祝
+Let me get you something real. I'm celebrating.
+
+243
+00:16:01,300 --> 00:16:02,370
+两杯奥本威士忌
+Two Oban.
+
+244
+00:16:04,000 --> 00:16:05,410
+庆祝什么
+Celebrating what?
+
+245
+00:16:05,410 --> 00:16:08,360
+你知道汤姆·汉默施密特的长期调查组吧
+You know Tom Hammerschmidt's long lead team?
+
+246
+00:16:09,740 --> 00:16:11,170
+你面前的这位是新加入的成员
+You're looking at the newest member.
+
+247
+00:16:11,740 --> 00:16:13,350
+那人真是永不放弃
+That guy never gives up.
+
+248
+00:16:14,320 --> 00:16:17,670
+我告诉你他想干什么  你给他提供消息
+I tell you what he's up to, feed him things from you.
+
+249
+00:16:18,820 --> 00:16:22,630
+现在谈交换条件  有点晚了吧
+Don't you think it's a little late for quid pro quo?
+
+250
+00:16:22,630 --> 00:16:24,790
+安德伍德夫妇仍有胜算
+The Underwoods could still win.
+
+251
+00:16:25,860 --> 00:16:26,930
+等着瞧吧
+We'll see.
+
+252
+00:16:28,220 --> 00:16:31,260
+无论如何  你都还有几个月
+Either way, you still have a couple more months.
+
+253
+00:16:33,430 --> 00:16:34,260
+也对
+Yeah.
+
+254
+00:16:34,720 --> 00:16:35,930
+我会找到地方落脚的
+I'll land somewhere.
+
+255
+00:16:40,250 --> 00:16:41,120
+你的电话
+Your phone.
+
+256
+00:16:44,140 --> 00:16:46,600
+今天有人能让我消停一会儿吗
+Can somebody give me a second today, you know?
+
+257
+00:16:47,110 --> 00:16:49,470
+该死  失陪一下
+Shit. Excuse me.
+
+258
+00:16:50,010 --> 00:16:50,790
+你好
+Hello?
+
+259
+00:16:51,360 --> 00:16:52,810
+有报告称...
+...while reports are coming in
+
+260
+00:16:52,810 --> 00:16:56,690
+诺克斯维尔一投票中心可能发生了袭击
+of a possible attack at a Knoxville voting center.
+
+261
+00:16:56,700 --> 00:16:58,420
+我们来看看直播...
+Now, let's take a live look...
+
+262
+00:16:58,420 --> 00:17:00,230
+田纳西州  田纳西怎么了
+Tennessee? What's going on in Tennessee?
+
+263
+00:17:00,230 --> 00:17:03,780
+目前场面非常混乱
+...it's a very chaotic scene at the moment.
+
+264
+00:17:03,780 --> 00:17:04,320
+什么
+What?
+
+265
+00:17:04,320 --> 00:17:06,250
+目前情况很复杂
+...there's a lot happening right now.
+
+266
+00:17:06,260 --> 00:17:07,570
+当然  警方正在
+Police are... are, of course,
+
+267
+00:17:07,570 --> 00:17:10,310
+试图安抚民众  并保证大家的安全
+trying to keep everyone calm and safe here.
+
+268
+00:17:10,310 --> 00:17:11,860
+我们将为您带来
+And we will bring you...
+
+269
+00:17:13,640 --> 00:17:14,870
+你到底去哪了
+Where the hell were you?
+
+270
+00:17:15,320 --> 00:17:16,910
+田纳西  田纳西到底怎么回事
+Tennessee. What the hell's going on in Tennessee?
+
+271
+00:17:16,910 --> 00:17:17,820
+穆罕默德·卡拉比  
+Muhammed Kalabi,
+
+272
+00:17:17,820 --> 00:17:20,030
+叙利亚哈里发国的  烧肖像的那个
+the ICO guy from Syria who burned the effigy.
+
+273
+00:17:20,030 --> 00:17:20,700
+有什么计划
+What's the plan?
+
+274
+00:17:20,700 --> 00:17:24,730
+今晚我站在你们面前  作为副总统候选人
+I stand before you this evening as vice presidential candidate,
+
+275
+00:17:25,040 --> 00:17:27,370
+作为美国的第一夫人
+as the First Lady of the United States,
+
+276
+00:17:27,370 --> 00:17:31,430
+最重要的  也作为这个伟大国家的一名公民
+and most of all... as a citizen of this great country.
+
+277
+00:17:32,220 --> 00:17:35,980
+虽然诺克斯维尔投票中心发生了暴力事件
+Despite the violent incident at the voting center in Knoxville,
+
+278
+00:17:36,500 --> 00:17:39,160
+此时此刻  总统正在进行处理
+which the president is attending to as we speak,
+
+279
+00:17:39,600 --> 00:17:43,080
+我们想向任何在考虑不投票的各位保证
+we want to assure anyone who's considering not voting
+
+280
+00:17:43,460 --> 00:17:47,910
+现在投票不仅是安全的  更是你们的责任
+that it is not only safe to vote, it is your duty to do so.
+
+281
+00:17:47,910 --> 00:17:49,670
+不管你是民主党人
+It doesn't matter if you're a Democrat.
+
+282
+00:17:49,670 --> 00:17:51,760
+还是共和党人
+It doesn't matter if you're a Republican.
+
+283
+00:17:51,760 --> 00:17:54,310
+我们的国家需要你们今天去投票
+Our nation needs you to vote today.
+
+284
+00:17:54,520 --> 00:17:56,950
+暴力不能导致冷漠
+Violence cannot beget apathy.
+
+285
+00:17:56,950 --> 00:17:59,960
+我们必须发声
+We must make our voices heard.
+
+286
+00:18:00,540 --> 00:18:01,870
+赛斯
+Seth!
+
+287
+00:18:02,640 --> 00:18:05,200
+有目击者称  诺克斯维尔投票中心  
+Witnesses report an FBI and Homeland presence
+
+288
+00:18:05,200 --> 00:18:06,910
+出现了联调局和国安局的人
+at the Knoxville voting center.
+
+289
+00:18:07,060 --> 00:18:08,490
+你觉得这事跟哈利发国有关吗
+Do you believe this is ICO-related?
+
+290
+00:18:08,490 --> 00:18:09,520
+赛斯  拜托
+Seth, please! Come on.
+
+291
+00:18:09,520 --> 00:18:11,950
+-联调局没有回应  -你也别乱说  吉娜
+- And the FBI isn't talking. - Neither are you, Gina.
+
+292
+00:18:11,950 --> 00:18:13,900
+这可不是发布会  我并没做相关安排
+This isn't a presser, because I didn't schedule one.
+
+293
+00:18:13,900 --> 00:18:16,200
+-我们只想知道  -两次了  吉娜
+- We're just trying to find out-- - That's two, Gina.
+
+294
+00:18:16,200 --> 00:18:19,040
+如果你想三振出局  我很乐意效劳
+If you're looking for a strikeout, I'm happy to oblige.
+
+295
+00:18:19,040 --> 00:18:20,890
+不想吗  很好
+No? Good.
+
+296
+00:18:20,890 --> 00:18:22,860
+目前不接受提问
+There's no questions at this time.
+
+297
+00:18:22,860 --> 00:18:24,660
+第一夫人的声明里该说的都说了
+The First Lady's statement stands as is.
+
+298
+00:18:24,660 --> 00:18:27,400
+我得到田纳西的最新情况就会通报
+I will have updates for you on Tennessee as I get them.
+
+299
+00:18:27,400 --> 00:18:29,300
+所有人都清楚了吗  谢谢
+Is everyone clear? Thank you.
+
+300
+00:18:29,300 --> 00:18:30,520
+赛斯
+Seth!
+
+301
+00:18:37,750 --> 00:18:39,840
+我听说一切都乱套了
+I'm told everything just went wrong.
+
+302
+00:18:39,840 --> 00:18:41,410
+-联调局派了拆弹部队的人  -但是  米切
+- The FBI had the bomb guys there... - But, Mitch...
+
+303
+00:18:41,410 --> 00:18:42,130
+天啊
+...for crying out loud!
+
+304
+00:18:42,130 --> 00:18:44,620
+伤情仅仅是擦伤和瘀伤
+...injuries didn't go beyond scrapes and bruises.
+
+305
+00:18:44,620 --> 00:18:47,170
+这我可不确定  肖娜
+Oh, I don't know about that, Shawna.
+
+306
+00:18:47,490 --> 00:18:49,860
+有12人被送往了医院
+Twelve people were taken to the hospital.
+
+307
+00:18:52,810 --> 00:18:55,380
+格林的预计到达时间有了吗
+Look, is there any status on Green's ETA?
+
+308
+00:18:55,380 --> 00:18:56,660
+-斯图尔特州务卿和我  -好的  请稍等
+- Secretary Stewart and I... - Yes. Just a moment, sir.
+
+309
+00:18:56,660 --> 00:18:58,810
+-无法做出决断  除非  -您得接这通电话
+- ...cannot make a determination without-- - You need to take this.
+
+310
+00:18:58,810 --> 00:19:00,710
+什么  什么
+What? What?
+
+311
+00:19:01,800 --> 00:19:03,100
+又怎么了
+What the hell is this?
+
+312
+00:19:06,610 --> 00:19:07,320
+你好
+Hello.
+
+313
+00:19:07,320 --> 00:19:09,250
+州长  我是马克·厄舍
+Governor. Mark Usher here.
+
+314
+00:19:09,840 --> 00:19:11,780
+我们应该在太阳谷的会议上见过
+I think we met at the conference in Sun Valley.
+
+315
+00:19:11,910 --> 00:19:13,010
+对  没错
+Yes, that's right.
+
+316
+00:19:13,010 --> 00:19:15,750
+真希望能在更好的情况下打来
+Well, I wish I were calling under better circumstances.
+
+317
+00:19:15,750 --> 00:19:17,990
+我想知道您有什么需求
+I wanted to know what you're going to need.
+
+318
+00:19:17,990 --> 00:19:20,430
+我可以尽快安排人过去  以防您...
+I can get some excellent people down there fast in case you...
+
+319
+00:19:20,430 --> 00:19:22,800
+您似乎需要额外的安保  或者
+you're feeling like you need the extra security or...
+
+320
+00:19:23,240 --> 00:19:24,240
+您还在听吗
+You there?
+
+321
+00:19:24,240 --> 00:19:25,680
+在  我在
+I'm right here, yeah.
+
+322
+00:19:25,680 --> 00:19:27,150
+几分钟前我跟肖娜谈过了
+I spoke to Shawna a few minutes ago,
+
+323
+00:19:27,150 --> 00:19:30,480
+我们一致认为绝不能让选举受影响
+and we agreed that we absolutely cannot disrupt this election.
+
+324
+00:19:30,480 --> 00:19:32,590
+你联系了我的州务卿
+You called my secretary of state?
+
+325
+00:19:32,590 --> 00:19:33,590
+是她联系了我
+Well, she called me.
+
+326
+00:19:34,220 --> 00:19:37,310
+她是田纳西州党领袖  跟你一样
+She is a leader of the party in Tennessee. As are you.
+
+327
+00:19:40,630 --> 00:19:43,960
+需要我提醒你  先生  你那儿是共和党州
+Do I need to remind you, sir, that yours is a red state,
+
+328
+00:19:43,960 --> 00:19:45,770
+共和党人都指望着你呢吗
+and every Republican in it is counting on you?
+
+329
+00:19:45,780 --> 00:19:48,150
+-谢谢  厄舍先生  -等一下
+- Thank you, Mr. Usher. - Now, hold on.
+
+330
+00:19:48,150 --> 00:19:48,910
+肖娜只想问
+Shawna just wanted to ask
+
+331
+00:19:48,910 --> 00:19:50,400
+能做什么  做不了什么
+what can be done and what can't be done.
+
+332
+00:19:50,400 --> 00:19:52,510
+她跟我们其他人一样  也在想办法
+She's like the rest of us, trying to figure this thing out.
+
+333
+00:19:56,080 --> 00:19:58,260
+因为目前尚无法确定的
+Because of the scale of a possible threat
+
+334
+00:19:58,260 --> 00:20:00,380
+潜在威胁的规模
+which we're still trying to determine,
+
+335
+00:20:00,390 --> 00:20:03,920
+也因为这些投票中心的重要性
+and because of the importance of these, uh, voting centers,
+
+336
+00:20:03,920 --> 00:20:05,800
+我们请求州长宣布
+we're asking the governor to declare
+
+337
+00:20:05,810 --> 00:20:07,420
+-进入紧急状态  -威尔  你坐会儿吧
+- a state of emergency... - Will, could you please sit?
+
+338
+00:20:07,420 --> 00:20:08,910
+这样我们才能...
+...so that we can provide more...
+
+339
+00:20:08,910 --> 00:20:10,280
+我不喜欢这样
+I don't like it.
+
+340
+00:20:10,280 --> 00:20:13,180
+3点那波说田纳西无论如何都是我们的了
+Three o'clock wave said Tennessee's locked up, no matter what.
+
+341
+00:20:13,180 --> 00:20:15,250
+...发生在这里的事件
+...into the event that took place here...
+
+342
+00:20:15,260 --> 00:20:16,430
+亲爱的  大家都看不到了
+Love, no one can see.
+
+343
+00:20:19,040 --> 00:20:20,110
+怎么回事
+What the hell?
+
+344
+00:20:21,470 --> 00:20:24,000
+可能会让人不安
+...be potentially disturbing.
+
+345
+00:20:26,810 --> 00:20:28,840
+有炸弹时狗不会叫的
+They don't bark when there's a bomb.
+
+346
+00:20:29,560 --> 00:20:31,180
+什么意思"不会叫"
+What do you mean, "They don't bark"?
+
+347
+00:20:31,180 --> 00:20:34,410
+有炸弹时狗不会叫  总统先生
+The canine units don't bark when there's a bomb, Mr. President.
+
+348
+00:20:34,600 --> 00:20:36,410
+嗯  但整栋楼的人都听到了
+Yeah, but the whole building heard it.
+
+349
+00:20:36,410 --> 00:20:38,920
+他们的训练是检测到炸弹就坐下
+They're trained to sit down when they detect a bomb.
+
+350
+00:20:38,920 --> 00:20:40,990
+-它们坐下了吗  -没有
+- So did they sit down? - No.
+
+351
+00:20:41,000 --> 00:20:42,440
+那就是没炸弹
+Then there was no bomb.
+
+352
+00:20:42,450 --> 00:20:44,270
+我们认为狗叫是因为受到了刺激
+We think the barking was provoked.
+
+353
+00:20:44,270 --> 00:20:46,140
+刺激  格林局长  这真是够了
+Provoked? Director Green, that'll be enough.
+
+354
+00:20:46,140 --> 00:20:48,770
+这些狗是我们最后的防线  先生
+These dogs are our last line of defense, sir.
+
+355
+00:20:48,770 --> 00:20:51,010
+我觉得哈里发国今天闯进去了
+I think ICO got in there today.
+
+356
+00:20:51,450 --> 00:20:53,020
+幸好他们没引爆炸弹
+And thank God they didn't get a bomb off,
+
+357
+00:20:53,020 --> 00:20:54,580
+但不管他们让什么人混了进去
+but whatever operative they got in there,
+
+358
+00:20:54,580 --> 00:20:57,150
+我觉得是去引发暴乱的
+I think, was used to provoke the riot.
+
+359
+00:20:57,150 --> 00:20:58,260
+我说够了
+I said that is enough.
+
+360
+00:20:58,260 --> 00:20:59,900
+你觉得哈里发国会闯进楼里
+You think ICO got all the way in that building
+
+361
+00:20:59,900 --> 00:21:02,790
+然后又决定还是不引爆炸弹了吗
+and then just decided not to set off a bomb?
+
+362
+00:21:02,790 --> 00:21:05,240
+-这个...  -我们不能影响投票
+- Well, there are-- - We are not going to disrupt the voting.
+
+363
+00:21:05,240 --> 00:21:07,120
+米切  你好好劝劝他
+Mitch, would you please talk some sense into him?
+
+364
+00:21:07,120 --> 00:21:08,630
+-我  -如果不暂停投票
+- I-- - If we don't suspend,
+
+365
+00:21:08,630 --> 00:21:11,480
+局里无法确保中心的安全
+the Bureau cannot guarantee the safety of these centers.
+
+366
+00:21:11,480 --> 00:21:13,810
+不可接受  找到卡拉比
+Unacceptable. Find Kalabi.
+
+367
+00:21:13,810 --> 00:21:15,080
+州长不会希望
+The governor does not wanna
+
+368
+00:21:15,080 --> 00:21:17,630
+在这么晚的时候颁发宵禁令
+have to institute a curfew this late in the game.
+
+369
+00:21:17,630 --> 00:21:20,080
+-米切  -是  先生
+- And, Mitch... - Uh, yes, sir.
+
+370
+00:21:20,080 --> 00:21:22,840
+你不能关闭投票
+...you are not closing the polls.
+
+371
+00:21:34,990 --> 00:21:36,350
+你觉得我们该关吗
+You think we should?
+
+372
+00:21:37,420 --> 00:21:39,070
+我没法发表意见
+I can't weigh in on this.
+
+373
+00:21:59,320 --> 00:22:00,910
+我得跟肖娜谈谈
+I need to talk to Shawna.
+
+374
+00:22:04,130 --> 00:22:06,910
+公众还要承受多少丑闻
+How many scandals should the public be expected to endure
+
+375
+00:22:06,910 --> 00:22:08,710
+才会说"够了"
+before they say, "Enough"?
+
+376
+00:22:08,710 --> 00:22:10,950
+会说"我不出门了"
+Before they say, "I'm staying home"?
+
+377
+00:22:10,950 --> 00:22:14,360
+会对国家完全丧失信心
+Before they lose complete faith in this democratic republic?
+
+378
+00:22:14,360 --> 00:22:16,670
+上次出现这样的趋势
+This is a trend that dates back at least
+
+379
+00:22:16,670 --> 00:22:18,870
+是尼克松躲过牢狱之灾的时候
+to when Nixon avoided jail time.
+
+380
+00:22:19,490 --> 00:22:20,710
+好了  结束
+Okay, we're out.
+
+381
+00:22:28,300 --> 00:22:30,900
+-真不错  -我不需要粉丝  肖恩
+- You're good. - I don't need fans, Sean.
+
+382
+00:22:30,900 --> 00:22:32,890
+只是真诚的欣赏
+Just genuine appreciation.
+
+383
+00:22:33,070 --> 00:22:36,170
+喝一杯吗  一杯是酒  一杯不是
+Would you like a drink? One is brown and one is not.
+
+384
+00:22:36,380 --> 00:22:38,590
+-今晚会很漫长  -我听说不是
+- It's gonna be a long night. - That's not what I hear.
+
+385
+00:22:38,590 --> 00:22:40,580
+那么  田纳西
+So, Tennessee...
+
+386
+00:22:40,580 --> 00:22:41,710
+是问题所在
+Is the question.
+
+387
+00:22:41,710 --> 00:22:42,710
+怎么样
+And?
+
+388
+00:22:42,870 --> 00:22:44,160
+我的男伴什么都不知道
+My date knew nothing.
+
+389
+00:22:44,420 --> 00:22:45,750
+你在到处问了吗
+Are you making the rounds?
+
+390
+00:22:45,850 --> 00:22:47,790
+这里的人比我一般接触的年龄要大
+Crowd's a little older than I'm used to, but...
+
+391
+00:22:48,020 --> 00:22:52,110
+但是  没错  他们话多  却没什么料
+yes, they're a talkative bunch... that don't say much.
+
+392
+00:22:53,470 --> 00:22:54,570
+我要酒
+I'll take the brown one.
+
+393
+00:22:56,660 --> 00:22:59,860
+那是帕特里夏·惠特克  民主党全国委员会主席
+That's Patricia Whittaker over there. Chairperson of the DNC.
+
+394
+00:22:59,860 --> 00:23:01,370
+她有次在奥马哈一家酒吧里扇了我个耳光
+She slapped me once in a bar in Omaha.
+
+395
+00:23:01,370 --> 00:23:02,900
+我也不知道为什么
+For the life of me, I can't tell you why.
+
+396
+00:23:08,030 --> 00:23:09,750
+田纳西州有问题
+There's something wrong with Tennessee.
+
+397
+00:23:11,020 --> 00:23:13,100
+你的男伴要么在撒谎  要么在抵赖
+Your date is either lying or denying.
+
+398
+00:23:35,020 --> 00:23:37,640
+这是什么意思
+What did you mean by this?
+
+399
+00:23:38,790 --> 00:23:40,400
+演讲背后的字
+On the back of the speech?
+
+400
+00:23:43,510 --> 00:23:45,390
+没事  别提了
+Nothing. Forget it.
+
+401
+00:23:48,610 --> 00:23:50,120
+"还有时间"
+"There's still time"?
+
+402
+00:23:52,210 --> 00:23:53,770
+还有时间做什么
+There's still time for what?
+
+403
+00:23:57,300 --> 00:23:58,350
+你在干什么
+What are you doing?
+
+404
+00:23:59,880 --> 00:24:01,140
+你和你丈夫
+You and your husband.
+
+405
+00:24:02,160 --> 00:24:04,170
+准备赢得选举
+Getting ready to win an election.
+
+406
+00:24:05,440 --> 00:24:07,180
+我看到你的样子了
+I see the way you're acting.
+
+407
+00:24:18,900 --> 00:24:23,330
+你知道我们今天打算赢得选举吗
+Do you realize we have every intention of winning today?
+
+408
+00:24:24,600 --> 00:24:25,370
+当然
+Sure.
+
+409
+00:24:27,650 --> 00:24:28,770
+但然后呢
+But then what?
+
+410
+00:24:46,070 --> 00:24:49,460
+我以前会去缅因州的一间小木屋
+I used to go to this cabin... up in Maine.
+
+411
+00:24:51,770 --> 00:24:54,030
+窗户关不严实
+The windows don't close properly.
+
+412
+00:24:56,090 --> 00:24:59,610
+整个夏天都能闻到大海的气味儿
+You can smell the ocean all summer long.
+
+413
+00:25:16,480 --> 00:25:18,990
+我觉得你还是去宴会厅吧
+I do think it's better you go to the ballroom.
+
+414
+00:25:32,540 --> 00:25:37,000
+如果你尚未投票  我保证  你会有机会的
+If you have not voted, I assure you, you will get the chance.
+
+415
+00:25:37,010 --> 00:25:39,640
+但出于良心
+But I cannot, in good conscience,
+
+416
+00:25:39,640 --> 00:25:44,280
+我不能在确保安全前  允许投票继续
+allow balloting to continue until I am satisfied that it is safe.
+
+417
+00:25:44,280 --> 00:25:46,840
+为此  随着夜晚将至
+To that end, as nightfall approaches,
+
+418
+00:25:46,840 --> 00:25:48,790
+我要宣布今晚
+I am announcing an enforced,
+
+419
+00:25:48,790 --> 00:25:52,090
+执行全州宵禁
+state-wide curfew, effective tonight.
+
+420
+00:25:52,230 --> 00:25:56,250
+如果你中部时间晚8点30还未回家
+If you are not in your home by 8:30 p.m. central time,
+
+421
+00:25:56,250 --> 00:25:59,920
+或是东部时间9点30
+or by 9:30 in the eastern parts of this state,
+
+422
+00:25:59,920 --> 00:26:04,180
+你将被拘禁甚至逮捕
+you will be subject to detention and possible arrest.
+
+423
+00:26:04,180 --> 00:26:05,690
+这是怎么回事
+What the hell's going on?
+
+424
+00:26:05,690 --> 00:26:08,450
+我们会赢下宾州和俄亥俄州  就这么回事
+What's going on is we're gonna win Pennsylvania and Ohio.
+
+425
+00:26:08,840 --> 00:26:10,450
+那么你就超过270了
+That puts you over 270.
+
+426
+00:26:10,450 --> 00:26:12,400
+投票还在继续  大家还在投票
+The polls are still open. People are still voting.
+
+427
+00:26:12,400 --> 00:26:13,930
+我的直觉是那些票属于我们
+My gut says they're ours.
+
+428
+00:26:14,000 --> 00:26:16,520
+没有田纳西也272了
+That's 272 without Tennessee.
+
+429
+00:26:16,520 --> 00:26:18,360
+那混蛋暂停了投票
+That asshole's suspending the vote.
+
+430
+00:26:18,360 --> 00:26:20,960
+那得由他的州务卿决定  她是我们的人
+That's up to his secretary of state, and she's on our side.
+
+431
+00:26:20,960 --> 00:26:23,210
+-都这样了她还有的选吗  -州长  听我说
+- She's gonna have a choice after this? - Governor, listen to me.
+
+432
+00:26:23,210 --> 00:26:24,480
+我们还要让弗兰西斯·安德伍德
+I mean, how long do we let Francis Underwood
+
+433
+00:26:24,490 --> 00:26:26,790
+耍这种手段多久啊
+get away with this kind of shit? Huh? How long?
+
+434
+00:26:26,800 --> 00:26:28,350
+他不会得逞的
+He won't get away with it.
+
+435
+00:26:28,350 --> 00:26:29,310
+不会的
+He won't.
+
+436
+00:26:29,420 --> 00:26:31,380
+刚刚是田纳西州长
+That was Tennessee governor...
+
+437
+00:26:31,380 --> 00:26:32,100
+相信我
+Trust me.
+
+438
+00:26:32,100 --> 00:26:34,020
+宣布全州宵禁
+...announcing a state-wide curfew.
+
+439
+00:26:34,480 --> 00:26:35,670
+扯淡
+Bullshit.
+
+440
+00:26:37,090 --> 00:26:39,860
+全州的投票中心都在关闭
+Voting centers all across the state are being shut down,
+
+441
+00:26:39,860 --> 00:26:43,250
+中部时间8点30或东部时间9点30前
+and anyone not in their homes 8:30 central time,
+
+442
+00:26:43,250 --> 00:26:44,490
+还没回家的人
+or 9:30...
+
+443
+00:26:44,490 --> 00:26:48,090
+费城5点的一波  我们应该赢定了
+Five o'clock wave from Philly. I think we're home.
+
+444
+00:26:48,090 --> 00:26:50,880
+...被拘禁甚至逮捕  这则公告...
+...detention and possible arrest. This announcement...
+
+445
+00:26:57,250 --> 00:26:59,200
+田纳西的事简直疯了
+That Tennessee shit is crazy.
+
+446
+00:27:00,820 --> 00:27:02,290
+疯狂事经常有
+Crazy shit happens all the time.
+
+447
+00:27:02,820 --> 00:27:04,060
+这么凑巧
+This convenient?
+
+448
+00:27:06,410 --> 00:27:08,240
+少来什么阴谋论了
+Spare me the conspiracy talk.
+
+449
+00:27:08,650 --> 00:27:11,910
+政府没那么大威力  或能力
+The government's not that powerful... or competent.
+
+450
+00:27:14,190 --> 00:27:15,490
+总得问问
+A man can ask.
+
+451
+00:27:22,330 --> 00:27:25,220
+目前安德伍德255  康威245
+We're looking at 255 Underwood, 245 Conway.
+
+452
+00:27:25,220 --> 00:27:26,690
+宾州和俄亥俄呢
+Pennsylvania and Ohio?
+
+453
+00:27:26,690 --> 00:27:29,130
+还是太接近  但就要6点了
+Still too close, but it's almost six o' clock.
+
+454
+00:27:29,790 --> 00:27:32,280
+等我们把田纳西州从康威变成摇摆
+When we change Tennessee from Conway to undecided--
+
+455
+00:27:32,280 --> 00:27:32,930
+那么康威会下跌
+That brings Conway down
+
+456
+00:27:32,930 --> 00:27:34,810
+-到...  -234  还是太接近
+- to-- - Two thirty-four. Still way too close.
+
+457
+00:27:34,810 --> 00:27:35,850
+是啊  我们尚不知道
+Yes, but we don't yet know
+
+458
+00:27:35,860 --> 00:27:37,330
+他已经拿下了西部州
+that he's locked in the western states.
+
+459
+00:27:37,330 --> 00:27:39,250
+那些州十年没变了
+Those states have been locked up for ten years.
+
+460
+00:27:39,250 --> 00:27:42,760
+红的  红的  红的  到今晚结束又会是红的
+Red, red, red and they'll be red again by the end of the night.
+
+461
+00:27:42,760 --> 00:27:44,780
+就看宾州和俄亥俄了
+It's gonna come down to Pennsylvania and Ohio.
+
+462
+00:27:44,790 --> 00:27:47,390
+康威需要两个州  你只需要一个
+Conway needs both. You only need one.
+
+463
+00:27:47,960 --> 00:27:49,110
+马修斯
+Matthews?
+
+464
+00:27:49,110 --> 00:27:51,340
+他会反抗  可能还会公开表态
+He'll push back. He might even go public.
+
+465
+00:27:51,940 --> 00:27:53,650
+另外五个州呢
+What about the other five states in play?
+
+466
+00:27:53,650 --> 00:27:54,600
+律师在候着
+The lawyers are waiting.
+
+467
+00:27:54,600 --> 00:27:57,120
+我们可以就压制投票提出诉讼  但是
+We can generate lawsuits, argue suppression, but...
+
+468
+00:27:57,120 --> 00:27:58,350
+还是不够
+Still not enough.
+
+469
+00:27:59,870 --> 00:28:02,630
+奥姆斯泰德在俄亥俄情况不乐观  他很不高兴
+Olmstead's losing in Ohio, and he's not taking it well.
+
+470
+00:28:02,630 --> 00:28:04,560
+我今早跟他的幕僚长塔妮娅通过话
+I spoke with his chief of staff, Tanya, this morning.
+
+471
+00:28:04,560 --> 00:28:06,460
+他在州北的情况很糟
+He's getting clobbered in the northern part of the state.
+
+472
+00:28:06,460 --> 00:28:07,890
+克利夫兰的低投票率也是个问题
+Low turnout in Cleveland's not helping.
+
+473
+00:28:07,890 --> 00:28:09,330
+但他还能扭转局势
+But he could still pull it out.
+
+474
+00:28:09,330 --> 00:28:12,160
+他赢不了的  他也清楚
+He's not going to win and he knows it.
+
+475
+00:28:13,160 --> 00:28:14,670
+我们还有多少时间
+How much time do we have?
+
+476
+00:28:14,670 --> 00:28:18,430
+俄亥俄州两小时后关闭  大部分人今早都投票了
+Ohio closes in two hours. And most people voted this morning.
+
+477
+00:28:18,770 --> 00:28:20,710
+有些州局势已定了
+Some of these states are baked in already.
+
+478
+00:28:24,880 --> 00:28:27,100
+克莱尔和我要单独谈谈
+Claire and I need the room for a moment.
+
+479
+00:28:27,630 --> 00:28:28,510
+是  先生
+Yes, sir.
+
+480
+00:28:28,770 --> 00:28:31,000
+-莉安  我们再联络你  -是  先生
+- LeAnn, we'll call you back. - Yes, sir.
+
+481
+00:28:42,420 --> 00:28:44,030
+你为什么让他出去
+Why did you ask him to leave?
+
+482
+00:28:47,260 --> 00:28:52,060
+因为我想再看着你的眼睛一次
+Because I just wanted to look in your eyes one more time
+
+483
+00:28:52,060 --> 00:28:53,840
+再决定要不要动手
+before we do this.
+
+484
+00:28:55,920 --> 00:28:57,040
+弗兰西斯
+Francis...
+
+485
+00:28:57,710 --> 00:28:59,040
+我们做吧
+we're doing this.
+
+486
+00:29:07,640 --> 00:29:11,060
+他救不了我们  他发明了任期限制
+He can't save us. He invented term limits.
+
+487
+00:29:13,560 --> 00:29:14,420
+道格
+Doug!
+
+488
+00:29:17,090 --> 00:29:19,020
+再给我接莉安·哈维
+Get me LeAnn Harvey back on the phone.
+
+489
+00:29:20,280 --> 00:29:21,190
+是  先生
+Yes, sir.
+
+490
+00:29:21,310 --> 00:29:23,170
+对俄亥俄做该做的吧
+Do what you have to do with Ohio.
+
+491
+00:29:23,180 --> 00:29:24,080
+我就去
+I'm on it.
+
+492
+00:29:25,660 --> 00:29:28,220
+莉安  让律师准备
+LeAnn, get the lawyers ready.
+
+493
+00:29:30,250 --> 00:29:32,200
+-我不能这么做  -你可以的
+- I can't do this. - Yes, you can.
+
+494
+00:29:32,200 --> 00:29:35,360
+-不不  -而且得马上完成
+- No, no, no, no, no! - And it needs to be done quickly.
+
+495
+00:29:35,360 --> 00:29:37,340
+太草率了
+It's too sloppy.
+
+496
+00:29:37,340 --> 00:29:39,080
+是莉安打的电话  为什么是你来
+Why are you here if LeAnn called me?
+
+497
+00:29:39,080 --> 00:29:40,330
+我还要向你解释
+Do I really have to explain to you
+
+498
+00:29:40,330 --> 00:29:41,900
+你不这么做的后果吗
+what will happen if you don't do this?
+
+499
+00:29:41,900 --> 00:29:44,730
+我不在乎他输不输
+I don't care if he loses.
+
+500
+00:29:44,730 --> 00:29:48,320
+我不是指选举  我是说你
+I'm not talking about the election. I'm talking about you.
+
+501
+00:29:48,610 --> 00:29:50,780
+你会怎么样
+What will happen to you?
+
+502
+00:29:53,200 --> 00:29:56,480
+你有你需要的一切了  链接已经发给你了
+You have everything you need. The Pastebin link was sent to you.
+
+503
+00:30:00,710 --> 00:30:01,600
+莉安呢
+Where's LeAnn?
+
+504
+00:30:01,600 --> 00:30:03,700
+她不在  我时间不多了
+She's not here, and I'm short on time.
+
+505
+00:30:30,540 --> 00:30:33,600
+州长  对不起  但这事只有一个办法
+Governor, I'm sorry, but there's only one way to play this.
+
+506
+00:30:33,600 --> 00:30:34,920
+我们需要你撤掉那三郡的
+We need you to pull your poll workers
+
+507
+00:30:34,920 --> 00:30:36,420
+投票工作人员和投票机
+and your machines from those three counties.
+
+508
+00:30:36,420 --> 00:30:38,710
+共和党人会宰了我的  那是他们的地盘
+The Republicans would crucify me. They own that area.
+
+509
+00:30:38,720 --> 00:30:39,760
+但那几个选区
+But those are the precincts
+
+510
+00:30:39,760 --> 00:30:41,970
+最有可能遭遇威胁
+that are most likely to be threatened.
+
+511
+00:30:41,970 --> 00:30:44,350
+"可能"  你什么...
+"Likely to be"? Hey, what are you...
+
+512
+00:30:44,350 --> 00:30:45,870
+这是什么意思
+What are we talking about here?
+
+513
+00:30:46,330 --> 00:30:47,640
+恐怖袭击可能性
+Terrorist chatter.
+
+514
+00:30:47,650 --> 00:30:49,090
+针对田纳西州的
+Related to Tennessee?
+
+515
+00:30:49,320 --> 00:30:50,190
+是的
+Yes, sir.
+
+516
+00:30:50,190 --> 00:30:51,810
+我可不能光听你空口一词
+Well, I'm gonna need more than your word on that.
+
+517
+00:30:51,810 --> 00:30:54,490
+对不起  但情报是机密  州长
+Oh, I'm sorry, but the intelligence is classified, Governor.
+
+518
+00:30:54,490 --> 00:30:56,060
+那给我权限
+Then read me in.
+
+519
+00:30:56,330 --> 00:30:56,960
+我没亲眼
+'Cause I'm not doing this
+
+520
+00:30:56,960 --> 00:30:59,010
+看到证据是不会这么做的
+without seeing tangible proof with my own eyes.
+
+521
+00:30:59,010 --> 00:31:00,170
+你去告诉弗兰西斯吧
+You can tell Francis.
+
+522
+00:31:00,170 --> 00:31:02,980
+另外  因为俄亥俄州投票率这么低
+The other thing is, with Ohio turnout so low,
+
+523
+00:31:03,090 --> 00:31:05,940
+可能会有人指控你刻意压制投票
+people could accuse you of engaging in voter suppression.
+
+524
+00:31:05,940 --> 00:31:06,860
+什么
+What?
+
+525
+00:31:06,880 --> 00:31:10,640
+投票中心和警卫队都是总统的主意
+The voting centers and the troops were the president's idea.
+
+526
+00:31:10,640 --> 00:31:12,160
+但你同意了
+But you signed on to them,
+
+527
+00:31:12,380 --> 00:31:13,760
+这才重要
+and that's what matters.
+
+528
+00:31:13,900 --> 00:31:15,650
+你要输掉选举了  先生
+You're losing your election, sir.
+
+529
+00:31:15,650 --> 00:31:16,960
+这很明显
+The signs are clear.
+
+530
+00:31:17,630 --> 00:31:20,030
+民主党失去一位州长就太可惜了
+That'd be a real shame for the Democrats to be down a governor.
+
+531
+00:31:20,030 --> 00:31:22,720
+但现在发生了种种情况
+But here we have this confluence of events.
+
+532
+00:31:23,180 --> 00:31:26,010
+一方面是你不尽如人意的选情
+Your disappointing returns on one hand
+
+533
+00:31:26,100 --> 00:31:27,670
+一方面是恐怖袭击的可能
+and the chatter on the other.
+
+534
+00:31:28,220 --> 00:31:30,810
+我需要证据  否则  人们会觉得
+I need proof. Otherwise, people will think--
+
+535
+00:31:30,810 --> 00:31:33,680
+你为了赢得选举  而关闭了
+That you shut down voting in Republican precincts
+
+536
+00:31:33,680 --> 00:31:35,600
+共和党选区的投票站
+to guarantee your own win.
+
+537
+00:31:35,610 --> 00:31:36,880
+幸好
+Now I'd say it's a good thing
+
+538
+00:31:36,880 --> 00:31:39,480
+国安局刚收到了可靠的消息
+that the NSA just picked up on some credible chatter.
+
+539
+00:31:40,110 --> 00:31:42,380
+这危险的世界让你别无选择
+This dangerous world left you no choice.
+
+540
+00:31:45,620 --> 00:31:46,640
+谢谢
+Thank you.
+
+541
+00:31:47,560 --> 00:31:51,480
+州长  我刚刚拿到了机密情报
+Governor, I was just handed the classified intel.
+
+542
+00:31:52,390 --> 00:31:53,910
+您在加密服务器上吗
+Are you on a secure server?
+
+543
+00:31:53,920 --> 00:31:56,130
+-在  -请稍等
+- Yes, I am. - Please hold.
+
+544
+00:32:00,990 --> 00:32:02,930
+我这就把文件发给您
+I'm sending the files over right now.
+
+545
+00:32:18,200 --> 00:32:19,840
+您的决定是正确的  先生
+You're doing the right thing, sir.
+
+546
+00:32:19,910 --> 00:32:21,700
+我们可不能背上血债
+We don't want blood on our hands.
+
+547
+00:32:24,040 --> 00:32:26,760
+我不管他们把投票机搬哪去
+I don't care where they're taking the voting machines.
+
+548
+00:32:26,770 --> 00:32:27,710
+你就盯紧...
+Just stay...
+
+549
+00:32:27,930 --> 00:32:30,210
+有必要的话把你自己绑在投票机上
+You chain yourself to one of them if you have to.
+
+550
+00:32:30,840 --> 00:32:32,900
+好  我去找个俄亥俄州的法官
+Good. I'm gonna find an Ohio judge.
+
+551
+00:32:33,450 --> 00:32:36,210
+俄亥俄州的投票中心已经关了近两个小时了
+Voting centers in Ohio have been closed for almost two hours.
+
+552
+00:32:36,210 --> 00:32:37,410
+康威已经去找法官了
+And Conway's got a judge.
+
+553
+00:32:37,410 --> 00:32:38,790
+他在申请重开投票中心
+He's petitioning to reopen.
+
+554
+00:32:38,790 --> 00:32:40,400
+但就算投票中心继续关闭
+But even if they stay closed,
+
+555
+00:32:40,400 --> 00:32:41,650
+俄亥俄州能帮我们达成目的吗
+would Ohio get us there?
+
+556
+00:32:41,650 --> 00:32:43,370
+其他州可能还有戏
+Other states might be in play.
+
+557
+00:32:43,370 --> 00:32:45,720
+压制投票的传言也出现了  但...
+Rumblings of suppression are out there, although...
+
+558
+00:32:45,720 --> 00:32:46,760
+还有什么别的情况
+Well, what else do we have?
+
+559
+00:32:46,760 --> 00:32:48,400
+爱达荷州  出现恐吓选民的事件
+Voter intimidation in Idaho.
+
+560
+00:32:48,410 --> 00:32:50,850
+怎么样  我要不要回话让他们提交诉讼
+What do you think? Should I call them back and have them file?
+
+561
+00:32:50,930 --> 00:32:51,890
+我看行
+I like it.
+
+562
+00:32:52,280 --> 00:32:54,900
+这样和田纳西的事呼应效果最好
+It has the most resonance with what's happened in Tennessee.
+
+563
+00:32:54,900 --> 00:32:57,480
+我还希望佐治亚有议员站出来
+I also like an assemblyman we have in Georgia.
+
+564
+00:32:57,480 --> 00:32:58,820
+马里兰有个众议员
+There's a congressman in Maryland.
+
+565
+00:32:58,820 --> 00:33:01,240
+马里兰也是没要求派警卫队的州之一
+That's one of the states that didn't request the troops.
+
+566
+00:33:01,240 --> 00:33:03,400
+等等  我们需不需要普通选民出来表态
+But wait. Don't we need something coming from a voter?
+
+567
+00:33:03,410 --> 00:33:04,960
+密西西比有个选民
+There's a voter in Mississippi.
+
+568
+00:33:04,970 --> 00:33:06,720
+她说她吓得不敢去投票了
+Said she was too scared to vote.
+
+569
+00:33:06,720 --> 00:33:08,880
+新闻基本就是告诉她不要去投票
+That TV essentially told her not to go.
+
+570
+00:33:08,880 --> 00:33:10,800
+这就有点牵强了吧
+Well, that sounds like a bit of a stretch.
+
+571
+00:33:10,800 --> 00:33:13,220
+可能对我们有利  先生
+That could be a plus for us, sir.
+
+572
+00:33:13,230 --> 00:33:14,730
+能很好地打开局面
+Really open things up.
+
+573
+00:33:14,730 --> 00:33:16,420
+如果俄亥俄继续关闭
+If Ohio stays shut,
+
+574
+00:33:16,420 --> 00:33:17,890
+可能会引发连锁反应
+there could be a ripple effect.
+
+575
+00:33:17,890 --> 00:33:19,970
+这都是前无古人的做法
+This is all uncharted territory.
+
+576
+00:33:19,970 --> 00:33:22,110
+那好  佐治亚和马里兰待会儿再说
+All right, let's put a pin in Georgia and Maryland,
+
+577
+00:33:22,110 --> 00:33:24,650
+让俄亥俄的投票中心继续关闭
+and let's keep the Ohio voting centers shut down,
+
+578
+00:33:24,650 --> 00:33:26,340
+看看有什么结果
+and see where that gets us.
+
+579
+00:33:26,340 --> 00:33:29,070
+康威已经拿下宾夕法尼亚
+Pennsylvania has gone to Conway.
+
+580
+00:33:29,080 --> 00:33:32,240
+就算双方在俄亥俄仍然难分胜负
+Even if Ohio is still too close to call
+
+581
+00:33:32,240 --> 00:33:34,770
+总统在西北部取胜的话
+and the President does well in the Northwest,
+
+582
+00:33:34,980 --> 00:33:37,750
+他仍无法抵消康威在南部取得的优势
+he can't counter Conway's gains in the South,
+
+583
+00:33:37,750 --> 00:33:40,260
+而那里曾是安德伍德的地盘
+in what would typically be Underwood territory.
+
+584
+00:33:40,260 --> 00:33:42,020
+人民已经做出了选择
+The people have spoken.
+
+585
+00:33:43,200 --> 00:33:44,730
+真是难以置信
+I can't believe this.
+
+586
+00:33:44,730 --> 00:33:47,240
+总统因故不能前来  他向各位表示歉意
+The President apologizes that he couldn't be here tonight,
+
+587
+00:33:47,670 --> 00:33:51,350
+但他想让我告诉各位  败选已经不可避免了
+but he wanted me to let you know that concession is inevitable.
+
+588
+00:33:52,000 --> 00:33:53,900
+还有那么多州票没计完
+All the states haven't been called yet.
+
+589
+00:33:53,900 --> 00:33:55,560
+总统还有时间想办法...
+The president still has time if he needs...
+
+590
+00:33:55,560 --> 00:33:58,010
+各位  我们已经尽力了
+Guys, we fought a good fight.
+
+591
+00:33:58,010 --> 00:34:01,150
+可是很不幸  实情就是这样
+But, unfortunately, this is the reality of the situation.
+
+592
+00:34:01,150 --> 00:34:02,440
+天啊
+Jesus.
+
+593
+00:34:04,730 --> 00:34:06,180
+看来这就算完了
+Well, I guess that's that.
+
+594
+00:34:11,340 --> 00:34:12,210
+喂  我是威尔
+Yeah, this is Will.
+
+595
+00:34:12,210 --> 00:34:14,000
+我想第一个对你说
+I wanted to be the first to tell you
+
+596
+00:34:14,000 --> 00:34:17,190
+恭喜你  当选总统先生
+congratulations, Mr. President-elect.
+
+597
+00:34:18,280 --> 00:34:20,280
+谢谢你  总统先生
+Well, thank you, Mr. President.
+
+598
+00:34:20,610 --> 00:34:23,030
+{\an3}{\pos(374,247)}2000年大选夜  戈尔先向小布什认输
+但是第二天又反悔了
+
+599
+00:34:20,610 --> 00:34:23,030
+怎么  你以为我没从戈尔那里学到教训吗
+What? You think I learned nothing from Al Gore?
+
+600
+00:34:24,720 --> 00:34:27,220
+我们这场选战可真是激烈万分啊  是不是
+We kept them on the edge of their seats, didn't we?
+
+601
+00:34:28,910 --> 00:34:31,260
+我想这也说明我们的体制运转良好
+I guess that means the system is working.
+
+602
+00:34:31,260 --> 00:34:32,790
+我也这么看
+I guess it does.
+
+603
+00:34:32,790 --> 00:34:35,120
+你是我遇到过的最强劲的对手了  弗兰西斯
+You're about as tough an opponent as they come, Francis.
+
+604
+00:34:35,120 --> 00:34:37,060
+我经验丰富啊
+Well, I've had a lot of practice.
+
+605
+00:34:37,060 --> 00:34:40,050
+请一定要转达我对汉娜和孩子们的问候
+Now, you be sure to give my regards to Hannah and the children.
+
+606
+00:34:40,050 --> 00:34:41,880
+谢谢你  总统先生  我
+Thank you, Mr. President. I'm...
+
+607
+00:34:42,700 --> 00:34:45,680
+我在不久的将来  肯定会向你讨教的
+sure I'll be calling on you for advice in the very near future.
+
+608
+00:34:45,680 --> 00:34:47,540
+我万分期待
+Well, I look forward to that.
+
+609
+00:34:58,360 --> 00:34:59,720
+他认输了
+He conceded?
+
+610
+00:35:05,440 --> 00:35:06,360
+对
+Yeah.
+
+611
+00:35:11,370 --> 00:35:12,270
+我们成功了
+We did it.
+
+612
+00:35:14,410 --> 00:35:15,430
+我们做到了
+We did it.
+
+613
+00:35:16,380 --> 00:35:17,640
+打扰一下  先生
+Excuse me, sir.
+
+614
+00:35:18,450 --> 00:35:20,770
+布洛哈特将军正在来套房的路上
+General Brockhart is on his way over to the suite.
+
+615
+00:35:20,860 --> 00:35:21,780
+谢谢
+Thank you.
+
+616
+00:35:29,960 --> 00:35:31,940
+有消息源称  不久前
+Sources are telling us that Francis Underwood
+
+617
+00:35:31,940 --> 00:35:34,180
+弗兰西斯·安德伍德致电康威州长
+conceded to Governor Conway on the phone
+
+618
+00:35:34,180 --> 00:35:35,980
+承认落选
+only a short time ago.
+
+619
+00:35:35,980 --> 00:35:38,800
+我猜测他们收到的数字跟我们的相符
+I suspect their numbers are matching up with ours,
+
+620
+00:35:38,800 --> 00:35:41,760
+那么俄亥俄将被共和党收入囊中
+which would put Ohio in the Republican column.
+
+621
+00:35:41,760 --> 00:35:43,370
+足以让威廉·康威
+Enough to make William Conway
+
+622
+00:35:43,370 --> 00:35:46,250
+成为美国下一任总统
+the next president of the United States.
+
+623
+00:35:54,810 --> 00:35:56,370
+-你好  -塔妮娅  让他接电话
+- Hello? - Tanya, put him on the line.
+
+624
+00:35:56,370 --> 00:35:57,830
+等一下  我看看能不能找到他
+Hang on, let me see if I can get him.
+
+625
+00:35:57,840 --> 00:35:59,150
+他是我的州务卿
+He's my Secretary of State,
+
+626
+00:35:59,150 --> 00:36:00,470
+他有权这么做
+and he has the power to do it.
+
+627
+00:36:00,470 --> 00:36:02,230
+那你得告诉他该做什么
+Well, then you need to tell him what to do.
+
+628
+00:36:02,230 --> 00:36:04,850
+他说他可以重开选站将投票日延长到明天
+He says he can reopen and extend the voting day into tomorrow.
+
+629
+00:36:04,850 --> 00:36:06,090
+告诉他这不安全
+Tell him it's not safe.
+
+630
+00:36:06,100 --> 00:36:07,160
+我说了  道格
+I've done that, Doug!
+
+631
+00:36:07,160 --> 00:36:08,760
+他显然不在乎
+Obviously, he doesn't seem to care.
+
+632
+00:36:08,770 --> 00:36:10,740
+安德伍德已经认输了
+Underwood conceded already.
+
+633
+00:36:10,740 --> 00:36:14,180
+别放你的州务卿出去
+Do not trot out your Secretary of State.
+
+634
+00:36:14,370 --> 00:36:15,400
+投票不能重启
+Voting cannot resume.
+
+635
+00:36:15,400 --> 00:36:16,310
+如果你还有什么疑虑
+Now, if you have any doubt,
+
+636
+00:36:16,310 --> 00:36:17,950
+那也给我忍着
+you swallow it right now.
+
+637
+00:36:17,950 --> 00:36:19,040
+我担心的是党派
+I'm worried about the party.
+
+638
+00:36:19,040 --> 00:36:20,270
+这对党派的影响
+What this could do to the party.
+
+639
+00:36:20,270 --> 00:36:22,670
+罗杰  这比党派重要多了
+Roger, this is so much bigger than the party.
+
+640
+00:36:23,570 --> 00:36:25,540
+我觉得我把我的事业都赌上了
+I feel like I'm risking my entire career here.
+
+641
+00:36:25,550 --> 00:36:26,550
+是的
+You are.
+
+642
+00:36:27,080 --> 00:36:29,180
+如果你不照我说的做
+And if you don't do what I'm telling you,
+
+643
+00:36:29,190 --> 00:36:30,650
+你的前途就完了
+it's over for sure.
+
+644
+00:36:36,440 --> 00:36:37,330
+怎么了
+What?
+
+645
+00:36:44,730 --> 00:36:46,010
+他还要耗多久
+How many hours is it gonna take him
+
+646
+00:36:46,010 --> 00:36:48,170
+才肯在公众面前说出那几个字
+to spit out the fucking words in public?
+
+647
+00:36:48,480 --> 00:36:49,700
+不管了  去他的规程
+Screw this. Screw protocol.
+
+648
+00:36:49,700 --> 00:36:50,680
+我这就要过去
+I'm heading down there.
+
+649
+00:36:50,690 --> 00:36:52,190
+-不  不行  -已经到第二天了  马克
+- No, you're not. - It's already tomorrow, Mark.
+
+650
+00:36:52,190 --> 00:36:53,370
+这简直不可理喻
+I mean, this is insane.
+
+651
+00:36:53,370 --> 00:36:56,210
+-我想发表讲话  -俄亥俄州还没完
+- I want to make my speech! - Ohio is still in play.
+
+652
+00:36:56,440 --> 00:36:57,340
+什么
+What?
+
+653
+00:36:59,140 --> 00:37:00,270
+你在说什么
+What are you talking about?
+
+654
+00:37:00,870 --> 00:37:03,220
+持续的恐怖主义威胁带来的恐慌...
+...fear from continued terrorist threats
+
+655
+00:37:03,350 --> 00:37:05,840
+和田纳西州传出的令人不安的消息
+and the disturbing news coming out of Tennessee...
+
+656
+00:37:07,850 --> 00:37:11,080
+让我不得不关闭几个我们的投票站
+I was forced to close a number of our polling places.
+
+657
+00:37:14,760 --> 00:37:16,970
+操
+Fuck me.
+
+658
+00:37:18,970 --> 00:37:21,870
+经与俄亥俄州州务卿达成一致
+And in accordance with the Ohio secretary of state,
+
+659
+00:37:22,080 --> 00:37:24,960
+投票在进一步通知前先行暂停
+the vote is suspended until further notice.
+
+660
+00:37:28,700 --> 00:37:31,210
+我知道这会让我们的选民疑虑重重
+Now, I know this may put our electorates in question...
+
+661
+00:37:32,790 --> 00:37:34,290
+但我别无选择
+...but I had no choice.
+
+662
+00:37:38,040 --> 00:37:39,570
+新泽西可能不认证
+New Jersey might not certify.
+
+663
+00:37:39,570 --> 00:37:41,780
+出现了一些异常情况
+There's been a variety of irregularities.
+
+664
+00:37:41,910 --> 00:37:43,430
+伊利诺伊也是
+Same with Illinois.
+
+665
+00:37:43,470 --> 00:37:46,040
+看起来内华达也有异动
+Looks like Nevada's making noises, too.
+
+666
+00:37:48,730 --> 00:37:52,230
+感觉似曾相识  你有同感吗
+I'm having déjà vu. You ever get that?
+
+667
+00:37:54,030 --> 00:37:56,300
+你真的在问我似曾相识的感觉吗
+Are you seriously asking me about déjà vu?
+
+668
+00:37:56,300 --> 00:37:58,170
+算了  已经没感觉了
+Never mind. It's gone.
+
+669
+00:38:00,030 --> 00:38:02,590
+你从未有过似曾相识的感觉吗  人人都会有
+You never get déjà vu? Everybody does.
+
+670
+00:38:02,590 --> 00:38:03,600
+我没有
+I don't.
+
+671
+00:38:05,110 --> 00:38:06,810
+别那么焦虑  道格
+Don't look so worried, Doug.
+
+672
+00:38:06,820 --> 00:38:08,750
+你就是那一瞬间感觉很熟悉
+You just felt familiar for a second.
+
+673
+00:38:09,700 --> 00:38:10,580
+已经过去了
+It's over.
+
+674
+00:38:11,490 --> 00:38:14,190
+现在  总统选举结果未定
+Now, the presidency hangs in the balance.
+
+675
+00:38:14,190 --> 00:38:16,940
+至少六个州将不能在2016的选举夜
+At least six states will not have certified vote totals
+
+676
+00:38:16,940 --> 00:38:19,070
+认证计票结果
+on Election Night 2016.
+
+677
+00:38:21,210 --> 00:38:22,280
+晚上好
+Good evening.
+
+678
+00:38:23,890 --> 00:38:25,600
+我猜我该说早上好
+I guess I should say good morning.
+
+679
+00:38:29,070 --> 00:38:31,570
+威尔很希望他能亲自出镜
+Will wishes he could be here himself...
+
+680
+00:38:32,300 --> 00:38:34,880
+但我们获知那有违规章
+but we've been advised that goes against protocol.
+
+681
+00:38:36,160 --> 00:38:37,150
+我知道...
+I know...
+
+682
+00:38:38,590 --> 00:38:39,980
+你们很失望
+you're disappointed.
+
+683
+00:38:41,640 --> 00:38:43,370
+你介意用失望这个词吗
+Are you okay with the word disappointed?
+
+684
+00:38:46,500 --> 00:38:48,460
+我们不该提到他们的愤怒吗
+Shouldn't we acknowledge their outrage?
+
+685
+00:38:48,460 --> 00:38:50,240
+我觉得我们应该小心处理
+I'd say we should tread lightly.
+
+686
+00:38:50,290 --> 00:38:52,780
+目前我们只想请他们保持耐心
+For now, we're just asking for their patience.
+
+687
+00:38:52,780 --> 00:38:54,610
+好  我们拍吧
+Okay, let's do it.
+
+688
+00:38:55,960 --> 00:38:58,270
+这个国家就没有无聊的时候
+Never a dull moment in this country.
+
+689
+00:38:59,730 --> 00:39:01,910
+威尔很希望他能亲自出镜
+Will wishes he could be here himself,
+
+690
+00:39:01,910 --> 00:39:05,770
+但我们获知那有违规章
+but we've been advised that would go against protocol.
+
+691
+00:39:06,040 --> 00:39:08,480
+我知道你们很失望
+I know you're disappointed
+
+692
+00:39:08,480 --> 00:39:11,250
+你们所期待的改变
+that the change you were hoping for...
+
+693
+00:39:11,300 --> 00:39:12,670
+你们所投票支持的改变
+...that you voted for,
+
+694
+00:39:12,670 --> 00:39:14,790
+得再等一段时间
+has to wait a little longer.
+
+695
+00:39:32,480 --> 00:39:35,390
+最终  这没有定论的选举之夜
+And, finally, a night of electoral indecision,
+
+696
+00:39:35,390 --> 00:39:38,070
+几乎每个州都提起了诉讼
+with lawsuits being filed in nearly every state,
+
+697
+00:39:38,070 --> 00:39:40,150
+为它画上句号的是檀香山市长
+has ended with the mayor of Honolulu,
+
+698
+00:39:40,150 --> 00:39:42,410
+最后一个关闭了投票
+in the last state to close its polls,
+
+699
+00:39:42,410 --> 00:39:45,090
+并拒绝承认选举结果
+refusing to honor the results of the election
+
+700
+00:39:45,090 --> 00:39:46,760
+还提起了诉讼
+and filing a lawsuit.
+
+701
+00:39:46,970 --> 00:39:48,250
+夏威夷是我们这边的吗
+Was Hawaii one of ours?
+
+702
+00:39:48,260 --> 00:39:50,100
+应该不是
+No, I don't think so.
+
+703
+00:39:54,500 --> 00:39:56,840
+克莱尔  能帮我个忙吗
+Claire, could you do me a little favor?
+
+704
+00:39:57,390 --> 00:39:58,680
+我头很痛
+I have a splitting headache.
+
+705
+00:39:58,680 --> 00:40:01,380
+你能揉揉我的太阳穴吗
+Could you rub my temples for a moment?
+
+706
+00:40:02,350 --> 00:40:03,420
+当然
+Of course.
+
+707
+00:40:07,570 --> 00:40:10,430
+不  其实是我眼睛这里疼
+No, actually the pain is right behind my eyes.
+
+708
+00:40:10,430 --> 00:40:14,250
+你能...给我揉揉眼睛吗
+Could you just... rub my eyes for me?
+
+709
+00:40:15,040 --> 00:40:16,520
+但是你讨厌那样
+But you hate that.
+
+710
+00:40:17,010 --> 00:40:19,630
+我知道  但是这次我应该会喜欢
+I know, but I think I'll like it this time.
+
+711
+00:40:31,000 --> 00:40:32,640
+你可以用力点
+You can do it harder.
+
+712
+00:40:36,050 --> 00:40:37,560
+再用力点
+Even harder than that.
+
+713
+00:40:51,150 --> 00:40:53,300
+走出这一步就没有回头路了
+There's no coming back from this.
+
+714
+00:40:54,960 --> 00:40:57,640
+我很清楚我们要做什么
+I know exactly what we're about to do.
+
+715
+00:40:58,420 --> 00:40:59,920
+如果我们失败了  后果要我们两个承担
+If we fail, it's on both of us.
+
+716
+00:40:59,920 --> 00:41:01,900
+我是不能保护你的
+I won't be able to protect you.
+
+717
+00:41:03,950 --> 00:41:05,860
+那就如释重负了
+And what a relief that will be...
+
+718
+00:41:07,110 --> 00:41:08,530
+对我们两个都是
+for both of us.
+
+719
+00:41:12,380 --> 00:41:15,320
+美国人民不知道什么对他们才是最好的
+The American people don't know what's best for them.
+
+720
+00:41:16,070 --> 00:41:17,100
+我知道
+I do.
+
+721
+00:41:18,830 --> 00:41:21,300
+我很清楚他们需要什么
+I know exactly what they need.
+
+722
+00:41:22,770 --> 00:41:25,420
+他们就像小孩子  克莱尔
+They're like little children, Claire.
+
+723
+00:41:26,140 --> 00:41:28,030
+我们从未有过的孩子
+Children we never had.
+
+724
+00:41:29,200 --> 00:41:31,360
+我们得抓着他们黏糊糊的手指
+We have to hold their sticky fingers
+
+725
+00:41:31,360 --> 00:41:33,920
+擦干净他们的脏嘴
+and wipe their filthy mouths.
+
+726
+00:41:34,110 --> 00:41:36,300
+教他们分辨是非
+Teach them right from wrong.
+
+727
+00:41:36,300 --> 00:41:37,360
+告诉他们思考什么
+Tell them what to think
+
+728
+00:41:37,360 --> 00:41:39,370
+感觉什么  想要什么
+and how to feel and what to want.
+
+729
+00:41:40,370 --> 00:41:43,580
+他们甚至连书写最疯狂的梦想
+They even need help writing their wildest dreams,
+
+730
+00:41:43,580 --> 00:41:46,230
+塑造最大的恐惧都需要帮助
+crafting their worst fears.
+
+731
+00:41:48,860 --> 00:41:50,300
+他们很幸运
+Lucky for them...
+
+732
+00:41:51,800 --> 00:41:53,230
+他们有我...
+they have me...
+
+733
+00:41:55,040 --> 00:41:56,590
+他们有你
+they have you.
+
+734
+00:41:59,250 --> 00:42:00,420
+安德伍德
+Underwood.
+
+735
+00:42:02,790 --> 00:42:04,070
+安德伍德
+Underwood.
+
+736
+00:42:05,080 --> 00:42:06,580
+2016年
+2016.
+
+737
+00:42:10,280 --> 00:42:11,610
+2020年
+2020.
+
+738
+00:42:15,100 --> 00:42:16,800
+2024年
+2024.
+
+739
+00:42:19,710 --> 00:42:21,170
+2028年
+2028.
+
+740
+00:42:22,810 --> 00:42:24,500
+2032年
+2032.
+
+741
+00:42:26,690 --> 00:42:28,740
+2036年
+2036.
+
+742
+00:42:32,470 --> 00:42:33,930
+一个国家
+One nation...
+
+743
+00:42:34,980 --> 00:42:36,360
+由安德伍德执掌
+Underwood.
+
+744
+00:42:52,470 --> 00:42:55,670
+道格  莉安  你们有空吗
+Doug, LeAnn... do you have a moment?
+
+746
+00:43:06,250 --> 00:44:06,250
+{\an5}{\pos(193,150)}按约定俗成的规则  正常的选举程序  是在选举结果揭晓后
+落败方向胜选方打电话认输  然后发表落选演说  再由胜选方宣布胜利
+竞选双方在这件事上  按说要本着"大局为重"的原则
+就是不能让胜负的结果影响选民对民主制度的信任
+所以如果选举中出现选票极其接近的情况  而落后方要求重新计票
+落后方会面临压力  不能让这个悬而未决的时间拖得太久  造成混乱
+但如果有候选人想纠缠下去  拖上几个月  也并不被法律禁止
+在2016年大选夜  希拉里开始并不甘心认输
+是奥巴马亲自给她打电话  要求她认输  她才给特朗普打电话承认落选
+但她并没去自己的选举中心会场公开认输  并感谢支持者
+而是在午夜后派自己的竞选经理去会场  告知支持者事情还没完
+媒体是在她不会亲临现场后  才得知她致电特朗普认输了  当时场面混乱
+
+748
+00:44:06,250 --> 00:45:06,250
+{\an5}{\pos(193,150)}美国建国时并没有任期限制  但是首任总统华盛顿高风亮节
+担任两届总统后就坚决退休  所以后来者也就约定俗成地只任两届
+格罗弗·克利夫兰是美国唯一一个卸任后重选再度当选的总统
+他是第22任和第24任总统  都只任了一届
+但到了富兰克林·罗斯福的时候  因为他影响很大  又遇上二战
+所以当他两届任期结束后决定继续做总统时  并没有遇到太多阻力
+他的支持者称  他继续担任总统是为了战争需要
+罗斯福四次胜选  但是最后一次被选上后不久就因病去世
+他的行为被认为是对民主制度的威胁
+于是国会在1944年通过了宪法第22条修正案  规定总统最多只能任两届
+在副总统中途继位的情况下  也最多只能担任10年
+

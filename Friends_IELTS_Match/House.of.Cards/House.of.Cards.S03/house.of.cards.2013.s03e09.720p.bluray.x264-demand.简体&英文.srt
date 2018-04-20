@@ -1,0 +1,3750 @@
+﻿1
+00:05:26,430 --> 00:05:27,850
+{\an7}{\pos(65,103)}翻译   肉松富士
+
+2
+00:05:28,430 --> 00:05:29,850
+{\an7}{\pos(242.5,102.1)}翻译   杏仁斯嘉丽
+
+3
+00:05:30,480 --> 00:05:31,890
+{\an7}{\pos(57,245)}翻译   国士章鱼X
+
+4
+00:05:32,900 --> 00:05:34,270
+{\an7}{\pos(71,103)}翻译   香茗小焙
+
+5
+00:05:34,650 --> 00:05:36,070
+{\an7}{\pos(248,244.55)}翻译   艾瑞卡
+
+6
+00:05:36,270 --> 00:05:37,690
+{\an7}{\pos(76,103)}翻译   somehacker
+
+7
+00:05:38,570 --> 00:05:39,990
+{\an7}{\pos(53.4,244.1)}翻译   面条打包子
+
+8
+00:05:40,070 --> 00:05:41,490
+{\an7}{\pos(241,245)}时间轴   Kallen
+
+9
+00:05:42,280 --> 00:05:43,700
+{\an7}{\pos(65.7,241.85)}后期   饿得慌
+
+10
+00:05:44,280 --> 00:05:45,700
+{\an7}{\pos(244,245)}顾问   老杜
+
+11
+00:05:49,370 --> 00:05:50,790
+{\an7}{\pos(49.6,103.95)}鸣谢   忙成狗的网飞
+
+12
+00:05:51,330 --> 00:05:52,750
+{\an7}{\pos(60.9,190.95)}鸣谢   阿小小海
+
+13
+00:05:55,630 --> 00:05:57,500
+{\an7}{\pos(215.6,174.75)}特效   草草
+
+14
+00:05:57,750 --> 00:05:59,670
+{\an7}{\pos(150.2,172.5)}校对   草草
+
+15
+00:05:59,880 --> 00:06:01,800
+{\an7}{\pos(283.1,189.15)}总监   草草
+
+16
+00:06:45,970 --> 00:06:48,930
+{\pos(196,180)}纸牌屋
+
+17
+00:06:45,970 --> 00:06:48,930
+{\an2}{\pos(212,245.4)}第三季  第九集
+
+18
+00:01:00,580 --> 00:01:05,250
+{\pos(116.4,237.6)}安德伍德竞选总统
+
+19
+00:02:29,300 --> 00:02:36,640
+安德伍德竞选2016
+
+20
+00:02:29,300 --> 00:02:36,640
+支持安德伍德
+支持就业法案
+
+21
+00:02:29,300 --> 00:02:36,640
+让美国有工作
+
+22
+00:03:35,200 --> 00:03:38,910
+{\an7}{\pos(166.2,10.35)}八名俄罗斯人在约旦合谷遇难
+
+23
+00:08:16,770 --> 00:08:28,070
+{\an7}八名俄罗斯士兵丧生约旦河谷
+
+24
+00:15:18,440 --> 00:15:23,360
+{\pos(120,198.9)}{\an7}{\pos(118.8,197.55)}辛西娅/邓巴
+
+25
+00:46:48,540 --> 00:46:58,380
+{\pos(183.6,245.25)}{\an1}以军进入约旦河谷
+
+26
+00:48:46,610 --> 00:48:53,370
+{\pos(241.5,117.45)}{\an1}尼克斯先生  夫人
+我怀着悲痛的心情通知你们
+10月18日周日
+你们的儿子在演练中不幸丧生
+我的悲痛无以言表...
+弗兰西斯·J·安德伍德
+
+27
+00:00:59,610 --> 00:01:02,950
+总统看到我高潮了
+Well, the president just saw me come.
+
+28
+00:01:08,710 --> 00:01:10,740
+-不喜欢我的长颈鹿吗  -不喜欢
+- You don't like my giraffe? - No.
+
+29
+00:01:13,380 --> 00:01:14,630
+你知道我离过两次婚
+You know I'm divorced twice
+
+30
+00:01:14,630 --> 00:01:16,340
+还有个女儿在上大学吧
+and have a daughter in college, right?
+
+31
+00:01:17,100 --> 00:01:20,630
+-你的维基百科页上有  -维基百科
+- It's on your Wikipedia page. - Wikipedia.
+
+32
+00:01:21,170 --> 00:01:22,260
+老天
+Christ.
+
+33
+00:01:23,890 --> 00:01:25,690
+我不指望什么
+I don't have any expectations.
+
+34
+00:01:27,280 --> 00:01:29,180
+我从不指望任何人
+I never have, of anyone.
+
+35
+00:01:30,450 --> 00:01:31,400
+你也不该
+You shouldn't either.
+
+36
+00:01:34,560 --> 00:01:36,250
+我们今天翘了几场活动
+How many events have we skipped today?
+
+37
+00:01:41,540 --> 00:01:43,170
+三场
+Three so far.
+
+38
+00:01:44,270 --> 00:01:45,930
+第四场也要错过了
+And we're about to skip a fourth.
+
+39
+00:01:46,860 --> 00:01:50,080
+-都记在《电讯报》账上  -我是名自由记者
+- All on the Telegraph's dime. - Hey, I'm a free agent.
+
+40
+00:01:50,320 --> 00:01:51,740
+所以我见过成千上万次的
+Means I'm free to bail on a speech
+
+41
+00:01:51,740 --> 00:01:53,830
+陈词滥调我想翘就翘
+I've already seen ten thousand times.
+
+42
+00:01:53,830 --> 00:01:56,620
+没有天生的...
+You are entitled...
+
+43
+00:01:59,260 --> 00:02:00,460
+-福利  -你少来
+- to nothing. - Stop.
+
+44
+00:02:00,460 --> 00:02:03,570
+我说明白了  我觉得...
+Let me be clear. I say, I say...
+
+45
+00:02:04,020 --> 00:02:05,070
+你过来  小子
+Come here, boy.
+
+46
+00:02:05,550 --> 00:02:07,420
+没有天生的...
+You are entitled...
+
+47
+00:02:07,420 --> 00:02:09,060
+福利
+To nothing!
+
+48
+00:02:09,060 --> 00:02:12,740
+事实就是  美国梦破灭了
+Now, here's the truth: The American dream is broken.
+
+49
+00:02:12,960 --> 00:02:15,420
+我们连梦想都被剥夺了
+And when we are robbed of our dreams,
+
+50
+00:02:15,420 --> 00:02:18,010
+告诉我  我们还有什么
+well, let me ask you, folks, what are we left with?
+
+51
+00:02:18,010 --> 00:02:19,160
+一无所有
+Nothing!
+
+52
+00:02:19,170 --> 00:02:22,790
+当我要求国会帮我将这个国家
+And when I asked Congress to help me take this country
+
+53
+00:02:22,790 --> 00:02:25,970
+从福利国家变为充分就业的国家
+from a welfare state to a fully-employed nation,
+
+54
+00:02:25,970 --> 00:02:27,880
+国会有什么行动
+what did Congress do?
+
+55
+00:02:27,880 --> 00:02:28,940
+无动于衷
+Nothing!
+
+56
+00:02:28,950 --> 00:02:32,410
+当我们证明了《美国就业法案》有用
+And when we proved that America Works actually works,
+
+57
+00:02:32,410 --> 00:02:36,940
+在华盛顿创造了五万个岗位
+when we created 50,000 jobs in Washington DC,
+
+58
+00:02:36,940 --> 00:02:39,310
+国会这下有行动了
+Congress didn't just stop at nothing,
+
+59
+00:02:39,310 --> 00:02:43,010
+他们扼杀了进步
+they killed progress in its tracks.
+
+60
+00:02:46,300 --> 00:02:48,150
+相信我  我明白你们的感受
+Believe me, I know how you feel.
+
+61
+00:02:49,380 --> 00:02:51,280
+但我们得记住来这里的目的
+But we have to remember why we're here.
+
+62
+00:02:51,280 --> 00:02:55,220
+我们得把愤怒转化为行动
+We have to turn that anger into action.
+
+63
+00:02:55,440 --> 00:02:57,270
+夫人  杜兰特国务卿
+Ma'am, it's Secretary Durant,
+
+64
+00:02:57,270 --> 00:02:58,400
+-有急事找您  -《美国就业法案》能成功
+- she said it's urgent. - America Works will succeed,
+
+65
+00:02:58,400 --> 00:03:00,660
+但我们需要你们的帮助
+but we need your help.
+
+66
+00:03:00,780 --> 00:03:01,560
+什么事
+Hello?
+
+67
+00:03:02,030 --> 00:03:05,860
+得让他们知道支持弗兰克·安德伍德
+You need to let them know that a vote for Frank Underwood
+
+68
+00:03:05,860 --> 00:03:08,320
+就是支持《美国就业法案》
+is a vote for America Works!
+
+69
+00:03:11,470 --> 00:03:15,750
+支持弗兰克·安德伍德就是支持《美国就业法案》
+A vote for Frank Underwood is a vote for America Works!
+
+70
+00:03:16,840 --> 00:03:18,940
+今早我有幸
+Now, I had the great pleasure
+
+71
+00:03:18,940 --> 00:03:22,110
+结识了一个叫格洛丽亚的姑娘
+of meeting a woman this morning named Gloria.
+
+72
+00:03:22,270 --> 00:03:25,130
+她有爱荷华州立大学学位
+She has a degree from Iowa State University
+
+73
+00:03:25,130 --> 00:03:29,040
+凭她的学历还是找不到工作
+and even with her degree, she can't get employed.
+
+74
+00:03:29,040 --> 00:03:31,980
+为什么  为什么会这样
+Now, why? Why is that the case?
+
+75
+00:03:31,980 --> 00:03:34,960
+因为  我妻子  女士们  先生们
+Becau-- My wife, ladies and gentlemen.
+
+76
+00:03:43,730 --> 00:03:45,450
+我觉得我妻子想
+I think what my wife is gently
+
+77
+00:03:45,450 --> 00:03:48,190
+委婉地告诉我  我超时了
+trying to tell me is that I've run overtime.
+
+78
+00:03:48,710 --> 00:03:51,930
+她给我取了个很合适的外号
+She has a very clever nickname for me.
+
+79
+00:03:52,400 --> 00:03:53,930
+-"话唠"  -是啊
+- "Verbosity." - Yeah.
+
+80
+00:03:55,250 --> 00:03:58,080
+克莱尔和我最大的区别
+Now, the main difference between Claire and me,
+
+81
+00:03:58,080 --> 00:04:00,440
+当然除了她的美丽之外
+aside from her stunning beauty, of course,
+
+82
+00:04:00,440 --> 00:04:03,900
+是她真明白这个词的意思
+is that she actually knows what that word means.
+
+83
+00:04:05,090 --> 00:04:07,720
+我很乐意在这里待一个下午
+Now, look, I would love to stay here all afternoon
+
+84
+00:04:07,720 --> 00:04:09,210
+回答你们所有的问题
+and answer all your questions,
+
+85
+00:04:09,210 --> 00:04:11,200
+但那样我就得让
+but then I'd leave all your friends
+
+86
+00:04:11,200 --> 00:04:12,650
+锡达拉皮兹的朋友们等我了
+in Cedar Rapids waiting for me
+
+87
+00:04:12,650 --> 00:04:15,480
+他们已经等很久了  那可不好
+even longer than they have and we don't want to do that.
+
+88
+00:04:15,570 --> 00:04:18,660
+感谢大家今天前来看我
+So I want to thank you all for coming out to see me today,
+
+89
+00:04:18,850 --> 00:04:21,590
+听我讲我们参与的这场斗争
+to hear about this battle, this fight we're in.
+
+90
+00:04:21,930 --> 00:04:24,280
+你们要在党团会议中支持我
+I want you to caucus for me,
+
+91
+00:04:24,870 --> 00:04:27,950
+帮格洛丽亚找到工作
+and let's help get Gloria a job!
+
+92
+00:04:27,950 --> 00:04:31,390
+有你一票  才有《美国就业法案》
+America Works only if you make it work!
+
+93
+00:04:31,420 --> 00:04:35,730
+天佑爱荷华  天佑美利坚合众国
+God bless Iowa! God bless the United States of America!
+
+94
+00:04:35,730 --> 00:04:39,840
+-谢谢  -安德伍德  安德伍德
+- Thank you! - Underwood! Underwood! Underwood!
+
+95
+00:04:40,650 --> 00:04:42,100
+简易爆炸装置  就在90号公路旁
+An IED right off Route 90,
+
+96
+00:04:42,100 --> 00:04:43,620
+距约旦河三千米处
+three kilometers from the Jordan River.
+
+97
+00:04:43,620 --> 00:04:45,080
+-什么时候  -36分钟前
+- When? - Thirty-six minutes ago.
+
+98
+00:04:45,080 --> 00:04:47,690
+一队俄国士兵在巡逻  两辆装甲车被毁
+Russian unit was on patrol. Two armored vehicles were destroyed.
+
+99
+00:04:47,700 --> 00:04:49,950
+-8名士兵全部遇难  -凯茜给谁打电话呢
+- All eight troops were killed. - Who's Cathy spoken to?
+
+100
+00:04:49,950 --> 00:04:51,680
+外交部长仍未回电话
+Foreign Minister hasn't returned her call.
+
+101
+00:04:51,680 --> 00:04:53,880
+我们要确保联合国秘书长保持沉默
+We have to make sure the Secretary General doesn't say anything
+
+102
+00:04:53,880 --> 00:04:55,110
+直至我们能更好地控制事态
+until we have a better handle on this.
+
+103
+00:04:55,110 --> 00:04:57,430
+雷米  我需要立即与佩特罗夫通话
+Remy, I need to speak to Petrov immediately.
+
+104
+00:04:57,440 --> 00:04:59,660
+我联系了克里姆林宫  对方说稍后回话
+I contacted the Kremlin. They said he'll reach out soon.
+
+105
+00:04:59,660 --> 00:05:01,880
+我们需要联合国去调查爆炸地点
+We need the UN to investigate the blast site.
+
+106
+00:05:01,880 --> 00:05:04,380
+俄国人已经拉起警戒线  不让任何人接近
+The Russians have cordoned it off. They're not letting anyone in.
+
+107
+00:05:04,380 --> 00:05:05,480
+-为什么  -我们不清楚
+- Why not? - We don't know.
+
+108
+00:05:05,480 --> 00:05:07,720
+我们有个小队在附近  听到爆炸  想去帮忙
+We had a unit nearby that heard the blast, went in to help.
+
+109
+00:05:07,720 --> 00:05:09,900
+-俄国人拒绝了  -我不喜欢这气氛
+- Russians turned them away. - I don't like the feel of this.
+
+110
+00:05:09,900 --> 00:05:12,160
+凯茜说以色列想派出他们自己的人
+Cathy says the Israelis want to send in their own team.
+
+111
+00:05:12,160 --> 00:05:13,290
+这绝对不行
+We can't let that happen.
+
+112
+00:05:13,300 --> 00:05:14,800
+以色列一到...
+The second Israeli boots hit the ground--
+
+113
+00:05:14,810 --> 00:05:16,360
+雷米  我不管你使什么办法
+Remy, I don't care what you have to do,
+
+114
+00:05:16,360 --> 00:05:17,740
+接通佩特罗夫的电话
+you get Petrov on the phone.
+
+115
+00:05:17,740 --> 00:05:19,200
+我们必须阻止事态酝酿
+We need to head this off at the pass.
+
+116
+00:05:19,210 --> 00:05:21,910
+并确保国会中没人反应过激
+And make sure no one in Congress overreacts either.
+
+117
+00:07:01,530 --> 00:07:02,650
+比赛怎么样
+How was the game?
+
+118
+00:07:02,740 --> 00:07:05,160
+棒极了  直到我手机开始响个不停
+Great, until my phone started blowing up.
+
+119
+00:07:05,220 --> 00:07:07,030
+我看看你写得怎么样了
+Let me see what you have so far.
+
+120
+00:07:11,960 --> 00:07:12,470
+不行
+No.
+
+121
+00:07:12,470 --> 00:07:16,460
+这样不行  语言过于直白
+This is no good. The language is too obtuse.
+
+122
+00:07:16,490 --> 00:07:19,480
+-这样简单  直接  -听着  是这样的
+- Simpler. More direct. - Look, here's the deal:
+
+123
+00:07:19,540 --> 00:07:22,760
+如果俄国不配合  以色列就会紧张
+If the Russians don't play ball, the Israelis will get nervous.
+
+124
+00:07:22,760 --> 00:07:25,360
+如果以色列出兵  巴勒斯坦就会勃然大怒
+If the Israelis send troops in, the Palestinians will go apeshit.
+
+125
+00:07:25,360 --> 00:07:27,830
+如果巴勒斯坦发怒  就可能搬出迫击炮
+If the Palestinians go apeshit, there could be mortar attacks.
+
+126
+00:07:27,830 --> 00:07:30,780
+如果出现那种情况  整个维和行动
+And if there are mortar attacks, the whole peacekeeping mission
+
+127
+00:07:30,780 --> 00:07:33,490
+-就泡汤了  -你想让我就这么写吗
+- could go down the drain. - You want me to actually say that?
+
+128
+00:07:33,490 --> 00:07:35,980
+天啊  当然不  恰恰相反
+God, no. We need to say the opposite.
+
+129
+00:07:36,310 --> 00:07:37,910
+听着  清楚描述一番
+Look, make it as clear as
+
+130
+00:07:37,910 --> 00:07:40,000
+我刚刚形容的末日局势
+the doomsday scenario that I just described,
+
+131
+00:07:40,000 --> 00:07:43,480
+但随后180度转弯  表示无需紧张
+but then flip it around and put a happy face on it.
+
+132
+00:07:45,080 --> 00:07:46,570
+其他的都能重新安排
+We can reschedule everything else,
+
+133
+00:07:46,570 --> 00:07:48,840
+但是我担心哈兰·特劳伯
+but I'm concerned about Harlan Traub.
+
+134
+00:07:49,160 --> 00:07:50,130
+爱荷华民主党主席
+The IDP Chairman.
+
+135
+00:07:50,130 --> 00:07:52,420
+也是食品加工协会的主席
+And President of the Food Processors Association.
+
+136
+00:07:52,420 --> 00:07:53,650
+他在州内很有影响力
+He's big for us statewide.
+
+137
+00:07:53,650 --> 00:07:54,830
+我们本约好今晚与他见面
+We were supposed to meet with him tonight.
+
+138
+00:07:54,830 --> 00:07:56,800
+现在出现了紧急国家安全事务
+Well, this is a national security emergency.
+
+139
+00:07:56,800 --> 00:07:58,360
+他还没与邓巴会面
+He hasn't met with Dunbar yet.
+
+140
+00:07:58,360 --> 00:08:00,090
+如果我们取消  她就能先跟他联系
+If we cancel, she gets a clean shot at him.
+
+141
+00:08:00,090 --> 00:08:01,150
+好吧  那就让他也上飞机
+All right, so put him on the plane.
+
+142
+00:08:01,590 --> 00:08:02,390
+别忘了选举委员会的规则
+FEC rules.
+
+143
+00:08:02,390 --> 00:08:05,780
+在空军一号上拉票每小时花费17.9万
+Campaigning on Air Force One costs 179,000 an hour.
+
+144
+00:08:05,780 --> 00:08:07,590
+-更别提这传出去的影响  -那我不拉票
+- Aside from the message it sends-- - Alright. So I won't campaign.
+
+145
+00:08:07,590 --> 00:08:10,330
+反正我也没时间  让他感到受优待就行
+I won't have time anyway. Uh, just make him feel special.
+
+146
+00:08:10,340 --> 00:08:12,100
+然后安排他在华盛顿跟我见面
+Give him some face time in Washington.
+
+147
+00:08:12,610 --> 00:08:13,230
+怎么样
+Anything?
+
+148
+00:08:13,230 --> 00:08:15,640
+莫里科夫的办公室在搪塞我
+Moryakov's office is giving me the runaround.
+
+149
+00:08:15,640 --> 00:08:17,960
+简易爆炸装置炸死八名
+An IED has killed eight Russian troops
+
+150
+00:08:17,960 --> 00:08:19,780
+在约旦河谷巡逻的俄罗斯士兵
+on patrol in the Jordan Valley.
+
+151
+00:08:19,780 --> 00:08:22,210
+截至目前尚无人声称对此次袭击负责
+So far, no one has claimed responsibility for this attack.
+
+152
+00:08:22,210 --> 00:08:25,190
+克里姆林宫对此的唯一反应是一份来自
+The only reaction from the Kremlin, a brief written statement
+
+153
+00:08:25,190 --> 00:08:27,790
+外交部长布加耶夫的简短声明  援引如下
+from Foreign Minister Bugayev that reads, quote,
+
+154
+00:08:27,790 --> 00:08:32,000
+"袭击者会被绳之以法"  引述完毕
+"The perpetrators will be found and brought to justice." End quote.
+
+155
+00:08:32,270 --> 00:08:35,010
+-20分钟后出发  -我得去我房间拿行李
+- Wheels up in 20 minutes. - I gotta grab my bags from my room.
+
+156
+00:08:35,010 --> 00:08:37,710
+-好的  外面见  -我们该分开搭车
+- Okay. Meet me out front. - We should take separate cars.
+
+157
+00:08:38,110 --> 00:08:39,780
+这种地方  飞机起飞你都打不到车
+A cab won't even get here before the plane takes off.
+
+158
+00:08:39,780 --> 00:08:41,050
+跟我走吧
+You're coming with me.
+
+159
+00:08:42,090 --> 00:08:43,120
+遵命
+Yes, sir.
+
+160
+00:08:43,440 --> 00:08:44,920
+今天不是逃学的好日子
+Not a good day to play hooky.
+
+161
+00:08:45,700 --> 00:08:47,130
+今晚要熬到很晚了
+It's gonna be a late night here.
+
+162
+00:08:48,230 --> 00:08:49,300
+取决于佩特罗夫的行动
+It depends what Petrov does.
+
+163
+00:08:49,300 --> 00:08:52,030
+目前为止  只有刺耳的沉默
+So far, just incredibly loud silence.
+
+164
+00:08:52,030 --> 00:08:55,750
+我得走了  宝贝  外交部要召开紧急会议
+I gotta go, hon. Foreign Affairs is holding an emergency session.
+
+165
+00:08:56,090 --> 00:08:57,130
+我也爱你
+I love you, too.
+
+166
+00:08:59,020 --> 00:09:00,990
+-我时间不多  -我也是
+- I don't have much time. - Neither do I.
+
+167
+00:09:02,050 --> 00:09:03,310
+讲话要点
+Talking points.
+
+168
+00:09:08,910 --> 00:09:10,450
+这让我很不自在
+These make me uncomfortable.
+
+169
+00:09:11,900 --> 00:09:14,390
+即使是非公开会议  我的话也会泄露
+Even in a closed session, whatever I say will get out.
+
+170
+00:09:14,390 --> 00:09:16,610
+-我会因此在爱荷华受挫  -你不能挑剔任务
+- I'll take hits in Iowa. - You can't criticize the mission.
+
+171
+00:09:16,620 --> 00:09:17,950
+我们需要你让大家保持平静
+We need you to keep everyone calm.
+
+172
+00:09:17,950 --> 00:09:20,460
+你知道我对不必要的军事干涉的看法
+You know how I feel about unnecessary military involvement.
+
+173
+00:09:20,460 --> 00:09:21,800
+是你要求做竞选搭档的  杰姬
+You asked to be on the ticket, Jackie.
+
+174
+00:09:21,800 --> 00:09:23,410
+而你从一开始就各种不配合
+It's been non-stop resistance from the start.
+
+175
+00:09:23,410 --> 00:09:24,650
+如果你不能支持总统
+If you don't want to support the president,
+
+176
+00:09:24,650 --> 00:09:26,060
+那你就不该做他的副总统
+you shouldn't want to be his number two.
+
+177
+00:09:26,060 --> 00:09:27,710
+我受够跟你扯皮了
+I'm sick of pulling teeth.
+
+178
+00:09:29,190 --> 00:09:32,670
+你说得对  我会尽力的
+You're right. I'll do what I can.
+
+179
+00:09:33,090 --> 00:09:34,000
+杰姬
+Jackie...
+
+180
+00:09:40,320 --> 00:09:41,520
+我不是故意发火的
+I didn't mean to snap.
+
+181
+00:09:43,690 --> 00:09:44,970
+我知道一边在这边保持影响力
+I know it's hard having a presence here
+
+182
+00:09:44,980 --> 00:09:46,840
+一边竞选是很难的
+and campaigning at the same time.
+
+183
+00:09:48,360 --> 00:09:50,230
+艾伦和孩子们肯定也不好受
+I'm sure it's tough on Alan and the kids, too.
+
+184
+00:09:50,230 --> 00:09:52,230
+其实艾伦帮助很大
+Alan's been a big help, actually.
+
+185
+00:09:55,740 --> 00:09:57,920
+我很高兴他在你需要的时候能支持你
+I'm glad he's stepping up, giving you the support you need.
+
+186
+00:09:59,410 --> 00:10:01,900
+我还以为我会讨厌结婚
+I thought I would hate it, the whole marriage thing.
+
+187
+00:10:02,610 --> 00:10:03,590
+结果还不错
+But it's nice.
+
+188
+00:10:05,130 --> 00:10:09,040
+我能回家时  大家都围在桌旁
+When I can get home, everyone around the table.
+
+189
+00:10:11,210 --> 00:10:12,590
+我有时甚至还做饭
+I even cook sometimes.
+
+190
+00:10:12,590 --> 00:10:15,970
+-很难吃  他们都不忍心说  -不会吧
+- Badly, but they indulge me. - No.
+
+191
+00:10:15,970 --> 00:10:18,570
+-我也有贤惠的一面  -穿围裙什么的吗
+- I have my June Cleaver moments. - Apron and all?
+
+192
+00:10:18,610 --> 00:10:19,780
+别闹
+Don't push it.
+
+193
+00:10:25,110 --> 00:10:27,360
+我记不得上次在家做饭吃是什么时候了
+I can't remember the last time I had a home-cooked meal.
+
+194
+00:10:31,940 --> 00:10:33,980
+-会议要开始了  -是啊
+- Session's about to start. - Yeah.
+
+195
+00:10:34,500 --> 00:10:35,750
+有消息我通知你
+I'll fill you in after.
+
+196
+00:10:44,990 --> 00:10:45,750
+汤姆
+Tom.
+
+197
+00:10:49,590 --> 00:10:51,890
+-你这一天干什么去了  -抱歉  写书呢
+- Where have you been all day? - Sorry. Working on the book.
+
+198
+00:10:51,890 --> 00:10:53,940
+我知道我们本该找机会谈谈的
+I know we were supposed to have an opportunity to speak,
+
+199
+00:10:53,940 --> 00:10:55,980
+-但现在的情况显然...  -当然
+- but obviously now, it's-- - Of course.
+
+200
+00:10:56,190 --> 00:10:58,050
+你如果想到前面去  尽管去
+Listen, you can come up and sit up front if you like.
+
+201
+00:10:58,050 --> 00:11:01,640
+-我和克莱尔谈过了  -后面挺好  谢谢
+- I spoke to Claire about it. - I'm fine back here. Thanks.
+
+202
+00:11:02,270 --> 00:11:03,100
+那好
+Okay.
+
+203
+00:11:23,590 --> 00:11:26,770
+我需要知道我的护照就要解锁了
+I need to know this passport lock is being lifted.
+
+204
+00:11:26,920 --> 00:11:28,220
+先让我看看你的进展
+Show me what you got.
+
+205
+00:11:28,220 --> 00:11:30,040
+我受够被人牵着鼻子走了
+I'm tired of being strung along.
+
+206
+00:11:31,130 --> 00:11:35,200
+-有地点吗  -有  但我要知道还得多久
+- You have a location? - Yeah. But I want a timeline.
+
+207
+00:11:36,420 --> 00:11:37,940
+-一两周吧  -不行
+- Week or two. - No.
+
+208
+00:11:38,190 --> 00:11:39,510
+他们已经不再给我分配任务了
+They've stopped giving me new assignments.
+
+209
+00:11:39,510 --> 00:11:41,310
+这意味着他们要动手收拾我了
+That means they're getting ready to fuck me.
+
+210
+00:11:41,310 --> 00:11:43,020
+你必须再快点
+It has to happen sooner than that.
+
+211
+00:11:46,940 --> 00:11:47,850
+你在干什么
+What are you doing?
+
+212
+00:11:50,400 --> 00:11:52,220
+给国安部的朋友发邮件
+E-mailing a friend in Homeland.
+
+213
+00:11:52,440 --> 00:11:54,210
+他回复我一向很快
+He always gets back to me quickly.
+
+214
+00:11:57,670 --> 00:11:58,650
+满意了吗
+You satisfied?
+
+215
+00:12:22,340 --> 00:12:23,230
+瑞秋
+Rachel.
+
+216
+00:12:25,100 --> 00:12:27,170
+-这上面说无名女  -不  就是她
+- It says Jane Doe. - No, it's her.
+
+217
+00:12:28,430 --> 00:12:29,240
+就是她
+It's her.
+
+218
+00:12:31,370 --> 00:12:34,590
+她偷了一个叫丽贝卡·桑兹的女孩的身份
+She ghosted the identity of a girl named Rebecca Sands.
+
+219
+00:12:34,800 --> 00:12:36,190
+生日很接近
+The birthday's pretty close.
+
+220
+00:12:36,190 --> 00:12:38,550
+1990年8月  然后她93年就死了
+It's August 1990, then she died in '93,
+
+221
+00:12:38,550 --> 00:12:40,270
+全家身亡
+along with her whole family.
+
+222
+00:12:40,270 --> 00:12:42,670
+但她的社保号码6个月前被激活了
+But her social went active about six months ago.
+
+223
+00:12:43,030 --> 00:12:46,180
+但这上面没写丽贝卡·桑兹  写的是无名女
+But this doesn't say Rebecca Sands. It says Jane Doe.
+
+224
+00:12:46,180 --> 00:12:48,720
+州警在水沟里发现了她的尸体
+State troopers found her body in a ditch,
+
+225
+00:12:49,000 --> 00:12:51,510
+就在图森市外的一个废弃建筑工地上
+in an abandoned construction site outside of Tucson.
+
+226
+00:12:52,940 --> 00:12:56,390
+你这  连张照片都没有
+I mean, there's no-- There's no picture.
+
+227
+00:12:57,060 --> 00:12:59,240
+什么都证明不了
+There's no proof of anything.
+
+228
+00:13:16,860 --> 00:13:19,600
+"并且不要叫神的圣灵忧愁
+"And do not grieve the Holy Spirit of God
+
+229
+00:13:19,600 --> 00:13:22,420
+你们原是受了他的印记  等候得赎的日子来到
+by whom you were sealed for the day of redemption.
+
+230
+00:13:22,750 --> 00:13:26,610
+一切苦毒  恼恨  忿怒  喧嚷
+Let all bitterness and wrath and anger
+
+231
+00:13:26,610 --> 00:13:30,850
+毁谤  同一切的恶毒  都要从你们中间除掉"
+and clamor and evil speaking be put away from you."
+
+232
+00:13:44,110 --> 00:13:45,000
+不
+No.
+
+233
+00:13:47,600 --> 00:13:51,900
+-不  不  这不是她  -指纹都有
+- No, no. That's not her. - Come on, man. There's fingerprints.
+
+234
+00:13:51,900 --> 00:13:54,540
+这是你给我的那本《双城记》上面的指纹
+Fingerprints from the Tale of Two Cities book that you gave me.
+
+235
+00:13:54,540 --> 00:13:56,660
+我和验尸报告比对过了
+I ran it against the autopsy report.
+
+236
+00:13:59,470 --> 00:14:01,440
+和这位无名女完全吻合
+It was a ten-point match with Jane Doe.
+
+237
+00:14:09,940 --> 00:14:11,900
+马上给我解锁护照
+I need the passport lock lifted now.
+
+238
+00:14:17,690 --> 00:14:19,220
+-我会办的  -什么时候办
+- I'm on it. - When will you be on it?
+
+239
+00:14:19,220 --> 00:14:20,200
+-尽快  -尽快是多快
+- Soon. - Soon? How soon?
+
+240
+00:14:20,200 --> 00:14:21,680
+有多快是多快
+As soon as I can!
+
+241
+00:14:27,150 --> 00:14:29,950
+我履行了约定  给我解锁护照
+I did my part. Get the lock lifted.
+
+242
+00:14:54,480 --> 00:14:55,940
+这是赛斯·格雷森的号码
+You've reached Seth Grayson.
+
+243
+00:14:56,130 --> 00:14:57,900
+有事请留言  我会尽快回复
+Leave a message, I'll get back to you.
+
+244
+00:15:00,220 --> 00:15:01,330
+我得见他
+I need to see him.
+
+245
+00:15:02,620 --> 00:15:03,840
+我母亲去世了
+My mother died.
+
+246
+00:15:26,540 --> 00:15:27,710
+拜托
+Come on!
+
+247
+00:15:32,960 --> 00:15:33,920
+你没事吧
+Are you okay?
+
+248
+00:15:35,380 --> 00:15:37,130
+伙计  你怎么回事
+Hey, man. What the fuck?
+
+249
+00:15:39,710 --> 00:15:40,480
+对不起
+Sorry.
+
+250
+00:15:41,700 --> 00:15:42,710
+简直难以置信
+You believe this guy?
+
+251
+00:15:42,710 --> 00:15:44,370
+你是不是该和她说对不起  混蛋
+You want to say it to her, shithead?
+
+252
+00:15:44,380 --> 00:15:46,010
+对不起  好吗  我很抱歉
+Sorry. Okay, I'm sorry.
+
+253
+00:15:46,390 --> 00:15:48,360
+-我请你们喝酒  -我们不用你请  混蛋
+- Drinks on me. - We don't want drinks, shithead.
+
+254
+00:15:48,360 --> 00:15:50,910
+你得走了  汤米  这家伙喝醉了
+You need to get out of here. Tommy, this guy's trashed.
+
+255
+00:15:52,200 --> 00:15:54,390
+给  我请你们喝酒
+Here. Drinks on me.
+
+256
+00:15:54,620 --> 00:15:56,960
+不不  我们不想喝酒  我们希望你离开
+No, no. We don't want drinks. We want you to leave.
+
+257
+00:15:56,960 --> 00:15:58,890
+别这样  拿着吧  我都说对不起了
+Come on. Just take it. I said I was sorry.
+
+258
+00:15:58,890 --> 00:16:00,850
+-我才不管  -拿着吧
+- I don't give a shit. - Take it.
+
+259
+00:16:02,020 --> 00:16:03,980
+不行  他得道歉
+No, he's apologizing. I'm telling you.
+
+260
+00:16:04,270 --> 00:16:05,290
+对不起
+Sorry.
+
+261
+00:16:05,370 --> 00:16:07,760
+-对不起  对不起  对不起  -我打烂你脸
+- Sorry! Sorry! Sorry! - I will bust your fucking face!
+
+262
+00:16:07,770 --> 00:16:09,860
+-冷静一下  我给你叫辆出租车  -好吧
+- Calm down. Let me get you a cab. - Okay.
+
+263
+00:16:13,830 --> 00:16:17,750
+大家好  恐怕我没有什么新消息
+Hello, everyone. I'm afraid I don't have much news.
+
+264
+00:16:18,580 --> 00:16:20,580
+我们已经和俄国取得了联系
+We are in touch, uh, with the Russians,
+
+265
+00:16:20,580 --> 00:16:22,060
+但了解到的细节还很少
+but there's very few details.
+
+266
+00:16:22,060 --> 00:16:24,310
+我正在等待与佩特罗夫总统通话
+I'm waiting to speak with President Petrov.
+
+267
+00:16:24,310 --> 00:16:27,130
+-为什么耽搁至今  -他刚失去八名士兵
+- Any reason for the delay? - He just lost eight soldiers.
+
+268
+00:16:27,130 --> 00:16:28,940
+他现在首先要和他们的家人谈话
+Talking to their families is his priority
+
+269
+00:16:28,940 --> 00:16:30,110
+换做是我也会这样做
+as it would be mine.
+
+270
+00:16:30,110 --> 00:16:32,350
+您认为这会危及到维和任务吗
+Do you think this could jeopardize the peacekeeping mission?
+
+271
+00:16:32,350 --> 00:16:34,390
+每个派出部队的国家
+Well, every country that contributed troops
+
+272
+00:16:34,390 --> 00:16:37,050
+都明白这样的事可能发生
+knew that something like this was a possibility.
+
+273
+00:16:37,050 --> 00:16:38,850
+但俄国当初很反对这个计划
+But the Russians fought this plan hard.
+
+274
+00:16:38,850 --> 00:16:40,400
+这给了佩特罗夫完美的撤兵借口
+This gives Petrov the perfect out.
+
+275
+00:16:40,400 --> 00:16:43,120
+我不会妄加揣测佩特罗夫总统的想法
+I wouldn't presume to know what President Petrov is thinking.
+
+276
+00:16:43,120 --> 00:16:45,770
+等我们有机会谈过以后我会知道更多
+I'll know more once we have a chance to speak.
+
+277
+00:16:45,770 --> 00:16:48,570
+那么国会呢  他们当初也不支持这项任务
+What about Congress? They weren't fans of this mission.
+
+278
+00:16:48,580 --> 00:16:50,390
+我们一回去  我就会和国会领导层
+I'm gonna consult with congressional leadership
+
+279
+00:16:50,390 --> 00:16:51,170
+进行讨论
+as soon as we get back.
+
+280
+00:16:51,170 --> 00:16:52,350
+与此同时  我主要
+In the meantime, my focus
+
+281
+00:16:52,350 --> 00:16:54,470
+要尽我所能帮助俄国人
+is to help the Russians in any way that I can.
+
+282
+00:16:54,470 --> 00:16:56,960
+他们不许任何人接近爆炸地点  你怎么能帮他们
+How can you help them when they won't let anyone near the blast site?
+
+283
+00:16:56,960 --> 00:16:58,480
+这种说法还没得到确认
+Well, that hasn't been confirmed.
+
+284
+00:16:58,480 --> 00:16:59,380
+当然  除非
+Unless, of course,
+
+285
+00:16:59,380 --> 00:17:02,530
+你的情报来源比五角大楼还好
+you have better intelligence than the Pentagon.
+
+286
+00:17:04,020 --> 00:17:05,870
+非常感谢大家  很快会有更多消息
+Thank you all very much. More soon.
+
+287
+00:17:19,380 --> 00:17:23,000
+以色列想要公开指责巴勒斯坦应为攻击负责
+Israel wants to go public, blame Palestine for the attack.
+
+288
+00:17:23,000 --> 00:17:24,130
+目前还没有证据呢
+There's no evidence yet.
+
+289
+00:17:24,130 --> 00:17:25,380
+是的  他们要说的是
+Yes, well, the message is that
+
+290
+00:17:25,380 --> 00:17:27,940
+巴勒斯坦应该管好自己国家的人民
+Palestine should be keeping its people in check.
+
+291
+00:17:27,950 --> 00:17:30,350
+他们还从贝特谢安派出500名士兵
+They've also moved 500 troops to a staging area
+
+292
+00:17:30,350 --> 00:17:31,760
+跨过边境去一处集结待命区
+across the border from Beit She'an.
+
+293
+00:17:31,760 --> 00:17:34,340
+老天啊  再打给克里姆林宫试试
+Christ. Try the Kremlin again, please.
+
+294
+00:17:40,130 --> 00:17:41,310
+打个哈欠提提神吧
+You try yawning?
+
+295
+00:17:41,690 --> 00:17:43,850
+那对你管用  对我不管用
+That works for you, not for me.
+
+296
+00:17:44,940 --> 00:17:46,730
+那喝点水呢  有时能有用
+What about some water? Sometimes that helps.
+
+297
+00:17:46,730 --> 00:17:49,100
+我不需要喝水  我需要接通电话
+I don't need water, I need a phone call.
+
+298
+00:17:49,960 --> 00:17:51,130
+你等电话的时候
+Maybe you should talk to Traub
+
+299
+00:17:51,130 --> 00:17:52,770
+或许该和特劳伯谈谈
+while you're waiting for that phone call.
+
+300
+00:17:58,900 --> 00:18:01,240
+-你不吃点吗  -我不饿
+- You're not eating? - I'm not hungry.
+
+301
+00:18:01,340 --> 00:18:03,050
+我觉得你是不喜欢坐飞机
+I think you don't like to fly.
+
+302
+00:18:03,130 --> 00:18:05,310
+把桌子当脱衣舞女的奶头一样抓得紧紧的
+Holding onto that table like it's a stripper's tits.
+
+303
+00:18:05,310 --> 00:18:07,890
+哈兰  很抱歉让你久等了
+Harlan. I'm so sorry to keep you waiting.
+
+304
+00:18:07,890 --> 00:18:09,650
+不必起身  龙虾味道如何
+Please, don't get up. How's your lobster?
+
+305
+00:18:09,650 --> 00:18:11,210
+像今天早晨刚抓的一样新鲜
+It tastes like it was caught this morning.
+
+306
+00:18:11,210 --> 00:18:14,600
+确实是刚抓的  空军一号一切都是最好的
+Well, it was. Nothing but the best for Air Force One.
+
+307
+00:18:15,240 --> 00:18:17,220
+先生  我知道您现在有很多事要考虑
+Sir, I know you have a million things on your mind,
+
+308
+00:18:17,220 --> 00:18:19,720
+但我非常想与您讨论一下如何推进
+but I would just love to talk to you about how to modernize
+
+309
+00:18:19,720 --> 00:18:21,990
+爱荷华食品加工业的现代化进程
+the food-processing industry in Iowa.
+
+310
+00:18:21,990 --> 00:18:24,910
+拜托  用他的餐刀杀了我算了
+Please, slit my wrists with his butter knife.
+
+311
+00:18:25,100 --> 00:18:27,400
+我们不能在飞机上讨论大选  哈兰
+We can't talk election on the plane, Harlan.
+
+312
+00:18:27,400 --> 00:18:28,480
+这是选举委员会严格禁止的
+That's an FEC no-no.
+
+313
+00:18:28,480 --> 00:18:29,960
+这与竞选无关
+This isn't about the campaign.
+
+314
+00:18:29,960 --> 00:18:32,720
+我们在谈论经济而不是党团会议  对吗  哈兰
+We're talking about the economy, not the caucus. Right, Harlan?
+
+315
+00:18:32,720 --> 00:18:34,180
+十分正确
+That's right.
+
+316
+00:18:34,240 --> 00:18:36,880
+相信您知道  先生  我们在玉米和大豆
+I'm sure you're aware, sir, that we lead the states
+
+317
+00:18:36,880 --> 00:18:38,900
+生产上都领先各州
+in corn and soybean production.
+
+318
+00:18:38,910 --> 00:18:41,170
+考虑到素食主义的流行  这是件好事
+It's a good thing, given the trend towards vegan.
+
+319
+00:18:41,170 --> 00:18:42,780
+但我们的食品加工厂
+But our food-processing plants--
+
+320
+00:18:42,780 --> 00:18:45,320
+-爱荷华最大的产业  -没错
+- Well, the largest industry in Iowa. - That's correct.
+
+321
+00:18:45,320 --> 00:18:47,360
+他们渐渐赶不上时代了  先生
+And they're slow on the uptake, sir.
+
+322
+00:18:47,360 --> 00:18:49,530
+我们需要联邦政府的拨款
+We need federal funding to help subsidize
+
+323
+00:18:49,540 --> 00:18:51,380
+-资助转向更健康的...  -总统先生
+- the transition toward healthier-- - Mr. President.
+
+324
+00:18:51,380 --> 00:18:52,300
+俄罗斯来电
+our call from Russia.
+
+325
+00:18:52,300 --> 00:18:54,280
+非常抱歉  我得接这个电话
+Oh. I'm so sorry. I have to take this.
+
+326
+00:18:54,280 --> 00:18:56,810
+但是哈兰  我们回头一定好好谈  我保证
+But Harlan, we'll get into it, I promise.
+
+327
+00:18:58,100 --> 00:19:00,690
+维克多  真是可怕的惨剧  总统先生
+Viktor, it's a terrible tragedy, Mr. President.
+
+328
+00:19:00,690 --> 00:19:02,070
+我深感同情
+I feel for your loss.
+
+329
+00:19:02,070 --> 00:19:04,740
+这就是你们的人一直打个不停的原因吗
+This is why your people were so persistent?
+
+330
+00:19:05,090 --> 00:19:07,450
+就为了让你表示哀悼吗
+So you could offer your sympathy?
+
+331
+00:19:07,580 --> 00:19:09,690
+我们必须得沟通
+It's important that we talk.
+
+332
+00:19:10,350 --> 00:19:13,030
+你不让任何人接近爆炸地点
+You're not letting anyone near the blast site.
+
+333
+00:19:13,220 --> 00:19:14,720
+我们在自己进行调查
+We're conducting our investigation.
+
+334
+00:19:14,730 --> 00:19:17,690
+让联合国调查员和你们一起调查
+Well, is there anything wrong with allowing UN investigators
+
+335
+00:19:17,690 --> 00:19:19,680
+有什么不妥吗
+to work in conjunction with your people?
+
+336
+00:19:19,680 --> 00:19:22,450
+联合国指挥官派我的人
+UN Command sent my men on that patrol,
+
+337
+00:19:22,450 --> 00:19:25,390
+去整个河谷90号公路最危险的一段巡逻
+the most dangerous stretch of Route 90 in the entire valley.
+
+338
+00:19:25,390 --> 00:19:28,790
+-是你派我的人去的  -我吗  你在说什么
+- And you sent my men. - Me? What are you talking about?
+
+339
+00:19:28,790 --> 00:19:30,960
+你觉得我的人无关紧要
+You saw my men as expendable.
+
+340
+00:19:32,340 --> 00:19:35,030
+维克多  维和部队不归我个人管
+Viktor, I don't personally oversee the peacekeeping forces,
+
+341
+00:19:35,030 --> 00:19:36,760
+你不会真觉得
+and you can't possibly think
+
+342
+00:19:36,760 --> 00:19:38,260
+把你的人派到危险地段
+that there was some deliberate attempt
+
+343
+00:19:38,260 --> 00:19:41,030
+-是有意而为的吧  -不然我该怎么想
+- to put your men in harm's way. - So I am to believe, what?
+
+344
+00:19:41,030 --> 00:19:44,390
+这是个巧合吗
+That this was a random act of fate, yes?
+
+345
+00:19:44,390 --> 00:19:45,980
+听着  不管责任在谁
+Listen, whoever's responsible,
+
+346
+00:19:45,980 --> 00:19:49,130
+我们不能让这件事离间我们的关系
+we can't let them foment distrust between us.
+
+347
+00:19:49,130 --> 00:19:51,240
+我们要是不和  就正中他们下怀了
+If we do, then they win.
+
+348
+00:19:51,330 --> 00:19:54,710
+让他们看到  意外让我们更团结
+Let's show them that an incident like this makes us stronger.
+
+349
+00:19:54,710 --> 00:19:56,720
+让我们帮你查出幕后黑手
+Let us help you find out who did this.
+
+350
+00:19:56,730 --> 00:19:59,410
+死的是俄罗斯人  俄罗斯会找出凶手
+Russians are dead. Russia will find the killers.
+
+351
+00:19:59,410 --> 00:20:02,180
+我不明白你为什么拒绝我们的帮助
+I don't understand why you're refusing our assistance.
+
+352
+00:20:02,180 --> 00:20:03,840
+因为我们不需要
+Because we don't need it.
+
+353
+00:20:04,000 --> 00:20:06,210
+那我们能不能至少保持沟通
+Well, can we at least keep the dialogue open?
+
+354
+00:20:06,210 --> 00:20:09,080
+在进行任何行动前互相商讨一下
+Consult with each other before you make any move?
+
+355
+00:20:09,080 --> 00:20:13,140
+我要做我必须做的  总统先生
+I'm going to do what I must, Mr. President.
+
+356
+00:20:14,460 --> 00:20:16,470
+维克多  请听我说  我们得
+Viktor, please listen to me. We have--
+
+357
+00:20:16,470 --> 00:20:19,070
+对不起  总统先生  线路挂断了
+I'm sorry, Mr. President, but the line has been disconnected.
+
+358
+00:20:22,360 --> 00:20:23,660
+他挂我电话
+He hung up on me.
+
+359
+00:20:31,000 --> 00:20:32,560
+帮我接凯茜·杜兰特
+Cathy Durant, please.
+
+360
+00:20:34,520 --> 00:20:35,970
+鲍德温说得没错
+Baldwin was right.
+
+361
+00:20:36,010 --> 00:20:38,490
+死去的八名战士给了佩特罗夫一个借口
+Those eight bodies give Petrov options.
+
+362
+00:20:38,490 --> 00:20:42,360
+他才没有潸然泪下  他在开香槟庆祝呢
+He's not shedding tears, he's popping champagne corks.
+
+363
+00:20:42,630 --> 00:20:43,940
+我能听到
+I can hear them.
+
+364
+00:20:56,780 --> 00:21:00,540
+不在这儿  先生  卫生间在这边
+Not here. Sir. Restroom's this way.
+
+365
+00:21:02,020 --> 00:21:04,830
+刚那是谁  刚进来的那人是谁
+Who was that? The guy who just came in?
+
+366
+00:21:05,110 --> 00:21:06,060
+没看到
+Didn't see him.
+
+367
+00:23:24,740 --> 00:23:26,560
+我可以到你办公室去
+I would've come to your office.
+
+368
+00:23:27,220 --> 00:23:29,790
+这是联合国唯一一间俄国没有监控的房间
+This is the only room at the UN we don't monitor.
+
+369
+00:23:29,890 --> 00:23:34,070
+-我想你们也没有监控  -没  美国也没有
+- I'm assuming you don't either. - No, we haven't bugged it.
+
+370
+00:23:34,880 --> 00:23:37,810
+-那我们能打开天窗说亮话了  -也该说了
+- So we can speak openly. - I think we should.
+
+371
+00:23:41,590 --> 00:23:44,270
+你说  我听着
+You talk. I'll listen.
+
+372
+00:23:47,710 --> 00:23:49,250
+巴勒斯坦说如果以色列军队进入河谷
+Palestine says it can't control Hamas
+
+373
+00:23:49,250 --> 00:23:51,670
+他们控制不了哈马斯
+if Israeli troops cross into the valley.
+
+374
+00:23:53,520 --> 00:23:55,150
+我们只能私下沟通  亚历克西
+We have to back channel this, Alexi.
+
+375
+00:23:55,150 --> 00:23:57,800
+佩特罗夫不肯听弗兰西斯的
+Petrov won't listen to Francis.
+
+376
+00:24:04,230 --> 00:24:07,560
+亚历克西  这事你不能坐视不管
+Alexi, please. This whole thing, you can't let it devolve
+
+377
+00:24:07,560 --> 00:24:09,930
+让事态完全失控
+into something nobody can control.
+
+378
+00:24:10,530 --> 00:24:12,610
+也许这就是目的所在
+Well, maybe that was the objective.
+
+379
+00:24:14,460 --> 00:24:15,420
+什么目的
+What was?
+
+380
+00:24:17,740 --> 00:24:21,750
+总统本来就反对这次维和任务
+The President... never wanted the peacekeeping mission.
+
+381
+00:24:22,430 --> 00:24:23,010
+你刚说"目的"
+You said "Objective."
+
+382
+00:24:23,010 --> 00:24:25,030
+你是说这都是计划好的吗
+Are you telling me this was somehow planned?
+
+383
+00:24:25,030 --> 00:24:26,730
+我什么都没说
+I haven't said anything.
+
+384
+00:24:28,210 --> 00:24:29,580
+但你想说
+But you want to.
+
+385
+00:24:30,050 --> 00:24:32,860
+全世界都想知道这件事是谁干的
+The whole world wants to know who is responsible.
+
+386
+00:24:32,970 --> 00:24:35,670
+你们的军队不让任何人进入爆炸地点
+Your troops won't let anyone near the blast site.
+
+387
+00:24:41,630 --> 00:24:43,730
+因为他们不想让世人知道真相
+Because they don't want the world to know.
+
+388
+00:24:44,280 --> 00:24:46,930
+我弟弟  他在俄罗斯联邦安全局
+My brother... he's in the FSB.
+
+389
+00:24:48,360 --> 00:24:51,240
+我们一周前还说过话  那之后就没了音讯
+We spoke a week ago. I haven't heard from him since.
+
+390
+00:24:51,820 --> 00:24:54,600
+你万分确定吗
+Are you absolutely certain about this?
+
+391
+00:24:57,890 --> 00:24:59,480
+亚历克西  公开吧
+Alexi, go public.
+
+392
+00:25:02,560 --> 00:25:03,750
+我们会庇护你的
+We'll protect you.
+
+393
+00:25:04,240 --> 00:25:05,680
+就像你们庇护冯山德那样吗
+Like you did Xander Feng?
+
+394
+00:25:07,290 --> 00:25:08,450
+这是两码事
+That was different.
+
+395
+00:25:10,280 --> 00:25:11,520
+我还有家庭
+I have a family.
+
+396
+00:25:14,300 --> 00:25:17,170
+俄联邦安全局以前也干过这种事
+The FSB has conducted these sorts of operations before.
+
+397
+00:25:17,180 --> 00:25:18,960
+公寓被炸事件
+The apartment complex that blew up,
+
+398
+00:25:17,180 --> 00:25:22,010
+{\pos(382,284)}{\an3}1999年9月
+莫斯科等城市发生多起公寓被炸案
+俄罗斯指责是车臣叛军所为
+车臣叛军则指控是俄秘密部门所为
+
+399
+00:25:22,340 --> 00:25:26,480
+{\pos(382,284)}{\an3}2002年10月23至26日
+俄突击队冲入莫斯科一家戏院
+营救被车臣叛军扣压的七百名俄国人质
+最终129名人质死亡
+41名车臣叛军被击毙
+多数人死于未知毒气
+
+400
+00:25:18,960 --> 00:25:22,010
+成了佩特罗夫用来进攻车臣的理由
+Petrov used that to justify invading Chechnya.
+
+401
+00:25:22,340 --> 00:25:24,210
+剧院毒气事件
+The opera house that was gassed,
+
+402
+00:25:24,210 --> 00:25:26,480
+那之后他换掉了所有省长
+he removed all provincial governors after that.
+
+403
+00:25:26,480 --> 00:25:29,510
+我们的确认为第一件事与俄联邦安全局有关
+We do believe the FSB participated in the first.
+
+404
+00:25:29,510 --> 00:25:32,050
+剧院事件我们仍不确定
+We're still uncertain about the opera house.
+
+405
+00:25:32,320 --> 00:25:34,220
+但炸死他自己的士兵
+But blowing up his own soldiers,
+
+406
+00:25:34,220 --> 00:25:36,180
+我还是觉得难以置信
+I find that very difficult to believe.
+
+407
+00:25:36,180 --> 00:25:40,370
+他直截了当地说了吗  他说出口了吗
+Did he tell you point blank? Did he say the words?
+
+408
+00:25:41,340 --> 00:25:43,350
+他把能说的都说了
+He said as much as he could.
+
+409
+00:25:43,540 --> 00:25:45,710
+但他的暗示很明确
+But the implication was crystal clear.
+
+410
+00:25:45,710 --> 00:25:47,530
+我相信他一定很令人信服
+I'm sure he was very convincing.
+
+411
+00:25:47,530 --> 00:25:48,890
+俄国所有外交官都经过了
+All Russian diplomats go through
+
+412
+00:25:48,890 --> 00:25:50,620
+俄联邦安全局的反情报训练
+FSB counter-intel training.
+
+413
+00:25:50,620 --> 00:25:53,430
+他们想刺激我们做出行动
+They're trying to provoke some sort of reaction out of us.
+
+414
+00:25:53,680 --> 00:25:54,820
+那他弟弟呢
+But what about his brother?
+
+415
+00:25:54,820 --> 00:25:57,360
+他弟弟确实是在俄联邦安全局工作
+It is true that his brother works for the FSB,
+
+416
+00:25:57,360 --> 00:25:59,150
+我们也的确上周后就找不到他了
+and that we lost track of him last week.
+
+417
+00:25:59,160 --> 00:26:00,630
+这部分属实
+That part of the story holds up.
+
+418
+00:26:00,640 --> 00:26:02,300
+我们对莫里科夫有什么了解
+What's our profile on Moryakov?
+
+419
+00:26:02,300 --> 00:26:05,000
+我们有特工调查过他  先生  吉姆
+We have our agent who's been assigned to him, sir. Jim?
+
+420
+00:26:05,000 --> 00:26:08,730
+莫斯科认为莫里科夫有点捉摸不定
+Moryakov has been considered a bit of a wild card in Moscow.
+
+421
+00:26:08,730 --> 00:26:10,790
+佩特罗夫曾两次考虑将他召回
+Petrov considered recalling him twice,
+
+422
+00:26:10,790 --> 00:26:13,340
+但碍于和他父亲的交情就不了了之
+but held off because his father's a family friend.
+
+423
+00:26:13,350 --> 00:26:15,840
+这几个月来我们收集到些只言片语
+Now, we picked up some chatter in recent months,
+
+424
+00:26:15,840 --> 00:26:19,520
+他对克林姆林宫处理约旦河谷问题的方式有所担忧
+his misgivings with how the Kremlin's been handling the Jordan Valley.
+
+425
+00:26:20,110 --> 00:26:22,600
+但你觉得他会做叛徒吗
+But does he strike you as a traitor?
+
+426
+00:26:22,600 --> 00:26:25,340
+他很难说  他极度民族主义
+He's a complicated man. Fiercely nationalistic.
+
+427
+00:26:25,340 --> 00:26:28,540
+但他对佩特罗夫绝对有疑虑
+But he definitely has doubts about Petrov.
+
+428
+00:26:32,670 --> 00:26:34,820
+我们至少该考虑一下这种可能吧
+Shouldn't we at least entertain the possibility?
+
+429
+00:26:34,820 --> 00:26:36,060
+是啊  但我们怎么确定
+Yeah, but how can we determine it
+
+430
+00:26:36,060 --> 00:26:38,100
+到底是怎么样的  如何确认
+one way or the other? Definitively?
+
+431
+00:26:38,200 --> 00:26:39,600
+光靠卫星不够
+Our satellites aren't enough.
+
+432
+00:26:39,610 --> 00:26:41,160
+我们得派人去爆炸地点
+We'd have to get men to the blast site,
+
+433
+00:26:41,160 --> 00:26:44,160
+采集土壤样本和爆炸残片
+retrieve soil samples and blast debris.
+
+434
+00:26:45,370 --> 00:26:47,280
+我们多快能派人过去
+How soon could we get a team in?
+
+435
+00:26:47,280 --> 00:26:49,290
+72小时吧
+I'd estimate 72 hours.
+
+436
+00:26:49,420 --> 00:26:51,290
+三天也太久了
+Well, three days seems an awfully long time.
+
+437
+00:26:51,290 --> 00:26:54,020
+调派的基本准备不是已经就绪了吗
+Don't we already have the basics in place for deployment?
+
+438
+00:26:54,020 --> 00:26:56,340
+但那没有考虑应对俄罗斯军队
+That doesn't take into account the Russian forces.
+
+439
+00:26:56,340 --> 00:26:58,590
+我们想在出兵之前掌握更多情报
+We'd want better intel before deploying.
+
+440
+00:27:02,250 --> 00:27:05,020
+那是不是随着时间推移
+Am I correct in assuming that every hour that passes,
+
+441
+00:27:05,020 --> 00:27:08,130
+我们获取证据的几率也在降低
+our chances of retrieving any proof diminish?
+
+442
+00:27:08,560 --> 00:27:09,940
+是的  先生
+That is correct, sir.
+
+443
+00:27:10,110 --> 00:27:12,950
+那调派最快需要多久
+What's the absolute soonest you can deploy?
+
+444
+00:27:14,400 --> 00:27:16,020
+12小时  总统先生
+Twelve hours, Mr. President.
+
+445
+00:27:16,020 --> 00:27:18,000
+但这样就有极高的...
+But that would involve an extremely high degree--
+
+446
+00:27:18,000 --> 00:27:20,260
+我知道有风险  上将
+Yeah, I'm aware of the risk, Admiral.
+
+447
+00:27:20,710 --> 00:27:22,560
+胜算有多大
+What are the odds of success?
+
+448
+00:27:23,710 --> 00:27:26,610
+说实话  先生  没有准确情报
+Honestly, sir, without proper intelligence,
+
+449
+00:27:27,370 --> 00:27:29,270
+我最多只能说一半一半
+I can't say better than 50/50.
+
+450
+00:27:31,540 --> 00:27:32,720
+你确定吗
+You're certain?
+
+451
+00:27:33,770 --> 00:27:35,430
+我确定
+Yes, I am.
+
+452
+00:27:39,760 --> 00:27:40,990
+那就准备行动
+Let's put it in motion.
+
+453
+00:27:43,810 --> 00:27:46,100
+-总统先生  -马克
+- Mr. President? - Mark.
+
+454
+00:27:46,110 --> 00:27:48,250
+不是应该联合国去调查
+Shouldn't the UN be conducting the investigation
+
+455
+00:27:48,250 --> 00:27:49,160
+而不是俄罗斯吗
+instead of the Russians?
+
+456
+00:27:49,160 --> 00:27:50,530
+俄罗斯在此次行动之初
+The Russians have been our partners
+
+457
+00:27:50,530 --> 00:27:52,390
+就是我们的合作伙伴
+in this mission from day one of deployment,
+
+458
+00:27:52,390 --> 00:27:56,500
+所以我认为他们是代表联合国进行自主调查
+so I would say that they're conducting their own investigation on behalf
+
+459
+00:27:56,670 --> 00:27:59,580
+而不是取代联合国
+of the United Nations, not instead of.
+
+460
+00:27:59,580 --> 00:28:01,620
+-总统先生  -萨拉
+- Mr. President? - Sara.
+
+461
+00:28:01,620 --> 00:28:02,440
+那是不是说
+Is it correct to say that
+
+462
+00:28:02,440 --> 00:28:04,500
+他们不会向联合国指挥部汇报
+they are in no way reporting to UN Command?
+
+463
+00:28:04,500 --> 00:28:07,470
+在维和任务中  每个国家志愿派遣军力
+In peacekeeping missions, nations volunteer their forces.
+
+464
+00:28:07,470 --> 00:28:09,590
+他们首先是听命于本国政府
+They answer to their own governments first and foremost,
+
+465
+00:28:09,590 --> 00:28:11,480
+其次再是与联合国指挥部合作
+then they cooperate with the UN Command.
+
+466
+00:28:11,480 --> 00:28:13,030
+两者有重要区别
+That's an important distinction to make.
+
+467
+00:28:13,030 --> 00:28:16,090
+其他关于约旦河谷的问题
+Now, any other questions with respect to the Jordan Valley
+
+468
+00:28:16,090 --> 00:28:17,610
+都请向国务院提出
+should be directed to the State Department.
+
+469
+00:28:17,610 --> 00:28:18,660
+如果还有跟昨天的事
+But if any of you have questions
+
+470
+00:28:18,660 --> 00:28:20,450
+无关的问题
+that don't relate to yesterday's events,
+
+471
+00:28:20,450 --> 00:28:22,890
+我可以回答一下  斯黛芬妮
+I'll take one or two. Yeah, Stephanie.
+
+472
+00:28:22,900 --> 00:28:25,380
+总统先生  我跟凯特都有个问题
+Mr. President, Kate and I both had a question.
+
+473
+00:28:25,520 --> 00:28:26,440
+谢谢  斯黛芬妮
+Thank you, Stephanie.
+
+474
+00:28:26,450 --> 00:28:27,660
+总统先生  您知道
+Mr. President, are you aware, sir,
+
+475
+00:28:27,660 --> 00:28:29,280
+在空军一号上进行竞选活动
+that campaigning on Air Force One
+
+476
+00:28:29,280 --> 00:28:32,240
+-是违反选举委员会规定的吗  -我知道
+- is a violation of FEC rules? - Yes, in general, I am.
+
+477
+00:28:32,240 --> 00:28:34,360
+昨天哈兰·特劳伯也在飞机上
+Harlan Traub was on the plane yesterday.
+
+478
+00:28:34,360 --> 00:28:35,530
+他出现在那儿的原因
+It's hard to imagine he was there
+
+479
+00:28:35,530 --> 00:28:37,970
+大概只能是你在寻求他在爱荷华州的支持吧
+for any other reason than you'd be seeking his support in Iowa.
+
+480
+00:28:37,970 --> 00:28:39,390
+你不知道  我跟他是老交情了
+You don't know how long I've known him,
+
+481
+00:28:39,390 --> 00:28:41,090
+他昨天的确在飞机上
+and yes, he was on the plane yesterday.
+
+482
+00:28:41,100 --> 00:28:44,030
+但我没进行选举活动就不算违规
+But it's not a violation if you don't campaign, which I didn't.
+
+483
+00:28:44,030 --> 00:28:45,890
+我也就问了问
+I think the extent of our conversation
+
+484
+00:28:45,890 --> 00:28:47,530
+他吃得怎么样
+was asking him how he liked his meal.
+
+485
+00:28:47,530 --> 00:28:50,010
+不过我乐意接受选举委员会的裁决
+But I'm happy to let the FEC decide.
+
+486
+00:28:50,010 --> 00:28:51,660
+还有谁要受人所托
+Now, does anybody else have any question
+
+487
+00:28:51,660 --> 00:28:53,530
+问我什么问题吗
+that somebody else asked them to ask me?
+
+488
+00:28:54,590 --> 00:28:55,590
+特劳伯呢
+Where's Traub now?
+
+489
+00:28:55,590 --> 00:28:57,710
+酒店里  一小时内能到
+At the Hay-Adams. Should be here in an hour.
+
+490
+00:28:57,710 --> 00:28:59,760
+被人看见他在白宫不好吧
+It'd be bad if anyone saw him at the White House.
+
+491
+00:28:59,760 --> 00:29:01,380
+我现在都不想让他来首都
+Well, I don't even want him in DC now.
+
+492
+00:29:01,380 --> 00:29:03,930
+我得处理俄罗斯的问题
+The last thing we need is some bullshit FEC story
+
+493
+00:29:03,930 --> 00:29:05,530
+不能再让选举委员会找上茬
+while I'm trying to deal with the Russians.
+
+494
+00:29:05,530 --> 00:29:07,520
+送他回爱荷华吧  你来处理
+Let's get him back to Iowa. And you handle this.
+
+495
+00:29:07,520 --> 00:29:09,330
+你比沃恩更擅长与人打交道
+You have better people skills than Vaughn.
+
+496
+00:29:09,330 --> 00:29:10,250
+你跟鲍德温谈
+And you talk to Baldwin.
+
+497
+00:29:10,250 --> 00:29:13,060
+跟她说明白我们没违反任何规定
+You make it crystal clear we violated no regulations.
+
+498
+00:29:13,060 --> 00:29:16,320
+先生  道格昨晚给我留言了
+Sir? I got a voicemail from Doug last night.
+
+499
+00:29:16,330 --> 00:29:20,240
+-他说他母亲去世了  -真糟糕
+- He said his mom died. - My God, that's awful.
+
+500
+00:29:20,870 --> 00:29:23,120
+可是茱莉亚·斯坦普十年前就去世了
+Except Julia Stamper passed away ten years ago.
+
+501
+00:29:23,120 --> 00:29:25,080
+我知道  我去了葬礼
+I know, I was at the funeral.
+
+502
+00:29:25,550 --> 00:29:27,680
+送些花吧  把道格请来吧
+Send some flowers. Actually, get Doug in here.
+
+503
+00:29:27,680 --> 00:29:30,140
+我想亲自表示哀悼
+I'd like to give my condolences in person.
+
+504
+00:29:32,820 --> 00:29:33,700
+通过《美国就业法案》
+There's a whole host of ways
+
+505
+00:29:33,700 --> 00:29:35,670
+我们有很多在爱荷华州
+we can revolutionize food processing in Iowa
+
+506
+00:29:35,670 --> 00:29:36,620
+革新食品加工业的办法
+through America Works.
+
+507
+00:29:36,630 --> 00:29:38,040
+你们研发需要的补贴
+The subsidies you want for R and D
+
+508
+00:29:38,040 --> 00:29:40,550
+-可以当作...  -你不用这样的
+- can be financed as a jobs-- - You don't have to do this.
+
+509
+00:29:40,870 --> 00:29:42,540
+-哪样  -跟我说好话
+- Do what? - Sweet talk me.
+
+510
+00:29:42,650 --> 00:29:44,260
+给我叫辆车就可以了
+And a cab would've been fine.
+
+511
+00:29:46,260 --> 00:29:47,640
+我想亲自开车送你去机场
+I wanted to drive to the airport myself
+
+512
+00:29:47,650 --> 00:29:49,480
+好聊聊  谈谈你的顾虑
+so we had a chance to talk about your concerns.
+
+513
+00:29:49,480 --> 00:29:53,090
+我都跟候选人聊  不是司机
+Well, I'm used to talking to candidates, not chauffeurs.
+
+514
+00:29:56,310 --> 00:29:57,530
+我不是司机
+I'm not a chauffeur.
+
+515
+00:29:59,090 --> 00:30:00,790
+你不是开着车吗
+Well, it's your hands on the wheel.
+
+516
+00:30:34,290 --> 00:30:35,220
+赛斯
+Seth?
+
+517
+00:31:05,250 --> 00:31:06,210
+该死
+Shit.
+
+518
+00:31:06,910 --> 00:31:08,490
+请出示车辆登记和保险证明
+Registration and insurance, please.
+
+519
+00:31:09,220 --> 00:31:11,240
+抱歉  警官  钱包落在办公室了
+I'm sorry, officer. I left my wallet at work.
+
+520
+00:31:11,240 --> 00:31:13,060
+车辆登记  保险证明呢
+Registration? Proof of insurance?
+
+521
+00:31:13,060 --> 00:31:15,570
+-在钱包里  -应该放在车上的
+- In my wallet. - You're supposed to keep it in the car.
+
+522
+00:31:15,580 --> 00:31:18,930
+是啊  但要是车被偷了  手续不也没了
+Yeah. But if someone steals your car, why give 'em the paperwork?
+
+523
+00:31:19,490 --> 00:31:19,850
+好吧
+All right,
+
+524
+00:31:19,850 --> 00:31:22,000
+请你下车吧  先生
+I'm gonna need you to step out of the car for a moment, please.
+
+525
+00:31:23,270 --> 00:31:24,500
+警官  我是雷米·丹顿
+Officer, my name is Remy Danton.
+
+526
+00:31:24,500 --> 00:31:25,880
+总统的幕僚长
+I'm Chief of Staff to the president.
+
+527
+00:31:25,880 --> 00:31:28,550
+不出示证件的话  我也不知道你是谁  先生
+Without your identification, sir, I don't know who you are.
+
+528
+00:31:29,520 --> 00:31:32,070
+-我有白宫的胸针  -那也没用  先生
+- Got my government pin. - That doesn't matter, sir.
+
+529
+00:31:32,070 --> 00:31:33,610
+还是要出示证件
+I still need to see your identification.
+
+530
+00:31:33,620 --> 00:31:35,180
+请下车吧
+Would you step out of the car, please?
+
+531
+00:31:35,180 --> 00:31:38,060
+警官  搜一下雷米·丹顿  能搜到我的照片
+Officer, you run a search on Remy Danton, you'll get my photo.
+
+532
+00:31:38,060 --> 00:31:41,290
+先生  请下车
+Sir, I asked you to step out of the car. Please.
+
+533
+00:31:46,940 --> 00:31:49,590
+-带武器了吗  -当然没有
+- Any weapons on you? - Of course not.
+
+534
+00:31:49,760 --> 00:31:52,020
+好  请站到车辆后方
+All right. You mind stepping to the rear of the vehicle, please?
+
+535
+00:31:55,190 --> 00:31:57,380
+为了保险  我还是要搜一下
+I'm gonna pat you down, just to make sure.
+
+536
+00:31:59,310 --> 00:32:00,170
+脚往后站
+Feet back.
+
+537
+00:32:01,460 --> 00:32:05,290
+车是登记在一个弗吉尼亚州企业名下  没有地址
+Car comes back to a Virginia corporation, no address.
+
+538
+00:32:05,290 --> 00:32:07,890
+我接触机密信息  身份自然是保密的
+I'm cleared Top Secret, my information is masked.
+
+539
+00:32:07,890 --> 00:32:10,070
+先生  请你在这儿等一下
+Sir, I need you to stay here for a moment, please.
+
+540
+00:32:13,010 --> 00:32:14,480
+-查到什么了  -没有地址
+- What do you got? - No address on file.
+
+541
+00:32:14,480 --> 00:32:16,740
+-为什么拦下我  -稍等  先生
+- Why'd you stop me? - One moment, sir.
+
+542
+00:32:16,870 --> 00:32:17,680
+不  别敷衍我
+No, not one moment.
+
+543
+00:32:17,680 --> 00:32:19,140
+我有权知道你们为什么让我停车
+I got the right to know why you stopped me.
+
+544
+00:32:19,150 --> 00:32:21,350
+先生  请你把手放在车上
+Sir, I asked you to keep your hands on the car.
+
+545
+00:32:21,350 --> 00:32:22,810
+把你的警号告诉我
+I'm gonna need your badge number.
+
+546
+00:32:22,810 --> 00:32:24,270
+想向你搭档炫耀吗  伙计
+Trying to show off for your partner here, brother?
+
+547
+00:32:24,270 --> 00:32:26,050
+别叫我伙计  别逼我们拷你
+I'm not your brother. Don't make us restrain you.
+
+548
+00:32:26,050 --> 00:32:27,570
+-戴维斯警官  -先生
+- Officer Davis. - Sir.
+
+549
+00:32:27,570 --> 00:32:28,880
+柯克兰警官
+Officer Corchoran.
+
+550
+00:32:29,370 --> 00:32:31,440
+这么着吧  我要照张照片
+Know what? I'm gonna take a photo.
+
+551
+00:32:32,930 --> 00:32:34,080
+搞什么
+What the fuck?!
+
+552
+00:32:35,300 --> 00:32:37,980
+-你们搞什么  -冷静点
+- What's your problem?! - Calm down!
+
+553
+00:32:38,140 --> 00:32:38,920
+先生
+Sir!
+
+554
+00:32:40,030 --> 00:32:41,690
+把你的警号给我
+I'm gonna need your badge number!
+
+555
+00:32:50,160 --> 00:32:52,590
+丹顿先生  我是希克森副队长
+Mr. Danton, I'm Lieutenant Hixson.
+
+556
+00:32:52,590 --> 00:32:54,810
+我为此次误会向您道歉
+I'm very sorry for this misunderstanding.
+
+557
+00:32:55,110 --> 00:32:56,020
+小心别撞头
+Watch your head.
+
+558
+00:32:58,690 --> 00:33:01,260
+我代表他们向您道歉  希望您能接受
+I hope you accept my apology on their behalf.
+
+559
+00:33:02,380 --> 00:33:04,990
+-他们说让我停车是因为超速  -对
+- They said I was stopped for speeding. - Yes.
+
+560
+00:33:04,990 --> 00:33:07,610
+当驾驶员无法出示驾照和车辆登记的时候...
+When they encounter someone without a license and registration--
+
+561
+00:33:07,610 --> 00:33:08,770
+开罚单
+Write up the ticket.
+
+562
+00:33:09,030 --> 00:33:11,410
+不用担心这个  先生  您可以走了
+You don't have to worry about that, sir. You're free to go.
+
+563
+00:33:11,420 --> 00:33:13,340
+如果我当时超速了  就给我开罚单
+If I was speeding, give me the damn ticket.
+
+564
+00:33:13,580 --> 00:33:16,540
+让您遭了这番罪  真的没这必要了
+That's really not necessary after everything we put you through.
+
+565
+00:33:16,540 --> 00:33:17,470
+副队长
+Lieutenant.
+
+566
+00:33:27,640 --> 00:33:29,300
+我也想请你上去  但孩子们
+I'd invite you up, but the kids, they're--
+
+567
+00:33:29,300 --> 00:33:31,200
+我们准备这次带他们一起去爱荷华
+We're bringing them to Iowa this trip
+
+568
+00:33:31,200 --> 00:33:32,750
+简直乱套了
+and it's a total shit-show.
+
+569
+00:33:32,750 --> 00:33:35,480
+我来不是为了竞选的事
+I didn't come here to talk to you about the campaign.
+
+570
+00:33:36,080 --> 00:33:37,300
+我可能...
+I probably... you know,
+
+571
+00:33:38,210 --> 00:33:39,540
+我不该就这样跑来  但...
+I shouldn't have just shown up like this, but...
+
+572
+00:33:39,540 --> 00:33:41,300
+来  到这边来
+Here. Come this way.
+
+573
+00:33:44,220 --> 00:33:46,640
+真是丢人  我都不知道我为什么来
+It's stupid. I don't even know why I came over.
+
+574
+00:33:46,770 --> 00:33:48,190
+发生什么事了吗
+Did something happen?
+
+575
+00:33:48,550 --> 00:33:51,330
+我开车时  因为超速被警察拦下
+I got pulled over. For speeding.
+
+576
+00:33:52,080 --> 00:33:55,830
+事情有点失控  开着豪车的黑鬼
+Things got out of hand. A nigger in a nice car.
+
+577
+00:33:56,630 --> 00:33:57,930
+老天
+Jesus.
+
+578
+00:33:59,800 --> 00:34:01,030
+我把钱包落在办公室了
+I left my wallet at work.
+
+579
+00:34:01,030 --> 00:34:02,150
+我告诉他我是谁
+When I tried to tell the guy who I was,
+
+580
+00:34:02,150 --> 00:34:03,720
+他却根本不相信
+he didn't believe me, so...
+
+581
+00:34:05,670 --> 00:34:06,610
+我说不清
+I don't know.
+
+582
+00:34:07,300 --> 00:34:08,500
+我也不相信我自己
+I didn't believe me.
+
+583
+00:34:10,280 --> 00:34:12,970
+我手被铐住时就好像
+There I was with my hands in cuffs and it was like, uh...
+
+584
+00:34:16,880 --> 00:34:18,840
+我根本不是我自己
+it was like I was outside of myself.
+
+585
+00:34:20,330 --> 00:34:21,580
+我可能是任何人
+I could've been anyone.
+
+586
+00:34:22,140 --> 00:34:23,150
+但就不是我自己
+I wasn't me.
+
+587
+00:34:27,840 --> 00:34:30,500
+-这么说你能明白吗  -你只是吓坏了
+- Does that make any sense? - You got rattled.
+
+588
+00:34:30,500 --> 00:34:32,060
+不  不是那样
+No, it's not that.
+
+589
+00:34:33,320 --> 00:34:36,620
+我看你和艾伦  甚至是弗兰克和克莱尔
+I look at you and Alan, and even Frank and Claire.
+
+590
+00:34:37,110 --> 00:34:39,950
+发生这种事我连个倾诉对象都没有
+This happened and I didn't have anyone to tell about it.
+
+591
+00:34:41,600 --> 00:34:42,940
+你有我呢
+You have me, right?
+
+592
+00:34:44,800 --> 00:34:46,390
+你来我很开心
+I'm glad you came over.
+
+593
+00:34:47,480 --> 00:34:51,820
+这不公平  这样打扰你
+It's not fair. Intruding on you like this.
+
+594
+00:34:51,820 --> 00:34:55,060
+如果我认为你这是打扰  我根本就不会下来
+If I thought you were intruding, I wouldn't have come downstairs.
+
+595
+00:35:10,530 --> 00:35:12,820
+我很抱歉  对不起
+I'm sorry. I'm sorry.
+
+596
+00:35:13,480 --> 00:35:14,250
+我
+I--
+
+597
+00:35:15,540 --> 00:35:17,390
+你对我仍然很重要
+You still mean a lot to me.
+
+598
+00:35:17,850 --> 00:35:20,300
+作为朋友  我会扶持你
+I am there for you, as your friend.
+
+599
+00:35:21,860 --> 00:35:24,110
+你该回去了  继续打包
+You should go back up. Finish packing.
+
+600
+00:35:25,600 --> 00:35:26,610
+一路平安
+Safe flight.
+
+601
+00:35:30,550 --> 00:35:32,560
+我们准备在东部时间晚上9点
+We're set to insert at 2100 EST,
+
+602
+00:35:32,950 --> 00:35:34,780
+当地时间凌晨4点空降
+0400 local time.
+
+603
+00:35:34,780 --> 00:35:35,890
+我们将使用富尔顿地对空回收系统
+We'll use a Fulton recovery
+
+604
+00:35:35,890 --> 00:35:37,070
+收集所有材料样品
+of any material samples.
+
+605
+00:35:37,070 --> 00:35:38,360
+如何撤出呢
+The extraction?
+
+606
+00:35:38,420 --> 00:35:39,840
+小队将步行前往
+The team will make its way on foot
+
+607
+00:35:40,290 --> 00:35:42,170
+这个指定地点等待撤离
+to this rendezvous point for extract.
+
+608
+00:35:42,170 --> 00:35:43,970
+他们要怎样穿过俄罗斯的防线
+How are they gonna pass the Russian lines?
+
+609
+00:35:43,980 --> 00:35:46,520
+我们的情报有限  但小队将和
+Our intel is spotty at best, but our team is scheduled
+
+610
+00:35:46,520 --> 00:35:49,650
+当地协助行动的特工汇合
+to link up with a local agent who will assist.
+
+611
+00:35:49,940 --> 00:35:51,670
+我们去战况室继续谈
+All right. Let's move this down to the Situation Room.
+
+612
+00:35:51,670 --> 00:35:52,910
+我几分钟后到
+I'll be there in a few minutes.
+
+613
+00:35:52,910 --> 00:35:54,090
+-是  长官  -是  长官
+- Yes, Sir. - Yes, Sir.
+
+614
+00:35:58,600 --> 00:35:59,630
+他说什么了吗
+Did he say anything?
+
+615
+00:35:59,840 --> 00:36:01,710
+我打招呼的时候他看都没看我
+He wouldn't even look at me when I said hello.
+
+616
+00:36:02,440 --> 00:36:03,370
+让他进来
+Send him in.
+
+617
+00:36:10,340 --> 00:36:11,170
+道格
+Doug.
+
+618
+00:37:27,880 --> 00:37:29,060
+你确定吗
+Are you certain?
+
+619
+00:37:36,910 --> 00:37:39,760
+这些信息是谁收集的...算了  不该问的
+Who gathered all this inform-- Oh, never mind. I shouldn't know.
+
+620
+00:37:41,660 --> 00:37:43,800
+是你  把她...
+Was it you... who...?
+
+621
+00:37:45,180 --> 00:37:46,020
+不是
+No.
+
+622
+00:37:49,830 --> 00:37:51,480
+不该带到这儿来
+You shouldn't have brought this here.
+
+623
+00:37:53,070 --> 00:37:54,540
+我想要你看看
+I wanted you to see it.
+
+624
+00:37:56,310 --> 00:37:57,750
+好让你相信我
+So you would believe me.
+
+625
+00:37:59,720 --> 00:38:00,640
+真残酷
+Brutal.
+
+626
+00:38:03,780 --> 00:38:05,190
+我醉了  先生
+I'm drunk, sir.
+
+627
+00:38:08,590 --> 00:38:10,200
+我现在还醉着
+I'm-- I'm drunk right now.
+
+628
+00:38:17,650 --> 00:38:20,160
+你真的很在意这姑娘  是吧
+This girl really meant something to you, didn't she?
+
+629
+00:38:20,300 --> 00:38:20,920
+是啊
+Yeah.
+
+630
+00:38:22,880 --> 00:38:23,840
+没错
+She did.
+
+631
+00:38:28,560 --> 00:38:30,090
+我在给邓巴工作
+I've been working for Dunbar.
+
+632
+00:38:37,150 --> 00:38:40,280
+我把自己逼得太狠了  是我的错
+I pushed myself too much. It's my fault.
+
+633
+00:38:43,110 --> 00:38:45,890
+我是为了你  看看自己能走到哪一步
+It was for you. To see how close I could get.
+
+634
+00:38:45,890 --> 00:38:49,600
+看能不能找到什么致命信息
+If I could find something, a silver bullet.
+
+635
+00:38:51,760 --> 00:38:55,190
+证明自己的价值
+To prove that... I was still useful.
+
+636
+00:39:02,910 --> 00:39:04,340
+需要我帮忙吗  道格
+How can I help you, Doug?
+
+637
+00:39:04,940 --> 00:39:06,420
+我不想去戒酒中心
+I can't go to rehab.
+
+638
+00:39:07,490 --> 00:39:09,340
+-别送我去医院或是...  -好
+- Just not another hospital, or... - Okay.
+
+639
+00:39:09,340 --> 00:39:12,040
+我就是  真的撑不住
+I just... I can't... I can't do it.
+
+640
+00:39:13,470 --> 00:39:14,950
+我们再想办法
+We'll figure something out.
+
+641
+00:39:17,540 --> 00:39:19,040
+我不是彼得·罗素
+I'm not Peter Russo.
+
+642
+00:39:21,720 --> 00:39:23,330
+我不会跟他一个下场
+I won't go like he did.
+
+643
+00:39:31,180 --> 00:39:34,580
+当然不会  你会好起来的  道格
+No, you won't. You're going to get better, Doug.
+
+644
+00:39:36,350 --> 00:39:37,730
+我保证
+I promise you that.
+
+645
+00:39:46,270 --> 00:39:47,730
+叫密查姆进来
+Yes, send Meechum in here.
+
+646
+00:40:07,110 --> 00:40:10,170
+我桌上有个信封  需要烧毁
+There's an envelope on my desk. I need it to be incinerated.
+
+647
+00:40:10,180 --> 00:40:11,010
+好的
+Yes, sir.
+
+648
+00:40:16,250 --> 00:40:18,130
+然后送道格回家
+And then I need you to take Doug home.
+
+649
+00:40:22,220 --> 00:40:23,880
+走吧  道格  该走了
+Come on, Doug, it's time to go.
+
+650
+00:40:36,900 --> 00:40:38,230
+这边  斯坦普先生
+This way, Mr. Stamper.
+
+651
+00:40:41,920 --> 00:40:43,810
+你先陪着他  我们再作打算
+You stay with him until we figure out what's next.
+
+652
+00:40:43,810 --> 00:40:44,760
+好的
+Yes, sir.
+
+653
+00:40:55,760 --> 00:40:57,230
+请出去一下
+Some privacy, please.
+
+654
+00:40:59,350 --> 00:41:02,240
+-我是希瑟·邓巴  -马上给您接通
+- This is Heather Dunbar. - I'll connect you momentarily.
+
+655
+00:41:03,810 --> 00:41:04,730
+希瑟
+Heather?
+
+656
+00:41:05,420 --> 00:41:06,710
+总统先生
+Mr. President?
+
+657
+00:41:06,750 --> 00:41:08,230
+道格·斯坦普是我的朋友
+Doug Stamper is my friend,
+
+658
+00:41:08,230 --> 00:41:10,280
+你差一点把他害死
+and you came very close to killing him.
+
+659
+00:41:10,280 --> 00:41:12,880
+-什么  -你知道他以前酗酒吧
+- Excuse me? - You're aware he's an alcoholic?
+
+660
+00:41:12,880 --> 00:41:15,350
+-知道  -以及他伤得多严重
+- Yes. - And how serious his injuries were.
+
+661
+00:41:15,350 --> 00:41:19,230
+-总统先生...  -但你还是让他工作
+- Mr. President-- - But you still put him to work.
+
+662
+00:41:19,240 --> 00:41:23,080
+让一个康复中  想回到正轨上的人工作
+A man who's trying to recover, who's trying to get back his life.
+
+663
+00:41:23,080 --> 00:41:25,360
+你真觉得他能应付得了吗
+Did you honestly think that he could handle that?
+
+664
+00:41:25,370 --> 00:41:26,980
+是道格拉斯来找我们的
+Douglas came to us.
+
+665
+00:41:26,980 --> 00:41:31,760
+你要是还要脸就该拒绝他
+And you should've turned him away if you had one ounce of decency.
+
+666
+00:41:33,290 --> 00:41:35,520
+怎么了  他没事吧
+What's happened? Is he okay?
+
+667
+00:41:36,190 --> 00:41:38,280
+你没权利问我这个
+You don't have the right to ask me that question.
+
+668
+00:41:38,280 --> 00:41:40,550
+你要是再做威胁他健康的事
+And if you do anything that endangers his health again,
+
+669
+00:41:40,550 --> 00:41:42,140
+我对天发誓
+I swear to God,
+
+670
+00:41:42,140 --> 00:41:46,690
+我一定要了你的命
+I will put you in your fucking grave.
+
+671
+00:42:00,700 --> 00:42:01,940
+继续谈吧
+Let's continue.
+
+672
+00:42:05,090 --> 00:42:07,910
+3.2万英尺  一分钟后跳伞
+Thirty-two thousand feet, one minute to insert.
+
+673
+00:42:08,530 --> 00:42:09,910
+接通无线电
+Let's hear comms.
+
+674
+00:42:10,460 --> 00:42:11,720
+打开音频
+Audio on.
+
+675
+00:42:12,810 --> 00:42:13,910
+起立
+Stand up!
+
+676
+00:42:14,410 --> 00:42:16,090
+20秒  最后检查一遍
+Twenty seconds. Last checks.
+
+677
+00:42:18,190 --> 00:42:19,830
+最后检查  过来
+Last checks! Gather round.
+
+678
+00:42:28,610 --> 00:42:32,730
+十秒  九  八  七
+Ten seconds. Nine, eight, seven,
+
+679
+00:42:32,740 --> 00:42:35,590
+六  五  四
+six, five, four,
+
+680
+00:42:35,910 --> 00:42:38,460
+三  二  行动
+three, two. Green light.
+
+681
+00:42:38,460 --> 00:42:42,800
+-跳后会失去视频信号  -跳  跳
+- Video will go dark once they jump. - Go. Go.
+
+682
+00:42:50,860 --> 00:42:52,180
+降落伞已打开
+Chutes deployed.
+
+683
+00:42:54,160 --> 00:42:55,230
+集结点
+The rally point.
+
+684
+00:42:56,020 --> 00:42:58,730
+和当地特工在这里会合
+Link-up with indig agent happens here,
+
+685
+00:42:58,730 --> 00:43:00,170
+离降落地点五百米
+half a klick from the drop zone.
+
+686
+00:43:00,170 --> 00:43:02,530
+他会带路进入爆炸现场
+He'll arrange safe passage to the blast site.
+
+687
+00:43:17,260 --> 00:43:18,650
+我操
+Motherfucker!
+
+688
+00:43:20,290 --> 00:43:23,100
+特工反水  重复  特工反水
+Agent is rogue. Repeat, we have a bad agent.
+
+689
+00:43:23,190 --> 00:43:25,300
+-我们暴露了  -有人倒下  有人倒下
+- We've been compromised. - Man down! Man down!
+
+690
+00:43:25,300 --> 00:43:26,200
+-操  -这边
+- Fuck. - Over there!
+
+691
+00:43:26,200 --> 00:43:28,750
+-特工已击毙  -按住伤口
+- Agent is kilo. - Get pressure on that wound.
+
+692
+00:43:29,600 --> 00:43:30,760
+该放弃了  先生
+We should abort, sir.
+
+693
+00:43:31,560 --> 00:43:33,130
+-总统先生  -终止行动  让他们回来
+- Mr. President. - Shut it down. Bring them home.
+
+694
+00:43:33,130 --> 00:43:35,270
+"火柴棍"  重复  "火柴棍"
+"Match Stick," I repeat, "Match Stick."
+
+695
+00:43:35,270 --> 00:43:38,100
+直接前往X地点  收到吗
+Head directly to waypoint X-ray. How copy, over?
+
+696
+00:43:38,120 --> 00:43:39,370
+前往X地点
+Proceeding to X-ray.
+
+697
+00:43:51,350 --> 00:43:53,920
+-有人吗  -他在卧室
+- Hello? - He's in the bedroom.
+
+698
+00:44:08,080 --> 00:44:09,180
+好啊  弟弟
+Hey, brother.
+
+699
+00:44:33,700 --> 00:44:34,780
+请重复  完毕
+Say again. Over.
+
+700
+00:44:37,360 --> 00:44:38,400
+已确认  长官
+Confirmed, sir.
+
+701
+00:44:38,540 --> 00:44:40,950
+已离开X地点  前往撤离点
+The element is off the X and moving to extract.
+
+702
+00:44:40,990 --> 00:44:43,420
+三人受伤  一人身亡
+Three wounded, one KIA.
+
+703
+00:44:44,590 --> 00:44:46,520
+给我名字  亲属
+I'll need the name, next of kin.
+
+704
+00:44:46,840 --> 00:44:47,740
+好的
+Yes, sir.
+
+705
+00:45:17,920 --> 00:45:18,820
+怎么了
+Yes?
+
+706
+00:45:20,470 --> 00:45:23,290
+先生  佩特罗夫总统来电
+Sir, President Petrov is on the line.
+
+707
+00:45:23,760 --> 00:45:26,040
+我在这儿接  请关上门
+I'll take it in here. Shut the door, please.
+
+708
+00:45:28,840 --> 00:45:31,180
+-维克多  -我们知道是你的人
+- Viktor. - We know it was your men.
+
+709
+00:45:31,550 --> 00:45:32,550
+什么
+What was?
+
+710
+00:45:32,920 --> 00:45:34,470
+你以为我们发现不了吗
+Did you think we wouldn't detect you?
+
+711
+00:45:35,310 --> 00:45:37,880
+不管你说的是什么  我都不知情
+Whatever you're accusing us of, I don't know anything about it.
+
+712
+00:45:37,880 --> 00:45:40,610
+你当然知道  以色列人也知道了
+Oh, yes, you do. And so do the Israelis.
+
+713
+00:45:41,140 --> 00:45:43,370
+我们把交火录像泄露给他们了
+We leaked footage of the firefight to them.
+
+714
+00:45:44,560 --> 00:45:45,950
+听到美国绕过他们
+I can't imagine they'd be pleased
+
+715
+00:45:45,950 --> 00:45:50,190
+执行机密行动  他们不会开心吧
+America is conducting covert operations without consulting with them first.
+
+716
+00:45:50,190 --> 00:45:52,700
+你杀了自己的士兵  维克多
+You killed your own men, Viktor.
+
+717
+00:45:55,090 --> 00:45:56,980
+昨晚中枪的是你的人
+It was your man who got shot last night.
+
+718
+00:45:56,980 --> 00:45:59,630
+我指爆炸  我们有情报
+I mean the blast. We have the intel.
+
+719
+00:45:59,630 --> 00:46:02,590
+是你  不是恐怖分子  是俄安全局
+It was you, not terrorists. It was FSB.
+
+720
+00:46:02,590 --> 00:46:06,490
+你在华盛顿羞辱我  在莫斯科羞辱我
+So you humiliate me in Washington, humiliate me in Moscow,
+
+721
+00:46:06,490 --> 00:46:09,680
+如今还要用你荒唐的幻想羞辱我吗
+and now you insult me with these ridiculous fantasies.
+
+722
+00:46:09,690 --> 00:46:11,610
+你搞这一切想要什么  维克多
+What do you want out of all of this, Viktor?
+
+723
+00:46:11,630 --> 00:46:15,140
+正义  我的士兵在你发起的行动中丧生了
+Justice, for my soldiers who died on a mission you devised.
+
+724
+00:46:15,140 --> 00:46:17,110
+他们的死只能怪你
+If anyone is to blame for their deaths, it's you.
+
+725
+00:46:17,110 --> 00:46:18,380
+再见  维克多
+Goodbye, Viktor.
+
+726
+00:46:21,710 --> 00:46:23,250
+弗兰西斯  他说什么了
+Francis, what did he say?
+
+727
+00:46:26,620 --> 00:46:28,080
+我得写完这封信
+I have to finish this letter.
+
+728
+00:46:44,950 --> 00:46:46,290
+过去数小时内
+Over the last several hours,
+
+729
+00:46:46,290 --> 00:46:48,940
+以色列军队进入了约旦河谷
+Israeli forces entered the Jordan Valley.
+
+730
+00:46:48,940 --> 00:46:50,070
+有目击者称
+Eyewitness reports say
+
+731
+00:46:50,070 --> 00:46:52,450
+他们驻扎营地的地方
+they've taken up positions near the encampments
+
+732
+00:46:52,450 --> 00:46:55,890
+就在俄军的爆炸现场封锁线旁
+where Russian troops are refusing access to a blast site
+
+733
+00:46:55,890 --> 00:46:58,800
+也是八名俄罗斯士兵丧生的地方
+where eight of their countrymen were killed two days ago.
+
+734
+00:46:58,800 --> 00:47:01,180
+以色列总理说
+The Israeli Prime Minister had this to say, quote:
+
+735
+00:47:01,180 --> 00:47:03,730
+"俄方拒绝撤军
+"With both Russian forces refusing to leave
+
+736
+00:47:03,740 --> 00:47:06,720
+又有他国展开机密行动..."
+and the presence of covert operations from other nations..."
+
+737
+00:47:06,720 --> 00:47:09,300
+哈马斯和黎巴嫩真主党要插手了
+Hamas and Hezbollah are getting involved.
+
+738
+00:47:10,520 --> 00:47:11,250
+为什么
+How?
+
+739
+00:47:11,540 --> 00:47:14,350
+他们曾宣称  如果以军过境就召集当地武装
+They've vowed to raise local militias if the Israelis cross the border.
+
+740
+00:47:14,350 --> 00:47:18,210
+美方政府也未就机密行动一事发表声明
+...nor has the American government regarding covert operations.
+
+741
+00:47:18,210 --> 00:47:21,220
+-这事可大了  -是啊
+- This is gonna be bad. - Yeah, it sure is.
+
+742
+00:47:21,220 --> 00:47:22,880
+我得去白宫了
+I should get to the White House.
+
+743
+00:47:23,980 --> 00:47:25,430
+出去时记得锁门
+Lock the door on the way out?
+
+744
+00:47:41,350 --> 00:47:42,510
+以色列人
+The Israelis.
+
+745
+00:47:43,540 --> 00:47:45,790
+我知道  我整晚都在看新闻
+I know, I've been watching the news all night.
+
+746
+00:47:46,300 --> 00:47:48,230
+该去战况室了
+We should get to the Situation Room.
+
+747
+00:47:48,560 --> 00:47:50,540
+我先写完  马上下去
+Let me finish this first. I'll be right down.
+
+748
+00:47:50,540 --> 00:47:51,960
+好  在那儿见
+All right, I'll see you down there.
+
+750
+00:48:54,190 --> 00:49:19,190
+{\an5}{\pos(193,145)}对于每一位美国总统来说
+下达命令派出特种部队执行危险任务  都是一种赌博
+在战场上  没有任何任务能够保证百分百成功
+美军历史上有多次特殊任务惨败的教训
+在讨论是否派出特种部队猎杀本·拉登时
+经验丰富的前国防部长盖茨建议采取轰炸的方式  而不是派兵突袭
+奥巴马最后决定派出最精良的海豹特工六队
+但是出发前白宫和五角大楼都没有百分百的成功把握
+幸运的是  虽然行动中美军损失了一架直升机
+但是这次行动还是非常成功的
+奥巴马的冒险也得到了政治上的巨大回报
+在2012年的大选中  奥巴马一直拿猎杀拉登的行动
+来证明自己在国家安全事务上卓有成效
+
+752
+00:49:19,190 --> 00:49:44,190
+{\an5}{\pos(193,145)}但是白宫战况室里发出的命令  也有很多没有获得预期的成功
+近来中东极端恐怖组织杀害了多名美国人质
+悲剧发生后  美国军方向媒体吐露
+奥巴马曾经下令特种部队对人质进行营救
+但是由于情报等原因  营救行动均未成功
+

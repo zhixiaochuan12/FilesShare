@@ -1,0 +1,900 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:26.67,00:00:30.36
+- Hi, I'm Trey Parker.[br]- I'm Matt. Matt Stone, that is.
+
+00:00:30.57,00:00:33.63
+You nut. You just caught us[br]doing what we love to do most...
+
+00:00:33.84,00:00:38.21
+...entertaining senior citizens.[br]Say "hi" to the South Park fans.
+
+00:00:38.41,00:00:42.08
+- Say "hi" to the South Park fans![br]- Hi.
+
+00:00:42.28,00:00:47.05
+This episode is called "Cartman's Mom[br]is a Dirty Slut." It's our favorite.
+
+00:00:47.25,00:00:51.82
+- It's what we call a cliffhanger.[br]- Excuse me. Excuse me.
+
+00:00:52.03,00:00:55.15
+- My chest hurts. I need my medication.[br]- You mean this?
+
+00:00:55.36,00:00:58.16
+- Yes, of course.[br]- Do the dog dance.
+
+00:00:58.37,00:01:00.77
+I don't wanna do the dog dance.
+
+00:01:00.97,00:01:02.96
+- Dog dance.[br]- Dog dance.
+
+00:01:03.17,00:01:05.07
+- Bark, bark...[br]- Good.
+
+00:01:05.27,00:01:08.40
+This episode is about a[br]boy's search for his father.
+
+00:01:08.61,00:01:11.64
+And a videotape[br]that might embarrass him.
+
+00:01:11.85,00:01:14.94
+- Can I have my medication now?[br]- Beep like a Jeep.
+
+00:01:15.15,00:01:16.88
+Yeah, beep like a Jeep.
+
+00:01:17.08,00:01:19.38
+- Beep, beep...[br]- That's it.
+
+00:01:19.59,00:01:23.22
+So now sit back and enjoy[br]"Matt's Mom is a Dirty Slut."
+
+00:01:23.42,00:01:26.82
+- Cartman's mom![br]- Right, right.
+
+00:01:58.53,00:02:00.79
+Cartman's Mom is a Dirty Slut
+
+00:02:03.16,00:02:05.69
+Cartman's not showing up for school.
+
+00:02:05.90,00:02:10.03
+Yeah, this is the third day in a row.[br]I wonder what's wrong.
+
+00:02:11.54,00:02:15.77
+- Yeah.[br]- Hey, maybe we should go check on him.
+
+00:02:16.08,00:02:19.71
+- Come on, we're running late.[br]- We're not getting on, you ugly bitch.
+
+00:02:19.91,00:02:21.28
+What did you say?!
+
+00:02:21.48,00:02:24.11
+I said,[br]we're not getting on, you ugly bitch.
+
+00:02:24.32,00:02:27.05
+Oh, all right then.
+
+00:02:28.02,00:02:30.18
+- Whoa, dude.[br]- I always wondered if that would work.
+
+00:02:32.93,00:02:35.59
+- Hello, boys.[br]- We were wondering why fat ass...
+
+00:02:35.80,00:02:39.89
+- I mean Cartman, isn't at school.[br]- He's under the weather.
+
+00:02:40.10,00:02:42.16
+Maybe you boys[br]can cheer him up.
+
+00:02:42.37,00:02:45.00
+- He's in the back yard.[br]- In the back yard?
+
+00:02:46.07,00:02:48.70
+Would you like more tea,[br]Polly Prissypants?
+
+00:02:48.91,00:02:54.91
+- I would love some tea, thank you.[br]- You're welcome, Polly Prissypants.
+
+00:02:56.02,00:02:59.32
+- Would you like some tea, Clyde Frog?[br]- Yes, please.
+
+00:02:59.52,00:03:04.22
+- Why are you so cool?[br]- I don't know, Clyde Frog. I just am.
+
+00:03:04.42,00:03:08.19
+Yeah, you're strong and smart.[br]Everybody likes you.
+
+00:03:08.40,00:03:11.56
+Thank you, Polly Prissypants.[br]How nice of you.
+
+00:03:12.13,00:03:15.16
+Dude, this is pretty f* *ked up[br]right here.
+
+00:03:15.64,00:03:18.73
+- Let's go make fun of him.[br]- No, this looks really serious.
+
+00:03:18.94,00:03:21.97
+- I think we better get help.[br]- Really?
+
+00:03:22.38,00:03:27.14
+Eric, you are the coolest guy[br]in the world. This is tremendous tea.
+
+00:03:27.35,00:03:30.54
+Why, thank you, Peter Panda.[br]It's a distinctive Earl Grey.
+
+00:03:30.75,00:03:33.48
+- Eric is the best.[br]- Hurray for Eric.
+
+00:03:33.69,00:03:35.18
+Eric kicks ass.
+
+00:03:36.29,00:03:38.52
+Mr. Mackey, something's wrong[br]with Cartman.
+
+00:03:38.73,00:03:42.46
+- There's a news flash.[br]- We saw him having a tea party...
+
+00:03:42.66,00:03:46.26
+...with his stuffed animals.[br]- He was doing their voices.
+
+00:03:46.47,00:03:52.23
+Eric is obviously suffering from some[br]kind of emotional distress, m'kay?
+
+00:03:52.44,00:03:56.77
+- What do you mean?[br]- Has anything troubled him recently?
+
+00:03:56.98,00:04:01.00
+- No.[br]- Well, something is bothering him.
+
+00:04:01.21,00:04:04.84
+Oh, of course, my video camera.
+
+00:04:05.05,00:04:07.99
+If you could videotape[br]Eric's behavior...
+
+00:04:08.19,00:04:12.72
+...then I can study him psychologically[br]and find out what's wrong, m'kay?
+
+00:04:12.93,00:04:15.02
+- Is that legal?[br]- Oh, hell yes.
+
+00:04:15.43,00:04:19.23
+That's a lovely dress[br]you are wearing, Polly Prissypants.
+
+00:04:19.43,00:04:22.40
+Thank you, Eric.[br]You are a perfect gentleman.
+
+00:04:22.60,00:04:27.84
+- You are smart and cool.[br]- Yes, you are strong, smart and cool.
+
+00:04:28.04,00:04:31.84
+- Everybody likes you.[br]- That's nice, Peter Panda.
+
+00:04:32.05,00:04:35.38
+- This will be the funniest tape ever.[br]- How much do we need?
+
+00:04:35.58,00:04:37.07
+Just keep rolling.
+
+00:04:37.28,00:04:40.31
+- More tea, Rumper Tumpskin?[br]- Yes, please.
+
+00:04:40.52,00:04:42.39
+You are tough and handsome.
+
+00:04:42.59,00:04:46.46
+Thank you. What do you think[br]about me, Clyde Frog?
+
+00:04:46.66,00:04:50.03
+I think you're[br]a big, fat piece of crap.
+
+00:04:56.57,00:04:59.37
+No, Kitty,[br]this is my corned beef cabbage.
+
+00:04:59.57,00:05:02.10
+No, Kitty! That's a bad Kitty!
+
+00:05:02.31,00:05:06.97
+- How is your beefy roast, snookums?[br]- Mom, can I ask you a question?
+
+00:05:07.18,00:05:11.48
+- Sure, hon.[br]- You know how Stan has a dad?
+
+00:05:12.89,00:05:16.65
+And Kyle has a dad?[br]And Kenny has a dad?
+
+00:05:16.86,00:05:19.19
+Yes?
+
+00:05:25.77,00:05:30.83
+- Well, what's your question, hon?[br]- Goddamn it, do I have a dad?
+
+00:05:31.14,00:05:34.07
+I wanna know where I came from.
+
+00:05:34.71,00:05:36.47
+Well, you see, Eric...
+
+00:05:36.68,00:05:40.94
+...sometimes when a man and a woman[br]are attracted to each other...
+
+00:05:41.15,00:05:44.84
+...they want to be close[br]to each other.
+
+00:05:45.25,00:05:48.69
+And sometimes the man[br]puts his hoo-hoo-dilly...
+
+00:05:48.89,00:05:51.98
+...in the woman's cha-cha.
+
+00:05:56.73,00:05:59.46
+Who put his hoo-hoo-dilly[br]in your cha-cha?
+
+00:05:59.67,00:06:03.83
+Eric, the day I met your father,[br]it was like magic.
+
+00:06:04.04,00:06:08.44
+It was a beautiful autumn night,[br]when the aspen trees were turning...
+
+00:06:08.64,00:06:12.77
+...at the 1 2th Annual[br]Drunken Barn Dance.
+
+00:06:17.35,00:06:20.18
+I was young and naive then.
+
+00:06:20.35,00:06:24.15
+I've never seen a woman drink so much.[br]You're amazing, Miss Cartman.
+
+00:06:24.32,00:06:27.73
+Heck, I haven't even started yet.
+
+00:06:27.93,00:06:30.73
+I baked cookies.[br]Would anybody like one?
+
+00:06:30.90,00:06:34.46
+I wouldn't mind getting ahold[br]of your cookies.
+
+00:06:34.67,00:06:39.73
+Well, go right ahead,[br]Officer Barbrady.
+
+00:06:40.01,00:06:43.17
+That's a good cookie.
+
+00:06:44.48,00:06:49.18
+Come on, everybody,[br]let's do the drunken barn dance.
+
+00:06:56.69,00:06:59.42
+And then I saw him.
+
+00:06:59.63,00:07:05.19
+He was the most beautiful piece of ass[br]I'd ever seen in South Park.
+
+00:07:05.40,00:07:08.49
+His name was Chief Running Water.
+
+00:07:22.95,00:07:25.71
+I don't recall[br]the rest of the night...
+
+00:07:25.92,00:07:31.41
+...but the next morning, I was pregnant[br]with you, my little blueberry muffin.
+
+00:07:31.62,00:07:34.46
+Where is Chief Running...?[br]I mean Dad, now?
+
+00:07:34.66,00:07:39.86
+I never saw him after that.[br]I wasn't really that interested in him.
+
+00:07:40.07,00:07:42.13
+That isn't a very romantic story, Mom.
+
+00:07:42.34,00:07:46.47
+I heard he still lives on the Ute[br]reservation outside of town.
+
+00:07:46.67,00:07:51.20
+Wow, to think all this time[br]I'm actually a naive American.
+
+00:07:51.41,00:07:53.14
+No, Kitty! That's a bad Kitty!
+
+00:07:55.75,00:08:01.52
+Coming this Sunday, a television[br]event that will blow you away.
+
+00:08:01.72,00:08:06.56
+Terrance. Phillip.[br]In the harrowing made-for-TV drama...
+
+00:08:06.76,00:08:09.89
+...Not Without My Anus.[br]Based on a true story.
+
+00:08:10.10,00:08:13.09
+I have to go to Iraq and find[br]my kidnapped daughter.
+
+00:08:13.30,00:08:16.36
+Then I'm going[br]to go with you, Terrance.
+
+00:08:17.90,00:08:21.77
+See Canada's hottest stars[br]in the HBC Movie of the Week.
+
+00:08:21.98,00:08:24.88
+Dude, we have to tape[br]Not Without My Anus.
+
+00:08:25.08,00:08:27.88
+Yeah, dude, it looks riveting.
+
+00:08:28.42,00:08:31.94
+- We wanna watch Terrance and Phillip.[br]- No, Billy...
+
+00:08:32.15,00:08:34.81
+...we're gonna watch[br]the Bob Saget show.
+
+00:08:35.02,00:08:39.98
+And now, America's Stupidest Home[br]Videos. Here's your host, Bob Saget.
+
+00:08:40.19,00:08:43.99
+I just flew into the studio.[br]Boy, are my arms tired.
+
+00:08:45.30,00:08:49.74
+Why didn't the skeleton cross the road?[br]He didn't have the guts.
+
+00:08:50.10,00:08:51.66
+Knock, knock.
+
+00:08:51.87,00:08:53.50
+Bob.
+
+00:08:53.71,00:08:55.80
+Bob Saget.
+
+00:08:58.91,00:09:01.01
+- This guy sucks.[br]- He's almost as bad...
+
+00:09:01.21,00:09:03.24
+...as that guy on Full House.
+
+00:09:03.85,00:09:07.08
+Cartman? What are you doing dressed[br]up like an Indian with a bear necklace?
+
+00:09:07.29,00:09:10.78
+Naive American, Stan.[br]The bear is important to my people.
+
+00:09:10.99,00:09:12.75
+What?
+
+00:09:13.26,00:09:18.66
+The white man has mocked my people[br]long enough. Keep your mouths shut!
+
+00:09:18.87,00:09:23.27
+- I need to bike to the reservation.[br]- What are you talking about?
+
+00:09:23.47,00:09:27.70
+My name is Eric Running Water.[br]Now, can I borrow your bike?
+
+00:09:27.91,00:09:30.81
+- Or do I have to steal it?[br]- Go ahead, dude.
+
+00:09:31.01,00:09:35.85
+- He's more screwed up than I thought.[br]- Let's get this video to Mr. Mackey.
+
+00:09:36.05,00:09:39.38
+Just a reminder,[br]send us your stupidest home videos.
+
+00:09:39.59,00:09:42.78
+The grand prize this month[br]will be for $ 1 0,000.
+
+00:09:42.99,00:09:48.99
+- Ten thousand dollars? Holy smokes![br]- I wish we had a stupidest home video.
+
+00:09:55.10,00:09:59.09
+- And bear cried to eagle...[br]- Running Water, some kid's here.
+
+00:09:59.31,00:10:01.27
+- What kid?[br]- He says he's your kid.
+
+00:10:01.47,00:10:03.44
+- Hi, Dad.[br]- Who are you?
+
+00:10:03.64,00:10:08.60
+I'm your son, Eric. You put your[br]hoo-hoo-dilly in my mom's cha-cha.
+
+00:10:08.82,00:10:10.75
+- Your mother?[br]- Liane Cartman.
+
+00:10:10.95,00:10:14.68
+Cartman? Oh, boy, I was worried[br]there for a second.
+
+00:10:14.89,00:10:18.72
+- I'm not your father.[br]- But you were the guy she was with.
+
+00:10:18.93,00:10:23.42
+I hate to break this to you, but your[br]mother is what we refer to as...
+
+00:10:23.76,00:10:26.49
+..."bear with wide canyon."[br]- What do you mean?
+
+00:10:26.70,00:10:30.19
+She is "doe who cannot[br]keep legs together."
+
+00:10:30.40,00:10:32.30
+- Your mom's a slut.[br]- Hey!
+
+00:10:32.51,00:10:36.03
+Your mom was too drunk[br]to remember what happened.
+
+00:10:36.24,00:10:37.94
+Let me tell you.
+
+00:10:40.31,00:10:44.15
+We got tired of dancing,[br]so we found a private spot.
+
+00:10:44.35,00:10:47.95
+I knew she wanted me.[br]She kept saying romantic things.
+
+00:10:48.15,00:10:54.06
+- Chief, I want your hot man-chowder.[br]- Whoa, hello!
+
+00:10:55.93,00:11:00.96
+Wait, wait. Who is that?
+
+00:11:10.64,00:11:15.77
+- Could you excuse me for a minute?[br]- You gotta be kidding me.
+
+00:11:15.98,00:11:20.18
+Why, hello there. I don't think[br]I've seen you around before.
+
+00:11:20.39,00:11:24.98
+- No, I'm new in town.[br]- What's a nice, handsome...
+
+00:11:25.19,00:11:29.63
+...black man like yourself[br]doing in a pit like South Park?
+
+00:11:29.83,00:11:34.10
+- I'm gonna open up a restaurant here.[br]- My, how exciting.
+
+00:11:34.30,00:11:37.10
+Care to put your tongue[br]in my mouth?
+
+00:11:37.30,00:11:40.57
+Damn, baby,[br]you cut right to the chase.
+
+00:11:40.77,00:11:43.26
+I'm plastered!
+
+00:11:44.44,00:11:47.28
+His tongue? Chef? Chef is my dad?
+
+00:11:47.48,00:11:50.07
+He's the last person[br]I saw with your mom.
+
+00:11:50.45,00:11:54.51
+Oh, my God.[br]I'm a black African-American.
+
+00:11:58.46,00:12:00.59
+Come on, get the go-cart going.
+
+00:12:00.79,00:12:04.29
+- Did you send the videotape?[br]- I mailed it last night.
+
+00:12:04.50,00:12:07.49
+What sucks is now we have[br]to watch Bob Saget.
+
+00:12:07.70,00:12:12.26
+- Lf we win, we can buy a new go-cart.[br]- Here comes Cartman.
+
+00:12:12.47,00:12:14.27
+What's up, homeys?
+
+00:12:14.47,00:12:17.93
+I was just kicking it[br]with some G's on the west side.
+
+00:12:18.14,00:12:22.77
+- You live on the east side.[br]- I thought you were Native American.
+
+00:12:24.18,00:12:27.41
+Right, like I'm some hippie Indian.
+
+00:12:27.62,00:12:33.08
+You know what I'm saying, G? Check you[br]later. I'm gonna go chill with my dad.
+
+00:12:34.09,00:12:39.05
+Dude, we should be videotaping this.[br]We could make another $ 1 0,000.
+
+00:12:41.67,00:12:43.86
+Hold on, Kenny!
+
+00:13:01.29,00:13:04.88
+- Oh, my God, they killed Kenny![br]- You bastards!
+
+00:13:07.86,00:13:10.49
+- Hello?[br]- Yo, Pops.
+
+00:13:10.70,00:13:16.29
+- Boy, what the fudge are you doing?[br]- Just laying down some rhymes.
+
+00:13:16.50,00:13:19.40
+- Get in here![br]- West side.
+
+00:13:19.61,00:13:23.17
+- What's gotten into you?[br]- You're my dad, Chef.
+
+00:13:23.38,00:13:26.97
+You got together with my mom[br]at the Drunken Barn Dance.
+
+00:13:27.18,00:13:30.38
+What? No! Did I?
+
+00:13:30.58,00:13:33.98
+You kissed her[br]with your tongue.
+
+00:13:34.32,00:13:38.52
+Women don't get pregnant[br]from tongue kissing, children.
+
+00:13:38.73,00:13:41.32
+- So you're not my dad?[br]- Of course not.
+
+00:13:41.53,00:13:46.93
+Here, you children sit down and let me[br]explain about where babies come from.
+
+00:13:47.13,00:13:50.86
+Then you'll see why[br]I can't be your dad.
+
+00:13:57.61,00:14:00.04
+Actually, sometimes a man[br]doesn't love a woman...
+
+00:14:00.25,00:14:03.77
+...but he acts like he does[br]to get some action.
+
+00:14:55.90,00:14:59.00
+What? Who the hell did that to my mom[br]at the Drunken Barn Dance?
+
+00:14:59.21,00:15:04.40
+Children, that was a long time ago,[br]but I'll tell you what I remember.
+
+00:15:07.91,00:15:10.85
+Chef, you're so strong.
+
+00:15:11.05,00:15:15.28
+Hey everybody, look who's here,[br]the AFC Champion Denver Broncos.
+
+00:15:15.66,00:15:19.11
+- Are we late for the party?[br]- What town is this?
+
+00:15:32.27,00:15:36.97
+- Damn, woman, what's gotten into you?[br]- Whoopee!
+
+00:15:37.91,00:15:42.14
+- Garrison, what are you doing?[br]- You're drunk, Mr. Hat.
+
+00:15:46.29,00:15:48.95
+Oh, man, I'm out of here.
+
+00:15:49.16,00:15:53.18
+Come on, Chef, haven't you heard[br]of a "manage oh three"?
+
+00:15:53.39,00:15:56.16
+Yeah, when two women are involved.
+
+00:15:56.36,00:16:01.93
+Damn! Damn! I guess it will just have[br]to be you and me, Miss Cartman.
+
+00:16:02.13,00:16:05.47
+And that's who she was with last:[br]Mr. Garrison.
+
+00:16:05.67,00:16:10.37
+No. No. No, God, no!
+
+00:16:11.68,00:16:14.41
+And now,[br]America's Stupidest Home Videos.
+
+00:16:14.61,00:16:17.88
+Here's a video that shows[br]a very disturbed boy.
+
+00:16:18.08,00:16:21.58
+Thank you, Polly Prissypants.[br]You are my best friend.
+
+00:16:21.79,00:16:26.82
+You are one of the coolest people[br]in the world, and you are not fat.
+
+00:16:27.03,00:16:30.99
+- Really, you don't think so?[br]- No, you're not fat.
+
+00:16:32.97,00:16:36.90
+Stanley, we just heard[br]that your little friend Kenny...
+
+00:16:37.10,00:16:40.73
+...was killed by a train.[br]- Huh? Oh, yeah.
+
+00:16:40.94,00:16:43.50
+Is there anything we can do for you?
+
+00:16:43.71,00:16:45.68
+- How about ice cream?[br]- Yeah, with butterscotch.
+
+00:16:45.88,00:16:50.71
+- You bet, you poor dears.[br]- Now the moment you've waited for...
+
+00:16:50.92,00:16:55.95
+...when one of our lucky videos[br]qualifies for the $ 1 0,000 grand prize.
+
+00:16:56.16,00:16:57.78
+The winner is:
+
+00:16:57.99,00:17:01.32
+- "Little Boy's Tea Party. "[br]- We're in the finals.
+
+00:17:01.53,00:17:04.83
+- We're gonna win $ 1 0,000.[br]- Cartman will be famous.
+
+00:17:06.77,00:17:11.86
+- I guess we should go, Mr. Hat.[br]- One more cosmopolitan, Mr. Garrison.
+
+00:17:12.07,00:17:17.74
+Mr. Hat, you need to admit you have a[br]drinking problem. Another cosmo.
+
+00:17:18.95,00:17:22.11
+All this time...[br]Why didn't you tell me, Father?
+
+00:17:22.32,00:17:25.55
+- What are you talking about, Eric?[br]- It was you.
+
+00:17:25.75,00:17:29.65
+You were with my mother[br]at the Drunken Barn Dance.
+
+00:17:29.86,00:17:33.76
+- Garrison? Impossible, he's gay.[br]- I'm not gay!
+
+00:17:33.96,00:17:35.76
+Then you slept with my mom?
+
+00:17:35.96,00:17:39.26
+- He's gay.[br]- Okay, okay, I admit it.
+
+00:17:39.47,00:17:44.84
+I might have made love to your mother[br]at the dance, but who here didn't?
+
+00:17:45.67,00:17:50.90
+Now come on, honestly, who here[br]has never had sex with Mrs. Cartman?
+
+00:17:57.85,00:18:00.18
+- I haven't.[br]- You don't count, Halfy.
+
+00:18:00.39,00:18:03.01
+- You don't have any legs.[br]- Oh, yeah.
+
+00:18:03.22,00:18:09.22
+Anyone here could be your father.[br]I'm afraid you're never going to know.
+
+00:18:11.03,00:18:15.52
+Don't feel too bad, kid.[br]I never knew who my father was either.
+
+00:18:15.74,00:18:19.80
+I mean, I knew who he was,[br]and we had great times together...
+
+00:18:20.01,00:18:22.94
+Well, hell, you know what I mean!
+
+00:18:27.58,00:18:30.98
+- Wait, I know a way to find out.[br]- How?
+
+00:18:31.18,00:18:33.81
+At my lab, we can do DNA[br]genetic testing.
+
+00:18:34.02,00:18:38.35
+I'll take blood from you and everyone[br]here and we can learn who your dad is.
+
+00:18:38.56,00:18:40.99
+- Really? You can?[br]- Yes, of course.
+
+00:18:41.19,00:18:43.75
+The testing will cost a pretty penny.
+
+00:18:43.96,00:18:45.99
+- How much?[br]- Three thousand.
+
+00:18:46.20,00:18:50.93
+- I don't have $3,000.[br]- Oh, never mind.
+
+00:18:52.97,00:18:56.20
+Dude, I can't wait[br]to win that $ 1 0,000.
+
+00:18:56.41,00:19:00.81
+- I'm gonna buy the coolest go-cart.[br]- I'm gonna buy a Walkman.
+
+00:19:01.01,00:19:02.84
+- Hey, guys.[br]- How's it going?
+
+00:19:03.05,00:19:06.92
+Fine. How are you guys?
+
+00:19:07.12,00:19:12.61
+- Dude, what the hell is wrong?[br]- Nothing. It's just, nothing.
+
+00:19:12.83,00:19:16.28
+- What's the matter?[br]- I wanna know who my dad is...
+
+00:19:16.50,00:19:20.96
+...but to find out, they have[br]to do DNA tests and they cost $3,000.
+
+00:19:21.17,00:19:25.87
+- And I don't have $3,000.[br]- Wow, we're sorry your mom's a whore.
+
+00:19:26.07,00:19:30.48
+Yeah, it sucks. I have to know[br]who my father is, I just have to.
+
+00:19:30.68,00:19:33.54
+Maybe I can work in a[br]sweatshop for a while...
+
+00:19:33.75,00:19:37.65
+Well, see you guys.[br]I'm gonna go play in my back yard.
+
+00:19:37.85,00:19:41.58
+- We know how you can get $3,000.[br]- You do?
+
+00:19:41.79,00:19:45.55
+We're in the finals[br]for America's Stupidest Home Videos.
+
+00:19:45.76,00:19:49.25
+If we win, we'll give you 3,000[br]of our $ 1 0,000 prize.
+
+00:19:49.46,00:19:52.30
+You will? Wow, you guys are the best.
+
+00:19:52.50,00:19:54.69
+- Thanks, you guys.[br]- Yeah.
+
+00:19:55.00,00:19:58.06
+And now back to[br]America's Stupidest Home Videos.
+
+00:19:58.27,00:20:01.50
+- What kind of video did you make?[br]- You'll see.
+
+00:20:01.71,00:20:04.64
+It's time to crown the $ 1 0,000 winner.
+
+00:20:04.84,00:20:06.84
+It's down to three videos.
+
+00:20:07.05,00:20:10.54
+First, it's "Dog Who Puts Hat[br]on Master's Head."
+
+00:20:10.75,00:20:13.74
+I'm a little dog.[br]I'm just a little dog.
+
+00:20:13.95,00:20:17.22
+But I've gotta put a hat[br]on my master's head.
+
+00:20:20.16,00:20:24.06
+Now, our second finalist,[br]"Little Boy Has a Tea Party."
+
+00:20:24.26,00:20:27.16
+Polly Prissypants,[br]you are my best friend.
+
+00:20:27.37,00:20:29.96
+Thank you, Eric.
+
+00:20:30.17,00:20:33.63
+Boy, looks like this kid[br]needs some therapy.
+
+00:20:33.84,00:20:36.14
+We're sure to win, Cartman.[br]Then you'll get your DNA money.
+
+00:20:36.34,00:20:42.08
+I am so pissed off right now.
+
+00:20:42.28,00:20:45.08
+They laughed hardest at our video.[br]We're gonna win!
+
+00:20:45.28,00:20:48.85
+And, finally,[br]"Young Child Gets Hit by a Train."
+
+00:20:49.05,00:20:55.05
+I'm such a cute little kid. I wonder[br]if I can get this go-cart started.
+
+00:21:00.37,00:21:04.56
+I hope I don't get hit by a train.[br]I sure did.
+
+00:21:05.87,00:21:09.31
+- Oh, my God, they taped killing Kenny![br]- You bastards!
+
+00:21:09.51,00:21:13.21
+Now, that's what I call a joy ride.
+
+00:21:13.41,00:21:18.44
+And the winner is, naturally,[br]"Little Boy Being Hit by a Train."
+
+00:21:19.05,00:21:20.78
+- Dude, we lost.[br]- Damn it!
+
+00:21:20.99,00:21:26.72
+I am going to f* *king[br]kill you guys, seriously!
+
+00:21:26.93,00:21:28.76
+Take a bow, Mr. Marsh.
+
+00:21:28.96,00:21:31.26
+- I won, I won.[br]- Grandpa!
+
+00:21:31.46,00:21:37.10
+Our other finalists will get $3,000[br]runner-up prizes. See you next time.
+
+00:21:37.30,00:21:41.33
+Hear that? We get $3,000.[br]That's enough for your DNA tests.
+
+00:21:41.54,00:21:46.48
+Kill you guys.[br]Kill you guys!
+
+00:21:49.92,00:21:53.98
+From everyone's accounts, I've narrowed[br]down Eric's possible father...
+
+00:21:54.19,00:21:59.02
+...to the people in this room:[br]Officer Barbrady, Chef, Jimbo...
+
+00:21:59.23,00:22:02.32
+...Mr. Garrison, Ned,[br]Chief Running Water...
+
+00:22:02.53,00:22:05.86
+...Gerald Broflovski, myself,[br]my friend Kevin...
+
+00:22:06.07,00:22:08.97
+...or the 1 989 Denver Broncos.
+
+00:22:09.17,00:22:11.97
+I knew Cartman's mom was a slut,[br]but goddamn!
+
+00:22:12.17,00:22:14.47
+The results are in this envelope.
+
+00:22:14.67,00:22:19.84
+- Shall I open it?[br]- Yes, for God's sake, get on with it.
+
+00:22:20.05,00:22:23.50
+The father of Eric Cartman[br]is indeed someone in this room.
+
+00:22:23.72,00:22:27.15
+- The father is...[br]- Who is Eric Cartman's father?
+
+00:22:27.35,00:22:30.95
+Is it Chief Running Water?[br]Or is it Chef?
+
+00:22:31.16,00:22:34.75
+Is it Mephisto,[br]or that little monkey guy?
+
+00:22:34.96,00:22:37.43
+- Or is it Mr. Garrison?[br]- No, he's gay.
+
+00:22:37.63,00:22:41.69
+- You go to hell and you die![br]- Is it Jimbo?
+
+00:22:41.90,00:22:44.89
+- Or is it Officer Barbrady?[br]- Huh? Where?
+
+00:22:45.10,00:22:47.13
+- Or could it be Ned?[br]- Could be.
+
+00:22:47.34,00:22:50.60
+- Or Mr. Broflovski?[br]- Dad, how could you?
+
+00:22:50.81,00:22:53.87
+Or is it the 1 991 Denver Broncos?
+
+00:22:54.08,00:22:58.04
+The answer is coming on an all-new[br]South Park in just four weeks.
+
+00:22:58.25,00:23:00.78
+What? Son of a bitch!
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

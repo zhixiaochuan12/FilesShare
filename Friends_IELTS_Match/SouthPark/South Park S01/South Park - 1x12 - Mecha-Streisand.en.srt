@@ -1,0 +1,915 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:06.68,00:00:09.27
+- Did you like that episode?[br]- You bet!
+
+00:00:09.48,00:00:12.51
+You'll love this next one,[br]it's our favorite.
+
+00:00:12.72,00:00:14.95
+It's entitled "Mecha Streisand."
+
+00:00:15.16,00:00:19.72
+We follow Barbra Streisand[br]as she tries to take over the world.
+
+00:00:19.93,00:00:22.36
+A lot of our fans ask us:
+
+00:00:22.56,00:00:26.56
+"Do you hate the celebrities[br]you make fun of in South Park?"
+
+00:00:26.77,00:00:29.26
+Of course not.[br]It's just in good fun.
+
+00:00:29.47,00:00:33.24
+Except when it comes[br]to Barbra Streisand. We hate her.
+
+00:00:33.44,00:00:37.07
+In fact, we're pretending[br]that Indian Companion is her.
+
+00:00:37.28,00:00:40.54
+- That's why we're kicking her.[br]- Shut up, Barbra.
+
+00:00:40.75,00:00:43.08
+- Hooray![br]- Well, sit back, relax...
+
+00:00:43.28,00:00:46.91
+...let's have a rootin'-tootin'[br]grandma-humping time...
+
+00:00:47.09,00:00:50.25
+...with "Mecha Streisand"!
+
+00:00:52.49,00:00:53.52
+Hooray!
+
+00:01:24.49,00:01:26.15
+Mecha Streisand
+
+00:01:28.26,00:01:32.16
+So these ancient arrowheads[br]are buried deep in the earth.
+
+00:01:32.37,00:01:36.46
+We dig them up and find[br]over 1 2 new arrowheads every month.
+
+00:01:36.67,00:01:38.14
+Boring!
+
+00:01:39.21,00:01:42.11
+Eric, keep quiet![br]I'm trying to sleep.
+
+00:01:42.31,00:01:45.80
+Can anybody tell me[br]who left these arrowheads here?
+
+00:01:46.08,00:01:47.84
+Isn't that your job?
+
+00:01:48.02,00:01:51.42
+Yes, but I want to see[br]if you're learning anything.
+
+00:01:51.62,00:01:55.88
+Let's all grab our anthropology[br]pickaxes that were handed out...
+
+00:01:56.09,00:02:00.03
+...and we'll dig[br]for our very own Indian arrowheads.
+
+00:02:09.27,00:02:10.26
+Shut up, Cartman!
+
+00:02:10.47,00:02:14.34
+- I think I found one![br]- No, I found it!
+
+00:02:14.54,00:02:16.13
+I found it first.
+
+00:02:16.34,00:02:18.33
+- No, I did, Pip![br]- Oh, dear.
+
+00:02:18.55,00:02:21.45
+- We'll roshambo for it.[br]- What do you mean?
+
+00:02:21.82,00:02:26.95
+First, I kick you in the nuts.[br]Then you kick me in the nuts.
+
+00:02:27.15,00:02:32.39
+We keep going until somebody falls.[br]Last one standing gets the arrowhead.
+
+00:02:32.59,00:02:35.72
+- I suppose if I must.[br]- Ready? I'll go first.
+
+00:02:40.30,00:02:42.23
+Well, I guess you win.
+
+00:02:42.44,00:02:45.60
+I don't care,[br]you can have the stupid arrowhead.
+
+00:02:51.81,00:02:55.27
+Look, I found another one!
+
+00:02:55.48,00:02:57.75
+This is just a stupid triangle.
+
+00:02:58.59,00:03:02.21
+Check it out, dude.[br]It's got little drawings on it.
+
+00:03:02.59,00:03:05.29
+- What is it?[br]- I don't know.
+
+00:03:05.79,00:03:07.78
+- That was cool![br]- Give it back!
+
+00:03:07.99,00:03:10.05
+You threw it away. It's mine.
+
+00:03:10.26,00:03:12.73
+- We'll roshambo for it.[br]- No, it's mine.
+
+00:03:12.93,00:03:15.33
+- Anthropologist![br]- How's it going?
+
+00:03:15.54,00:03:18.73
+I found a magic triangle,[br]and he took it from me!
+
+00:03:18.94,00:03:21.41
+- You threw it away, fatso![br]- Let me see.
+
+00:03:21.61,00:03:25.74
+This is Anasazi writing![br]This must be thousands of years old.
+
+00:03:25.95,00:03:28.97
+Come on, let me kick you[br]in the nuts for it!
+
+00:03:29.85,00:03:32.82
+Finally, a boy from South Park,[br]Colorado...
+
+00:03:33.02,00:03:35.89
+...found something[br]during a field trip today.
+
+00:03:36.09,00:03:39.68
+Here with a special report,[br]a quadriplegic on a pony.
+
+00:03:39.89,00:03:42.09
+The 8-year-old was very shocked...
+
+00:03:42.30,00:03:45.13
+...when he came across[br]an ancient object.
+
+00:03:45.33,00:03:48.46
+I was, like,[br]"Dude, I found this triangle."
+
+00:03:48.67,00:03:50.97
+My friends were, like, "Dude."
+
+00:03:51.17,00:03:53.66
+I said, "I'll kick you in the nuts."
+
+00:03:53.87,00:03:56.64
+But he didn't give it back.[br]I kicked him...
+
+00:03:56.84,00:03:59.47
+...and he cried like Nancy Kerrigan.[br]- Liar!
+
+00:03:59.68,00:04:01.15
+Screw you, thief!
+
+00:04:01.35,00:04:06.62
+The boy will take his discovery home[br]and perhaps donate it to science later.
+
+00:04:06.82,00:04:09.58
+- Back to you.[br]- Thanks. Those are cute kids.
+
+00:04:09.79,00:04:12.38
+Except for that last one,[br]he's a bit tubby.
+
+00:04:13.43,00:04:16.55
+- What will you do with it?[br]- Hide it from Cartman.
+
+00:04:16.76,00:04:19.13
+I'll find it, don't worry!
+
+00:04:20.03,00:04:22.63
+Goddamn it, give me my triangle!
+
+00:04:22.84,00:04:25.96
+- You did throw it away.[br]- I was setting it aside.
+
+00:04:26.17,00:04:27.40
+Let it go.
+
+00:04:27.61,00:04:30.97
+I'll get that triangle[br]if it's the last thing I do!
+
+00:04:31.18,00:04:34.44
+Give me a little pepper.[br]Give me a little salt.
+
+00:04:34.65,00:04:36.88
+- Put it in the skillet...[br]- Excuse me.
+
+00:04:37.08,00:04:41.32
+- You're that movie critic guy on TV.[br]- Leonard Maltin, yes.
+
+00:04:41.52,00:04:45.25
+Well, I'll be a teenage girl[br]at an Aerosmith concert.
+
+00:04:45.46,00:04:49.26
+Leonard Maltin in my cafeteria![br]I'm Chef.
+
+00:04:49.46,00:04:51.05
+I know. Listen to me.
+
+00:04:51.26,00:04:54.86
+We have little time.[br]Have you seen Barbra Streisand?
+
+00:04:55.07,00:04:58.09
+You mean, like,[br]"the" Barbra Streisand?
+
+00:04:58.31,00:05:00.74
+- Have you seen her?![br]- Not since Yentl.
+
+00:05:01.17,00:05:04.11
+- Then I'm not too late.[br]- Too late for what?
+
+00:05:04.31,00:05:08.87
+It's important you tell me where[br]those boys from the news report are.
+
+00:05:09.08,00:05:10.74
+Why do you care?
+
+00:05:12.25,00:05:14.72
+I have a button we can use[br]for his nose.
+
+00:05:16.69,00:05:20.72
+- What's a marble sack for?[br]- Be careful, Kyle might steal it.
+
+00:05:20.93,00:05:25.13
+- I didn't steal anything.[br]- Tell Kyle I'm not speaking with him.
+
+00:05:25.33,00:05:26.86
+Good!
+
+00:05:27.07,00:05:29.04
+What's that noise?
+
+00:05:30.64,00:05:32.00
+Aliens!
+
+00:05:39.05,00:05:43.07
+Who is the boy I saw[br]on the news report tonight?
+
+00:05:43.28,00:05:45.88
+Hello, little boy.[br]Do you know who I am?
+
+00:05:46.42,00:05:48.89
+- No.[br]- I bet you do.
+
+00:05:52.09,00:05:54.03
+Stop that!
+
+00:05:55.40,00:05:57.26
+That sucks, dude!
+
+00:05:57.46,00:06:00.19
+- I'm Barbra Streisand![br]- So?
+
+00:06:00.40,00:06:05.63
+So?! I'm a very famous[br]and very important individual.
+
+00:06:05.84,00:06:08.10
+- Like John Elway important?[br]- What?!
+
+00:06:08.31,00:06:09.94
+- You know John Elway?[br]- No!
+
+00:06:10.14,00:06:13.51
+You're famous and important,[br]but you don't know John Elway?
+
+00:06:13.71,00:06:19.31
+Little boy, I understand that you found[br]a neat little triangle near here.
+
+00:06:19.52,00:06:22.22
+- Yeah.[br]- No, I found it! He stole it!
+
+00:06:22.42,00:06:25.91
+- You threw it away![br]- He's a dirty thief.
+
+00:06:26.13,00:06:29.76
+Does the triangle have two snakes[br]joined at the middle?
+
+00:06:29.96,00:06:33.92
+- Yeah, how did you know?[br]- Okay, now this is very important.
+
+00:06:34.13,00:06:38.70
+- Where is the Triangle of Zinthar now?[br]- Triangle of Zinthar?
+
+00:06:38.91,00:06:41.97
+- Why do you wanna know?[br]- I'm not talking to you!
+
+00:06:42.18,00:06:45.34
+- Whoa, dude![br]- Where is the triangle, damn it?
+
+00:06:45.55,00:06:50.81
+- What seems to be the problemo here?[br]- There's no problemo, officer.
+
+00:06:51.02,00:06:54.32
+I was introducing myself[br]to these charming boys.
+
+00:06:54.52,00:06:56.39
+She's being a total bitch!
+
+00:06:56.59,00:07:00.12
+- Boys, shouldn't you be in school?[br]- It's Saturday.
+
+00:07:00.33,00:07:04.59
+No excuses![br]Move along, you little troublemakers!
+
+00:07:07.33,00:07:09.89
+- Well?[br]- Well, what?
+
+00:07:10.10,00:07:14.47
+- You know who I am, don't you?[br]- Well, you ain't Fiona Apple.
+
+00:07:14.67,00:07:18.67
+And if you ain't Fiona Apple,[br]I don't give a rat's ass!
+
+00:07:18.91,00:07:20.50
+What a bitch!
+
+00:07:23.38,00:07:25.04
+I guess he's not home.
+
+00:07:25.25,00:07:29.28
+- Damn! Then we must look for them.[br]- What is this all about?
+
+00:07:29.49,00:07:33.62
+If Barbra saw the same news report,[br]those boys are in danger.
+
+00:07:33.83,00:07:37.46
+If you were Barbra Streisand,[br]where would you be now?
+
+00:07:40.07,00:07:42.16
+No, where would she be staying?
+
+00:07:42.37,00:07:48.60
+I heard she had her own $4 million[br]condo up near the ski slope.
+
+00:07:48.81,00:07:51.44
+- Where?[br]- I don't know, it was a rumor.
+
+00:07:51.64,00:07:53.74
+Damn it, where's your car?!
+
+00:07:58.02,00:08:00.85
+That little bastard[br]has the triangle, Milo.
+
+00:08:01.05,00:08:04.99
+- Are you sure?[br]- He knew about the symbol of Krulak.
+
+00:08:05.19,00:08:07.96
+- Why don't we go get it?[br]- A cop showed up.
+
+00:08:08.16,00:08:12.76
+I can't blow it now that I'm so close.[br]It must be handled carefully.
+
+00:08:16.94,00:08:19.73
+How many years has it been?[br]Thirty? Forty?
+
+00:08:19.94,00:08:23.34
+For so long I've waited[br]to find the other triangle.
+
+00:08:23.54,00:08:25.41
+And now I am so close.
+
+00:08:25.61,00:08:29.78
+The dawn of Zinthar is close at hand!
+
+00:08:59.11,00:09:02.31
+- Cartman?[br]- You scared the crap out of me, Ike!
+
+00:09:02.52,00:09:04.57
+- What are you doing?[br]- I'm trying...
+
+00:09:04.78,00:09:06.41
+I'm not talking to you.
+
+00:09:06.62,00:09:10.56
+Ike, tell Kyle that I was trying[br]to get my triangle back.
+
+00:09:11.42,00:09:14.42
+Ike, tell Cartman[br]that it's my triangle!
+
+00:09:16.03,00:09:18.93
+Tell Kyle he's a goddamn[br]son of a bitch!
+
+00:09:20.60,00:09:24.23
+If it means that much to you,[br]take the stupid triangle!
+
+00:09:24.44,00:09:27.63
+If it'll make you leave me alone,[br]take it! Here!
+
+00:09:27.84,00:09:32.94
+Now get out of my house. I hope[br]you feel really good about yourself.
+
+00:09:33.15,00:09:35.34
+Hell, yeah, I got the triangle.
+
+00:09:35.55,00:09:39.81
+I got the triangle, I got the triangle![br]You don't, you don't!
+
+00:09:41.75,00:09:45.12
+- You sure Barbra's condo is here?[br]- It was a rumor.
+
+00:09:45.33,00:09:49.79
+- A lot of celebrities have condos.[br]- Then we've got to keep looking.
+
+00:09:50.00,00:09:55.49
+This has gone far enough. I won't drive[br]until you tell me what this is about.
+
+00:09:55.70,00:09:59.43
+Aren't you curious[br]about the insanity Barbra exhibits?
+
+00:09:59.64,00:10:03.54
+- I always heard she was a bitch.[br]- More than a bitch!
+
+00:10:03.74,00:10:06.80
+She's a calculating,[br]egotistical bitch.
+
+00:10:07.01,00:10:11.01
+Her mother's a jackal.[br]Her father's an insurance salesman.
+
+00:10:11.22,00:10:13.21
+Insurance salesman?
+
+00:10:13.42,00:10:15.68
+At 5, she wanted to be a singer.
+
+00:10:15.89,00:10:18.82
+But by 6, her goal[br]was to rule the universe.
+
+00:10:19.03,00:10:21.49
+She learned[br]of the Diamond of Pantheous...
+
+00:10:21.69,00:10:26.03
+You know what? Never mind.[br]I don't need to know all this.
+
+00:10:26.23,00:10:29.26
+The keepers of Pantheous learned[br]of her wish.
+
+00:10:29.47,00:10:31.96
+The diamond was split up and buried.
+
+00:10:32.17,00:10:36.01
+While shooting My Fair Lady,[br]Barbra found one triangle.
+
+00:10:36.21,00:10:38.70
+The other triangle[br]is the one Kyle has?
+
+00:10:38.91,00:10:43.14
+If Babs gets that other triangle,[br]she'll fulfill her prophecy...
+
+00:10:43.35,00:10:46.68
+...and become the most threatening[br]thing ever known:
+
+00:10:46.89,00:10:49.91
+- Mecha Streisand![br]- Mecha Streisand?
+
+00:10:50.12,00:10:54.08
+I don't know what that means,[br]but it doesn't sound good.
+
+00:10:54.66,00:10:56.13
+The bus sure is late.
+
+00:10:56.33,00:11:00.73
+I wonder what I should do[br]with my triangle? Now that it is mine.
+
+00:11:00.93,00:11:04.70
+Damn it, I gave it to you[br]so you would shut up!
+
+00:11:06.27,00:11:08.47
+Hello there, little boys.
+
+00:11:08.68,00:11:11.04
+- How are you today?[br]- Fine.
+
+00:11:11.24,00:11:16.81
+That is great. My name is Mrs. Jones.[br]I am a very friendly, nice person.
+
+00:11:17.02,00:11:21.48
+- I hear one of you found my triangle.[br]- Your triangle?
+
+00:11:21.69,00:11:26.99
+Yes. You see, that triangle[br]is part of my kidney dialysis machine.
+
+00:11:27.19,00:11:31.86
+I'm so glad you found it. Because[br]without it, I would die within hours.
+
+00:11:32.07,00:11:35.06
+- Oh, no, finders keepers![br]- But I'll die.
+
+00:11:35.27,00:11:40.60
+We'll roshambo for it. I'll kick you[br]in the nuts. Then you kick me.
+
+00:11:40.81,00:11:45.14
+I want to give you a big cash reward[br]for finding it.
+
+00:11:45.35,00:11:49.08
+- It's worth a lot of money to me.[br]- It is?
+
+00:11:49.28,00:11:52.65
+No wonder that Barbra Streisand lady[br]wanted it.
+
+00:11:53.02,00:11:54.49
+Who is that?
+
+00:11:54.69,00:11:59.09
+Just this really, really old lady[br]who wishes she was still 45.
+
+00:12:00.16,00:12:04.49
+You should have seen her nose.[br]It's big enough to land planes on.
+
+00:12:06.03,00:12:10.30
+- Talk about a bitch, I haven't seen...[br]- Enough!
+
+00:12:11.77,00:12:14.83
+Anyway, if you'll come[br]with me in my car...
+
+00:12:15.04,00:12:17.64
+...I'll take you to my condo[br]and kill you...
+
+00:12:17.84,00:12:21.30
+I mean, give you money[br]for the triangle.
+
+00:12:21.51,00:12:23.11
+Sweet! I'll be rich!
+
+00:12:23.32,00:12:26.95
+Bet you wish you didn't give me[br]that triangle. Dumb-ass!
+
+00:12:27.15,00:12:30.12
+Shouldn't we not get[br]into cars with strangers?
+
+00:12:30.32,00:12:32.31
+Not when money's involved.
+
+00:12:34.93,00:12:36.76
+And action!
+
+00:12:36.96,00:12:41.40
+Rebecca, I'm a man. A man like[br]any other with dreams and emotions.
+
+00:12:41.60,00:12:44.23
+I won't put a foreign object[br]up my ass.
+
+00:12:44.44,00:12:46.74
+Cut! Print that. Excellent, Sid.
+
+00:12:46.94,00:12:50.14
+Take five.[br]Let's set up for the next shot.
+
+00:12:53.21,00:12:55.74
+Hello. You must hurry.
+
+00:12:55.95,00:12:58.92
+- A boy found the Triangle of Zinthar.[br]- Where?
+
+00:12:59.12,00:13:03.05
+A small, white-bread, mountain town[br]called South Park.
+
+00:13:03.26,00:13:05.28
+Excellent.
+
+00:13:08.06,00:13:11.59
+Soon the Triangle of Zinthar[br]will be mine.
+
+00:13:11.80,00:13:15.86
+And I will be the biggest,[br]most famous person ever!
+
+00:13:16.44,00:13:19.34
+- Let me go! Seriously.[br]- Yeah, let us go.
+
+00:13:19.54,00:13:23.37
+You fools have no idea the powers[br]you're meddling with.
+
+00:13:23.58,00:13:26.88
+I'll teach you to meddle[br]with my triangle!
+
+00:13:29.08,00:13:34.58
+- It's not my triangle, it's Kyle's![br]- Don't pass it back on me, fat ass!
+
+00:13:34.79,00:13:36.95
+Screw you, hippie!
+
+00:13:37.16,00:13:41.39
+- Where is the Triangle of Zinthar?[br]- I don't remember.
+
+00:13:41.59,00:13:47.50
+- Goddamn it, tell her! I wanna go home.[br]- Maybe this will help jar your memory.
+
+00:13:47.70,00:13:49.73
+No, don't!
+
+00:13:53.01,00:13:54.06
+Torture!
+
+00:13:54.27,00:13:56.80
+Now do you remember?
+
+00:13:57.04,00:13:59.34
+Damn your black heart, Streisand!
+
+00:13:59.55,00:14:04.14
+- I don't know how much more I can take.[br]- All right, you asked for it!
+
+00:14:08.32,00:14:09.31
+No!
+
+00:14:09.52,00:14:14.19
+I don't know, maybe Barbra doesn't[br]have a place up here after all.
+
+00:14:14.39,00:14:17.83
+- We'll have to go to plan B.[br]- There's a plan B?
+
+00:14:18.03,00:14:22.19
+Why have we been driving around[br]all day when there's a plan B?
+
+00:14:22.40,00:14:25.60
+- Ever heard of the band, The Cure?[br]- Come on...
+
+00:14:25.81,00:14:28.47
+...don't tell me The Cure[br]is involved too.
+
+00:14:28.67,00:14:31.47
+No, just the lead singer.
+
+00:14:32.95,00:14:35.35
+What's the matter, Leonard Maltin?
+
+00:14:35.55,00:14:38.48
+She's close. Very close.[br]I can feel her!
+
+00:14:38.68,00:14:40.31
+- Where?[br]- She has the boys.
+
+00:14:40.52,00:14:42.92
+- They're in trouble![br]- Oh, fudge!
+
+00:14:43.12,00:14:45.06
+Keep going this way. Hurry!
+
+00:14:48.39,00:14:50.06
+No!
+
+00:14:50.26,00:14:54.86
+Okay, I'll tell you where[br]the triangle is! It's inside my shoe.
+
+00:14:55.07,00:14:57.97
+When's the last time[br]you changed your socks?
+
+00:14:58.17,00:15:00.57
+And your socks smell like a garden?
+
+00:15:00.77,00:15:04.07
+Finally, the triangle is mine!
+
+00:15:04.28,00:15:09.61
+After centuries of waiting, I finally[br]have the Triangle of Zinthar!
+
+00:15:10.05,00:15:13.78
+Now, the Diamond of Pantheous[br]is complete!
+
+00:15:27.10,00:15:28.93
+Whoa, dude!
+
+00:15:30.90,00:15:35.40
+Mecha Barbra Streisand!
+
+00:15:40.21,00:15:42.15
+This is pretty f* * * * d up.
+
+00:15:45.18,00:15:49.88
+Holy crap, Ned! That's the biggest[br]goddamn deer I've ever seen!
+
+00:15:50.09,00:15:56.12
+Weeks after the devastating attack of[br]mutant beasts, zombies and turkeys...
+
+00:15:56.33,00:16:01.56
+...the town of South Park has managed[br]to rebuild itself once again...
+
+00:16:03.07,00:16:05.26
+Goddamn it, not again.
+
+00:16:17.85,00:16:23.31
+- Mayor, Barbra Streisand is...[br]- I noticed. Call the National Guard!
+
+00:16:24.22,00:16:26.21
+We'll get you, you bitch.
+
+00:16:26.43,00:16:30.52
+And to think,[br]I actually watched your HBO special.
+
+00:16:31.70,00:16:33.63
+- Children![br]- Chef!
+
+00:16:33.83,00:16:37.10
+Oh, no![br]She has joined the two triangles?
+
+00:16:37.30,00:16:40.03
+- Yes, she stole my triangle![br]- Get us down.
+
+00:16:40.24,00:16:43.94
+- I can't break these locks.[br]- Stand back, Chef.
+
+00:16:49.75,00:16:52.45
+- That was cool![br]- I'll go after Streisand.
+
+00:16:52.65,00:16:55.31
+Chef, call Robert Smith of The Cure.
+
+00:16:55.52,00:16:57.08
+Robert Smith? Sweet!
+
+00:16:58.76,00:17:01.89
+- Hello?[br]- Is this Robert Smith of The Cure?
+
+00:17:02.09,00:17:06.96
+- Yes, it is.[br]- Leonard Maltin asked me to call you.
+
+00:17:07.17,00:17:11.00
+So Barbra Streisand's found[br]the other triangle, eh?
+
+00:17:13.41,00:17:16.97
+All right, men,[br]give her everything you've got!
+
+00:17:23.38,00:17:27.75
+Get outside her, Ned![br]I can't get a shot in from here.
+
+00:17:31.12,00:17:32.39
+I'm scared.
+
+00:17:41.70,00:17:44.53
+It's no use.[br]Our firepower has no effect!
+
+00:17:44.74,00:17:50.00
+Oh, my God, it is you![br]I am such a huge fan, Miss Streisand!
+
+00:17:50.21,00:17:54.01
+I never thought I'd live[br]to see you in person!
+
+00:17:54.35,00:17:59.15
+I hate to ask this, but could I get[br]an autograph? My sister would die!
+
+00:18:03.32,00:18:05.81
+Thank you, Miss Streisand!
+
+00:18:11.33,00:18:14.06
+We're doomed! Goodbye, Mr. Hat.
+
+00:18:17.44,00:18:18.53
+Barbra!
+
+00:18:33.52,00:18:35.58
+Look out, children!
+
+00:18:37.79,00:18:39.05
+No!
+
+00:18:50.84,00:18:54.47
+- Oh, my God, they killed Kenny![br]- You bastards!
+
+00:18:57.28,00:19:00.14
+- What's going on here?[br]- Sidney Poitier?
+
+00:19:00.35,00:19:04.87
+- That's right, I'm Sidney Poitier.[br]- Damn, it's nice to meet you.
+
+00:19:05.08,00:19:07.78
+The Sidney Poitier in my hometown.
+
+00:19:07.99,00:19:12.86
+- Barbra has the Triangle of Zinthar?[br]- She's made the Diamond of Pantheous.
+
+00:19:24.57,00:19:26.60
+Is that really necessary?
+
+00:19:40.29,00:19:44.92
+It's over. She's too strong for them.[br]We'll have to leave town.
+
+00:19:45.12,00:19:48.15
+Make her go away.[br]I hate Barbra Streisand!
+
+00:19:48.36,00:19:51.59
+My mom said there were no monsters,[br]but there are.
+
+00:19:51.80,00:19:54.06
+We have to say goodbye to South Park.
+
+00:19:54.27,00:19:57.60
+Oh, my God, help me!
+
+00:20:00.07,00:20:01.87
+- Am I too late?[br]- Who are you?
+
+00:20:02.07,00:20:04.37
+- Robert Smith of The Cure![br]- Sweet!
+
+00:20:04.58,00:20:07.10
+Hold this walkie.[br]Help me fight her.
+
+00:20:07.31,00:20:08.78
+You can try.
+
+00:20:08.98,00:20:13.08
+But that thing just beat[br]Leonard Maltin and Sidney Poitier.
+
+00:20:13.29,00:20:18.25
+I have to try. I can't let Barbra[br]Streisand do this to the entire world.
+
+00:20:34.17,00:20:36.33
+Her weak point is the nose.
+
+00:20:36.54,00:20:39.60
+Robert Smith, hit her nose![br]Use robot punch.
+
+00:20:47.15,00:20:49.62
+The diamond! She must be powerless.
+
+00:20:49.82,00:20:52.81
+Quickly, Robert Smith,[br]she's powerless!
+
+00:21:03.57,00:21:07.47
+- He did it![br]- No more Barbra Streisand ever!
+
+00:21:07.67,00:21:10.57
+Robert Smith is the greatest[br]person ever!
+
+00:21:10.78,00:21:11.94
+Our savior.
+
+00:21:13.91,00:21:16.28
+Can I have my walkie-talkie back?
+
+00:21:16.48,00:21:18.95
+No way, you gave it to us.[br]It's mine.
+
+00:21:19.15,00:21:23.45
+All right, I'll roshambo you for it.[br]Ready?
+
+00:21:26.33,00:21:27.79
+Where's he going?
+
+00:21:28.59,00:21:32.46
+Goodbye! Thank you for your help.[br]Visit us again.
+
+00:21:32.67,00:21:36.26
+Disintegration is the best album ever!
+
+00:21:40.37,00:21:43.57
+- What should we do with the triangles?[br]- Get rid of them.
+
+00:21:43.78,00:21:46.40
+Nobody should have that kind of power.
+
+00:21:46.61,00:21:49.21
+At least I have the walkie-talkie[br]Robert gave me.
+
+00:21:49.42,00:21:51.94
+No, that's mine! He gave it to me!
+
+00:21:52.15,00:21:53.91
+Don't you ever learn?
+
+00:21:54.12,00:21:58.15
+- Come on, I'll roshambo you for it.[br]- Go to hell, Cartman.
+
+00:21:59.83,00:22:03.63
+- That whole experience sucked.[br]- Yeah, I'm glad it's over.
+
+00:22:03.83,00:22:05.49
+I've learned something:
+
+00:22:05.70,00:22:09.40
+People who want a lot of power[br]always end up dead.
+
+00:22:09.60,00:22:12.16
+- Yeah.[br]- And I've learned something too:
+
+00:22:12.34,00:22:15.21
+Robert Smith kicks ass!
+
+00:22:16.44,00:22:19.78
+- Oh, no, she's back![br]- Oh, my God, look!
+
+00:22:23.68,00:22:24.77
+Mecha Ike!
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

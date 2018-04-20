@@ -1,0 +1,903 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:05.08,00:00:07.98
+- Howdy ho, all you South Parketeers.[br]- Howdy ho.
+
+00:00:08.18,00:00:11.58
+- I'm rootin'-tootin' Trey Parker.[br]- And I'm Matt Stone.
+
+00:00:11.78,00:00:14.58
+- And this here's old Scratch.[br]- Hi, Scratch.
+
+00:00:14.79,00:00:19.16
+Trey and I are right excited because[br]this is our favorite episode.
+
+00:00:19.36,00:00:23.52
+It's called "Pink Eye."[br]It aired as our Halloween special.
+
+00:00:23.70,00:00:28.10
+It's all about an epidemic[br]and the boys having to save the day.
+
+00:00:28.30,00:00:32.70
+We wanted to do an episode on disease.[br]Pinkeye was the right one.
+
+00:00:32.87,00:00:36.40
+Pinkeye is a real disease[br]and anybody can get it.
+
+00:00:36.61,00:00:39.74
+So kids, be careful who you bed with.
+
+00:00:39.95,00:00:44.91
+To fight this disease, all proceeds from[br]this video go to pinkeye research.
+
+00:00:45.08,00:00:47.38
+- Yeah, right.[br]- As if we'd do that.
+
+00:00:47.55,00:00:51.55
+- Like we're gonna give away money.[br]- Look, it's Indian Companion.
+
+00:00:51.76,00:00:53.55
+Hello, Indian Companion.
+
+00:00:53.76,00:00:55.99
+Someone coming.
+
+00:00:59.06,00:01:00.59
+Thanks.
+
+00:01:03.47,00:01:08.34
+Anyway, all of y'all sit back,[br]relax and enjoy "Pink Eye."
+
+00:01:08.54,00:01:10.27
+Hooray!
+
+00:01:43.08,00:01:45.10
+Pink Eye
+
+00:02:14.94,00:02:18.10
+- Oh, my God, they killed Kenny![br]- You bastards!
+
+00:02:18.31,00:02:21.18
+- What the hell is that thing?[br]- A UFO.
+
+00:02:21.35,00:02:23.61
+There's no such thing as UFOs.
+
+00:02:25.52,00:02:27.51
+Let's get him to the morgue.
+
+00:02:32.96,00:02:36.59
+Wait till you see my Halloween[br]costume. It kicks ass.
+
+00:02:36.76,00:02:41.96
+- Dude, it can't be cooler than mine.[br]- We ought to get our costumes ready.
+
+00:02:50.58,00:02:54.20
+I think death is least funny[br]when it happens to a child.
+
+00:02:54.38,00:02:57.21
+Yeah, I know what you mean.
+
+00:02:58.75,00:03:03.41
+- Marty, you put that on everything.[br]- It makes everything taste so English.
+
+00:03:03.62,00:03:06.09
+Well, let's let him drain.
+
+00:03:22.17,00:03:26.17
+So then the necrophiliac says,[br]"If this ain't a cadaver..."
+
+00:03:29.11,00:03:31.88
+- Goddamn, that little turd bit me.[br]- Me too.
+
+00:03:41.79,00:03:44.28
+- You look like a pansy.[br]- Shut up, Kyle.
+
+00:03:44.46,00:03:47.26
+- What are you supposed to be?[br]- Raggedy Andy.
+
+00:03:47.47,00:03:51.27
+- Why did you dress like Raggedy Andy?[br]- Wendy's Raggedy Ann.
+
+00:03:51.47,00:03:57.67
+- This way we'll win the contest.[br]- I'll win with this Chewbacca costume.
+
+00:03:57.84,00:04:01.30
+- First prize is two tons of candy.[br]- Wow, cool.
+
+00:04:01.51,00:04:04.41
+- Hey, dudes.[br]- What kind of costume is that?
+
+00:04:04.62,00:04:08.42
+It's a Adolf Hitler costume.[br]Sieg Heil. Sieg Heil.
+
+00:04:08.59,00:04:11.18
+- Where'd you get it?[br]- My mom. It's cool.
+
+00:04:11.36,00:04:14.88
+- No, it's not cool![br]- Are you supposed to be Howdy Doody?
+
+00:04:15.06,00:04:21.23
+- No, I'm Raggedy Andy, fat-ass.[br]- Oh, wow, you look pretty cool.
+
+00:04:21.40,00:04:23.30
+- Sissy.[br]- I'll kick your ass.
+
+00:04:23.50,00:04:29.07
+- Look out, Holly Hobbie's pissed off.[br]- Hey, look, Kenny's not dead.
+
+00:04:29.24,00:04:33.18
+- You forgot to wear a costume.[br]- Couldn't your family afford one?
+
+00:04:33.35,00:04:37.30
+- Why is your family so poor?[br]- Kenny's family is so poor...
+
+00:04:37.48,00:04:41.25
+...they had to put their cardboard[br]box up for mortgage.
+
+00:04:45.66,00:04:51.36
+I said your family had to put[br]a cardboard box up for mortgage, Kenny.
+
+00:04:51.53,00:04:54.12
+I'm talking to you, Kenny![br]Achtung!
+
+00:04:54.30,00:04:55.70
+Poor piece of crap.
+
+00:04:57.34,00:05:01.27
+- Come on, we're running late![br]- We always run late, you skank.
+
+00:05:01.44,00:05:05.03
+- What did you say?[br]- I can't wait to own a fishing tank.
+
+00:05:05.68,00:05:07.14
+Neither can I.
+
+00:05:09.48,00:05:12.38
+- Very interesting.[br]- What is it, doc?
+
+00:05:12.55,00:05:17.15
+Your temperature is 55 degrees.[br]You have no pulse, no heartbeat.
+
+00:05:17.36,00:05:21.66
+- And your eyes are puffy and sticky.[br]- Oh, no, you mean...
+
+00:05:21.83,00:05:25.23
+Yeah, I'm afraid the two[br]of you have pinkeye.
+
+00:05:25.40,00:05:28.06
+I'd give you topical medicine,[br]but I don't want to touch you.
+
+00:05:28.23,00:05:32.50
+I'm so hungry and all I can[br]think about eating is brains.
+
+00:05:32.67,00:05:36.66
+Don't touch your eyes.[br]I'll prescribe some antibiotics.
+
+00:05:38.54,00:05:43.50
+Wait till everyone sees my Chewbacca[br]costume. They're gonna be so jealous.
+
+00:05:45.05,00:05:46.98
+Everyone came as Chewbacca?
+
+00:05:47.15,00:05:50.78
+It sure does seem to be[br]a popular costume this year.
+
+00:05:52.92,00:05:54.48
+- Damn it![br]- Wendy.
+
+00:05:54.69,00:05:58.42
+- Hi, Stan.[br]- We were gonna be Raggedy Ann and Andy.
+
+00:05:58.60,00:06:01.53
+- Yeah.[br]- We were gonna enter the contest.
+
+00:06:01.70,00:06:06.33
+I know, but then I guess I just[br]realized how stupid we would look.
+
+00:06:06.50,00:06:09.70
+- You what?[br]- I thought you'd agree...
+
+00:06:09.91,00:06:12.78
+...so I came as Chewbacca.
+
+00:06:13.81,00:06:19.15
+- Stan, you look pretty enough to kiss.[br]- Yeah, you want to be my girlfriend?
+
+00:06:19.32,00:06:23.31
+There, you see? All of a sudden[br]my costume is pretty bad-ass.
+
+00:06:23.49,00:06:26.95
+- Dressing like Hitler is not bad-ass.[br]- You're jealous.
+
+00:06:27.13,00:06:30.53
+- Go to Endor, wookiee![br]- Wookiees don't live on Endor!
+
+00:06:32.23,00:06:34.99
+My mom's not on the[br]cover of Crack Whore magazine.
+
+00:06:35.17,00:06:39.10
+- What did you say?[br]- Okay, Chewbaccas take your seats.
+
+00:06:39.70,00:06:41.70
+Since today is Halloween...
+
+00:06:41.91,00:06:45.71
+...we should learn about[br]the horror writer Jackie Collins.
+
+00:06:45.88,00:06:49.28
+You see, when Jackie Collins[br]first wrote her novel...
+
+00:06:50.35,00:06:52.58
+Is there a problem, Kenny?
+
+00:06:52.75,00:06:55.55
+Let's keep our hands[br]to ourselves, okay?
+
+00:06:56.96,00:06:59.52
+I'm never gonna win that candy.
+
+00:07:08.77,00:07:14.00
+- Hello there. Happy Halloween.[br]- Must eat brains.
+
+00:07:14.77,00:07:16.64
+Brains.
+
+00:07:18.71,00:07:22.11
+Oh, God! No! Stop!
+
+00:07:22.68,00:07:26.01
+I'm gonna make a new costume.[br]I can still win.
+
+00:07:26.18,00:07:28.74
+Kenny, are you gonna[br]eat your pudding?
+
+00:07:28.92,00:07:32.95
+No, Eric, go ahead and take[br]my pudding if you'd like.
+
+00:07:33.12,00:07:35.75
+Why, thank you, Kenny.[br]How nice of you.
+
+00:07:35.93,00:07:37.90
+Aren't you hungry, Kenny?
+
+00:07:38.06,00:07:41.23
+- He hasn't moved or said anything.[br]- Hello, children.
+
+00:07:41.40,00:07:42.96
+Hey, Chef.
+
+00:07:44.47,00:07:48.43
+- What're you doing dressed like that?[br]- Eating Kenny's pudding.
+
+00:07:48.61,00:07:51.60
+Hello there.[br]Love the Elvis costume, Chef.
+
+00:07:51.81,00:07:56.04
+Elvis? I'm Evel Knievel.[br]Why the hell would I dress like Elvis?
+
+00:07:56.21,00:08:00.55
+Why the hell would you dress like[br]Evel Knievel? I hope you are...
+
+00:08:01.82,00:08:04.52
+Eric, what do you think you're doing?
+
+00:08:04.69,00:08:08.02
+He said I could have[br]his pudding. Ask him yourself.
+
+00:08:08.19,00:08:13.72
+That's right, Principal Victoria.[br]It's okay with me because Eric is cool.
+
+00:08:13.90,00:08:19.77
+- Where did you get that costume?[br]- My mom made it. Sieg Heil. Sieg Heil.
+
+00:08:19.97,00:08:24.53
+God bless America. You get into my[br]office before anyone else sees you.
+
+00:08:24.71,00:08:27.44
+I have to show you[br]an educational video.
+
+00:08:27.61,00:08:30.41
+I don't want to see[br]an educational video.
+
+00:08:33.39,00:08:35.98
+- You bit my arm![br]- Kenny's back to normal.
+
+00:08:36.15,00:08:40.35
+- Watch the video, Eric.[br]- Adolf Hitler was a very naughty man.
+
+00:09:02.95,00:09:06.58
+So remember, kids, dressing up[br]like Hitler isn't cool.
+
+00:09:06.75,00:09:11.09
+- Do you have any questions?[br]- Can I see that again, that was cool.
+
+00:09:11.26,00:09:16.52
+- You must remove that costume.[br]- I can't. I have to win the candy.
+
+00:09:16.69,00:09:20.60
+Well, how about we make you[br]a new costume? Let's see now...
+
+00:09:21.50,00:09:24.99
+How about we make you[br]a nice, scary ghost costume?
+
+00:09:25.17,00:09:29.16
+- I don't want to be a stupid ghost.[br]- And let me just make...
+
+00:09:29.34,00:09:34.90
+...a few quickie alterations.[br]And there you go, young man.
+
+00:09:38.78,00:09:43.31
+Looks like they got a touch of that[br]pinkeye that's going around.
+
+00:09:47.93,00:09:51.99
+- Boo, I'm a ghost.[br]- Oh, man, I feel like a total choad.
+
+00:09:52.20,00:09:55.43
+That's just because[br]you look like a total choad.
+
+00:09:55.63,00:09:59.47
+- Hello, children.[br]- Hey, Chef.
+
+00:10:00.11,00:10:03.63
+- Chef's really scared of ghosts, huh?[br]- Where's Kyle?
+
+00:10:03.94,00:10:06.47
+- Check this out.[br]- Whoa, dude.
+
+00:10:06.64,00:10:08.91
+- What is that?[br]- I'm the solar system.
+
+00:10:09.08,00:10:12.71
+The planets revolve the right way.[br]That candy is mine.
+
+00:10:13.15,00:10:15.68
+Okay, let's get lined up[br]so the judge...
+
+00:10:15.85,00:10:18.65
+...can get a look[br]at your stupid costumes.
+
+00:10:18.82,00:10:25.09
+We have a celebrity judge, the star[br]of Family Ties, Miss Tina Yothers.
+
+00:10:25.26,00:10:27.75
+- Who?[br]- Dude, I thought she was dead.
+
+00:10:27.93,00:10:30.53
+Thank you, Miss Yothers.[br]Okay...
+
+00:10:30.70,00:10:34.60
+The second-place award[br]for best costume goes to...
+
+00:10:35.01,00:10:38.87
+...Kenny for his Edward[br]James Olmos costume.
+
+00:10:40.35,00:10:43.78
+And the award for the[br]very best costume goes to...
+
+00:10:44.88,00:10:47.85
+Wendy, for her Chewbacca costume.
+
+00:10:48.85,00:10:54.09
+What? But she looks just like everybody[br]else. Up yours, Tina Yothers!
+
+00:10:54.26,00:10:57.19
+The award for worst costume[br]this year goes to...
+
+00:10:57.40,00:11:00.66
+...Stan, for his stupid[br]little clown-thing costume.
+
+00:11:00.87,00:11:04.06
+Let's all point at Stan[br]and laugh, children.
+
+00:11:04.54,00:11:07.00
+Thanks a lot, you ruined[br]my Halloween.
+
+00:11:07.17,00:11:10.84
+Relax, you'll feel better once[br]we're trick-or-treating.
+
+00:11:11.01,00:11:13.41
+I don't wanna trick-or-treat[br]with you.
+
+00:11:13.58,00:11:16.88
+Let's all gather around[br]and bob for stupid apples.
+
+00:11:17.22,00:11:19.41
+You go first, Bebe.
+
+00:11:19.58,00:11:22.78
+Use those mouth muscles[br]like the girls in Beijing.
+
+00:11:22.95,00:11:24.39
+Brains.
+
+00:11:26.09,00:11:27.65
+Wait your turn, Clyde.
+
+00:11:32.60,00:11:35.40
+Johnson, what the hell's[br]gotten into you?
+
+00:11:35.77,00:11:38.13
+Pinkeye.
+
+00:11:38.30,00:11:43.33
+Get the hell out of here, Johnson.[br]I don't want no goddamn pinkeye.
+
+00:11:43.81,00:11:46.74
+And the president responded[br]by saying, quote:
+
+00:11:46.91,00:11:50.68
+"Screw the commie bastards,[br]and screw their space station. "
+
+00:11:50.85,00:11:55.15
+In other news, a pinkeye epidemic[br]is sweeping South Park.
+
+00:11:55.32,00:11:57.62
+With a report,[br]a midget in a bikini.
+
+00:11:57.79,00:12:00.78
+Thanks, Tom. More than[br]half the townspeople...
+
+00:12:00.96,00:12:03.36
+...have been infected[br]with the virus.
+
+00:12:06.36,00:12:09.80
+Symptoms include a complete[br]loss of heart functions...
+
+00:12:09.97,00:12:13.27
+...lung activity and, of course,[br]sticky, puffy eyes.
+
+00:12:13.44,00:12:16.84
+Pinkeye, my ass.[br]I've seen this before.
+
+00:12:19.04,00:12:21.91
+Where is Kyle?[br]We don't have all night.
+
+00:12:22.08,00:12:26.41
+- I bet I get more candy than you.[br]- You crazy? I'm the candy master.
+
+00:12:26.58,00:12:29.42
+You're the ass master.[br]There's a difference.
+
+00:12:29.59,00:12:32.99
+I'm not the one who looks[br]like Pippi Longstocking!
+
+00:12:33.16,00:12:36.49
+My mom's not on the cover[br]of Crack Whore magazine.
+
+00:12:36.66,00:12:40.10
+My mom is not on the cover[br]of Crack Whore magazine!
+
+00:12:40.27,00:12:43.23
+- Hey, dudes.[br]- Make sure we've got everything.
+
+00:12:43.40,00:12:44.73
+- Flashlight?[br]- Check.
+
+00:12:44.90,00:12:46.23
+- Pumpkin pails?[br]- Check.
+
+00:12:46.40,00:12:47.74
+- Taser.[br]- What's that?
+
+00:12:47.91,00:12:50.31
+For shocking people[br]who give granola.
+
+00:12:50.48,00:12:52.34
+Yeah, granola pisses me off.
+
+00:12:52.78,00:12:53.97
+Hey, Kenny.
+
+00:12:55.71,00:12:58.98
+- You stink![br]- You still didn't get a costume, Kenny?
+
+00:13:00.32,00:13:03.08
+Too bad drinking scotch[br]isn't a paying job...
+
+00:13:03.25,00:13:05.98
+...or Kenny's dad[br]would be a millionaire.
+
+00:13:06.16,00:13:09.65
+I said your dad would be[br]a millionaire. Get it? Kenny!
+
+00:13:09.83,00:13:13.85
+Your family is poor, Kenny.[br]Your family is poor!
+
+00:13:14.03,00:13:17.49
+I don't like Kenny anymore.[br]He doesn't communicate.
+
+00:13:18.77,00:13:20.47
+- Hi, guys.[br]- Hi, Wendy.
+
+00:13:20.64,00:13:24.94
+- How's your barrel full of candy?[br]- I didn't want that sweet stuff.
+
+00:13:25.11,00:13:28.04
+I gave it away to hungry[br]children in Nairobi.
+
+00:13:28.21,00:13:32.21
+- You what? Are you insane?[br]- Let's go trick-or-treat.
+
+00:13:32.38,00:13:35.28
+I don't think so.[br]You've had enough candy.
+
+00:13:35.45,00:13:40.76
+Stan, I'm awful sorry you got dressed[br]up like Raggedy Andy. Don't be mad.
+
+00:13:40.93,00:13:43.66
+How could he be mad[br]with such pretty hair?
+
+00:13:43.83,00:13:46.59
+- Trick-or-treat with yourself.[br]- But, Stan...
+
+00:13:46.76,00:13:50.20
+No buts, Wendy.[br]I wish you were dead!
+
+00:13:54.77,00:13:56.80
+- Doctor.[br]- Why, hello, Chef.
+
+00:13:56.97,00:14:02.11
+- Let me guess, pinkeye, right?[br]- No, doctor. I've seen this before.
+
+00:14:02.28,00:14:06.51
+- It's the living dead.[br]- What the hell are you talking about?
+
+00:14:06.68,00:14:09.35
+Dead people getting up[br]and walking around...
+
+00:14:09.52,00:14:13.15
+...and Tina Yothers in town...[br]Coincidence? I don't think so!
+
+00:14:13.32,00:14:16.45
+The pinkeye has[br]made you a little delirious.
+
+00:14:16.63,00:14:20.36
+- Let me give you some topical cream.[br]- Damn it, don't you see?
+
+00:14:20.53,00:14:26.33
+These people have been zombiefied.[br]They got no feeling. I'll show you.
+
+00:14:27.11,00:14:31.27
+Mr. Torres was here[br]for a routine checkup, Chef.
+
+00:14:31.44,00:14:36.78
+Sorry, but my point is, topical cream[br]ain't gonna fix what's wrong here.
+
+00:14:36.95,00:14:42.55
+There have been a lot of advances[br]in topical creams the last few years.
+
+00:14:42.72,00:14:45.55
+Who was the first one[br]to come in here sick?
+
+00:14:45.72,00:14:50.52
+Well, it was the mortician[br]and his assistant at the morgue.
+
+00:14:54.53,00:14:59.99
+Now, let's form a line. I've got[br]enough topical cream for everybody.
+
+00:15:01.07,00:15:03.20
+Trick or treat.
+
+00:15:03.88,00:15:06.37
+Oh, how cute.
+
+00:15:09.25,00:15:12.88
+- Dude, Kenny.[br]- Oh, my God, call 91 1!
+
+00:15:13.08,00:15:17.11
+- Call 91 1![br]- Kenny, she was going to give us candy.
+
+00:15:17.29,00:15:20.95
+- She had Sweetie Pops.[br]- You owe me a Sweetie Pop, asshole.
+
+00:15:22.93,00:15:28.30
+- Mayor, we've got a big problem.[br]- Why, Chef, what a surprise.
+
+00:15:28.77,00:15:33.67
+You're wondering why we're here[br]with a pile of money and no pants on.
+
+00:15:33.84,00:15:36.31
+- Actually...[br]- Well, I can assure you...
+
+00:15:36.47,00:15:39.91
+...it has nothing to do[br]with the Japanese mafia.
+
+00:15:40.08,00:15:43.01
+- Not a thingy-dingy.[br]- I don't give a crap.
+
+00:15:43.18,00:15:48.68
+- Do something about the living dead.[br]- You mean Tina Yothers?
+
+00:15:50.46,00:15:54.22
+No! The zombies that have[br]taken over South Park.
+
+00:15:54.39,00:15:59.85
+Well, Evel Knievel, why don't you jump[br]over them with your rocket cycle?
+
+00:16:01.33,00:16:03.93
+To hell with you both.
+
+00:16:04.34,00:16:06.80
+- Well, let's get back to it.[br]- Right.
+
+00:16:08.47,00:16:09.46
+Trick or treat!
+
+00:16:09.64,00:16:13.70
+Hope you kids like chocolate[br]peanut butter cream puffies...
+
+00:16:13.88,00:16:17.14
+Get it off, get it off me!
+
+00:16:22.45,00:16:25.79
+We'll never get candy[br]if Kenny keeps eating people.
+
+00:16:25.96,00:16:30.49
+Yeah, that's it, Kenny. You can't[br]trick-or-treat with us anymore.
+
+00:16:31.00,00:16:32.26
+Oh, God!
+
+00:16:34.23,00:16:35.43
+Trick or treat.
+
+00:16:36.83,00:16:40.07
+Hey, they're all dressed up[br]like ghosts too.
+
+00:16:40.87,00:16:43.50
+One Tootie Bar? You cheap bastards.
+
+00:16:45.74,00:16:48.14
+Oh, my God! Stop!
+
+00:16:50.38,00:16:51.85
+Trick or...
+
+00:16:52.02,00:16:55.51
+Get off my property,[br]you brain-eating zombie bastards.
+
+00:16:55.69,00:16:57.12
+- Hey, Chef.[br]- Chef, no.
+
+00:16:57.29,00:17:00.05
+Sorry, I thought you[br]were one of them.
+
+00:17:00.22,00:17:04.85
+- Can we have some candy now?[br]- What are you doing dressed like that?
+
+00:17:05.06,00:17:08.93
+- I'm trying to trick-or-treat.[br]- Remind me to whip your ass.
+
+00:17:09.10,00:17:12.43
+Now get in here before[br]those zombies get you.
+
+00:17:12.90,00:17:15.37
+- What are you talking about?[br]- Zombies.
+
+00:17:15.54,00:17:20.77
+South Park is overrun with living dead.[br]Haven't you noticed anything strange?
+
+00:17:21.35,00:17:23.94
+Kenny keeps eating people's brains.
+
+00:17:24.12,00:17:28.64
+Don't you see? Kenny's a zombie.[br]Along with everyone else in town.
+
+00:17:28.82,00:17:31.75
+- That means...[br]- Lf everyone's zombies...
+
+00:17:31.99,00:17:35.29
+Then there won't be anyone[br]to give us candy.
+
+00:17:37.26,00:17:39.89
+- You've gotta help us.[br]- I'm working on it.
+
+00:17:41.10,00:17:44.03
+- Where are we going?[br]- The first people treated...
+
+00:17:44.20,00:17:46.53
+...were the mortician[br]and his assistant.
+
+00:17:46.77,00:17:49.97
+We'll get to the bottom[br]of this at the morgue.
+
+00:17:52.94,00:17:53.93
+That was Kyle.
+
+00:17:56.35,00:17:59.04
+- I don't know about this.[br]- Yeah, I'm scared.
+
+00:17:59.22,00:18:03.28
+Remember candy, focus on the candy.
+
+00:18:03.45,00:18:07.86
+- What are we doing here, Chef?[br]- Just look for anything suspicious.
+
+00:18:08.03,00:18:09.39
+I found it.
+
+00:18:09.59,00:18:12.06
+- What?[br]- See, your mom is on the cover.
+
+00:18:14.90,00:18:17.20
+We told you, dude.
+
+00:18:17.40,00:18:19.70
+You better let me take that, Kyle.
+
+00:18:19.87,00:18:21.96
+Hey, Chef. Look.
+
+00:18:28.01,00:18:32.54
+- I gotta call this hotline number.[br]- Pinkeye.
+
+00:18:32.72,00:18:36.41
+It's the British kid.[br]He's a little limey zombie now.
+
+00:18:36.59,00:18:39.15
+Look out, children!
+
+00:18:46.83,00:18:51.03
+Okay, Chef, dial the[br]hotline number. Chef?
+
+00:18:51.94,00:18:53.67
+Chef!
+
+00:19:13.59,00:19:15.06
+Let's get out of here.
+
+00:19:17.93,00:19:21.73
+- We got to call that hotline.[br]- Hey, there's a pay phone.
+
+00:19:21.90,00:19:25.10
+- Call the number, Kyle.[br]- The zombies are coming.
+
+00:19:25.30,00:19:27.00
+We'll hold them off.
+
+00:19:28.11,00:19:30.67
+Welcome to the[br]Worcestershire hotline.
+
+00:19:30.84,00:19:36.51
+For recipes, please press one.[br]For product placement, press two.
+
+00:19:36.81,00:19:39.75
+If sauce has been[br]used in embalming, press...
+
+00:19:40.25,00:19:44.24
+Nobody screws up my trick-or-treats[br]and gets away with it.
+
+00:19:44.42,00:19:47.12
+- Yeah, cool.[br]- Sweet.
+
+00:19:51.80,00:19:56.73
+This call might be monitored to ensure[br]quality service. How may I help you?
+
+00:19:56.90,00:19:59.67
+- There's zombies here.[br]- Please hold.
+
+00:20:08.38,00:20:09.90
+Wendy?
+
+00:20:10.92,00:20:14.35
+- Finish her, dude, she's a zombie now.[br]- I know, but...
+
+00:20:14.52,00:20:17.89
+Remember how she dissed[br]you at the costume contest?
+
+00:20:18.06,00:20:19.85
+Hey, yeah.
+
+00:20:21.06,00:20:24.05
+You need to make sure[br]you do not just go out...
+
+00:20:24.23,00:20:30.13
+...and start decapitating zombies left[br]and right. Do you understand?
+
+00:20:30.30,00:20:31.89
+Okay, then what?
+
+00:20:32.60,00:20:35.07
+Wendy, I know I wished[br]you were dead.
+
+00:20:35.24,00:20:37.64
+- But I didn't mean it.[br]- Kill her, Stan.
+
+00:20:37.81,00:20:40.87
+Kill the original zombie[br]that started the mess.
+
+00:20:41.05,00:20:44.14
+All the other zombies[br]will turn back to normal.
+
+00:20:44.32,00:20:47.65
+How the hell do we know[br]who the original zombie is?
+
+00:20:47.82,00:20:50.95
+You have a choice in[br]Worcestershire sauces. We...
+
+00:20:51.49,00:20:55.95
+Wait, that thing landed on Kenny[br]and they took him to the mortuary.
+
+00:20:56.53,00:20:58.96
+I can't.
+
+00:21:06.74,00:21:10.43
+Oh, my God, I killed Kenny.[br]You bastard!
+
+00:21:11.64,00:21:14.54
+What happened? Stan?
+
+00:21:14.71,00:21:19.21
+- Babe, everything's gonna be okay.[br]- They're turning back to normal.
+
+00:21:19.38,00:21:23.32
+- You did it, children.[br]- Okay, let's go trick-or-treat now.
+
+00:21:23.49,00:21:26.72
+I'm sorry I dissed you[br]at school like that, Stan.
+
+00:21:26.89,00:21:29.95
+I wasn't very considerate[br]of your feelings.
+
+00:21:30.13,00:21:32.72
+I'm sorry I wished you were dead.
+
+00:21:32.90,00:21:37.70
+Maybe we could actually[br]kiss tonight, Stan.
+
+00:21:40.60,00:21:42.50
+Gross, Stan. Sick.
+
+00:21:43.17,00:21:44.64
+Barf is gross.
+
+00:21:49.15,00:21:53.85
+- Man, I can't believe he's gone.[br]- He was too young to be taken from us.
+
+00:21:54.02,00:21:56.32
+You're the one who cut him in half.
+
+00:21:56.49,00:22:02.29
+Let us remember the good times.[br]Kenny would have wanted it that...
+
+00:22:05.23,00:22:09.72
+I learned something today. Halloween[br]isn't about costumes or candy.
+
+00:22:09.90,00:22:12.96
+It's about being good,[br]and giving and loving.
+
+00:22:13.14,00:22:15.54
+No, dude, that's Christmas.
+
+00:22:15.71,00:22:19.70
+- Then what's Halloween about?[br]- Costumes and candy.
+
+00:22:21.15,00:22:23.17
+Well, let's go eat that candy.
+
+00:22:23.35,00:22:26.37
+We can eat at Cartman's[br]and see naughty pictures of his mom.
+
+00:22:26.55,00:22:29.75
+Knock it off. She was young[br]and needed the money.
+
+00:22:29.92,00:22:33.52
+Cartman, those pictures[br]were taken, like, last month.
+
+00:22:33.96,00:22:36.26
+Screw you guys!
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

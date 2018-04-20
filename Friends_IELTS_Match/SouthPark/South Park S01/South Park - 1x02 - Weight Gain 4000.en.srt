@@ -1,0 +1,1059 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:02.54,00:00:06.60
+And now, a fireside chat[br]with the creators of South Park:
+
+00:00:06.78,00:00:10.24
+Matt Stone and Trey Parker.
+
+00:00:15.99,00:00:19.15
+- Oh, hello. I'm Trey Parker.[br]- I'm Matt Stone.
+
+00:00:19.36,00:00:22.52
+This here's old Scratch.[br]Say hi, old fella.
+
+00:00:22.69,00:00:27.93
+This episode is called "Weight Gain[br]4000." It's our favorite episode.
+
+00:00:28.10,00:00:30.86
+Kathie Lee Gifford comes[br]to South Park...
+
+00:00:31.04,00:00:35.10
+...and Eric Cartman beefs[br]himself up for the big day.
+
+00:00:35.31,00:00:38.64
+How much weight does Cartman[br]gain in this episode?
+
+00:00:38.81,00:00:42.77
+After Cartman eats Weight Gain 4000,[br]he gains 700 pounds.
+
+00:00:42.98,00:00:45.97
+That makes him as heavy[br]as Sally Struthers.
+
+00:00:46.18,00:00:51.35
+Has Kathie Lee Gifford offended you?[br]Was she flattered by her depiction?
+
+00:00:51.52,00:00:54.32
+We don't really care.[br]We think she's a fu...
+
+00:00:54.53,00:01:00.49
+Very wonderful woman. Both Trey and I[br]really respect her work with Regis.
+
+00:01:00.97,00:01:04.13
+Guns and bullets seem[br]to be a recurring theme.
+
+00:01:04.30,00:01:07.17
+Have either of you ever killed anyone?
+
+00:01:07.84,00:01:11.67
+I would never kill somebody,[br]unless they pissed me off.
+
+00:01:12.01,00:01:15.67
+Why do you keep killing Kenny?[br]What did he do to you?
+
+00:01:15.85,00:01:18.84
+Kenny is definitely[br]our favorite character.
+
+00:01:19.05,00:01:24.55
+But we have to kill him every episode.[br]This is one of our favorite deaths.
+
+00:01:24.72,00:01:30.25
+How do you create a show like South[br]Park and remain pure and wholesome?
+
+00:01:30.43,00:01:34.76
+Everyone thinks that to do South Park,[br]we must be wild rock stars...
+
+00:01:34.93,00:01:37.63
+...but we're wholesome[br]Middle American guys.
+
+00:01:37.80,00:01:43.26
+We enjoy soda pop, baseball and beating[br]up old people as much as anybody.
+
+00:01:43.84,00:01:49.28
+So, now sit back, relax and enjoy[br]"Weight Gain 4000."
+
+00:02:21.75,00:02:22.84
+Weight Gain 4000
+
+00:02:27.35,00:02:31.22
+- Did you see that rainbow this morning?[br]- It was huge.
+
+00:02:31.42,00:02:32.91
+I hate those things!
+
+00:02:33.09,00:02:36.89
+- Nobody hates rainbows.[br]- What's there to hate about them?
+
+00:02:37.10,00:02:42.23
+Well, you'll be minding your business[br]and they'll come marching in...
+
+00:02:42.43,00:02:46.43
+...and crawl up your leg[br]and bite the inside of your ass.
+
+00:02:46.61,00:02:52.67
+And you'll be all like, "Hey, get out[br]of my ass, you stupid rainbows!"
+
+00:02:53.45,00:02:58.71
+- What the hell are you talking about?[br]- Rainbows. I hate those things.
+
+00:02:58.88,00:03:03.18
+Rainbows are those arches of color[br]that show up when it rains.
+
+00:03:03.36,00:03:07.69
+Oh, rainbows! Oh, yeah, I like those.[br]Those are cool.
+
+00:03:07.86,00:03:11.09
+- What were you talking about?[br]- Nothing, forget it.
+
+00:03:11.26,00:03:14.60
+What crawls up your leg[br]and bites the inside of your ass?
+
+00:03:14.77,00:03:15.76
+Nothing!
+
+00:03:15.93,00:03:20.30
+Children, remember the Save Our[br]Fragile Planet essay contest...
+
+00:03:20.47,00:03:23.74
+...that you worked[br]so hard on last month?
+
+00:03:24.78,00:03:29.51
+One of our very own South Park[br]students has won the national prize.
+
+00:03:29.68,00:03:31.77
+Wow, I knew I would win.
+
+00:03:31.95,00:03:35.48
+- Mr. Garrison, this sure is exciting.[br]- Right, Mr. Hat.
+
+00:03:35.65,00:03:39.92
+The winner of the national Save Our[br]Fragile Planet contest is:
+
+00:03:40.09,00:03:41.39
+Eric Cartman.
+
+00:03:41.56,00:03:42.79
+- What?![br]- What?!
+
+00:03:42.96,00:03:46.19
+Congratulations on writing[br]the winning paper.
+
+00:03:46.36,00:03:47.63
+Kick ass!
+
+00:03:47.80,00:03:51.50
+Cartman doesn't know[br]a rain forest from a Pop-Tart.
+
+00:03:51.67,00:03:53.80
+Yeah, I do. Pop-Tarts are frosted.
+
+00:03:53.97,00:03:58.31
+Out of over a million papers,[br]Eric's was chosen as the winner.
+
+00:03:58.48,00:04:02.64
+- Wow! What did you write about?[br]- You know, this and that.
+
+00:04:02.81,00:04:06.27
+- He doesn't know what he wrote.[br]- What was your paper about?
+
+00:04:06.45,00:04:10.11
+It was on the suffering[br]of bottle-nosed dolphins.
+
+00:04:10.29,00:04:14.59
+You shouldn't have written[br]about dolphins. Dolphins are stupid.
+
+00:04:14.76,00:04:18.82
+Dude, dolphins are the second[br]smartest animal on the planet.
+
+00:04:19.00,00:04:24.20
+Right. If they're so damn smart, how[br]come they get caught in fishing nets?
+
+00:04:24.37,00:04:26.23
+- What?[br]- Wait, there's more.
+
+00:04:26.40,00:04:32.14
+It says here that Eric's trophy[br]will be presented to him by...
+
+00:04:32.31,00:04:34.28
+...Kathie Lee Gifford?
+
+00:04:34.45,00:04:36.44
+Kathie Lee is coming here?
+
+00:04:36.62,00:04:39.48
+The presentation[br]will be on television.
+
+00:04:39.65,00:04:40.91
+Television?
+
+00:04:41.12,00:04:45.06
+Kathie Lee Gifford.[br]I don't believe it.
+
+00:04:45.22,00:04:48.62
+Kathie Lee Gifford in South Park!
+
+00:04:48.79,00:04:52.89
+Oh, my God! This is our chance[br]to make a name for ourselves...
+
+00:04:53.06,00:04:56.03
+...to show we're not some pissant[br]mountain town.
+
+00:04:56.20,00:04:58.86
+It's a chance for you[br]to get publicity.
+
+00:04:59.04,00:05:04.60
+If I can show how much I turned South[br]Park around, I could become a senator!
+
+00:05:04.78,00:05:08.91
+- Maybe even a state senator![br]- Let's decorate the town square.
+
+00:05:09.08,00:05:14.45
+We should have the chef of the school[br]sing and show our ethnic diversity.
+
+00:05:14.62,00:05:17.45
+That's right![br]He's a black guy, isn't he?
+
+00:05:17.62,00:05:19.32
+Black as the night.
+
+00:05:19.49,00:05:23.89
+Yes! And we can have the children[br]of South Park put on a play.
+
+00:05:24.06,00:05:25.89
+Kathie Lee loves children.
+
+00:05:26.06,00:05:29.19
+If they're working[br]in a sweatshop, that is.
+
+00:05:29.94,00:05:30.96
+Thank you.
+
+00:05:31.14,00:05:32.66
+You guys, guess what?
+
+00:05:32.84,00:05:36.57
+After I'm on television,[br]I'm gonna be totally famous.
+
+00:05:36.74,00:05:38.47
+Hitler was famous too.
+
+00:05:38.64,00:05:40.51
+- Hello, children.[br]- Hey, Chef.
+
+00:05:40.68,00:05:43.05
+- How are my little crackers?[br]- Good.
+
+00:05:43.22,00:05:47.17
+Did you hear? Kathie Lee Gifford[br]is coming to South Park!
+
+00:05:47.35,00:05:50.69
+Because Cartman cheated[br]and won the essay contest.
+
+00:05:50.89,00:05:56.52
+Yeah, whatever. But the mayor called[br]and asked me to sing at the ceremony.
+
+00:05:56.70,00:05:59.10
+- Are you gonna do it?[br]- Of course.
+
+00:05:59.26,00:06:03.67
+Kathie Lee is a beautiful,[br]sultry queen of sexual fantasy.
+
+00:06:03.84,00:06:09.64
+If I sing to her, maybe I can lure her[br]into a night of exotic delectation.
+
+00:06:09.81,00:06:11.37
+Yeah, that'd be cool!
+
+00:06:12.94,00:06:16.81
+Well, three times bigger[br]than Frank Gifford's, anyway.
+
+00:06:16.98,00:06:22.08
+I can't concentrate on grading papers[br]with all this excitement.
+
+00:06:22.35,00:06:24.69
+Why are you looking at me like that?
+
+00:06:24.86,00:06:29.38
+Have you forgotten the pain[br]and suffering Kathie Lee caused you?
+
+00:06:29.56,00:06:34.09
+Mr. Hat, that was a long time ago,[br]and I was only a child.
+
+00:06:34.27,00:06:36.56
+We could've won that talent show.
+
+00:06:37.90,00:06:40.20
+- Knock, knock, Mr. Hat.[br]- Who's there?
+
+00:06:40.37,00:06:42.17
+- Orange.[br]- Orange who?
+
+00:06:42.34,00:06:46.17
+Orange you glad I didn't say banana?
+
+00:06:47.25,00:06:48.94
+Thank you.
+
+00:06:50.55,00:06:53.42
+Wow, Mr. Hat.[br]Looks like we might win.
+
+00:06:53.59,00:06:56.61
+And now, our last[br]talent-show finalist...
+
+00:06:56.79,00:06:58.92
+...Kathie Lee Epstein.
+
+00:07:29.19,00:07:34.52
+It wasn't fair. She had choreography.[br]How could we compete with that?
+
+00:07:34.69,00:07:39.10
+But she's coming to South Park,[br]and I know how to make it better.
+
+00:07:39.26,00:07:40.63
+How?
+
+00:07:40.97,00:07:44.37
+No, Mr. Hat! I couldn't...
+
+00:07:44.54,00:07:48.30
+...kill Kathie Lee Gifford.
+
+00:07:50.54,00:07:54.07
+Children, as you all know,[br]Mrs. Kathie Lee Gifford...
+
+00:07:54.25,00:07:58.27
+...will be here to present the award[br]to some kid for an essay.
+
+00:07:58.45,00:08:00.21
+- That kid is me![br]- Whatever.
+
+00:08:00.39,00:08:03.38
+I'm going to have[br]you luscious youngsters...
+
+00:08:03.56,00:08:06.89
+...do a play about the history[br]of South Park.
+
+00:08:07.06,00:08:09.36
+That's wonderful, right, Mr. Hat?
+
+00:08:09.53,00:08:10.99
+- Kill her![br]- Mr. Hat!
+
+00:08:11.16,00:08:14.56
+Mr. Garrison, I'm asking you[br]to direct our play.
+
+00:08:14.73,00:08:15.89
+That's perfect.
+
+00:08:16.07,00:08:20.53
+You see, Mr. Hat, we don't have[br]to kill her. We can upstage her.
+
+00:08:20.71,00:08:25.44
+You might want to review the essays.[br]We think Cartman cheated.
+
+00:08:25.61,00:08:32.04
+Who cares? Now, kids, what's say[br]we give it our South Park best!
+
+00:08:33.52,00:08:37.72
+- Who's our little prizewinner again?[br]- Me, Eric Cartman!
+
+00:08:37.89,00:08:42.42
+How about we get in shape? We want[br]to look our best on TV, don't we?
+
+00:08:42.59,00:08:43.58
+Yes, ma'am.
+
+00:08:43.76,00:08:47.70
+I'm gonna be on television[br]I'm gonna be on television
+
+00:08:49.27,00:08:53.23
+I'm gonna be on television[br]I'm gonna be on television
+
+00:08:53.41,00:08:56.93
+We don't believe you won[br]that contest fairly, fat boy.
+
+00:08:57.11,00:09:00.98
+Stop defending your girlfriend[br]for writing about stupid fish.
+
+00:09:01.15,00:09:05.98
+- Dolphins are intelligent and friendly.[br]- Intelligent and friendly on rye bread.
+
+00:09:06.15,00:09:10.52
+- Dolphins are smarter than you.[br]- Then why do they live in igloos?
+
+00:09:10.69,00:09:14.52
+- That's not dolphins. That's Eskimos![br]- Who cares?
+
+00:09:14.69,00:09:18.49
+- It's tree-hugging hippie crap.[br]- Tell me what you wrote!
+
+00:09:18.66,00:09:21.39
+I can't. I have to go home[br]and get in shape!
+
+00:09:21.57,00:09:26.03
+Yeah, right! You'll go watch TV[br]and eat Cheesy Poofs, ass-master.
+
+00:09:26.20,00:09:27.54
+Screw you, hippie!
+
+00:09:28.87,00:09:32.17
+We'll be right back[br]to Jesus and Pals after this.
+
+00:09:32.34,00:09:35.74
+Need to get in shape fast?[br]Wanna look your best?
+
+00:09:35.91,00:09:39.85
+Tired of not getting chicks?[br]Tired of being a 90-pound weakling?
+
+00:09:40.02,00:09:42.25
+Yeah, I only weigh 90 pounds.
+
+00:09:42.42,00:09:45.75
+Then bulk up quick[br]with Weight Gain 4000!
+
+00:09:45.92,00:09:50.66
+Over 4000 grams of saturated fat[br]per serving. Its formula is designed...
+
+00:09:50.83,00:09:55.27
+...to go to the stomach,[br]where it is distributed to the blood!
+
+00:09:55.43,00:09:57.92
+Now available at stores everywhere.
+
+00:09:58.10,00:10:00.30
+- Say it with me, "Beefcake!"[br]- Beefcake.
+
+00:10:00.47,00:10:01.87
+- Beefcake![br]- Beefcake!
+
+00:10:03.71,00:10:06.54
+May cause irreversible damage[br]to kidneys and liver.
+
+00:10:06.71,00:10:09.65
+Mom, can you get me[br]some Weight Gain 4000?
+
+00:10:09.81,00:10:13.05
+Okay, Eric.[br]I'll get you some tomorrow.
+
+00:10:13.22,00:10:16.15
+But, Mom, I need it for tomorrow!
+
+00:10:16.32,00:10:19.15
+But tomorrow is grocery day, Eric.
+
+00:10:19.32,00:10:20.79
+Mom!
+
+00:10:22.09,00:10:27.43
+Okay, okay. Well, I guess[br]I'll be going to the store now, then.
+
+00:10:33.07,00:10:34.40
+No, no!
+
+00:10:35.91,00:10:37.50
+Kill her!
+
+00:10:37.68,00:10:39.70
+No, Mr. Hat, I won't do it.
+
+00:10:39.88,00:10:42.14
+Kill!
+
+00:10:43.52,00:10:47.88
+That does it. You're going[br]in the dresser drawer, Mr. Hat.
+
+00:10:48.55,00:10:53.68
+- She'll make a fool of you again.[br]- Stay in that drawer, negative Nancy.
+
+00:10:53.86,00:10:55.02
+Hey, dudes.
+
+00:10:55.19,00:10:59.76
+What is wrong with you? Haven't you[br]noticed the snow on the ground?
+
+00:10:59.93,00:11:03.39
+I have a nice body,[br]and I wanna show it off!
+
+00:11:03.57,00:11:08.53
+- What? You've got to weigh 90 pounds![br]- I'm up to 94, thank you very much.
+
+00:11:09.87,00:11:13.17
+Yeah, they're almost[br]as big as his mom's!
+
+00:11:13.34,00:11:17.47
+Laugh all you want! I'll be the one[br]on TV looking all buff.
+
+00:11:17.65,00:11:21.75
+- What's that stuff?[br]- Weight Gain 4000. It's bulking me up.
+
+00:11:21.92,00:11:24.62
+- Bulk up to what? Fat-ass?[br]- Super fat-ass?
+
+00:11:24.79,00:11:30.16
+Hey, I don't have to take that kind[br]of crap from you scrawny weaklings!
+
+00:11:32.36,00:11:37.39
+Sweet, check me out. I'm such a[br]beefcake I can't get through the door.
+
+00:11:37.57,00:11:40.97
+Come on, people. We've got[br]to turn this place around.
+
+00:11:41.14,00:11:45.30
+Hang up the lights, string up[br]the banners, castrate the cows!
+
+00:11:46.88,00:11:50.37
+Well, Mr. Garrison,[br]how is the little play going?
+
+00:11:50.55,00:11:53.75
+Fine. We were just about[br]to run it from the top.
+
+00:11:53.92,00:11:57.08
+Oh, please do. I'm dying to see it.
+
+00:11:57.26,00:12:00.69
+All the little pioneers[br]on this side of the stage.
+
+00:12:00.86,00:12:04.26
+All the little Indians[br]to the center of the stage.
+
+00:12:04.43,00:12:08.16
+- Am I an Indian or a pioneer?[br]- You have a feather on your head?
+
+00:12:08.33,00:12:11.20
+- Yes.[br]- Then you're an Indian.
+
+00:12:11.37,00:12:13.27
+Bebe, this is your line.
+
+00:12:13.44,00:12:16.84
+This is the story of South Park.
+
+00:12:17.01,00:12:20.17
+It begins over 1 00 years ago...
+
+00:12:20.35,00:12:26.48
+...when the noble and hearty[br]Ute Indians lived on the land.
+
+00:12:28.62,00:12:31.15
+Oh, don't they look adorable?
+
+00:12:31.32,00:12:35.26
+Then from the East came[br]the great white pioneers.
+
+00:12:40.60,00:12:43.73
+- Oh, my God![br]- They did it better this morning.
+
+00:12:43.90,00:12:45.33
+They had more energy.
+
+00:12:45.50,00:12:48.27
+The pioneers met with the Indians...
+
+00:12:48.44,00:12:52.54
+...and negotiated[br]for their fertile lands.
+
+00:12:52.74,00:12:58.05
+We cannot have our children beating[br]each other in front of Kathie Lee!
+
+00:12:58.22,00:13:01.19
+What do you want?[br]This is how it happened.
+
+00:13:01.35,00:13:03.55
+Take that, you stupid Indian!
+
+00:13:03.72,00:13:06.62
+Mr. Garrison, this is not appropriate!
+
+00:13:06.79,00:13:11.13
+Do you actually think that[br]Kathie Lee Gifford would enjoy this?
+
+00:13:11.30,00:13:14.42
+To hell with Kathie Lee Gifford!
+
+00:13:16.00,00:13:17.70
+What have I said?
+
+00:13:17.87,00:13:20.67
+He said,[br]"To hell with Kathie Lee Gifford!"
+
+00:13:20.97,00:13:26.38
+Mr. Garrison, I am dismissing you[br]from directing our play.
+
+00:13:28.61,00:13:33.81
+It happened again, didn't it?[br]Now we do things my way.
+
+00:13:34.02,00:13:36.89
+I can't kill her, Mr. Hat.
+
+00:13:37.06,00:13:40.08
+You're gonna have to do it.
+
+00:13:45.96,00:13:50.56
+- Cartman, talk about wide load.[br]- I'm starting to fill out nicely.
+
+00:13:50.74,00:13:53.43
+No, you're not.[br]You're fatter than ever!
+
+00:13:53.60,00:13:55.97
+I'm not fat, I'm getting in shape!
+
+00:13:56.14,00:13:59.70
+You're such a fat-ass,[br]when you walk around, people go:
+
+00:13:59.88,00:14:01.97
+"Goddamn, that's a big fat-ass!"
+
+00:14:02.15,00:14:04.64
+No, they don't, you jealous weakling!
+
+00:14:04.85,00:14:08.18
+Goddamn, that's a big fat-ass!
+
+00:14:08.52,00:14:11.39
+- Hi, guys.[br]- Oh, look, another hippie.
+
+00:14:11.56,00:14:14.32
+- Peace, Wendy.[br]- Shut up, Cartman!
+
+00:14:14.49,00:14:16.98
+Two little hippies sitting in a tree
+
+00:14:17.26,00:14:21.13
+I'll find Cartman's paper[br]and get to the bottom of this.
+
+00:14:22.97,00:14:26.49
+- Can I help you?[br]- Yes. I need a gun.
+
+00:14:26.67,00:14:29.97
+Would this be for hunting,[br]protection or other?
+
+00:14:30.14,00:14:31.73
+- Other.[br]- Alrighty then.
+
+00:14:31.91,00:14:35.64
+May I suggest a Stratford 1 2 mm?[br]Go ahead. Try it on!
+
+00:14:36.38,00:14:40.75
+That looks nice on you.[br]The lacquered black matches your eyes.
+
+00:14:40.92,00:14:44.29
+You talking to me?[br]You talking to me?
+
+00:14:44.56,00:14:48.51
+- I don't know, it's a little small.[br]- Okay. How about this?
+
+00:14:48.69,00:14:51.96
+You talking to me?[br]I don't like this one either.
+
+00:14:52.13,00:14:54.72
+Here's the same gun[br]with a wood finish.
+
+00:14:54.90,00:14:56.09
+You talking to me?!
+
+00:14:56.33,00:15:00.50
+I don't see anybody else here,[br]so you must be talking to me.
+
+00:15:00.67,00:15:01.97
+I'll take it.
+
+00:15:02.64,00:15:03.80
+Hello?
+
+00:15:20.49,00:15:22.96
+"My essay, by Eric Cartman.
+
+00:15:23.13,00:15:27.22
+When I wrote the following pages,[br]or rather the bulk of them...
+
+00:15:27.40,00:15:30.77
+...I lived alone in the woods[br]on the shore of..."
+
+00:15:32.77,00:15:38.07
+Mr. Hat, old Kathie Lee really will be[br]surprised when she gets here tomorrow.
+
+00:15:38.24,00:15:41.61
+She beat us in the talent show[br]all those years ago.
+
+00:15:41.78,00:15:44.04
+I think we owe her for that.
+
+00:15:45.78,00:15:47.05
+Oh, my God!
+
+00:15:54.36,00:15:57.69
+- Howdy, Mr. Garrison. Nice gun.[br]- Thank you.
+
+00:15:57.86,00:16:01.09
+- Nice gun, Mr. Garrison.[br]- Thanks.
+
+00:16:01.27,00:16:03.67
+- Hello, Officer Barbrady.[br]- Nice gun.
+
+00:16:03.84,00:16:09.80
+Is there somewhere in town I can get a[br]good, clear shot...? View of Kathie Lee?
+
+00:16:10.04,00:16:13.70
+I think the book depository[br]would be a good bet.
+
+00:16:16.55,00:16:20.64
+That might do quite nicely.[br]Thank you, Officer Barbrady.
+
+00:16:20.82,00:16:22.38
+No problem.
+
+00:16:22.62,00:16:26.18
+Caught you red-handed![br]No pictures of Kathie Lee!
+
+00:16:27.23,00:16:29.19
+Where is she?
+
+00:16:30.06,00:16:35.40
+This is sweet. Camera crews are[br]setting up, and I look totally ripped.
+
+00:16:35.57,00:16:39.83
+- Beefcake. Beefcake![br]- They won't get all of you in frame.
+
+00:16:40.04,00:16:42.67
+- Guys, we have to stop him![br]- Stop who?
+
+00:16:42.84,00:16:47.24
+Mr. Garrison! He's going to try[br]to kill Kathie Lee Gifford!
+
+00:16:47.41,00:16:50.74
+No, you don't![br]You won't ruin my moment of fame.
+
+00:16:50.92,00:16:52.11
+He's got a gun!
+
+00:16:52.28,00:16:55.01
+You gotta get over[br]this jealousy thing.
+
+00:16:55.19,00:16:59.05
+Seriously, just face it.[br]I wrote a better paper than you.
+
+00:16:59.22,00:17:03.79
+It just so happens that I have[br]your paper, and I know why you won.
+
+00:17:03.96,00:17:06.69
+There's something more important now.
+
+00:17:06.86,00:17:10.06
+You've got to prioritize.[br]What's more important:
+
+00:17:10.23,00:17:13.20
+Being on TV[br]or some stupid assassination?
+
+00:17:13.37,00:17:17.21
+Stan, I can't do it alone. Please?
+
+00:17:17.38,00:17:19.00
+We're losing him.
+
+00:17:19.18,00:17:20.77
+Here she comes!
+
+00:17:28.29,00:17:32.45
+Damn, I'm not the only one[br]who's thought of killing her.
+
+00:17:32.62,00:17:35.22
+We love you, Kathie Lee!
+
+00:17:35.39,00:17:37.05
+We love you too.
+
+00:17:37.23,00:17:40.36
+Come on, you little bitch.
+
+00:17:40.53,00:17:43.76
+You've gotta leave your precious[br]bubble sometime.
+
+00:17:43.94,00:17:48.00
+It is with great pride and honor[br]that I'd like to welcome...
+
+00:17:48.17,00:17:51.84
+...Mrs. Kathie Lee Gifford[br]to South Park!
+
+00:17:54.41,00:17:58.11
+And now our very own[br]South Park Elementary chef...
+
+00:17:58.32,00:18:02.15
+...will sing a special song[br]in honor of Mrs. Lee Gifford!
+
+00:18:03.25,00:18:04.88
+Thank you, Mr. Mayor.
+
+00:18:05.09,00:18:08.99
+You know, Kathie Lee,[br]you are a very special woman.
+
+00:18:09.16,00:18:12.62
+I don't mean special[br]in a Mary Tyler Moore way...
+
+00:18:12.83,00:18:16.73
+...or special in an extra-value meal[br]at Happy Burger way.
+
+00:18:16.93,00:18:21.67
+No, no, no. I mean special.[br]Like the song of the hummingbird...
+
+00:18:21.87,00:18:25.47
+...as it gets ready to find[br]that female hummingbird...
+
+00:18:25.68,00:18:28.70
+...and make sweet love[br]to it all night long.
+
+00:18:28.91,00:18:32.08
+Just two hummingbirds[br]moaning and groaning...
+
+00:18:32.25,00:18:36.74
+...and letting their bodies caress[br]and touch each other in ecstasy.
+
+00:18:47.30,00:18:48.86
+What?
+
+00:18:51.24,00:18:52.70
+What?!
+
+00:18:54.31,00:18:58.64
+Thank you, Chef,[br]for that heartwarming song.
+
+00:18:58.81,00:19:01.33
+Thank you, Chef!
+
+00:19:01.65,00:19:04.55
+God bless you, Kathie Lee!
+
+00:19:05.12,00:19:09.52
+Mr. Garrison is about to kill[br]Kathie Lee! We have to find him!
+
+00:19:09.72,00:19:13.21
+What? You mean the teacher?[br]Wait a minute.
+
+00:19:13.86,00:19:19.32
+Is there somewhere in town I can get a[br]good, clear shot...? View of Kathie Lee?
+
+00:19:19.80,00:19:23.13
+I think the book depository[br]would be a good bet.
+
+00:19:23.30,00:19:26.93
+I think the book depository[br]would be a good bet.
+
+00:19:27.10,00:19:29.33
+Book depository. Depository.
+
+00:19:29.51,00:19:33.20
+Damn, he could be anywhere![br]I'll send out an APB.
+
+00:19:33.38,00:19:35.61
+Wendy, look!
+
+00:19:35.91,00:19:38.88
+And now, here to present the award...
+
+00:19:39.08,00:19:42.81
+...for the environmental essay[br]to our own Eric Kaufman...
+
+00:19:43.02,00:19:44.65
+Cartman, goddamn it!
+
+00:19:44.82,00:19:47.92
+...is your favorite celebrity[br]and mine...
+
+00:19:48.36,00:19:51.39
+...Kathie Lee Gifford!
+
+00:19:55.07,00:19:57.23
+Thank you. I love you all.
+
+00:19:57.50,00:19:59.33
+Mr. Garrison! Stop!
+
+00:19:59.50,00:20:02.84
+Leave us. We must finish[br]what we have begun.
+
+00:20:03.01,00:20:06.31
+I know she's hurt you.[br]She's hurt a lot of people.
+
+00:20:06.48,00:20:10.31
+- You can't know.[br]- You should've won that talent show.
+
+00:20:10.48,00:20:14.94
+It is with honor and pride[br]that I present the winner this trophy.
+
+00:20:15.12,00:20:20.68
+- Eric, would you please come up here?[br]- Here it is, my big moment of fame.
+
+00:20:20.86,00:20:24.76
+Then she threw her voice[br]with two dummies at once.
+
+00:20:24.93,00:20:27.99
+I know that,[br]but this isn't the answer.
+
+00:20:28.17,00:20:31.46
+It is too late for me, young Wendy.
+
+00:20:33.57,00:20:37.53
+I've learned something today.[br]You can't win all the time.
+
+00:20:37.71,00:20:41.97
+If you don't win, you can't hold it[br]against the person who did...
+
+00:20:42.18,00:20:45.67
+...because that's the only way[br]you ever really lose.
+
+00:20:45.85,00:20:48.08
+You're right.
+
+00:20:48.25,00:20:49.74
+Good.
+
+00:20:49.95,00:20:53.19
+She really threw her voice[br]with two dummies?
+
+00:20:53.36,00:20:54.76
+The bitch must die!
+
+00:21:04.44,00:21:08.50
+Oh, my God, they killed Kenny![br]You bastard!
+
+00:21:08.97,00:21:10.44
+- Gun![br]- Gun!
+
+00:21:10.64,00:21:15.17
+Hey, come back![br]We didn't even get to do our play!
+
+00:21:15.78,00:21:17.37
+That's it. Wrap it up.
+
+00:21:17.55,00:21:21.45
+Hey, wait a minute.[br]When do I get to be on television?
+
+00:21:21.62,00:21:24.52
+Forget it.[br]No Kathie Lee, no public interest.
+
+00:21:24.69,00:21:28.09
+But I won the environmental[br]essay contest!
+
+00:21:28.26,00:21:32.03
+You don't deserve to win, Cartman,[br]and you know it!
+
+00:21:32.20,00:21:37.10
+I'm holding Cartman's paper. It's[br]actually nothing more than Walden...
+
+00:21:37.27,00:21:42.26
+...with Thoreau's name crossed out and[br]Cartman's name written in its place.
+
+00:21:42.47,00:21:45.53
+- Who cares?[br]- Kathie Lee Gifford's gone.
+
+00:21:45.71,00:21:49.20
+What about not holding anything[br]against the winner?
+
+00:21:49.38,00:21:51.68
+Well, not if it's Cartman.
+
+00:21:51.85,00:21:56.88
+Hey, where are you all going?[br]They don't even know what Walden is.
+
+00:21:57.05,00:22:00.65
+I bet if Walden was a sitcom[br]you'd know what it was!
+
+00:22:00.83,00:22:04.16
+Come on. Kyle's mom will make[br]tuna-fish sandwiches.
+
+00:22:04.33,00:22:05.49
+What the hell.
+
+00:22:06.10,00:22:11.19
+No, no! Now I'll be stuck[br]in this Podunk town forever...
+
+00:22:11.40,00:22:16.64
+...with all these stupid, hick,[br]redneck, jobless, truck-driving idiots!
+
+00:22:16.81,00:22:19.17
+Mayor, the mike is on.
+
+00:22:19.38,00:22:22.17
+Thought you could get away[br]with it, Mr. Hat?
+
+00:22:22.35,00:22:25.44
+I would have, if it weren't[br]for those meddling kids.
+
+00:22:25.62,00:22:29.99
+You're lucky you missed Kathie Lee[br]and that nobody got hurt.
+
+00:22:32.06,00:22:34.65
+We hope you can come back[br]to school soon.
+
+00:22:34.83,00:22:38.96
+I'd love to, but the doctors say[br]Mr. Hat needs more therapy.
+
+00:22:39.13,00:22:41.29
+We can still get her!
+
+00:22:41.47,00:22:45.60
+I'm just sorry I ruined everyone's[br]chances for being on TV.
+
+00:22:45.77,00:22:48.40
+Not Cartman.[br]He gets to be on TV anyway.
+
+00:22:48.57,00:22:50.13
+Really? On what?
+
+00:22:50.31,00:22:51.64
+Obesity.
+
+00:22:51.81,00:22:53.87
+Adiposity. Corpulence.
+
+00:22:54.08,00:22:57.34
+Whatever word you use,[br]it represents one thing:
+
+00:22:57.51,00:22:59.00
+Being a big fat-ass.
+
+00:22:59.18,00:23:03.21
+We have with us via satellite[br]Eric Cartman from South Park...
+
+00:23:03.39,00:23:07.26
+...who is now so obese,[br]he can't even get out of his house.
+
+00:23:07.42,00:23:09.65
+When is this gonna be on the air?
+
+00:23:09.83,00:23:12.99
+Is there anything you'd like[br]to say to the people?
+
+00:23:13.60,00:23:15.22
+Follow your dreams.
+
+00:23:15.40,00:23:18.84
+You can reach your goals.[br]I'm living proof.
+
+00:23:19.00,00:23:20.80
+Beefcake. Beefcake!
+
+00:23:20.97,00:23:24.07
+He needs to run his ass[br]around the block.
+
+00:23:24.28,00:23:26.74
+How about more of that good loving?
+
+00:23:26.91,00:23:30.07
+Damn! I gave you sweet loving[br]five minutes ago!
+
+00:23:30.25,00:23:31.98
+You trying to kill me?
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

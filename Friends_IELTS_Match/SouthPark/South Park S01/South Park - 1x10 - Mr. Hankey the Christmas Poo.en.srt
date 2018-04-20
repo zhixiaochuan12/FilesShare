@@ -1,0 +1,933 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:03.34,00:00:06.57
+- Howdy-ho, all you South Parketeers.[br]- Howdy-ho!
+
+00:00:06.75,00:00:09.84
+- I'm Rootin'-Tootin' Trey Parker.[br]- I'm Pistol-Slinging Matt Stone.
+
+00:00:10.02,00:00:14.18
+- This is Scratch. Say hi, old fella.[br]- Hi, Scratch!
+
+00:00:14.39,00:00:19.29
+Matt and I are excited because[br]this episode is our favorite.
+
+00:00:19.49,00:00:23.89
+It's our Christmas special entitled[br]"Mr. Hankey, The Christmas Poo."
+
+00:00:24.06,00:00:28.23
+Kyle, the little Jewish kid,[br]is visited by a talking candy bar.
+
+00:00:28.40,00:00:31.37
+The reason this episode[br]is our favorite is...
+
+00:00:31.57,00:00:35.53
+...because it introduces[br]the school counselor, Mr. Mackey.
+
+00:00:35.74,00:00:39.04
+He was based on a counselor[br]I had in junior high.
+
+00:00:39.24,00:00:42.98
+I used to run around,[br]getting in trouble, and he'd say:
+
+00:00:43.18,00:00:46.01
+"Trey, get back to your[br]schoolwork, m'kay?"
+
+00:00:46.18,00:00:48.58
+Now I'm making millions off him.
+
+00:00:48.75,00:00:52.12
+Like all of our episodes,[br]this one has a moral lesson:
+
+00:00:52.29,00:00:56.89
+Everyone, regardless of your religion,[br]should celebrate Christmas...
+
+00:00:57.06,00:00:59.29
+...because it's the best holiday.
+
+00:01:00.83,00:01:04.32
+It's our Indian companion friend[br]Indian Companion.
+
+00:01:04.54,00:01:07.51
+- Hello, Indian Companion.[br]- Say hi, kids.
+
+00:01:08.14,00:01:09.90
+Someone coming.
+
+00:01:11.61,00:01:13.10
+Thank you.
+
+00:01:15.25,00:01:19.45
+Anyway, sit back, relax and have[br]a rootin'-tootin' good time...
+
+00:01:19.65,00:01:22.95
+...with Mr. Hankey,[br]the Christmas chocolate bar.
+
+00:01:24.66,00:01:26.12
+Hooray!
+
+00:01:37.97,00:01:39.87
+Mr. Hankey, The Christmas Poo
+
+00:01:43.74,00:01:45.64
+Lights, please.
+
+00:01:45.84,00:01:50.61
+There were shepherds abiding in[br]the field, watching over their flock.
+
+00:01:50.82,00:01:55.28
+The Lord's angel came upon them,[br]and they were afraid. He said:
+
+00:01:55.45,00:02:00.45
+"Fear not. I bring tidings of joy.[br]For born today in the city of David...
+
+00:02:00.66,00:02:04.93
+...is the savior, Jesus Christ. Glory[br]to God and good will towards men."
+
+00:02:05.13,00:02:08.73
+And now, South Park Elementary[br]presents The Birth of Jesus.
+
+00:02:12.77,00:02:14.50
+Come on, Mary, push!
+
+00:02:14.91,00:02:16.60
+I can see its head!
+
+00:02:18.34,00:02:19.47
+It's a boy!
+
+00:02:22.15,00:02:23.84
+Wait a minute. Wait.
+
+00:02:24.05,00:02:27.99
+Kyle, you need to hold the baby[br]by the legs not the head.
+
+00:02:28.15,00:02:30.18
+- What kind of sick weirdo are you?[br]- Sorry.
+
+00:02:30.36,00:02:33.85
+And Wendy, I'm still not believing[br]the labor pains.
+
+00:02:34.06,00:02:37.93
+Mr. Garrison, what the hell[br]do you think you're doing?
+
+00:02:38.13,00:02:40.50
+I'm trying to direct the school[br]Christmas play...
+
+00:02:40.70,00:02:43.86
+...but your son was holding[br]baby Jesus fetus by the head.
+
+00:02:44.07,00:02:49.47
+How dare you include the Nativity[br]in a school play! My son is Jewish!
+
+00:02:50.48,00:02:51.46
+So?
+
+00:02:51.68,00:02:55.37
+So what makes you think[br]he should play Joseph?
+
+00:02:55.61,00:03:00.07
+- Because it's Christmas.[br]- Our family doesn't celebrate Christmas!
+
+00:03:01.52,00:03:04.15
+You're not gonna lay[br]that Channukah crap on me, are you?
+
+00:03:04.36,00:03:07.38
+What? You won't get away with this!
+
+00:03:07.59,00:03:11.32
+- Kyle's mom's here to ruin Christmas.[br]- Shut up, fat boy!
+
+00:03:11.53,00:03:15.23
+- I'm not fat. I'm festively plump.[br]- Why are you Jewish on Christmas?
+
+00:03:15.43,00:03:20.60
+Kyle, is there anything you can do for[br]the play that isn't Jesus-related?
+
+00:03:20.81,00:03:23.54
+How about the dreidel song, bubee?
+
+00:03:23.74,00:03:27.54
+- I can sing "The Mr. Hankey Song."[br]- How does that go?
+
+00:03:31.22,00:03:33.68
+- "Christmas poo"?[br]- What's "Christmas poo"?
+
+00:03:33.89,00:03:36.35
+Mr. Hankey the Christmas Poo.[br]Haven't you heard of it?
+
+00:03:36.56,00:03:38.08
+Kyle, that is enough!
+
+00:03:38.29,00:03:40.88
+That's what you get[br]for raising a pagan.
+
+00:03:41.09,00:03:44.89
+That does it! I'm going straight[br]to the mayor about you!
+
+00:03:45.10,00:03:47.90
+Wait, I'm sorry.[br]Was it the pagan remark?
+
+00:03:48.10,00:03:49.57
+You guys, look.
+
+00:03:49.77,00:03:51.67
+It's snowing.
+
+00:03:55.77,00:03:59.27
+- Christmas snow.[br]- Try to catch flakes on your tongue.
+
+00:04:00.31,00:04:01.90
+It's fun.
+
+00:04:08.62,00:04:09.75
+Sick, dude.
+
+00:04:10.32,00:04:13.55
+Hey! Jewish people[br]can't eat Christmas snow.
+
+00:04:13.76,00:04:16.19
+- We can too.[br]- It's against the law.
+
+00:04:16.39,00:04:18.33
+- Officer Barbrady?[br]- What?
+
+00:04:18.53,00:04:21.69
+Is it illegal for Jews to eat[br]Christmas snow?
+
+00:04:22.00,00:04:23.66
+- Yes.[br]- Damn it!
+
+00:04:23.87,00:04:27.00
+We have to go tell Santa Claus[br]what we want.
+
+00:04:27.21,00:04:30.17
+Bye, Kyle.[br]There's no reason for you to come...
+
+00:04:30.38,00:04:34.18
+...since you don't get Christmas gifts.[br]- I get Channukah gifts for eight days.
+
+00:04:34.38,00:04:36.85
+Too bad it's usually[br]a dreidel or something lame.
+
+00:04:37.05,00:04:39.02
+We'll catch you later, Kyle.
+
+00:04:39.22,00:04:42.78
+Wait! I may not have Santa, but I do[br]have Mr. Hankey the Christmas Poo.
+
+00:04:42.99,00:04:45.96
+- What's this about Christmas poo?[br]- Mr. Hankey.
+
+00:04:46.16,00:04:49.59
+He comes out of the toilet and gives[br]gifts to people with high-fiber diets.
+
+00:04:49.80,00:04:52.49
+You are really reaching right now.
+
+00:04:52.70,00:04:56.63
+You'll be sorry when I ride[br]on Santa's sleigh with Mr. Hankey.
+
+00:04:56.84,00:04:59.70
+You won't ride on Santa's sleigh,[br]because you're a Jew.
+
+00:04:59.91,00:05:01.43
+See ya, dude.
+
+00:06:40.41,00:06:43.17
+Okay, everybody, settle down.
+
+00:06:43.38,00:06:48.61
+We are deeply offended by the Nativity[br]scene in front of the capital office.
+
+00:06:48.81,00:06:50.87
+Church and state are separate.
+
+00:06:52.28,00:06:55.72
+- What's going on?[br]- The whole town's pissed off.
+
+00:06:55.92,00:06:59.98
+That isn't all, mayor. The school play[br]is doing a Nativity scene.
+
+00:07:00.19,00:07:03.35
+It isn't being sensitive[br]to the Jewish community.
+
+00:07:03.56,00:07:06.09
+You are the Jewish community.
+
+00:07:06.30,00:07:09.83
+- Super-bitch is at it again.[br]- Don't call my mom a bitch.
+
+00:07:10.04,00:07:14.17
+The Nativity is what Christmas is about.[br]If you remove Christ...
+
+00:07:14.37,00:07:17.60
+...you must remove Santa,[br]Frosty and all that garbage too.
+
+00:07:18.58,00:07:21.77
+And we must stop[br]cutting down Christmas trees.
+
+00:07:23.58,00:07:26.35
+I'm sick of those flaps on coffee lids.
+
+00:07:26.55,00:07:30.58
+If you don't want to spill coffee,[br]don't drive with it.
+
+00:07:33.33,00:07:37.13
+Okay, people. Clearly, we need[br]to reach a compromise.
+
+00:07:37.33,00:07:40.89
+Perhaps we need[br]a new icon for Christmas.
+
+00:07:41.10,00:07:42.36
+Brilliant idea.
+
+00:07:43.80,00:07:46.90
+Hey, how about[br]Mr. Hankey the Christmas Poo?
+
+00:07:47.11,00:07:49.67
+- Excuse me?[br]- Oh, boy. Here we go again.
+
+00:07:49.84,00:07:51.78
+He comes out of the toilet...
+
+00:07:51.98,00:07:54.71
+...and gives gifts to everybody[br]who eats fiber.
+
+00:07:54.91,00:07:55.90
+Kyle!
+
+00:07:56.11,00:07:59.28
+It's true. He doesn't care[br]what faith you are.
+
+00:08:03.52,00:08:06.82
+Don't mind him.[br]He's a very disturbed little boy.
+
+00:08:07.53,00:08:10.12
+- Kyle, we're leaving right now.[br]- Wait.
+
+00:08:10.33,00:08:14.46
+Anyway, I'll put together[br]a crack team of my best workers...
+
+00:08:14.67,00:08:17.46
+...so this will be a[br]non-offensive Christmas...
+
+00:08:17.67,00:08:21.73
+...to any religious or minority group.[br]Any other suggestions?
+
+00:08:22.67,00:08:26.77
+- Yes, Mr. Garrison?[br]- Could we get rid of all the Mexicans?
+
+00:08:28.81,00:08:32.81
+No, Mr. Garrison, we cannot[br]get rid of all the Mexicans.
+
+00:08:33.02,00:08:34.54
+Rats.
+
+00:08:40.36,00:08:43.12
+It's disgusting,[br]and we will not have it.
+
+00:08:43.33,00:08:45.99
+- Your father's right, Kyle.[br]- Let me handle this.
+
+00:08:46.20,00:08:49.76
+Having imaginary friends is fine,[br]but this won't do!
+
+00:08:49.97,00:08:51.56
+Listen to your father.
+
+00:08:51.77,00:08:56.40
+I want you to repeat after me,[br]"There is no such thing as Mr. Hankey."
+
+00:08:56.61,00:08:58.04
+- But, Dad, he...[br]- Say it!
+
+00:08:58.58,00:09:00.94
+- There is no such thing as Mr. Hankey.[br]- Again.
+
+00:09:01.15,00:09:04.38
+- There is no such thing as Mr. Hankey.[br]- It's for your own good.
+
+00:09:04.58,00:09:09.28
+Now go to bed. You won't be[br]opening your Channukah gift tonight.
+
+00:09:09.49,00:09:12.55
+- Probably a stupid dreidel, anyway.[br]- What did you say?
+
+00:09:12.76,00:09:14.42
+I said, Ike's on fire.
+
+00:09:14.96,00:09:16.15
+Oh, my God!
+
+00:09:19.30,00:09:22.63
+It isn't fair.[br]I don't wanna be an outcast.
+
+00:09:23.94,00:09:26.43
+- I'm not hearing that.[br]- Hello?
+
+00:09:28.01,00:09:29.00
+Mr. Hankey?
+
+00:09:30.38,00:09:32.40
+Howdy-ho!
+
+00:09:33.91,00:09:35.40
+Howdy-ho, Kyle.
+
+00:09:35.61,00:09:38.58
+- Gosh, you're looking swell.[br]- Go away.
+
+00:09:38.78,00:09:43.05
+You know something, pal?[br]You smell an awful lot like flowers.
+
+00:09:43.25,00:09:46.09
+- My dad says you aren't real.[br]- Not real?
+
+00:09:46.29,00:09:51.49
+Well, shucks, if I weren't real, could[br]I sing this jolly Christmas song?
+
+00:09:59.20,00:10:01.07
+I'll get in trouble.
+
+00:10:08.81,00:10:10.97
+- What are you doing?[br]- Nothing.
+
+00:10:11.18,00:10:12.31
+Open the door!
+
+00:10:14.42,00:10:16.11
+Mr. Hankey, come here.
+
+00:10:21.69,00:10:23.68
+Say something, Mr. Hankey.
+
+00:10:26.63,00:10:31.07
+Get to sleep and think about how[br]your mother has to clean that bathroom.
+
+00:10:31.27,00:10:32.67
+What? Me?
+
+00:10:35.77,00:10:39.17
+- Howdy-ho![br]- Mr. Hankey, where the hell did you go?
+
+00:10:39.38,00:10:43.47
+You should be wearing socks to sleep.[br]You'll catch a cold.
+
+00:10:43.68,00:10:46.65
+Nobody believes in you,[br]not even my friends.
+
+00:10:46.85,00:10:47.91
+That's too bad.
+
+00:10:48.12,00:10:51.68
+Come to school with me[br]so I can prove I'm not crazy.
+
+00:10:51.89,00:10:54.72
+Say, that sounds like a swell idea.
+
+00:10:54.93,00:10:57.95
+We can show everyone[br]the spirit of Christmas.
+
+00:10:58.16,00:11:00.36
+Yeah, we'll show them.
+
+00:11:00.93,00:11:05.39
+We've got to turn this place around.[br]Take down anything that's offensive...
+
+00:11:05.60,00:11:07.47
+...to any specific group.
+
+00:11:07.67,00:11:10.14
+Is mistletoe offensive?
+
+00:11:10.34,00:11:12.87
+Is anyone offended by mistletoe?
+
+00:11:14.48,00:11:16.54
+Lose the mistletoe.
+
+00:11:18.25,00:11:21.55
+I'm getting that John Elway[br]helmet for Christmas.
+
+00:11:21.75,00:11:24.69
+- How do you know?[br]- It's in my parents' closet.
+
+00:11:24.89,00:11:28.79
+I sneaked around my mom's closet[br]and saw what I'm getting:
+
+00:11:28.99,00:11:32.12
+- The Ultra Vibe Pleasure 2000.[br]- What's that?
+
+00:11:32.33,00:11:35.93
+- I don't know, but it sounds sweet.[br]- Hello, everybody.
+
+00:11:36.13,00:11:38.19
+- What's in the box?[br]- A surprise.
+
+00:11:38.40,00:11:40.80
+- Let me see.[br]- Okay. Don't scare him.
+
+00:11:45.38,00:11:46.60
+Dude, sick!
+
+00:11:48.48,00:11:51.18
+Is this some kind of Jewish tradition?
+
+00:11:52.72,00:11:54.95
+Wait, you guys, he's alive.
+
+00:11:55.35,00:11:59.05
+- You better go home and get some sleep.[br]- Dance!
+
+00:11:59.39,00:12:01.69
+Dance! Dance, damn you!
+
+00:12:02.39,00:12:06.02
+I'm going to say words,[br]and the computer will measure...
+
+00:12:06.23,00:12:10.96
+...how offended you are. We can find out[br]which words are least offensive...
+
+00:12:11.17,00:12:13.76
+...for use in the holiday season.[br]Ready?
+
+00:12:13.97,00:12:15.06
+Here we go.
+
+00:12:15.27,00:12:16.97
+Christ.
+
+00:12:17.74,00:12:19.57
+Okay. Chair.
+
+00:12:21.65,00:12:22.64
+Camel.
+
+00:12:25.45,00:12:26.47
+Sand.
+
+00:12:28.89,00:12:30.38
+Stupid wop-dago.
+
+00:12:33.39,00:12:34.38
+Bench.
+
+00:12:37.33,00:12:40.99
+- Do you have to take the tree too?[br]- Mayor's orders.
+
+00:12:41.93,00:12:45.93
+Okay, I'm having a hard time[br]with our Christmas play.
+
+00:12:46.14,00:12:50.27
+We can't sing songs having to do[br]with Jesus or Santa Claus.
+
+00:12:50.48,00:12:52.34
+- Thanks to Kyle's mom.[br]- Shut up!
+
+00:12:52.54,00:12:56.34
+Anybody know any non-Santa[br]or non-Jesus Christmas songs?
+
+00:12:57.28,00:12:58.94
+- Yes, Eric?[br]- How about we sing:
+
+00:12:59.15,00:13:04.68
+- "Kyle's Mom is a Stupid Bitch" in D?[br]- I said not to call my mom a bitch!
+
+00:13:13.73,00:13:15.10
+Shut up, Cartman!
+
+00:13:16.00,00:13:18.73
+- Howdy-ho![br]- Mr. Hankey.
+
+00:13:26.71,00:13:31.17
+Golly, that isn't very nice.[br]I'd sure like to teach him a lesson.
+
+00:13:52.74,00:13:54.07
+Mr. Hankey, no.
+
+00:13:54.97,00:13:57.67
+- What the...?[br]- Gross, Kyle!
+
+00:13:57.88,00:14:01.07
+Kyle, did you just throw[br]doo-doo at Eric?
+
+00:14:02.68,00:14:04.67
+You sick bastard!
+
+00:14:06.02,00:14:08.82
+Now, Kyle, as your school counselor...
+
+00:14:09.02,00:14:12.35
+...I want to help you[br]confront your problem, m'kay?
+
+00:14:12.52,00:14:15.22
+- I don't have a problem.[br]- It's my understanding...
+
+00:14:15.39,00:14:18.99
+...that you have an acute case[br]of fecalphilia.
+
+00:14:19.16,00:14:20.26
+What's that?
+
+00:14:20.47,00:14:24.60
+A fecalphiliac is somebody who's[br]obsessed with mookie-stinks, Kyle.
+
+00:14:25.80,00:14:29.97
+- I also understand that you're Jewish.[br]- Well, not on purpose.
+
+00:14:30.17,00:14:33.47
+This must be a pretty hard time[br]of year for you.
+
+00:14:33.68,00:14:36.37
+- Do kids make fun of you?[br]- Sometimes.
+
+00:14:36.58,00:14:38.45
+- That must make you mad.[br]- Sure.
+
+00:14:38.65,00:14:41.48
+Mad enough to kill, Kyle?
+
+00:14:41.99,00:14:43.61
+- No, dude![br]- That's good.
+
+00:14:43.82,00:14:49.76
+Sometimes we feel like an outsider.[br]We create friends in our minds, m'kay?
+
+00:14:49.96,00:14:51.66
+Mr. Hankey seems so real.
+
+00:14:51.83,00:14:56.99
+Of course he does. In your screwed up[br]head, he's the only friend you have.
+
+00:14:57.20,00:14:58.19
+Kyle!
+
+00:14:58.40,00:15:00.10
+Howdy-ho!
+
+00:15:01.34,00:15:04.64
+You're nuttier than[br]Chinese chicken salad, m'kay?
+
+00:15:04.84,00:15:08.18
+You're one screwed-up little kid.[br]You understand?
+
+00:15:11.68,00:15:16.64
+Try and stay positive. Stay away from[br]drugs and alcohol. In the meantime...
+
+00:15:16.85,00:15:19.55
+...I'm putting you on a[br]heavy regimen of Prozac.
+
+00:15:21.96,00:15:24.76
+Oh, my God, you sick little monkey!
+
+00:15:24.96,00:15:28.09
+Children, we've just[br]received word from the mayor...
+
+00:15:28.30,00:15:31.67
+...that the play can't include[br]any Christmas lights...
+
+00:15:31.87,00:15:34.93
+...since they offend people[br]with epilepsy.
+
+00:15:35.14,00:15:39.44
+Kenny, please go over and pull[br]the light cords out of the wall.
+
+00:15:41.88,00:15:45.75
+Careful now, Kenny.[br]Those are very, very dangerous.
+
+00:15:50.96,00:15:54.08
+- Now let's practice our...[br]- No! Get away from me.
+
+00:15:54.29,00:15:57.19
+- Just look more closely at it.[br]- No! Go away!
+
+00:15:57.40,00:16:00.83
+Stan, you need to do something[br]about your friend.
+
+00:16:01.03,00:16:04.26
+Get him out of here before[br]he hurts anybody.
+
+00:16:06.47,00:16:08.91
+We need to commit our friend Kyle.
+
+00:16:09.11,00:16:12.08
+- Reason?[br]- I'm a clinically-depressed fecalphiliac.
+
+00:16:12.28,00:16:14.01
+- Any allergies?[br]- No.
+
+00:16:14.21,00:16:15.51
+Jacket!
+
+00:16:17.92,00:16:20.28
+Bye, Kyle. Happy Channukah.
+
+00:16:23.29,00:16:27.05
+Okay, children, does everyone[br]have their leotards on?
+
+00:16:28.53,00:16:31.26
+Good. It looks like they've taken[br]the trees down.
+
+00:16:31.46,00:16:35.13
+There's nothing Christian either.[br]This should be great.
+
+00:16:35.33,00:16:40.20
+This could be such a wonderful play.[br]I wish Kyle was here to see it.
+
+00:16:45.54,00:16:47.77
+Second verse, same as the first.
+
+00:16:48.75,00:16:53.12
+- Welcome to the South Park...[br]- Wait. There's a star above the stage.
+
+00:16:53.32,00:16:57.08
+- That's offensive to non-Christians.[br]- Oh, come on.
+
+00:16:57.29,00:17:00.38
+- Hey! Don't push your beliefs on me.[br]- I agree.
+
+00:17:00.59,00:17:01.89
+Oh, brother.
+
+00:17:02.09,00:17:06.39
+Kenny, climb the ladder and take down[br]the star above the stage.
+
+00:17:06.60,00:17:09.50
+Be careful not to fall[br]in the pool below you.
+
+00:17:09.70,00:17:12.43
+The shark for the third act[br]is in there.
+
+00:17:13.30,00:17:17.40
+Welcome to the South Park Elementary[br]Holiday Experience.
+
+00:17:17.61,00:17:20.48
+Before we start,[br]here's a non-offensive...
+
+00:17:20.68,00:17:23.77
+...non-denominational song[br]by the school chef.
+
+00:17:50.51,00:17:52.77
+Doesn't seem right without Kyle.
+
+00:17:52.98,00:17:56.31
+Well, old Kyle's gonna be[br]locked up for a while. Get used to it.
+
+00:17:56.51,00:18:00.08
+- Get ready to take your places.[br]- Thank you, Chef.
+
+00:18:03.85,00:18:06.45
+Now, South Park Elementary presents...
+
+00:18:06.66,00:18:10.29
+...the non-offensive,[br]non-denominational Christmas play...
+
+00:18:10.49,00:18:15.06
+...with music and lyrics by New York[br]minimalist composer, Philip Glass.
+
+00:18:18.00,00:18:21.03
+As I turn and look into the sun...
+
+00:18:21.24,00:18:23.80
+...the rays burn my eyes.
+
+00:18:26.14,00:18:28.81
+How like a turtle, the sun looks.
+
+00:18:29.01,00:18:30.74
+What the hell is this?
+
+00:18:32.92,00:18:34.15
+This is horrible.
+
+00:18:34.35,00:18:37.19
+This is the most God-awful[br]piece of crap I've ever seen.
+
+00:18:37.39,00:18:39.22
+You made it this way.
+
+00:18:39.42,00:18:43.86
+- The Jews didn't want it Christian.[br]- We didn't take out Santa.
+
+00:18:44.06,00:18:46.53
+All you bastards ruined Christmas.
+
+00:18:46.73,00:18:49.13
+- Get him in the ribs.[br]- Tree-hugger!
+
+00:18:49.50,00:18:53.44
+- This is the worst Christmas ever.[br]- Yeah.
+
+00:18:55.17,00:18:56.40
+Where's Kyle?
+
+00:18:56.57,00:18:58.51
+- We committed him.[br]- What? Why?
+
+00:18:58.71,00:19:02.98
+He kept seeing this brown piece[br]of Christmas poo everywhere.
+
+00:19:03.15,00:19:05.95
+Christmas Poo? You mean Mr. Hankey.
+
+00:19:09.62,00:19:12.75
+- Say, kids, why the long faces?[br]- We're bored.
+
+00:19:12.96,00:19:16.45
+- There's nothing to do.[br]- Maybe this will help.
+
+00:19:16.63,00:19:19.06
+A Mr. Hankey Construction Set!
+
+00:19:19.46,00:19:24.13
+Now you can make your own Mr. Hankey.[br]Just use the fecal fishing net...
+
+00:19:24.34,00:19:27.13
+...and select your best Mr. Hankey.[br]- That one.
+
+00:19:27.34,00:19:31.30
+Then use the Hankey stand[br]to add eyes, mouth and hats.
+
+00:19:31.51,00:19:34.17
+I made a mariachi Mr. Hankey.
+
+00:19:34.38,00:19:36.24
+Now it's a Mrs. Hankey.
+
+00:19:36.41,00:19:40.41
+- Let's put the fez hat on him.[br]- I wish Daddy were still alive.
+
+00:19:41.42,00:19:44.35
+The set comes with everything[br]seen here.
+
+00:19:44.52,00:19:46.05
+Where's Mr. Hankey?
+
+00:19:51.06,00:19:53.79
+- I love you, sweetheart.[br]- I love you too.
+
+00:19:57.74,00:20:02.76
+This is horrible. All of this because[br]we didn't believe in Mr. Hankey.
+
+00:20:02.97,00:20:05.24
+You can believe in him now.
+
+00:20:06.41,00:20:07.71
+I believe.
+
+00:20:07.91,00:20:09.85
+I believe in Mr. Hankey.
+
+00:20:11.35,00:20:13.84
+Howdy-ho!
+
+00:20:14.95,00:20:19.12
+Howdy, folks. Gosh, you sure do[br]smell nice and flowery.
+
+00:20:20.16,00:20:21.85
+Howdy-ho, Chef.
+
+00:20:22.06,00:20:24.05
+Howdy-ho, Mr. Hankey.
+
+00:20:24.33,00:20:27.49
+That does it. Screw you guys,[br]I'm going home.
+
+00:20:27.70,00:20:31.73
+- I draw the line at talking poo.[br]- What's all the ruckus?
+
+00:20:31.94,00:20:35.00
+The whole town is about[br]to kill each other.
+
+00:20:35.21,00:20:39.20
+I reckon this could be a job[br]for Mr. Hankey.
+
+00:20:42.11,00:20:43.58
+Stop fighting!
+
+00:20:43.78,00:20:46.55
+Oh, my God.[br]What the hell is that thing?
+
+00:20:46.75,00:20:49.05
+Come on, gang, don't fight.
+
+00:20:49.49,00:20:53.82
+You people focus so hard[br]on the things wrong with Christmas...
+
+00:20:54.02,00:20:56.62
+...that you've forgotten[br]what's right about it.
+
+00:20:57.70,00:21:00.69
+Don't you see?[br]This is the one time of year...
+
+00:21:00.90,00:21:03.66
+...we're supposed to forget[br]the bad stuff.
+
+00:21:03.83,00:21:07.20
+Stop worrying and being sad about[br]the state of the world...
+
+00:21:07.40,00:21:10.46
+...and for just one day say,[br]"The heck with it."
+
+00:21:10.64,00:21:13.77
+"Let's sing and dance[br]and bake cookies."
+
+00:21:25.39,00:21:27.52
+Dude, this is pretty f* * * ed up.
+
+00:21:31.43,00:21:33.52
+Howdy-ho, Kyle.
+
+00:21:33.73,00:21:37.67
+- Oh, no. I'm not sane yet.[br]- I brought some friends with me.
+
+00:21:37.87,00:21:39.17
+Friends?
+
+00:21:42.44,00:21:45.27
+Merry Christmas, Kyle Broflovski!
+
+00:21:45.48,00:21:47.74
+You can see him? I'm not crazy?
+
+00:22:11.20,00:22:13.97
+Well, I've got a long night[br]ahead of me.
+
+00:22:14.17,00:22:16.16
+Bye-bye. Merry Christmas.
+
+00:22:16.61,00:22:20.70
+Goodbye. Bring me lots of gifts.[br]I always believed in you.
+
+00:22:20.91,00:22:22.97
+Howdy-ho, ho, ho!
+
+00:22:23.18,00:22:26.62
+I learned something today.[br]Jewish people are okay.
+
+00:22:26.82,00:22:29.05
+And Channukah can be cool too.
+
+00:22:30.92,00:22:33.39
+It seems like something's[br]still not right.
+
+00:22:33.59,00:22:35.89
+Yeah, something feels unfinished.
+
+00:22:37.16,00:22:38.49
+What could it be?
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

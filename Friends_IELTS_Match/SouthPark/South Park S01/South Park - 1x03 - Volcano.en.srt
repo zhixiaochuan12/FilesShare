@@ -1,0 +1,975 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:03.44,00:00:07.24
+I know a certain kitty kitty[br]who's sleeping with Mommy tonight.
+
+00:00:07.55,00:00:09.48
+That is a hoot and a holler.
+
+00:00:09.65,00:00:13.58
+This next episode is our favorite.[br]It's called "Volcano."
+
+00:00:13.79,00:00:17.05
+The boys go camping[br]with Stan's uncle and Ned.
+
+00:00:17.26,00:00:21.09
+They encounter a strange creature[br]and a deadly volcano.
+
+00:00:21.29,00:00:24.79
+The reason that this episode[br]is Scratch's favorite...
+
+00:00:25.00,00:00:28.36
+...is it deals with an issue[br]that's important to us.
+
+00:00:28.57,00:00:32.59
+We grew up in Colorado,[br]where black bear hunting is illegal.
+
+00:00:32.77,00:00:36.90
+A few years ago, a man shot a bear[br]and her cubs out of a tree.
+
+00:00:37.08,00:00:41.38
+When taken to jail, the man said,[br]"They were coming right for us."
+
+00:00:41.55,00:00:46.21
+But he'd shot the bears out of a tree.[br]It was ridiculous. It's not funny.
+
+00:00:47.25,00:00:51.42
+What America wants to know is,[br]is there really a Skuzzlebutt?
+
+00:00:51.62,00:00:54.52
+These are all works of fiction.
+
+00:00:54.73,00:01:00.32
+There's no such thing as aliens,[br]Skuzzlebutt or Patrick Duffy.
+
+00:01:00.53,00:01:03.43
+Why does Ned speak the way he does?
+
+00:01:03.64,00:01:06.73
+Ned is our favorite character[br]in South Park.
+
+00:01:06.94,00:01:11.71
+He had a laryngectomy from smoking[br]too much and got throat cancer.
+
+00:01:11.91,00:01:13.84
+So now he talks like this.
+
+00:01:14.05,00:01:17.54
+I guess we can all take[br]a lesson from Ned.
+
+00:01:17.75,00:01:22.31
+So sit back, relax,[br]and enjoy "Volcano."
+
+00:01:55.82,00:01:57.41
+Volcano
+
+00:01:57.69,00:02:02.29
+Now, you be careful, Eric.[br]The woods can be very dangerous.
+
+00:02:02.49,00:02:03.76
+Okay, Mom.
+
+00:02:05.86,00:02:10.82
+- Ready to go hunting?[br]- My Uncle Jimbo says we gotta go early.
+
+00:02:11.04,00:02:14.73
+Right. Animals are easier[br]to shoot in the morning.
+
+00:02:14.94,00:02:18.77
+Here, hon. I packed you Cheesy Poofs[br]and Happy Tarts.
+
+00:02:18.98,00:02:21.34
+Don't worry, we'll take care of him.
+
+00:02:21.51,00:02:24.45
+I brought my war buddy, Ned,[br]to keep things safe.
+
+00:02:24.92,00:02:28.11
+Hello, Mrs. Cartman.[br]How are you today?
+
+00:02:28.32,00:02:30.25
+Use lots of bug spray...
+
+00:02:30.42,00:02:35.45
+...and if you have to poo-poo,[br]don't wipe with poison ivy.
+
+00:02:35.63,00:02:36.75
+That's sick!
+
+00:02:36.93,00:02:39.95
+It can get scary up[br]in those woods...
+
+00:02:40.17,00:02:43.76
+...but just remember,[br]Mommy's not far away.
+
+00:02:45.24,00:02:48.30
+- Drive! Drive![br]- You give your mommy a kissy.
+
+00:02:48.51,00:02:51.44
+Drive the car, damn it! Drive!
+
+00:02:52.44,00:02:56.85
+- Don't get scared, Cartman.[br]- Shut up! I'm not scared of nothing!
+
+00:02:57.05,00:02:59.52
+Maybe your mom can give me[br]a kiss too.
+
+00:03:02.32,00:03:04.12
+That's disgusting!
+
+00:03:04.32,00:03:07.85
+- You piece of crap, I'll kill you![br]- That's the spirit!
+
+00:03:08.06,00:03:11.33
+Let's get that testosterone flowing.
+
+00:03:11.53,00:03:14.36
+Boys, I need to get serious[br]for a minute.
+
+00:03:14.57,00:03:18.94
+I want you to understand[br]a few basic rules of hunting.
+
+00:03:19.14,00:03:22.80
+Don't ever walk with your gun[br]unless the safety's on.
+
+00:03:23.01,00:03:25.10
+Don't shoot anything human.
+
+00:03:25.28,00:03:28.34
+Never spill your beer[br]in the bullet chamber.
+
+00:03:28.55,00:03:31.41
+- Uncle Jimbo, we don't drink beer.[br]- What?!
+
+00:03:31.62,00:03:35.64
+That's right, I don't think[br]8-year-old kids drink beer.
+
+00:03:35.85,00:03:37.19
+Chocolate milk!
+
+00:03:37.39,00:03:40.12
+We'll be drinking plenty[br]on this trip.
+
+00:03:40.33,00:03:45.42
+After all, hunting sober[br]is like fishing sober.
+
+00:03:45.63,00:03:51.50
+It will be nice to get out of the city[br]for a while, away from civilization.
+
+00:03:54.21,00:03:55.50
+Here we are.
+
+00:03:56.84,00:04:01.94
+Okay, each of you young'uns take[br]a gun, a beer and some smokes.
+
+00:04:02.15,00:04:04.95
+Hey, I didn't get a gun!
+
+00:04:05.15,00:04:08.02
+Sweet. This is like the gun[br]I used in Nam.
+
+00:04:08.22,00:04:12.05
+- You weren't in Vietnam![br]- Were you stationed in Da Nang?
+
+00:04:12.26,00:04:14.89
+He makes stuff up.[br]Don't believe him.
+
+00:04:15.09,00:04:17.25
+I'll blow your frigging head off!
+
+00:04:17.43,00:04:21.30
+Look out, son, that's dangerous![br]You'll spill your beer.
+
+00:04:26.34,00:04:29.83
+After this, my uncle will[br]take me hunting in Africa.
+
+00:04:30.04,00:04:31.67
+Wow, that'd be cool!
+
+00:04:31.88,00:04:35.31
+My mom says there's a lot[br]of black people in Africa.
+
+00:04:35.48,00:04:38.92
+Look there.[br]That's a Rocky Mountain black bear.
+
+00:04:39.08,00:04:43.11
+One of the few remaining of its kind.[br]Isn't it beautiful?
+
+00:04:43.32,00:04:45.88
+My God, it's coming right for us!
+
+00:04:48.49,00:04:51.39
+It wasn't coming for us.[br]It was just sitting!
+
+00:04:51.60,00:04:54.76
+Not so loud.[br]Now, that's just a technicality.
+
+00:04:54.97,00:04:56.43
+- What do you mean?[br]- See...
+
+00:04:56.64,00:04:59.97
+...the Democrats have passed laws[br]trying to stop hunting.
+
+00:05:00.17,00:05:01.70
+Democrats piss me off!
+
+00:05:01.91,00:05:06.24
+They say we can't shoot certain animals[br]unless they pose a threat.
+
+00:05:06.44,00:05:10.78
+So before we shoot, we have to say,[br]"It's coming right for us!"
+
+00:05:10.98,00:05:12.95
+You're smart, Uncle Jimbo.
+
+00:05:13.15,00:05:16.85
+- Jimbo, look.[br]- Oh, it's a deer.
+
+00:05:17.06,00:05:20.29
+Looks like about a.46-gauge, Ned.
+
+00:05:20.46,00:05:23.09
+It's coming right for us!
+
+00:05:26.03,00:05:27.73
+Kick ass!
+
+00:05:28.30,00:05:32.93
+Did you see that? I was imperiled[br]by that ferocious charging buck.
+
+00:05:33.14,00:05:34.87
+Rabbit! Rabbit, 5:00.
+
+00:05:36.61,00:05:38.97
+Let's move! Move!
+
+00:05:39.18,00:05:41.15
+- Is this hunting?[br]- I guess so.
+
+00:05:41.35,00:05:44.54
+- Dude, I'm starting to have flashbacks.[br]- What?
+
+00:05:44.75,00:05:48.91
+Stand forth! Pull up flank![br]Look out for Charlies in trees!
+
+00:05:52.56,00:05:54.89
+This one's yours, Stan.
+
+00:05:57.80,00:06:02.03
+- It's coming right for us![br]- It's coming right for us.
+
+00:06:04.67,00:06:08.44
+- Shoot it, Stan![br]- I got your back, soldier.
+
+00:06:09.24,00:06:11.27
+I can't.
+
+00:06:11.44,00:06:14.88
+- What's wrong with you?[br]- I don't wanna shoot it.
+
+00:06:15.08,00:06:18.88
+What are you talking about?[br]You're not making any sense!
+
+00:06:19.08,00:06:22.25
+- You're hysterical![br]- I just don't wanna shoot it.
+
+00:06:22.45,00:06:24.42
+My nephew's a tree-hugger?!
+
+00:06:24.62,00:06:27.68
+Hippie! Go back to Woodstock[br]if you can't shoot.
+
+00:06:27.89,00:06:30.36
+- I can shoot you![br]- I can shoot you too!
+
+00:06:30.56,00:06:34.02
+- I'll kill you![br]- I'll fill you full of lead!
+
+00:06:34.70,00:06:36.53
+Hey, what's that?
+
+00:06:52.32,00:06:53.88
+What the heck is this?
+
+00:06:55.22,00:06:57.98
+Yeah, Frank? It's Randy.
+
+00:06:58.19,00:07:02.29
+Good. Yeah, listen,[br]the little needle's moving.
+
+00:07:02.49,00:07:06.36
+It's going back and forth really fast.[br]What's that mean?
+
+00:07:08.67,00:07:10.66
+Let me check.
+
+00:07:11.04,00:07:13.06
+Yeah, it's smoking.
+
+00:07:13.81,00:07:15.40
+Oh, really?
+
+00:07:15.61,00:07:17.27
+Really?
+
+00:07:18.04,00:07:22.04
+Oh, my God! A volcano!
+
+00:07:31.36,00:07:35.49
+- My weenies won't cook.[br]- This wood won't burn.
+
+00:07:35.69,00:07:39.53
+Looks like we'll have to use[br]the old Indian fire trick.
+
+00:07:49.74,00:07:53.18
+Stop, drop and roll, Ned!
+
+00:07:56.38,00:08:01.25
+Goddamn it, I just got that van![br]How are we supposed to get home?
+
+00:08:01.42,00:08:03.79
+It hurts, it hurts!
+
+00:08:03.99,00:08:06.89
+You guys, this works[br]pretty good right now.
+
+00:08:08.46,00:08:13.56
+Mr. Mayor, you can't stop serving[br]Salisbury steak in our public schools.
+
+00:08:13.77,00:08:15.63
+What's next, meatloaf?
+
+00:08:15.83,00:08:18.83
+We are aware[br]of your concerns, Chef, but...
+
+00:08:19.04,00:08:22.91
+- The geologist is here to see you.[br]- My geologist? Now?
+
+00:08:23.11,00:08:26.24
+The infection's fine.[br]I don't need a checkup.
+
+00:08:26.44,00:08:30.18
+No, that's a gynecologist.[br]A geologist studies the earth.
+
+00:08:30.38,00:08:33.91
+I know that.[br]How dare you insult my intellect!
+
+00:08:34.12,00:08:37.65
+I went to Princeton![br]You get out of my office!
+
+00:08:37.86,00:08:41.99
+I'm not in your office.[br]I'm talking to you through a speaker.
+
+00:08:42.69,00:08:45.53
+- Just send in the geometrist![br]- Geologist.
+
+00:08:45.73,00:08:49.53
+- You are fired, buddy![br]- It's been great working for you.
+
+00:08:49.73,00:08:55.23
+Mayor, we've got a very big problem.[br]Mt. Evanson is about to erupt.
+
+00:08:57.81,00:08:59.97
+What does this mean to the town?
+
+00:09:00.18,00:09:03.11
+This graph shows everything[br]from normal to bad.
+
+00:09:03.31,00:09:06.04
+Right now, South Park is here.
+
+00:09:17.23,00:09:21.06
+- My God![br]- Mayor, some of the school children...
+
+00:09:21.27,00:09:23.86
+...are up camping[br]on that mountain now!
+
+00:09:24.07,00:09:27.23
+This is big![br]Johnson! Johnson, are you there?
+
+00:09:27.44,00:09:30.34
+You fired Johnson.[br]I'm his replacement, Ted.
+
+00:09:30.54,00:09:33.01
+Ted, we've got a major crisis here.
+
+00:09:33.21,00:09:38.74
+I want you to call Inside Edition,[br]Rescue 91 1 and Entertainment Tonight.
+
+00:09:38.95,00:09:44.25
+You'd better get my stylist too.[br]Don't worry, things are under control.
+
+00:09:46.09,00:09:51.59
+And then, Ned picked up the grenade[br]and boom! Blasted his arm clear off!
+
+00:09:51.93,00:09:56.09
+We spent hours looking for that arm,[br]but it was never found.
+
+00:09:56.30,00:10:00.26
+Some say it's still crawling around[br]to this day.
+
+00:10:02.17,00:10:04.77
+- Gotcha![br]- That's not scary.
+
+00:10:04.98,00:10:09.14
+- You were scared. You almost peed.[br]- Shut up! I didn't pee!
+
+00:10:09.35,00:10:12.15
+Ned, hand me that gin.
+
+00:10:13.62,00:10:17.61
+- You boys wanna tie one on?[br]- No, that stuff tastes like pee.
+
+00:10:17.82,00:10:20.48
+- Cartman's pee.[br]- You would taste my pee!
+
+00:10:20.69,00:10:24.65
+What's wrong with you?[br]Can't you have a little alcohol?
+
+00:10:25.43,00:10:28.13
+Christ, look at that little bastard go!
+
+00:10:29.90,00:10:33.63
+You see that, Stan?[br]Now, that is a dirty little bastard.
+
+00:10:33.84,00:10:36.00
+I'm a dirty little bastard too.
+
+00:10:36.21,00:10:38.70
+You guys, I know a scary story.
+
+00:10:38.91,00:10:41.81
+- Shut up. You can't scare anybody.[br]- Oh, yeah?
+
+00:10:42.01,00:10:46.64
+- Have you guys heard of Skuzzlebutt?[br]- What butt?
+
+00:10:46.82,00:10:51.12
+Skuzzlebutt is a creature that lives[br]up on this very mountain...
+
+00:10:51.29,00:10:54.38
+...and kills anybody[br]who climbs to the top.
+
+00:10:54.59,00:10:58.05
+- Why?[br]- Because it loves the taste of blood...
+
+00:10:58.26,00:11:01.56
+...and likes to add pieces[br]to its deformed body.
+
+00:11:01.77,00:11:03.76
+Deformed how?
+
+00:11:03.94,00:11:07.30
+On his left arm,[br]instead of a hand, he has...
+
+00:11:07.47,00:11:09.57
+- A hook![br]- A knife!
+
+00:11:09.74,00:11:14.18
+No, a piece of celery.[br]Yes, and he walks with a limp.
+
+00:11:14.38,00:11:18.21
+One of his legs is missing.[br]And where his leg should be...
+
+00:11:18.42,00:11:21.28
+...there's nothing but Patrick Duffy.
+
+00:11:22.22,00:11:25.42
+Patrick Duffy?![br]Damn it, that's not scary!
+
+00:11:25.62,00:11:28.79
+What do you mean?[br]Have you seen Step by Step?
+
+00:11:29.09,00:11:33.62
+He lives alone on this mountain[br]and weaves baskets and other crafts.
+
+00:11:33.83,00:11:39.10
+They say that on quiet nights,[br]you can hear him weaving his baskets.
+
+00:11:41.27,00:11:45.37
+- You suck at telling scary stories![br]- Give me that flashlight.
+
+00:11:48.61,00:11:51.91
+- What is that?[br]- Maybe it's Skuzzlebutt coming for us.
+
+00:11:52.12,00:11:53.38
+It might be.
+
+00:11:53.59,00:11:56.42
+I hope he doesn't cut me[br]with his celery.
+
+00:11:56.62,00:11:59.95
+Screw you guys! Go to hell!
+
+00:12:00.16,00:12:05.86
+Ned, why don't you whip out the old[br]cancer kazoo? Let's do a little song.
+
+00:12:30.46,00:12:32.86
+They don't think Skuzzlebutt's scary?
+
+00:12:33.02,00:12:36.36
+Let's see how they like it[br]when they see Skuzzlebutt!
+
+00:12:36.53,00:12:38.19
+I'll scare them tomorrow.
+
+00:12:49.84,00:12:52.57
+- Stan. Stan, wake up![br]- What, dude?
+
+00:12:52.78,00:12:55.25
+I think something took Cartman away.
+
+00:12:55.45,00:12:58.47
+- Where's my uncle and Ned?[br]- Fishing with Kenny.
+
+00:12:58.68,00:13:01.91
+Kenny? But this is supposed[br]to be my camping trip.
+
+00:13:02.12,00:13:05.61
+Why do they like Kenny so much?[br]Doesn't he like me?
+
+00:13:05.82,00:13:09.95
+- Stan, you wanna know what I think?[br]- What?
+
+00:13:11.96,00:13:16.06
+What a beautiful morning for fishing.[br]There's a fish!
+
+00:13:19.20,00:13:20.76
+Got it.
+
+00:13:23.24,00:13:24.61
+Great instincts.
+
+00:13:24.81,00:13:26.94
+Uncle Jimbo, Cartman's missing!
+
+00:13:27.15,00:13:29.64
+- Who? The fat kid?[br]- Yeah.
+
+00:13:29.85,00:13:32.75
+Oh, hell.[br]I guess we better go look for him.
+
+00:13:32.95,00:13:37.01
+Ned, we gotta cut it short.[br]Fire out the 1 2-20!
+
+00:13:40.86,00:13:44.16
+That's about the limit[br]for our fishing permit.
+
+00:13:44.33,00:13:48.56
+Oh, man, it smells[br]like dead fish here.
+
+00:13:48.77,00:13:51.70
+Oh, man, that is nasty.
+
+00:13:51.90,00:13:55.43
+I've never seen a kid[br]as cool as you, Kenny.
+
+00:13:55.64,00:13:59.17
+I'm making you my honorary nephew.
+
+00:14:02.98,00:14:05.45
+People of South Park[br]are humble and friendly.
+
+00:14:05.62,00:14:09.25
+But now, hot lava will engulf them...
+
+00:14:09.42,00:14:14.76
+...and end their miserable lives with[br]excruciatingly painful, burning agony.
+
+00:14:15.29,00:14:17.92
+Hey, I'm on TV! I'm on TV!
+
+00:14:18.13,00:14:21.57
+What are you doing to prepare[br]for this catastrophe?
+
+00:14:21.77,00:14:25.67
+All we know right now[br]is that some of our children...
+
+00:14:25.87,00:14:30.67
+...are camping on that mountain and...[br]I'm sorry, can I start over?
+
+00:14:30.88,00:14:34.47
+You can edit this, right?[br]Ready? Three, two, one.
+
+00:14:34.68,00:14:36.34
+All we know right now...
+
+00:14:36.55,00:14:40.24
+...is some of our children[br]are camping on that mountain.
+
+00:14:40.45,00:14:43.08
+We can't do anything[br]until we get them!
+
+00:14:43.55,00:14:48.12
+Okay, people, let's go get those kids!
+
+00:14:48.33,00:14:50.99
+Everybody, you gotta help[br]the children!
+
+00:14:53.13,00:14:57.12
+He couldn't have gone far,[br]unless something drug him off.
+
+00:14:57.30,00:15:00.79
+There's not many animals[br]out today, Jimbo.
+
+00:15:00.97,00:15:05.41
+Yeah, it's almost like[br]something funny's going on.
+
+00:15:06.71,00:15:11.71
+- Ned, what'd you have for breakfast?[br]- I don't know. I've got some bad gas.
+
+00:15:11.92,00:15:14.11
+Wait, there's a ram!
+
+00:15:14.39,00:15:17.65
+It's coming right for us!
+
+00:15:19.39,00:15:20.95
+Nice shooting, Kenny!
+
+00:15:21.13,00:15:24.03
+- Here, you need a bigger gun.[br]- Look!
+
+00:15:24.23,00:15:27.99
+I am Skuzzlebutt,[br]lord of the mountains!
+
+00:15:28.20,00:15:30.36
+Behold my Patrick Duffy leg!
+
+00:15:30.57,00:15:34.27
+- What is it?[br]- Skuzzlebutt! Cartman wasn't lying.
+
+00:15:34.47,00:15:37.34
+We can make a mint killing this thing.
+
+00:15:37.54,00:15:40.10
+We'll be on the cover[br]of Guns & Ammo.
+
+00:15:40.31,00:15:42.75
+This calls for some HJ-1 4.
+
+00:15:42.95,00:15:45.68
+Those guys are totally scared.
+
+00:15:46.55,00:15:49.28
+Fire in the hole!
+
+00:15:49.89,00:15:52.01
+Holy crap!
+
+00:15:53.62,00:15:57.72
+- Damn, I think I missed.[br]- What is wrong with you people?!
+
+00:15:57.93,00:16:01.52
+- Come on, let's move! Move![br]- Wait, wait!
+
+00:16:02.97,00:16:04.20
+Is it on? Okay.
+
+00:16:04.40,00:16:07.34
+People, form groups[br]and search the mountain.
+
+00:16:07.54,00:16:10.34
+Report back here every hour,[br]you got that?
+
+00:16:10.54,00:16:13.48
+- Mayor, I might have an idea.[br]- What?
+
+00:16:13.68,00:16:18.14
+If we can dig a large trench,[br]we can divert the lava into a canyon.
+
+00:16:18.35,00:16:21.38
+Then it would bypass[br]South Park completely.
+
+00:16:21.59,00:16:24.75
+- That would be good, right?[br]- I'm pretty sure.
+
+00:16:24.96,00:16:26.98
+What are we waiting for?
+
+00:16:27.19,00:16:31.29
+Okay, people, change of plans.[br]Half of you, grab shovels.
+
+00:16:31.50,00:16:33.86
+These look like his tracks.
+
+00:16:34.07,00:16:37.13
+Ned, prepare some HK-1 2[br]and some Plasticine.
+
+00:16:37.34,00:16:41.90
+I'll bet that sucker's headed[br]for a higher elevation... Bird!
+
+00:16:42.97,00:16:45.44
+It can breathe better higher up.
+
+00:16:45.64,00:16:47.77
+Look, up there!
+
+00:16:47.98,00:16:50.54
+You guys, it's just me!
+
+00:16:50.72,00:16:54.41
+- We sure it's Skuzzlebutt?[br]- Is there a Patrick Duffy leg?
+
+00:16:54.62,00:16:56.25
+I can't tell. Kill it!
+
+00:16:56.45,00:16:59.18
+I gotta get out[br]of this stupid costume!
+
+00:16:59.39,00:17:02.72
+- Kenny, you take the front.[br]- No, I can do it.
+
+00:17:02.93,00:17:06.83
+- I wanna bag that animal![br]- That's the spirit! Let's hunt!
+
+00:17:07.03,00:17:08.93
+Guys, I was just kidding!
+
+00:17:09.13,00:17:14.37
+As some people try to save their town,[br]others look for the missing people.
+
+00:17:14.57,00:17:17.06
+But all must take every precaution.
+
+00:17:17.28,00:17:21.30
+People, listen up.[br]As we near the top of the mountain...
+
+00:17:21.51,00:17:25.51
+...the chances of our encountering[br]some lava becomes great.
+
+00:17:25.68,00:17:31.55
+I have special-ordered this training[br]film to assist us in volcano safety.
+
+00:17:31.76,00:17:35.06
+Mr. Garrison, if you would, please.
+
+00:17:36.83,00:17:39.52
+Natural disasters can be the cause...
+
+00:17:39.70,00:17:44.07
+...of troubling and undesirable stress.[br]A volcano is no exception.
+
+00:17:44.24,00:17:48.47
+What should you do if a volcano[br]erupts near you or your family?
+
+00:17:48.67,00:17:51.40
+Here, we see the Stevens on a picnic.
+
+00:17:51.61,00:17:55.07
+Suddenly, daughter hears a noise.[br]It's a volcano.
+
+00:17:55.28,00:17:58.01
+Junior seems worried.[br]But have no fear...
+
+00:17:58.22,00:18:02.08
+...Jane learned in school what to do[br]when a volcano erupts.
+
+00:18:02.29,00:18:05.98
+That's right, Jane. Duck and cover.
+
+00:18:08.29,00:18:12.13
+So, what will you do when you hear[br]a volcano erupting?
+
+00:18:12.60,00:18:17.23
+That's right, duck and cover.[br]Looks like you got the idea.
+
+00:18:17.44,00:18:19.20
+Duck and cover.
+
+00:18:19.40,00:18:21.89
+Thank you, and goodbye.
+
+00:18:22.11,00:18:23.90
+Okay, any questions?
+
+00:18:24.11,00:18:29.38
+That has got to be the most ridiculous[br]load of pig crap I have ever seen!
+
+00:18:29.58,00:18:31.17
+That's enough!
+
+00:18:32.65,00:18:36.71
+I'll bag Skuzzlebutt,[br]then we'll see who's a little bastard.
+
+00:18:36.92,00:18:39.22
+Seriously, you guys!
+
+00:18:39.42,00:18:40.86
+Kill it. Kill it!
+
+00:18:45.56,00:18:47.03
+Come on, kill it!
+
+00:18:48.10,00:18:52.09
+- Goddamn it, I can't do it![br]- You pansy! Give me that gun!
+
+00:18:54.04,00:18:57.47
+- Goddamn it, don't shoot me![br]- What the sam hill?
+
+00:18:57.64,00:19:01.01
+I was trying to scare you.[br]You can put the gun down now!
+
+00:19:01.18,00:19:04.08
+So much for the cover[br]of Guns & Ammo.
+
+00:19:04.25,00:19:08.31
+But I think we've learned[br]some important lessons. I think...
+
+00:19:10.49,00:19:14.42
+- Holy crap![br]- The mountain, it's blown its top!
+
+00:19:19.33,00:19:21.86
+Oh, my God, they killed Kenny!
+
+00:19:26.87,00:19:30.90
+- Look, the volcano![br]- Quick! Duck and cover!
+
+00:19:33.58,00:19:36.34
+That lava's coming right for us!
+
+00:19:36.55,00:19:38.48
+Oh, no, look!
+
+00:19:39.98,00:19:43.92
+What is this trench doing here?![br]We can't get across!
+
+00:19:44.12,00:19:48.42
+The missing children are trapped[br]in the path of hot, nasty lava.
+
+00:19:48.63,00:19:52.39
+God, please deliver[br]those darling kids from...
+
+00:19:52.60,00:19:55.33
+Wait, wait, wait![br]Three, two and one.
+
+00:19:55.53,00:19:57.47
+God, please deliver...
+
+00:19:57.67,00:19:59.03
+Help!
+
+00:20:08.15,00:20:10.64
+Jiminy! It's the real Skuzzlebutt!
+
+00:20:10.85,00:20:15.29
+- What? Skuzzlebutt's real?[br]- Oh, my God, look at his leg!
+
+00:20:15.49,00:20:18.05
+Hi, kids, I'm TV's Patrick Duffy.
+
+00:20:18.26,00:20:20.52
+Quick, Ned, shoot it!
+
+00:20:20.73,00:20:23.42
+Oh, no, out of ammo!
+
+00:20:25.10,00:20:29.09
+- What is that thing?[br]- That's Skuzzlebutt!
+
+00:20:29.30,00:20:32.60
+He has Patrick Duffy for a leg[br]and weaves baskets.
+
+00:20:32.80,00:20:37.40
+This isn't happening. Everyone[br]look away. Nothing to see here.
+
+00:20:37.61,00:20:40.91
+Well, boys, I'm sorry[br]I got you all killed.
+
+00:20:50.82,00:20:53.02
+He built a wicker basket!
+
+00:20:53.22,00:20:55.32
+He's saving us!
+
+00:21:00.03,00:21:03.73
+- Skuzzlebutt saved the day![br]- And my calculations worked.
+
+00:21:03.93,00:21:07.63
+The lava's following the trench[br]into the canyon.
+
+00:21:08.57,00:21:12.44
+Where exactly does the canyon go?
+
+00:21:17.05,00:21:19.64
+South Park is saved!
+
+00:21:20.82,00:21:23.81
+Hey, look, Kenny's okay!
+
+00:21:24.29,00:21:29.45
+Now these humble people can rejoice and[br]celebrate their victory over nature.
+
+00:21:29.63,00:21:32.39
+I'm getting word that[br]the school's chef...
+
+00:21:32.60,00:21:36.05
+...wants to sing a song[br]about this struggle of humanity.
+
+00:21:50.58,00:21:53.31
+What do you have[br]to say about this outcome?
+
+00:21:53.52,00:21:59.51
+Well, we owe everything to this[br]friendly yet misunderstood creature.
+
+00:22:00.16,00:22:03.96
+- Thank you, Skuzzlebutt.[br]- Friend.
+
+00:22:04.16,00:22:06.60
+Oh, how sweet!
+
+00:22:09.47,00:22:11.66
+I did it! I killed something!
+
+00:22:11.87,00:22:14.67
+- What has he done?[br]- Turn off the cameras!
+
+00:22:14.87,00:22:16.36
+That was easy.
+
+00:22:17.14,00:22:20.41
+No! Why, God, why?!
+
+00:22:20.61,00:22:22.67
+You shouldn't have done that!
+
+00:22:22.88,00:22:24.85
+- Why?[br]- Make up your mind, dude.
+
+00:22:25.05,00:22:28.38
+Some things you kill,[br]some things you don't, see?
+
+00:22:28.59,00:22:31.71
+- No.[br]- Only now in this late hour...
+
+00:22:31.92,00:22:37.29
+...do I see the folly of guns.[br]I'll never use a gun again.
+
+00:22:42.67,00:22:45.29
+I wanted you to be proud[br]of me, like Kenny.
+
+00:22:45.50,00:22:49.46
+But Kenny's dead now.[br]You're always gonna be my nephew.
+
+00:22:49.67,00:22:51.94
+You just can't kill anything.
+
+00:22:52.14,00:22:55.24
+- You understand?[br]- I don't understand hunting.
+
+00:22:55.45,00:23:00.35
+- It's stupid. Let's go watch cartoons.[br]- Yeah, cartoons kick ass.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

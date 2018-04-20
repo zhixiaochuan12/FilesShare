@@ -1,0 +1,4288 @@
+﻿1
+00:00:04,730 --> 00:00:05,860
+{\an8}{\pos(192.6,189)}缺  乏  经  验
+
+2
+00:00:07,700 --> 00:00:08,740
+{\an8}{\pos(202.8,214.2)}唯 唯 诺 诺
+
+3
+00:00:11,030 --> 00:00:12,200
+{\an8}{\pos(237.6,168.3)}不 问 时 事
+
+4
+00:00:25,380 --> 00:00:26,460
+{\an8}{\pos(202.8,2.2)}停 下
+
+5
+00:00:26,670 --> 00:00:27,840
+{\an8}{\pos(42,76.5)}废物
+
+6
+00:00:26,840 --> 00:00:27,840
+{\an8}{\pos(316.8,72)}废物
+
+7
+00:00:27,010 --> 00:00:27,840
+{\an8}{\pos(106.8,65.7)}废物
+
+8
+00:00:27,170 --> 00:00:27,840
+{\an8}{\pos(250.8,62.1)}废物
+
+9
+00:00:27,340 --> 00:00:27,840
+{\an8}{\pos(178.2,54.9)}废物
+
+10
+00:00:32,260 --> 00:00:36,350
+{\an8}为美国投票
+
+11
+00:06:45,340 --> 00:06:46,800
+{\an8}总统先生
+
+12
+00:06:49,390 --> 00:06:53,890
+{\an8}弗兰克
+
+13
+00:06:49,470 --> 00:06:53,890
+{\an8}这个沙袋不像
+我话那么多
+
+14
+00:17:04,340 --> 00:17:13,760
+{\an8}{\pos(139.2,54.9)}道·斯坦普
+
+15
+00:17:04,340 --> 00:17:13,760
+{\an8}{\pos(150.96,67.24)}飞机是我们那位
+
+16
+00:17:04,340 --> 00:17:13,760
+{\an8}{\pos(153.96,81.64)}中国朋友的公司的
+
+17
+00:17:07,130 --> 00:17:13,760
+{\an8}{\pos(195,109.8)}弗·安德伍德
+
+18
+00:17:07,130 --> 00:17:13,760
+{\an8}{\pos(196.2,123.3)}来过多少次
+
+19
+00:17:10,340 --> 00:17:13,760
+{\an8}{\pos(122.4,145.8)}道·斯坦普
+
+20
+00:17:10,340 --> 00:17:13,760
+{\an8}{\pos(151.8,157.5)}2005年起38次飞往堪萨斯城
+
+21
+00:17:24,060 --> 00:17:31,660
+{\an8}弗·安德伍德
+
+22
+00:17:21,060 --> 00:17:24,020
+{\an8}我要你
+
+23
+00:17:23,020 --> 00:17:24,020
+{\an8}{\pos(69.36,149.14)}问他本人
+
+24
+00:17:24,020 --> 00:17:31,660
+{\an8}我要你
+
+25
+00:17:24,020 --> 00:17:31,660
+{\an8}问他本人
+
+26
+00:17:26,320 --> 00:17:31,660
+{\an8}{\pos(121.2,92.7)}弗·安德伍德
+
+27
+00:17:26,320 --> 00:17:31,660
+{\an8}{\pos(116.16,105.04)}当着面
+
+28
+00:17:26,320 --> 00:17:31,660
+{\an8}{\pos(122.16,118.54)}他不好撒谎
+
+29
+00:17:29,490 --> 00:17:34,370
+{\an8}{\pos(64.2,207.9)}道·斯坦普
+
+30
+00:17:29,490 --> 00:17:34,370
+{\an8}{\pos(60.36,221.14)}已经买票了
+
+31
+00:17:33,200 --> 00:17:39,080
+{\an8}美国航空
+
+32
+00:21:03,830 --> 00:21:05,080
+{\an8}{\pos(210.6,133.2)}搜索
+
+33
+00:21:03,830 --> 00:21:05,080
+{\an8}{\pos(163.2,181.8)}克雷顿-维斯特
+
+34
+00:21:05,080 --> 00:21:06,950
+{\an8}{\pos(263.4,63.9)}雷蒙德·斯塔克
+
+35
+00:21:09,100 --> 00:21:12,210
+{\an8}{\pos(360.6,45.9)}搜索
+
+36
+00:21:12,250 --> 00:21:14,710
+{\an8}{\pos(360.6,45.9)}搜索
+
+37
+00:21:12,250 --> 00:21:14,710
+{\an8}{\pos(297,45)}冯山德  雷蒙德·塔斯克
+
+38
+00:21:09,100 --> 00:21:12,240
+{\an8}{\pos(297,45)}冯山德  雷蒙德·塔斯克
+
+39
+00:24:23,270 --> 00:24:27,740
+{\an8}{\pos(277.2,36.9)}道·斯坦普
+
+40
+00:24:23,270 --> 00:24:27,740
+{\an8}{\pos(279.96,46.54)}见面了
+
+41
+00:24:23,270 --> 00:24:27,740
+{\an8}{\pos(269.76,58.24)}冯山德在拖延
+
+42
+00:24:26,360 --> 00:24:29,570
+{\an8}弗·安德伍德
+
+43
+00:24:26,360 --> 00:24:29,570
+{\an8}没得到答复
+
+44
+00:24:27,860 --> 00:24:29,570
+{\an8}绝不
+
+45
+00:24:29,570 --> 00:24:32,990
+{\an8}弗·安德伍德
+
+46
+00:24:29,570 --> 00:24:32,990
+{\an8}没得到答复
+
+47
+00:24:29,570 --> 00:24:32,990
+{\an8}绝不
+
+48
+00:24:29,700 --> 00:24:32,990
+{\an8}离开
+
+49
+00:24:31,740 --> 00:24:36,160
+{\an8}{\pos(244.2,109.8)}道·斯坦普
+
+50
+00:24:31,740 --> 00:24:36,160
+{\an8}{\pos(227.16,120.34)}对了  我们圣路易斯
+
+51
+00:24:31,740 --> 00:24:36,160
+{\an8}{\pos(212.76,133.84)}和堪萨斯的朋友知道我在这儿
+
+52
+00:24:37,120 --> 00:24:45,420
+{\an8}弗·安德伍德
+
+53
+00:24:37,120 --> 00:24:45,420
+{\an8}带那位印第安朋友来华盛顿
+
+54
+00:24:39,670 --> 00:24:45,420
+{\an8}{\pos(185.76,159.94)}我要当面会会他
+
+55
+00:24:45,710 --> 00:24:49,510
+{\an8}{\pos(270,165.6)}道·斯坦普
+
+56
+00:24:45,710 --> 00:24:49,510
+{\an8}{\pos(255.96,178.84)}这就和堪萨斯联系
+
+57
+00:24:47,970 --> 00:24:50,130
+{\an8}{\pos(186.6,188.1)}弗·安德伍德
+
+58
+00:24:47,970 --> 00:24:50,130
+{\an8}{\pos(188.76,201.34)}越快越好
+
+59
+00:33:44,340 --> 00:33:48,250
+{\an8}{\pos(208.8,96.3)}2014军队反性侵法案
+
+60
+00:34:58,990 --> 00:35:05,330
+{\an8}雷米·丹顿
+
+61
+00:40:14,310 --> 00:40:17,560
+{\an8}{\pos(101.4,24.3)}弗莱迪
+
+62
+00:40:14,310 --> 00:40:17,560
+{\an8}{\pos(96,144.9)}烧烤餐馆
+
+63
+00:00:02,880 --> 00:00:04,420
+杰姬·夏普
+Jackie Sharp.
+
+64
+00:00:06,370 --> 00:00:07,920
+泰瑞·乌麦克
+Terry Womack.
+
+65
+00:00:09,460 --> 00:00:10,770
+鲍勃·博奇
+Bob Birch.
+
+66
+00:00:12,320 --> 00:00:16,210
+沃克总统面对着一个千疮百孔的国会
+President Walker has surrounded himself with a broken Congress.
+
+67
+00:00:16,700 --> 00:00:19,400
+他甚至还提拔国会的人进白宫
+He even brought one of them into the White House.
+
+68
+00:00:20,460 --> 00:00:22,400
+他们整垮了经济
+Now, they've broken the economy
+
+69
+00:00:22,400 --> 00:00:24,910
+还与中国起了争端
+and put us on a collision course with China.
+
+70
+00:00:24,910 --> 00:00:27,720
+趁来得及  快阻止他们
+Put a stop to them before it's too late.
+
+71
+00:00:29,070 --> 00:00:31,120
+在中期选举中表明立场
+Send a message at the midterms.
+
+72
+00:00:31,120 --> 00:00:33,180
+让美国变得更好
+Let's start fixing the country.
+
+73
+00:00:33,550 --> 00:00:36,010
+由美国进步之友赞助播出
+Paid for by Friends of a Better America.
+
+74
+00:00:39,450 --> 00:00:41,440
+两千五百万  凭空变出来的
+Twenty-five million? Out of thin air?
+
+75
+00:00:41,440 --> 00:00:43,290
+-初步估计是这样  -钱是哪来的
+- That's our estimate. - Where is the money coming from?
+
+76
+00:00:43,290 --> 00:00:45,540
+-超级政治行动委员会  -广告是攻击具体事件的
+- Super PACs. - These are issue-based attack ads.
+
+77
+00:00:45,540 --> 00:00:46,500
+钱是谁给的
+So who's giving to them?
+
+78
+00:00:46,500 --> 00:00:49,020
+得等这季财报才能确定来源
+We can't trace the money until this quarter's filings come in.
+
+79
+00:00:49,020 --> 00:00:51,900
+中期选举栽了  下次大选也泡汤了
+We get killed in the midterms, we can kiss 2016 goodbye.
+
+80
+00:00:51,900 --> 00:00:54,570
+共和党就会占据国会多数席位和白宫
+You can deal with the republican majority and a Republican president.
+
+81
+00:00:54,570 --> 00:00:55,890
+我们和民主党议会竞选委员会在努力还击
+We're trying to counter with D-trip.
+
+82
+00:00:55,890 --> 00:00:57,700
+凭空变出两千五百万吗
+Make 25 million appear out of nowhere?
+
+83
+00:00:57,700 --> 00:00:59,310
+-至少能造出点声势  -那不够
+- We can make a dent. - Dents don't cut it.
+
+84
+00:00:59,310 --> 00:01:01,140
+不管款筹得多快
+Well, no matter how fast we ramp up fundraising,
+
+85
+00:01:01,140 --> 00:01:02,110
+都补不上缺口
+we can't close the gap.
+
+86
+00:01:02,110 --> 00:01:03,490
+得切断他们的资金来源
+We have to stop their money flow.
+
+87
+00:01:03,490 --> 00:01:04,430
+怎么切
+I want to know how.
+
+88
+00:01:04,430 --> 00:01:06,480
+找到源头  釜底抽薪
+Locate the source and then cut off the tap.
+
+89
+00:01:06,480 --> 00:01:07,900
+凭空出现这么多钱
+With this sorta influx you can be sure that
+
+90
+00:01:07,900 --> 00:01:09,260
+肯定有人违规了
+somebody's not playing by the rules,
+
+91
+00:01:09,260 --> 00:01:11,190
+但找不到源头就没法告状
+but we can't whistle-blow until we find the source.
+
+92
+00:01:11,190 --> 00:01:13,860
+那就去找  而且要赶快
+Then find it. And you sure as hell better find it soon.
+
+93
+00:01:13,860 --> 00:01:16,940
+我在构思还击的对策
+In the meantime, I've been working on a proposal to counter the attacks.
+
+94
+00:01:16,940 --> 00:01:18,860
+协调全国上下发出信息
+A coordinated national messaging effort.
+
+95
+00:01:18,860 --> 00:01:20,590
+今天晚些时候发给你们
+I'll be sending all of you copies later today.
+
+96
+00:01:20,590 --> 00:01:22,380
+我们要考虑一切办法
+Well, we should be open to every idea.
+
+97
+00:01:22,380 --> 00:01:23,960
+好了  去干活儿吧
+Now, go. Get to work.
+
+98
+00:01:30,620 --> 00:01:31,400
+弗兰克
+Frank.
+
+99
+00:01:34,930 --> 00:01:37,120
+你本该代表我控制国会
+You were supposed to steer Congress on my behalf.
+
+100
+00:01:37,720 --> 00:01:39,680
+我心情无比焦虑
+No one is as concerned as me.
+
+101
+00:01:39,790 --> 00:01:41,080
+真应该把你留在国会
+I shoulda kept you in the house,
+
+102
+00:01:41,080 --> 00:01:43,260
+向雷蒙德最初说的那样
+like Raymond suggested from day one.
+
+103
+00:01:43,450 --> 00:01:47,460
+可你分心去掺和参议院  国情咨文
+But you've been distracted by the Senate, State of the Union,
+
+104
+00:01:47,510 --> 00:01:48,600
+还干预外交
+meddling with foreign diplomacy.
+
+105
+00:01:48,600 --> 00:01:51,050
+-是您要我去谈判的  -我知道我做了什么
+- You asked me to negotiate-- - I know what I've done.
+
+106
+00:01:51,710 --> 00:01:53,330
+我也知道后果
+And I know where it's gotten us.
+
+107
+00:01:53,330 --> 00:01:55,700
+先生  攻击我们的广告不是因为
+Sir, the attack ads are not a result of anything--
+
+108
+00:01:55,700 --> 00:01:58,630
+你慌慌忙忙地到处扑火  而不是防止失火
+You're scrambling from fire to fire instead of preventing them.
+
+109
+00:01:59,220 --> 00:02:01,620
+我不是联邦选举委员会  不能变魔...
+I'm not the FEC, I can't wave a wand--
+
+110
+00:02:01,620 --> 00:02:04,720
+别就知道找借口  弗兰克  你不止这点本事
+Give me more than excuses, Frank! You're better than that!
+
+111
+00:02:04,720 --> 00:02:05,950
+没准就是这点
+Or maybe you're not.
+
+112
+00:02:06,450 --> 00:02:08,350
+您要是想找个沙袋撒气
+If you need a punching bag,
+
+113
+00:02:08,350 --> 00:02:10,580
+那我就站在这儿让您出气
+I will stand here and take the punches,
+
+114
+00:02:10,580 --> 00:02:15,080
+自我上任以来  我一次次做您的沙袋
+as I have done time and time again, since I swore my oath.
+
+115
+00:02:15,610 --> 00:02:18,930
+可我更想照您的吩咐  回去工作
+But I would much rather get back to work, as you've asked me to do.
+
+116
+00:02:18,940 --> 00:02:21,140
+你太过分了  弗兰克
+You are out of line, Frank.
+
+117
+00:02:22,320 --> 00:02:25,860
+不出拳就放我走吧  总统先生
+Dismiss me or keep swinging, Mr. President.
+
+118
+00:02:26,880 --> 00:02:27,960
+你走吧
+You're dismissed.
+
+119
+00:02:29,730 --> 00:02:30,840
+谢谢  先生
+Thank you, sir.
+
+120
+00:04:12,780 --> 00:04:14,580
+丹·拉尼根转投那边了
+Dan Lanagin switched teams.
+
+121
+00:04:16,180 --> 00:04:18,170
+这没道理啊
+That doesn't make any sense.
+
+122
+00:04:18,820 --> 00:04:22,430
+共和党的大捐助人都没什么异常
+I couldn't find any anomalies among big Republican donors,
+
+123
+00:04:22,440 --> 00:04:23,860
+于是我查了民主党的
+so I checked our own.
+
+124
+00:04:24,160 --> 00:04:26,360
+拉尼根这季一分都没捐
+Lanagin hasn't given a dime this quarter.
+
+125
+00:04:26,780 --> 00:04:30,150
+但没捐和资助共和党可不一样
+Yeah, but not giving isn't the same as giving to the Republicans.
+
+126
+00:04:30,440 --> 00:04:33,910
+他赌场的账目  安永事务所做的
+His casino's accounts. Ernst and Young.
+
+127
+00:04:34,410 --> 00:04:38,400
+捐了一千八百万  还不是给我们
+Eighteen million for donations, and they're not going to us.
+
+128
+00:04:38,550 --> 00:04:40,250
+你怎么弄到的
+How did you get your hands on those?
+
+129
+00:04:40,960 --> 00:04:44,490
+我有朋友  所以你才找我帮忙
+I've got friends. That's why you solicit my services.
+
+130
+00:04:44,490 --> 00:04:46,480
+那广告花了大约两千五百万
+The estimate for the ad buys was 25 million.
+
+131
+00:04:46,480 --> 00:04:48,310
+账目只到6月30日
+Those accounts are up to date as of June 30th.
+
+132
+00:04:48,310 --> 00:04:50,790
+那之后应该还捐款了
+They could have made more donations since then.
+
+133
+00:04:54,610 --> 00:04:55,670
+塔斯克
+Tusk.
+
+134
+00:04:57,490 --> 00:04:59,810
+拉尼根的赌场在密苏里
+Lanagin's casino is in Missouri.
+
+135
+00:05:00,920 --> 00:05:02,080
+雷蒙德·塔斯克吗
+Raymond Tusk?
+
+136
+00:05:02,390 --> 00:05:05,220
+他对我和总统有不满
+He's got an axe to grind with me and with the president.
+
+137
+00:05:05,660 --> 00:05:07,980
+选举委员会的文件里从未出现过他的名字
+I've never seen his name on any FEC filings.
+
+138
+00:05:07,980 --> 00:05:09,760
+他从不捐助政党
+He doesn't make political contributions.
+
+139
+00:05:09,760 --> 00:05:11,990
+所以才能进退自如
+That's how he remains flexible.
+
+140
+00:05:12,350 --> 00:05:14,800
+你觉得他在想办法筹集资金吗
+You think he's funneling the money somehow?
+
+141
+00:05:17,430 --> 00:05:18,590
+我不知道
+I don't know.
+
+142
+00:05:19,160 --> 00:05:21,610
+你去堪萨斯城  去那家赌场
+Get yourself to Kansas City. I want you in that casino.
+
+143
+00:05:21,610 --> 00:05:23,340
+-是  先生  -我会继续查的
+- Yes, sir. - I'll keep digging.
+
+144
+00:05:25,010 --> 00:05:26,270
+接我太太的电话
+Get me my wife.
+
+145
+00:05:27,240 --> 00:05:30,150
+-你从哪得到的菜谱  -我父亲教我的
+- Where'd you get the recipe? - My father taught me.
+
+146
+00:05:30,380 --> 00:05:32,800
+-你跟你爸爸很亲密吗  -不
+- You and your dad were close? - Nah.
+
+147
+00:05:32,800 --> 00:05:35,750
+烹饪肋排是那混蛋唯一能做好的事
+Cooking ribs was the only thing that motherfucker did right.
+
+148
+00:05:36,500 --> 00:05:39,430
+-这话不能上报纸吧  -我有办法
+- I guess you can't print that. - I have ways.
+
+149
+00:05:39,770 --> 00:05:41,460
+真的会上报纸吗
+This really gonna be in the paper?
+
+150
+00:05:41,480 --> 00:05:43,160
+至少能上波士顿的报纸
+At least in Boston, yeah.
+
+151
+00:05:43,430 --> 00:05:45,610
+我怎么觉得没人会在意
+Don't see why anybody would care.
+
+152
+00:05:45,610 --> 00:05:48,260
+这是关于个人喜好
+Well, it's a personal interest story.
+
+153
+00:05:49,050 --> 00:05:52,700
+那么多餐厅  美国副总统却偏偏喜欢这里
+The vice president of the United States comes here, of all places.
+
+154
+00:05:52,700 --> 00:05:56,490
+-你是说这破地方吗  -我可没这么说
+- You mean this shithole? - That's not what I said.
+
+155
+00:05:57,010 --> 00:05:58,130
+没关系
+It's OK.
+
+156
+00:05:59,340 --> 00:06:01,070
+又不是泰姬陵
+It's not the Taj Mahal.
+
+157
+00:06:02,020 --> 00:06:03,630
+他从什么时候开始来这里的
+How long has he been coming?
+
+158
+00:06:04,360 --> 00:06:06,130
+大概有20年了吧
+About 20 years now.
+
+159
+00:06:06,390 --> 00:06:08,980
+-他是个好人  弗兰克  -你还叫他弗兰克吗
+- He's a good man, Frank. - You still call him Frank?
+
+160
+00:06:09,150 --> 00:06:10,720
+在这里  我才是总统
+Hey, in this joint, I'm the president,
+
+161
+00:06:10,730 --> 00:06:12,640
+是副总统  也是国会
+the vice president and the Congress.
+
+162
+00:06:12,650 --> 00:06:16,930
+他只是一名顾客  忠实的顾客
+He just another customer. A loyal one.
+
+163
+00:06:17,160 --> 00:06:18,820
+所以他才喜欢这里吗
+You think that's why he likes it here?
+
+164
+00:06:18,850 --> 00:06:20,950
+因为你像对待普通人那样对待他
+'Cause you treat him like a regular person?
+
+165
+00:06:20,990 --> 00:06:24,540
+也许吧  不过主要还是因为这肋排
+Maybe. Mostly it's the fuckin' ribs, though.
+
+166
+00:06:26,330 --> 00:06:28,610
+如果失业率上升至20%以上
+Now, if unemployment goes up more than two-tenths,
+
+167
+00:06:28,610 --> 00:06:30,090
+我希望美联储考虑...
+I want the Fed to consider...
+
+168
+00:06:59,510 --> 00:07:00,630
+来点什么吗  亲爱的
+Get you something, hon.
+
+169
+00:07:01,390 --> 00:07:02,970
+请给我青柠苏打水
+Club soda with lime, please?
+
+170
+00:07:03,360 --> 00:07:05,680
+-就这样吗  -对
+- That's it? - Yeah.
+
+171
+00:07:06,310 --> 00:07:08,740
+-不要吃的吗  -不用  就这样
+- Nothing to eat? - No. That's it.
+
+172
+00:07:10,090 --> 00:07:12,000
+你要是在戒酒  在这地方待着可挺难熬的
+Tough spot to hang out if you're in the program.
+
+173
+00:07:13,260 --> 00:07:16,270
+-你怎么知道  -酒鬼眼里分外明
+- How'd you know? - Takes one to know one, right?
+
+174
+00:07:17,000 --> 00:07:20,270
+-你多久了  -刚过一年  你呢
+- How long? - Little over a year. You?
+
+175
+00:07:20,360 --> 00:07:21,600
+就要15年了
+Going on 15.
+
+176
+00:07:22,370 --> 00:07:23,690
+赛马赢钱了吗
+Any luck with the ponies?
+
+177
+00:07:23,980 --> 00:07:25,810
+没有  还没
+None. Not yet.
+
+178
+00:07:27,210 --> 00:07:30,000
+选个数字  1到12
+Pick a number. One through twelve.
+
+179
+00:07:30,570 --> 00:07:31,530
+Nine.
+
+180
+00:07:34,410 --> 00:07:35,520
+名声大噪
+Hot Fuss.
+
+181
+00:07:37,290 --> 00:07:38,590
+听起来不错
+Sounds about right.
+
+182
+00:07:39,460 --> 00:07:42,390
+苏打水马上来  亲爱的  配青柠
+Club soda coming up, darling. With lime.
+
+183
+00:07:44,710 --> 00:07:46,610
+过去两小时他都没有动
+Hasn't moved the last two hours.
+
+184
+00:07:46,880 --> 00:07:48,980
+也没跟任何人说话吗
+And he hasn't spoken to anybody?
+
+185
+00:07:49,230 --> 00:07:51,080
+一直在赌
+Just been betting on the races.
+
+186
+00:07:51,460 --> 00:07:52,770
+要我们带他进来吗
+You want us to bring him in?
+
+187
+00:07:53,820 --> 00:07:57,920
+不  那是副总统的幕僚长
+No. That's the vice president's chief of staff.
+
+188
+00:07:58,260 --> 00:07:59,280
+真的吗
+Really?
+
+189
+00:08:00,090 --> 00:08:04,010
+别引发混乱  盯住他就行
+We don't want to make a scene. Just keep an eye on him.
+
+190
+00:08:04,360 --> 00:08:08,920
+告诉我他干了什么  去了哪里  跟谁说过话
+Let me know what he does, where he goes, and who he talks to.
+
+191
+00:08:09,440 --> 00:08:11,030
+明白  拉尼根先生
+You got it, Mr. Lanagin.
+
+192
+00:08:12,590 --> 00:08:13,860
+你真该看看他们的表情
+You should've seen their faces.
+
+193
+00:08:13,860 --> 00:08:15,230
+他们彻底糊涂了
+They didn't know what to think.
+
+194
+00:08:15,230 --> 00:08:17,010
+特别是我让他们扶住沙袋时
+Especially when I made 'em hold the bag.
+
+195
+00:08:17,010 --> 00:08:18,000
+您试过了吗
+You tried it out?
+
+196
+00:08:18,000 --> 00:08:19,260
+那是当然
+I sure as hell did.
+
+197
+00:08:22,840 --> 00:08:24,340
+很抱歉我那么冲你发脾气  弗兰克
+I'm sorry I lashed out at you, Frank.
+
+198
+00:08:24,340 --> 00:08:26,980
+不  是我失礼了  有失妥当
+No. I was disrespectful, and that was uncalled for.
+
+199
+00:08:26,980 --> 00:08:29,270
+我的情绪最近总有些失控
+My temper's gotten away from me these days.
+
+200
+00:08:29,710 --> 00:08:33,280
+我有时需要被人吼一吼  清醒过来
+I need to be jolted back into reality sometimes.
+
+201
+00:08:33,280 --> 00:08:34,960
+你是出于好意
+It was a -- a kind gesture.
+
+202
+00:08:34,960 --> 00:08:36,930
+就是消遣罢了
+Oh, just some good old fun.
+
+203
+00:08:38,570 --> 00:08:40,980
+特莉莎说我们这周要一起吃晚饭
+Tricia tells me we're having dinner later this week.
+
+204
+00:08:40,980 --> 00:08:42,660
+是的  克莱尔也这样跟我说
+Yes. Claire tells me the same.
+
+205
+00:08:42,660 --> 00:08:46,240
+能离开这里几小时也不错
+Well, it'll be good to get out of this place for a few hours.
+
+206
+00:08:55,870 --> 00:08:57,400
+这幅画从肯尼迪时期就挂在这里了
+It's been here since Kennedy.
+
+207
+00:08:57,480 --> 00:08:59,870
+是他出生那年画的
+It was painted the same year he was born.
+
+208
+00:08:59,880 --> 00:09:03,400
+描绘的好像是一战的庆祝游行
+It depicts, I think, a World War I parade.
+
+209
+00:09:04,410 --> 00:09:07,050
+每一幅画我都该了解一下
+Oh, I should know every painting.
+
+210
+00:09:07,410 --> 00:09:09,800
+您似乎懂不少呢  至少了解这幅
+Well, you seem to know quite a lot, at least about this one.
+
+211
+00:09:09,800 --> 00:09:12,050
+我想趁现在有机会  好好研究一下
+Oh, I try to soak it all in while I can.
+
+212
+00:09:12,450 --> 00:09:13,690
+所有的历史
+All the history.
+
+213
+00:09:15,030 --> 00:09:16,970
+痴迷于历史的总统
+Presidents who obsess over history
+
+214
+00:09:16,970 --> 00:09:19,010
+痴迷于他们在历史中的地位
+obsess about their place in it,
+
+215
+00:09:19,010 --> 00:09:20,630
+而不是如何创造历史
+instead of forging it.
+
+216
+00:09:21,640 --> 00:09:22,790
+谁说的
+Who said that?
+
+217
+00:09:23,350 --> 00:09:25,490
+我  就在刚才
+I did. Just now.
+
+218
+00:09:28,310 --> 00:09:31,390
+白宫  一整天都熙熙攘攘
+Ah, the White House. All day long it's buzzing,
+
+219
+00:09:31,390 --> 00:09:35,770
+这个时候却又如此冷清
+and at this hour it's so desolate.
+
+220
+00:09:36,120 --> 00:09:39,470
+做总统是件伟大而珍贵的事情
+The presidency is a great and precious thing.
+
+221
+00:09:40,190 --> 00:09:42,080
+而代价就是孤独
+Loneliness is the price.
+
+222
+00:09:43,360 --> 00:09:44,610
+做个假设
+Let's assume
+
+223
+00:09:47,130 --> 00:09:50,460
+如果杜鲁门总统就是坐在这其中一张椅子上
+in one of these chairs, staring at this wall,
+
+224
+00:09:50,950 --> 00:09:53,730
+盯着墙  决定投放核弹
+is where Truman decided to drop the bomb.
+
+225
+00:09:54,140 --> 00:09:56,100
+看看我们会不会有什么感觉
+And see if we feel anything.
+
+226
+00:10:10,520 --> 00:10:11,710
+没感觉  你呢
+Nothing. You?
+
+227
+00:10:13,600 --> 00:10:14,630
+没有
+No.
+
+228
+00:10:24,740 --> 00:10:26,680
+抱歉  这儿很乱
+Sorry, it's a mess.
+
+229
+00:10:26,700 --> 00:10:28,340
+不用为我收拾
+You don't have to clean up for me.
+
+230
+00:10:28,520 --> 00:10:29,660
+当然要
+Yes, I do.
+
+231
+00:10:34,540 --> 00:10:36,430
+我不想你看到这个
+Wouldn't want you seeing these.
+
+232
+00:10:38,740 --> 00:10:40,160
+我昨晚穿着这个
+I wore 'em last night.
+
+233
+00:10:44,370 --> 00:10:46,840
+你喜欢这个  还是我现在这身
+You like these or you want the ones I'm wearing now?
+
+234
+00:11:01,360 --> 00:11:03,190
+你在赌场工作多久了
+How long you been working in the casino?
+
+235
+00:11:03,610 --> 00:11:04,570
+很久了
+Too long.
+
+236
+00:11:05,360 --> 00:11:06,700
+那你一定见多识广
+Bet you've seen a lot.
+
+237
+00:11:06,700 --> 00:11:09,560
+当然  我什么都见过
+Oh, yeah. I've seen everything.
+
+238
+00:11:25,740 --> 00:11:27,970
+我得走了  要开早会
+I should get going. Got an early meeting.
+
+239
+00:11:28,050 --> 00:11:28,920
+好
+Okay.
+
+240
+00:11:34,650 --> 00:11:35,990
+你想我留下来吗
+Do you want me to stay?
+
+241
+00:11:38,940 --> 00:11:41,650
+我没想在这儿过夜
+I wasn't planning on sleeping here.
+
+242
+00:11:43,080 --> 00:11:46,640
+又是一次一夜情吗
+So, uh, another one-night stand then, huh?
+
+243
+00:11:47,640 --> 00:11:48,840
+有问题吗
+Is that okay?
+
+244
+00:11:49,430 --> 00:11:50,770
+不是我的风格
+Not really my thing.
+
+245
+00:11:52,750 --> 00:11:55,270
+得了吧  你肯定是老手了
+Come on. You must play the field.
+
+246
+00:11:55,270 --> 00:11:56,650
+不  我不是
+No, I don't.
+
+247
+00:11:57,690 --> 00:11:59,250
+但你很会调情啊
+But you are such a flirt.
+
+248
+00:11:59,250 --> 00:12:00,650
+我的确会调情
+I flirt, yes.
+
+249
+00:12:00,820 --> 00:12:03,050
+但我只跟喜欢的人上床
+But I only sleep with someone if I'm into them.
+
+250
+00:12:04,040 --> 00:12:05,790
+而且我喜欢留下过夜
+And I prefer to stick around.
+
+251
+00:12:06,350 --> 00:12:08,980
+雷米·丹顿  专情男子
+Remy Danton, serial monogamist.
+
+252
+00:12:09,770 --> 00:12:10,820
+你是在开玩笑吗
+This a joke?
+
+253
+00:12:12,420 --> 00:12:16,880
+抱歉  我不是...抱歉
+I'm sorry. I didn't, uh... sorry.
+
+254
+00:12:24,670 --> 00:12:27,090
+如果你不是认真的  就不会有下一次了
+This doesn't happen again unless it's leading somewhere.
+
+255
+00:12:27,150 --> 00:12:29,350
+我对自己想要的东西都很直接
+I'm upfront about what I want, in all things.
+
+256
+00:12:29,350 --> 00:12:30,830
+不仅仅是在政治上
+Not just politics.
+
+257
+00:12:37,590 --> 00:12:40,770
+每年三四次  会有十几个有钱的中国人飞过来
+Three or four times a year they fly in about a dozen Chinese guys.
+
+258
+00:12:40,770 --> 00:12:41,730
+专门来烧钱
+Money to burn.
+
+259
+00:12:42,180 --> 00:12:44,620
+他们把赌场一整层预留给他们
+They got a whole floor of the casino reserved just for them.
+
+260
+00:12:44,620 --> 00:12:46,060
+据说能输掉几百万
+Word is they throw away millions.
+
+261
+00:12:46,060 --> 00:12:47,770
+这说明不了什么
+Well, that doesn't necessarily mean anything.
+
+262
+00:12:47,770 --> 00:12:50,440
+中国人都爱赌博  特别是富人
+The Chinese love to gamble. Especially the rich ones.
+
+263
+00:12:50,440 --> 00:12:51,710
+没错  他们会去维加斯
+Yeah, in Vegas.
+
+264
+00:12:51,710 --> 00:12:53,470
+这是密苏里  远多了
+This is Missouri. It's a much longer flight.
+
+265
+00:12:53,470 --> 00:12:55,680
+我想要知道
+I want to find out --
+
+266
+00:12:57,560 --> 00:12:58,680
+我想要知道
+I want to find out
+
+267
+00:12:58,680 --> 00:13:00,070
+这些人是从哪飞过来的
+where these planes are coming from.
+
+268
+00:13:00,070 --> 00:13:01,510
+我们认识联邦航空管理局的人吗
+Who do we know in the FAA?
+
+269
+00:13:01,510 --> 00:13:04,150
+我不认识  但道尔认识  我让他去打探了
+I don't know anyone. But Doyle does. I already got him on it.
+
+270
+00:13:04,150 --> 00:13:05,910
+有消息就通知你
+I'll text you when I hear back from Doyle.
+
+271
+00:13:06,140 --> 00:13:07,080
+我得走了
+I gotta go.
+
+272
+00:13:09,440 --> 00:13:10,500
+要走了吗
+You leaving?
+
+273
+00:13:16,150 --> 00:13:18,450
+是的  谢谢让我度过美好的一晚
+Yeah. Thanks for last night.
+
+274
+00:13:18,860 --> 00:13:21,440
+-我很开心  -不  才没有
+- I had fun. - No, you didn't.
+
+275
+00:13:21,960 --> 00:13:23,840
+你在想着别人
+You were thinking of somebody else.
+
+276
+00:13:35,000 --> 00:13:36,810
+这是我十年戒酒纪念章
+I got that one after ten years.
+
+277
+00:13:42,250 --> 00:13:43,760
+希望能给你带来好运
+Hope it brings you some luck.
+
+278
+00:13:50,930 --> 00:13:52,370
+法案由艾琳·布鲁克斯发起
+Elaine Brooks will be sponsoring
+
+279
+00:13:52,370 --> 00:13:55,570
+第一夫人已经认同了初稿
+and the First Lady has approved the early draft.
+
+280
+00:13:55,570 --> 00:13:56,620
+杰姬  看看那板子
+Jackie, take a look at the board.
+
+281
+00:13:56,620 --> 00:13:59,330
+除了你  想想还有谁能做联署人
+Get a sense of who might cosponsor, besides yourself.
+
+282
+00:13:59,410 --> 00:14:02,520
+当然  我们肯定能拉来不少重量级人物
+Absolutely. I'm sure we can lock down a lot of heavyweights.
+
+283
+00:14:02,520 --> 00:14:04,030
+洛莉和我会处理这事
+Lorrie and I will get right on it.
+
+284
+00:14:04,030 --> 00:14:05,580
+我们该想想媒体计划
+We should talk about a media plan.
+
+285
+00:14:06,210 --> 00:14:08,160
+-现在还太早了  -难道不该宣传吗
+- It's premature for that. - Don't we want to get this out,
+
+286
+00:14:08,160 --> 00:14:09,960
+尽早开始博取支持
+start building support as soon as possible?
+
+287
+00:14:09,960 --> 00:14:12,660
+-做活动和采访  -我只想看到最佳成效
+- Events, interviews? - I want what's most effective.
+
+288
+00:14:12,660 --> 00:14:14,250
+媒体大肆宣扬不好
+A media blitz is the wrong way to go.
+
+289
+00:14:14,250 --> 00:14:15,560
+应该始终只用一个引子
+You want a single long lead
+
+290
+00:14:15,560 --> 00:14:18,030
+与法案出台同步  要有档次
+that coincides with the introduction of the bill. Something classy.
+
+291
+00:14:18,030 --> 00:14:20,630
+-但要广泛支持才能...  -大肆宣传
+- But you want broad support, to hit-- - A blanket strategy will
+
+292
+00:14:20,630 --> 00:14:21,950
+能博取支持  但也可能招致批评
+galvanize as many detractors as supporters.
+
+293
+00:14:21,950 --> 00:14:23,680
+如果我们把理念包装得当...
+Not if the message is framed in such way--
+
+294
+00:14:23,680 --> 00:14:26,180
+我们得先获取目标群体的认同  然后...
+We want a key demographic to get on board, and then--
+
+295
+00:14:26,180 --> 00:14:28,020
+-请让我说完  -然后慢慢积累
+- Let me finish, please. - Then we let it percolate.
+
+296
+00:14:28,020 --> 00:14:30,390
+我建议找《纽约时代杂志》的马特·贝
+I suggest Matt Bai, The New York Times Magazine.
+
+297
+00:14:30,390 --> 00:14:32,500
+我喜欢这想法  非常喜欢
+I like that idea. I like it very much.
+
+298
+00:14:32,510 --> 00:14:34,390
+我也是  你能和马特联系吗
+So do I. Can you speak to Matt?
+
+299
+00:14:34,500 --> 00:14:36,070
+先别定下来  接触一下看看情况
+No promises. Just test the waters.
+
+300
+00:14:36,070 --> 00:14:36,690
+我愿意去找他谈
+I'm happy to do that.
+
+301
+00:14:36,690 --> 00:14:38,930
+我和马特关系不错  我给他打个电话
+I've got a good relationship with Matt. I'll call him.
+
+302
+00:14:38,930 --> 00:14:40,610
+很好  赛斯  有进展随时通知我
+Great. Seth, you keep me posted,
+
+303
+00:14:40,610 --> 00:14:42,510
+这周晚些时候再碰个头
+and let's all get together later this week.
+
+304
+00:14:42,510 --> 00:14:43,520
+多谢了  杰姬
+Thanks, Jackie.
+
+305
+00:14:55,630 --> 00:14:57,370
+你读一下法案  给我写份摘要
+I want you to read the bill and write me a summary.
+
+306
+00:14:57,370 --> 00:15:01,240
+我们谈过之前  绝不要跟任何人透露一个字
+Do not under any circumstances share it with anyone until we've spoken.
+
+307
+00:15:01,480 --> 00:15:02,550
+你不先过一遍议员名单吗
+You don't want to go over the board first, at least --
+
+308
+00:15:02,550 --> 00:15:04,220
+不  不急
+No. Not yet.
+
+309
+00:15:12,440 --> 00:15:13,990
+关于堕胎查到了什么
+Anything on the abortion?
+
+310
+00:15:14,250 --> 00:15:16,620
+一无所获  全都核实了
+Nothing. It all checks out.
+
+311
+00:15:16,630 --> 00:15:19,690
+-完全确定吗  -我方方面面都查了
+- One hundred percent? - I turned over every stone.
+
+312
+00:15:19,700 --> 00:15:21,690
+-安德伍德夫人说的是实话  -我们需要猛料
+- Mrs. Underwood was telling the truth. - We need something.
+
+313
+00:15:21,690 --> 00:15:23,170
+时间拖得太久了
+This is taking too long.
+
+314
+00:15:24,190 --> 00:15:25,490
+安德伍德夫妇都很小心
+The Underwoods are careful.
+
+315
+00:15:25,840 --> 00:15:27,600
+如果真有丑闻  肯定藏得非常深
+If they have skeletons, they're buried deep.
+
+316
+00:15:27,600 --> 00:15:28,490
+这不是"如果"的问题
+Not a question of "If."
+
+317
+00:15:28,490 --> 00:15:30,760
+弗兰克这样的人肯定有丑闻
+Somebody like Frank is gonna have skeletons.
+
+318
+00:15:31,210 --> 00:15:32,290
+那我会挖出来的
+Then I'll find them.
+
+319
+00:15:33,660 --> 00:15:35,780
+你这边一无所获  我就没法向上面交代
+If you don't deliver, that means I don't deliver.
+
+320
+00:15:35,780 --> 00:15:37,290
+那不是我的风格
+And I always deliver.
+
+321
+00:15:37,660 --> 00:15:40,090
+你给了我这个任务  而且期望我做好
+You gave me an assignment with high expectations.
+
+322
+00:15:40,090 --> 00:15:42,680
+我不会让你失望的  但也别指望一蹴而就
+I will meet them. But it's not gonna happen overnight.
+
+323
+00:15:43,030 --> 00:15:44,390
+所以别跟我颐指气使
+So don't fuck with me.
+
+324
+00:15:44,900 --> 00:15:47,560
+我只是你雇来办事的人  不是你的走狗
+I'm a hired gun. Not one that you own.
+
+325
+00:15:49,300 --> 00:15:50,800
+只要你能达成目的就行
+As long as you hit the target.
+
+326
+00:15:52,110 --> 00:15:53,580
+那你得帮我个忙
+Then I need a favor.
+
+327
+00:15:54,360 --> 00:15:55,310
+康纳·埃利斯
+Connor Ellis?
+
+328
+00:15:55,310 --> 00:15:56,410
+他怎么了
+What about him?
+
+329
+00:15:56,810 --> 00:15:59,170
+没他碍事的话我会拥有更多权限
+I'll have more access if he isn't around.
+
+330
+00:15:59,820 --> 00:16:02,100
+你能不能找个美差把他引走
+Arrange a cushy job offer for him somewhere?
+
+331
+00:16:02,760 --> 00:16:04,320
+私企还是政府部门
+Private or public sector?
+
+332
+00:16:04,460 --> 00:16:05,460
+私企的
+Private.
+
+333
+00:16:05,980 --> 00:16:07,160
+收入丰厚
+Lots of money.
+
+334
+00:16:07,520 --> 00:16:09,110
+让他难以拒绝
+Something he can't turn down.
+
+335
+00:16:10,020 --> 00:16:11,410
+我想想办法
+I'll see what I can do.
+
+336
+00:16:16,930 --> 00:16:18,430
+给  先付一半
+Here, this is half.
+
+337
+00:16:19,780 --> 00:16:21,940
+等我完成任务时再付我钱吧
+You can pay me when I've gotten you what you want.
+
+338
+00:16:22,800 --> 00:16:25,650
+我从不事做一半  钱也拿一半
+I don't take half pay for a job half done.
+
+339
+00:16:36,470 --> 00:16:38,060
+这是个很有趣的提案
+It's an interesting proposal.
+
+340
+00:16:38,070 --> 00:16:40,300
+我们缺的就是一个统一的主题
+What we're missing is a unified theme.
+
+341
+00:16:40,310 --> 00:16:43,910
+如果能协调全国广告投入  组织跨党派活动
+If we coordinate on national ad-buys, organize crossover events,
+
+342
+00:16:43,910 --> 00:16:46,310
+开发捐款应用  应该能收效颇丰...
+develop fund-raising apps, I think it would go a long way...
+
+343
+00:16:46,320 --> 00:16:48,490
+也许吧  但我觉得其他人不太可能同意
+Maybe, but I doubt the leadership will go for it.
+
+344
+00:16:48,490 --> 00:16:50,810
+所以我希望你能支持我  我安排了一次会议
+Which is why I'd like your support. I set up a meeting.
+
+345
+00:16:50,810 --> 00:16:52,540
+你要是能来  并且支持我的立场
+If you came, and you supported my position...
+
+346
+00:16:52,550 --> 00:16:53,990
+我估计他们最终会说
+I just think they're gonna end up saying
+
+347
+00:16:53,990 --> 00:16:56,970
+不能为全国范围的策略烧钱
+we can't be thinning out our funds on a national strategy.
+
+348
+00:16:56,970 --> 00:16:59,430
+必须要落到实处  争取选票
+This is about fieldwork, getting out the vote.
+
+349
+00:16:59,430 --> 00:17:01,560
+嗯  但至少该考虑一下吧
+Right, but isn't it worth at least some consideration?
+
+350
+00:17:01,560 --> 00:17:05,250
+你了解我的  琳达  我喜欢大胆的点子
+Well, you know me, Linda, I mean, I'm all for bold ideas.
+
+351
+00:17:05,250 --> 00:17:09,080
+但博奇和乌麦克  他们太守旧了
+But Birch and Womack, why, they're... set in their ways.
+
+352
+00:17:09,080 --> 00:17:10,920
+我觉得他们不太可能...
+I doubt very seriously that...
+
+353
+00:17:14,360 --> 00:17:16,540
+听着  弗兰克  我只想要你
+Listen, Frank, all I'm asking is that
+
+354
+00:17:16,540 --> 00:17:17,310
+跟他们唱反调
+you play devil's advocate with them.
+
+355
+00:17:17,310 --> 00:17:19,690
+对不起  给我点时间  我有点要紧事
+Sorry, excuse me for a moment. This is important.
+
+356
+00:17:19,690 --> 00:17:20,820
+这事我很在乎的  弗兰克
+I don't want to short-shrift this, Frank.
+
+357
+00:17:20,820 --> 00:17:21,830
+我知道  先让我发完这条短信
+No, I know, but I just have to send this text.
+
+358
+00:17:21,830 --> 00:17:23,450
+我也不是闲人
+I am busy too.
+
+359
+00:17:37,190 --> 00:17:38,900
+-请给我订靠过道的座位  -好的
+- Make sure that's an aisle seat. - Of course.
+
+360
+00:17:38,900 --> 00:17:41,550
+我觉着你根本不重视这事
+I don't feel as if you're taking this very seriously.
+
+361
+00:17:41,550 --> 00:17:43,630
+琳达  我向你道歉  对不起
+Linda, I apologize. I am sorry.
+
+362
+00:17:43,630 --> 00:17:46,860
+你说得没错  我没有敷衍你的意思
+You are absolutely right, I did not mean to sound curt.
+
+363
+00:17:46,860 --> 00:17:49,480
+你是对的  这是很重要
+And you are right, this is important.
+
+364
+00:17:49,480 --> 00:17:51,270
+咱俩这就好好谈谈你的提案
+You and I should go through your proposal
+
+365
+00:17:51,280 --> 00:17:53,650
+仔细推敲每一个细节
+and discuss it right down to the last detail.
+
+366
+00:17:53,650 --> 00:17:56,290
+我没想让你逐字逐句地看
+I am not asking you to go through it page by page,
+
+367
+00:17:56,290 --> 00:17:58,840
+只要帮忙让他们愿意认真考虑就行
+just to help me initiate some meaningful dialogue.
+
+368
+00:17:58,840 --> 00:18:02,530
+-我当然会帮你了  琳达  -多谢你
+- You can count on my help, Linda. - Thank you.
+
+369
+00:18:02,530 --> 00:18:06,300
+-我会让排程员联系你这边  -好的  琳达
+- I will have my scheduler reach out to yours. - Thank you, Linda.
+
+370
+00:18:07,110 --> 00:18:09,070
+请接内线
+Get me a secure line, please.
+
+371
+00:18:12,330 --> 00:18:14,210
+副总统来电
+The vice president is on the line.
+
+372
+00:18:17,880 --> 00:18:19,510
+副总统先生
+Mr. Vice President.
+
+373
+00:18:20,280 --> 00:18:24,650
+通常我会无视你的来电  但我今天心情不错
+Normally, I would ignore your call, but I am in a good mood today.
+
+374
+00:18:24,650 --> 00:18:25,780
+你都没法破坏
+Not even you could ruin it.
+
+375
+00:18:25,780 --> 00:18:28,400
+你是不是在向共和党捐款
+Are you funneling money to the Republicans?
+
+376
+00:18:28,810 --> 00:18:30,380
+你到底在说什么
+What on earth are you talking about?
+
+377
+00:18:30,380 --> 00:18:32,780
+给了共和党超级政治行动委员会大概两千万
+About 20 million in GOP Super PACs.
+
+378
+00:18:32,780 --> 00:18:35,550
+你知道我从不给政党捐款
+Now you know I never make political contributions.
+
+379
+00:18:35,550 --> 00:18:37,680
+很容易让我的投资者不高兴
+That's the fastest way to upset my investors.
+
+380
+00:18:37,680 --> 00:18:40,090
+我知道钱的来路 是密苏里的一家赌场
+I know the money is coming from a casino in Missouri
+
+381
+00:18:40,090 --> 00:18:41,290
+我还知道是冯给的
+and I know it's from Feng.
+
+382
+00:18:41,290 --> 00:18:44,300
+冯先生和我只合作过一次
+Mr. Feng and I have one co-venture together,
+
+383
+00:18:44,300 --> 00:18:45,710
+而且和赌博毫无关系
+and it has nothing to do with gambling.
+
+384
+00:18:45,710 --> 00:18:49,800
+他的一架私人飞机定期飞往拉尼根的赌场
+A plane that he owns flies to Lanagin's casino on a regular basis.
+
+385
+00:18:49,800 --> 00:18:52,430
+他私人时间做什么  与我无关
+What he does on his own time is no business of mine.
+
+386
+00:18:52,430 --> 00:18:54,920
+你是想给领导层添乱吗
+Are you trying to create chaos in the ranks?
+
+387
+00:18:55,970 --> 00:19:00,010
+共和党没有我的帮助似乎也做到了
+The Republicans appear to be doing a fine job of that without my help.
+
+388
+00:19:00,010 --> 00:19:01,200
+你不会得逞的  雷蒙德
+Well, it's not gonna work, Raymond.
+
+389
+00:19:01,200 --> 00:19:04,050
+这只会让民主党更团结  而不是分裂
+It'll bind the democrats together, not pull us apart.
+
+390
+00:19:04,050 --> 00:19:06,970
+要我猜的话  过去十年里让民主党团结的
+What has bound them together the past decade has been
+
+391
+00:19:06,970 --> 00:19:10,780
+是资助你们成为多数党的捐助
+the means to achieve a majority, if I had to guess...
+
+392
+00:19:10,780 --> 00:19:12,450
+是他用钱铸就了国会
+He stacked Congress.
+
+393
+00:19:12,560 --> 00:19:14,680
+铸就了我任党鞭的多数党
+The majority I whipped.
+
+394
+00:19:18,070 --> 00:19:20,370
+原来一直是你在操纵  雷蒙德
+So it's been you, Raymond, all along,
+
+395
+00:19:20,370 --> 00:19:22,850
+拉尼根的钱流向我们的时候也是
+even when Lanagin's money was coming to us.
+
+396
+00:19:24,860 --> 00:19:27,570
+你总在做我已经否认的假设
+You keep making assumptions that I have denied.
+
+397
+00:19:27,570 --> 00:19:28,930
+等季度报告一出来
+Once the quarterly filings come out,
+
+398
+00:19:28,930 --> 00:19:31,280
+有电脑的人都会明白是怎么回事
+anybody with a laptop is gonna see what's going on.
+
+399
+00:19:31,280 --> 00:19:33,630
+那是在九月底
+The end of September.
+
+400
+00:19:33,690 --> 00:19:38,280
+还早着呢  但我很期待看到那些报告
+That's a long way off. But I look forward to seeing the reports.
+
+401
+00:19:38,280 --> 00:19:40,980
+在中期选举两周前
+Should make for some very interesting reading
+
+402
+00:19:41,540 --> 00:19:43,520
+那肯定是很有趣的读物
+two weeks before the midterms.
+
+403
+00:19:43,520 --> 00:19:46,410
+你别想靠恐吓回到决策桌上  雷蒙德
+You cannot bully your way back to the table, Raymond,
+
+404
+00:19:46,410 --> 00:19:48,850
+你也休想收买国会
+just as you cannot buy the keys to Congress.
+
+405
+00:19:48,860 --> 00:19:52,230
+祝你成功维持众议院多数席位
+Best of luck keeping your majority in the House.
+
+406
+00:19:52,860 --> 00:19:55,130
+我知道那对你来说意义重大
+I know how much it means to you.
+
+407
+00:19:57,590 --> 00:20:00,830
+有钱给你用的时候  大家都不会多想
+When the money's coming your way, you don't ask any questions.
+
+408
+00:20:01,560 --> 00:20:05,240
+但这下清楚了  拉尼根不过是个幌子
+But now it's clear. Lanagin's never been anything but a front.
+
+409
+00:20:05,590 --> 00:20:09,000
+我要告诉总统吗  不
+Do I tell the president? No.
+
+410
+00:20:09,170 --> 00:20:10,470
+他会想我之前怎么不知道
+He'll wonder why I didn't know,
+
+411
+00:20:10,470 --> 00:20:11,670
+那我就显得消息不灵了
+which makes me look uninformed,
+
+412
+00:20:11,680 --> 00:20:13,860
+或者他会责备传话的人  把他也卷进去
+or he'll blame the messenger for involving him,
+
+413
+00:20:13,860 --> 00:20:15,570
+那就显得我太大意了
+which makes me look careless.
+
+414
+00:20:16,160 --> 00:20:19,730
+我知道这是个陷阱  我得守住这个秘密
+I know it's a trap. I must keep this to myself.
+
+415
+00:20:20,880 --> 00:20:22,830
+他问你代表谁进行购买
+He wants to know who you are buying on behalf of.
+
+416
+00:20:22,830 --> 00:20:25,720
+一家名叫水星资本的对冲基金  还没上市
+It's a hedge fund named Mercury Capital. It's unlisted.
+
+417
+00:20:33,510 --> 00:20:36,120
+他们需要主要投资者的名字
+They need the names of the principal investors.
+
+418
+00:20:36,120 --> 00:20:37,970
+告诉他我得保护他们的身份
+Tell him I have to protect identities.
+
+419
+00:20:42,080 --> 00:20:45,060
+代理人需要更多信息  他要完整的投资人名单
+The broker needs more. He wants a full investor list.
+
+420
+00:20:45,100 --> 00:20:46,500
+跟他说
+Say, um...
+
+421
+00:20:47,620 --> 00:20:50,560
+就说主要投资者和白宫联系密切
+Say that the principal investor has strong ties to the White House.
+
+422
+00:20:56,360 --> 00:20:59,390
+他们问你是不是代表克雷顿-维斯特
+And they want to know if you represent Clayton West.
+
+423
+00:20:59,390 --> 00:21:00,640
+克雷顿-维斯特吗
+Clayton West?
+
+424
+00:21:08,030 --> 00:21:09,400
+-他还在等  -稍候
+- He's waiting. - One second.
+
+425
+00:21:13,200 --> 00:21:14,270
+上面写了些什么
+What does it say?
+
+426
+00:21:14,370 --> 00:21:21,760
+是关于一家中国的稀土精炼厂
+It's about a refinery in China for rare earth elements.
+
+427
+00:21:22,470 --> 00:21:26,670
+跟他说是  告诉他主要投资者是雷蒙德·塔斯克
+Tell him yes. Tell him the principal investor is Raymond Tusk.
+
+428
+00:21:39,270 --> 00:21:40,610
+我是道格·斯坦普
+This is Doug Stamper...
+
+429
+00:21:43,410 --> 00:21:46,710
+-我们该用什么招待沃克夫妇  -氰化物
+- What should we serve the Walkers? - Cyanide.
+
+430
+00:21:48,000 --> 00:21:50,830
+用来做甜点好了  主餐呢
+Saving that for dessert. What about a main course?
+
+431
+00:21:50,830 --> 00:21:54,960
+哪种肉  或是蔬菜
+Meat of some sort? Vegetables?
+
+432
+00:21:54,960 --> 00:21:57,510
+我实在不太擅长这方面
+I mean, this isn't really my area of expertise.
+
+433
+00:21:58,960 --> 00:22:00,890
+我在想  不如找弗莱迪来
+I was thinking, what about Freddy?
+
+434
+00:22:02,860 --> 00:22:05,620
+-吃肋排吗  -这样会不会太唐突
+- Ribs? - Or is that gauche?
+
+435
+00:22:06,810 --> 00:22:10,930
+不会  我喜欢这主意
+No. I like the idea.
+
+436
+00:22:13,130 --> 00:22:16,510
+我们可以用高档瓷器  精致配菜
+Well, we can do the nice china, gourmet sides,
+
+437
+00:22:16,510 --> 00:22:19,010
+但我觉得肋排更有人情味
+but I think the ribs make it more personal.
+
+438
+00:22:19,700 --> 00:22:20,990
+我去打电话
+I'll make the call.
+
+439
+00:22:22,400 --> 00:22:25,750
+-你正在等的这通电话有消息吗  -还没有
+- Any word on the call you're expecting? - Not yet.
+
+440
+00:22:26,040 --> 00:22:27,750
+我想他的航班应该还没到
+I don't think he's landed.
+
+441
+00:22:29,230 --> 00:22:31,610
+你还真搭起来了啊
+This is really coming along, isn't it?
+
+442
+00:22:32,420 --> 00:22:34,240
+你觉得小孩子气
+You think it's childish.
+
+443
+00:22:34,890 --> 00:22:37,010
+总比打游戏好
+I think it's better than video games.
+
+444
+00:22:53,840 --> 00:22:55,930
+把我的五千美金支票带来了吗
+Do you have my check for $5,000?
+
+445
+00:22:56,600 --> 00:22:58,240
+等我涨工资了再说吧
+Next time when I get a raise.
+
+446
+00:22:59,630 --> 00:23:01,110
+在赌场运气不好吗
+Bad luck at the casino?
+
+447
+00:23:02,410 --> 00:23:03,880
+塔斯克知道我在这儿
+So Tusk knows I'm here.
+
+448
+00:23:03,940 --> 00:23:07,380
+-丹尼尔·拉尼根知道  -塔斯克跟这事有关吗
+- Daniel Lanagin knows you're here. - Is Tusk involved?
+
+449
+00:23:07,850 --> 00:23:09,070
+我为什么要承认
+Why would I admit that?
+
+450
+00:23:09,510 --> 00:23:11,040
+塔斯克和你有生意来往
+Tusk is in business with you.
+
+451
+00:23:11,290 --> 00:23:12,420
+你在给拉尼根汇钱
+You're sending money to Lanagin.
+
+452
+00:23:12,420 --> 00:23:14,990
+拉尼根的赌场离塔斯克很近
+Lanagin's casino is in Tusk's backyard.
+
+453
+00:23:14,990 --> 00:23:16,080
+你大老远飞来
+You didn't fly halfway around the
+
+454
+00:23:16,080 --> 00:23:18,160
+不会就是为了证实猜测吧
+world just to confirm suspicions.
+
+455
+00:23:18,930 --> 00:23:20,230
+告诉我你想要什么
+Tell me what you want.
+
+456
+00:23:20,230 --> 00:23:22,490
+我们想中止资金继续流向共和党
+We want the money to stop flowing to the Republicans.
+
+457
+00:23:22,490 --> 00:23:23,810
+我有什么好处
+And what do I receive?
+
+458
+00:23:23,820 --> 00:23:26,340
+我说了我们想要的  现在到你了
+I've told you what we want. Now it's your turn.
+
+459
+00:23:26,340 --> 00:23:28,650
+好让你再次误导我吗
+Ah, so you can mislead me again.
+
+460
+00:23:29,300 --> 00:23:33,340
+形势变了  误导你对我们没有好处
+Things have changed. We have nothing to gain by misleading you.
+
+461
+00:23:35,800 --> 00:23:37,490
+你觉得我的花园如何
+What do you think of my garden?
+
+462
+00:23:39,970 --> 00:23:41,220
+非常漂亮
+It's very beautiful.
+
+463
+00:23:42,280 --> 00:23:45,350
+只知道谈生意  就会忘记欣赏美景
+When you only talk business, you stop appreciating beauty.
+
+464
+00:23:45,910 --> 00:23:47,660
+我没什么时间赏景
+I don't have much time for beauty.
+
+465
+00:23:48,710 --> 00:23:49,620
+真可惜
+That's a shame.
+
+466
+00:23:50,070 --> 00:23:51,900
+为了让你们这些老板有闲暇赏景
+For people like you to smell the flowers,
+
+467
+00:23:51,900 --> 00:23:53,550
+我们这些手下得去除杂草
+some of us have to pull the weeds.
+
+468
+00:23:54,780 --> 00:23:58,360
+-打算什么时候走  -还没买回程票
+- When do you plan on leaving? - I haven't bought my return ticket yet.
+
+469
+00:23:58,360 --> 00:23:59,160
+很好
+Good.
+
+470
+00:24:00,780 --> 00:24:02,220
+我需要考虑一晚
+I'd like to think on this for a night.
+
+471
+00:24:02,550 --> 00:24:04,200
+我想你一定累坏了
+And I'm sure you must be exhausted.
+
+472
+00:24:04,240 --> 00:24:06,100
+可否赏脸在这儿做客
+Would you do me the honor of being my guest?
+
+473
+00:24:06,350 --> 00:24:10,600
+-非常感谢  -很好  你能休息一下了
+- I'd be very grateful. - Excellent. You can get some rest.
+
+474
+00:24:11,090 --> 00:24:11,970
+你要是喜欢
+And if you like,
+
+475
+00:24:12,650 --> 00:24:14,940
+这里还有很多美的事物可以享受
+there are many beautiful things to enjoy here.
+
+476
+00:24:19,340 --> 00:24:20,320
+请
+Please.
+
+477
+00:24:52,540 --> 00:24:54,490
+先生  格雷森先生到了 
+Sir, Mr. Grayson is here.
+
+478
+00:24:54,950 --> 00:24:55,930
+赛斯
+Seth.
+
+479
+00:24:56,720 --> 00:24:59,300
+你上任以来我们还一直没机会
+You and I haven't really properly had the chance to sit
+
+480
+00:24:59,300 --> 00:25:01,460
+好好坐下聊聊
+and have a chat since you came on board.
+
+481
+00:25:01,460 --> 00:25:03,390
+有什么需要我改进的吗  先生
+Is there anything I can be doing better, sir?
+
+482
+00:25:03,390 --> 00:25:05,900
+没有  你很厉害
+No. No. I'm impressed.
+
+483
+00:25:05,930 --> 00:25:08,440
+你很聪明  也有很好的职业素养
+You're very smart. Excellent work ethic.
+
+484
+00:25:09,620 --> 00:25:13,170
+但更重要的是  你的洞察力很强
+But more importantly, you're very observant.
+
+485
+00:25:13,230 --> 00:25:14,690
+信息就是力量
+Information is power.
+
+486
+00:25:15,530 --> 00:25:20,210
+就是在这间屋子里  我妻子向世人
+It was right here in this room that my wife revealed a great deal
+
+487
+00:25:20,210 --> 00:25:23,590
+吐露了惊人的消息  成千上万的人
+of information to a great number of people. Millions of them.
+
+488
+00:25:23,590 --> 00:25:26,300
+先生  如果你是担心我所知道的事
+Sir, if your concern is my knowledge of any discrepancies,
+
+489
+00:25:26,300 --> 00:25:27,050
+我向你保证
+then let me assure you --
+
+490
+00:25:27,060 --> 00:25:29,100
+克莱尔和我都很注重隐私
+Claire and I are very private people.
+
+491
+00:25:29,890 --> 00:25:32,170
+我明白你为何会不信任我
+I can understand why you might mistrust me.
+
+492
+00:25:32,360 --> 00:25:35,310
+我也有敏锐的洞察力  就像你  赛斯
+I'm also observant, like you, Seth.
+
+493
+00:25:36,370 --> 00:25:38,540
+但我还是会有盲点
+But I still have my blind spots.
+
+494
+00:25:39,540 --> 00:25:43,290
+我绝不会想到去找马博利太太
+It would have never occurred to me to reach out to Mrs. Marbury.
+
+495
+00:25:44,770 --> 00:25:48,400
+她丈夫去世了  也没留记录
+Her husband was dead. He kept no records.
+
+496
+00:25:49,510 --> 00:25:53,460
+但你还是找到了  白纸黑字
+And yet there it was, in black and white.
+
+497
+00:25:55,390 --> 00:25:57,510
+我很感谢你把它交给我们
+I respect the fact that you brought it to us.
+
+498
+00:25:57,510 --> 00:26:00,300
+这也是我们为什么会录用你
+That's what got you in the door.
+
+499
+00:26:01,640 --> 00:26:04,770
+但想要留下  这还不够
+But if you want to stay, I need more.
+
+500
+00:26:10,470 --> 00:26:12,460
+你到底是什么居心
+What exactly are you up to?
+
+501
+00:26:14,690 --> 00:26:16,420
+我受雇于雷米·丹顿
+I was hired by Remy Danton.
+
+502
+00:26:17,400 --> 00:26:19,330
+他要我来找你们的把柄
+He wants anything damaging that I can find.
+
+503
+00:26:22,330 --> 00:26:24,400
+-他有日记的备份吗  -没有
+- Does he have a copy of the journal? - No copies.
+
+504
+00:26:24,400 --> 00:26:25,940
+我把原件交给了安德伍德夫人
+I gave the original to Mrs. Underwood,
+
+505
+00:26:25,950 --> 00:26:28,140
+我告诉他  她的话属实
+and I told him that her story checks out.
+
+506
+00:26:28,340 --> 00:26:30,880
+-你还给了他什么  -我手上没别的了
+- Did you give him anything else? - I don't have anything else.
+
+507
+00:26:30,880 --> 00:26:32,290
+就算有我也不会给他
+I wouldn't give it to him if I did.
+
+508
+00:26:32,300 --> 00:26:34,270
+为什么你现在才说
+Why am I only hearing about this now?
+
+509
+00:26:34,330 --> 00:26:36,230
+你是美利坚合众国的副总统
+Well, you're the vice president of the United States.
+
+510
+00:26:36,230 --> 00:26:38,300
+雷米在为雷蒙德·塔斯克卖命
+Remy works for Raymond Tusk.
+
+511
+00:26:38,300 --> 00:26:40,860
+我夹在了两位极有权势的人之间
+That puts me between two extremely powerful people.
+
+512
+00:26:41,410 --> 00:26:42,540
+得小心为好
+I had to be careful.
+
+513
+00:26:42,640 --> 00:26:45,840
+雷米肯定答应给你一大笔钱吧
+I'm sure that Remy's offering you a great deal of money.
+
+514
+00:26:45,910 --> 00:26:47,260
+但他只能给钱
+But that's all he offers.
+
+515
+00:26:47,700 --> 00:26:50,930
+我看到你在参议院推动福利改革法案时
+When I saw you push entitlement reform through the Senate,
+
+516
+00:26:51,320 --> 00:26:54,500
+立刻就明白了谁才是白宫最有权力的人
+it was clear to me where the real power in the White House is.
+
+517
+00:26:55,090 --> 00:26:58,490
+我想为你这样的人效力  不是乘游艇兜风
+I want to work for a man like you, not sail a yacht.
+
+518
+00:26:58,560 --> 00:27:00,000
+钱我不感兴趣
+Money doesn't interest me.
+
+519
+00:27:04,820 --> 00:27:06,700
+你想让我中止和雷米的接触吗
+Do you want me to cease contact with Remy?
+
+520
+00:27:07,190 --> 00:27:12,100
+不  我想让你找到盲点
+No. I want you to find the blind spots.
+
+521
+00:27:15,420 --> 00:27:16,840
+-他有空吗  -只有几分钟
+- Is he free? - For a few minutes.
+
+522
+00:27:16,840 --> 00:27:18,600
+-谢谢  -墨西哥城
+- Thank you. - Mexico City,
+
+523
+00:27:18,600 --> 00:27:19,780
+你会在那里会见苏托总统
+where you'll meet president Soto.
+
+524
+00:27:19,780 --> 00:27:21,850
+我们可以在飞机上练习西班牙语
+We can practice your Spanish on the plane.
+
+525
+00:27:24,920 --> 00:27:27,940
+-那是什么  -弗兰克送我的
+- What is that? - Frank gave it to me.
+
+526
+00:27:28,790 --> 00:27:30,280
+-你有时间吗  -有要紧事吗
+- Do you have a minute? - Yeah, is it important?
+
+527
+00:27:30,280 --> 00:27:32,550
+我要见...什么时间
+I have a meeting with... When is it?
+
+528
+00:27:32,660 --> 00:27:33,990
+他已经在等了
+He's already in the waiting room.
+
+529
+00:27:33,990 --> 00:27:35,330
+纽约大主教
+The archbishop of New York.
+
+530
+00:27:35,330 --> 00:27:38,120
+我只想问今天晚餐要不要带礼物
+I'm just wondering if we should bring a gift to dinner tonight.
+
+531
+00:27:38,130 --> 00:27:40,590
+反正是家常便饭  可以带瓶酒
+Yeah, well, it's casual. Maybe a bottle of wine?
+
+532
+00:27:40,950 --> 00:27:42,040
+你和他们很熟
+You know them well.
+
+533
+00:27:42,040 --> 00:27:43,760
+知道他们喜欢什么酒吗
+Any idea what sort of wine they like?
+
+534
+00:27:43,760 --> 00:27:44,600
+也不算太熟
+Well, not extremely well,
+
+535
+00:27:44,600 --> 00:27:46,280
+不过我可以问问他们的手下
+but I'm friendly with their staff...
+
+536
+00:27:46,280 --> 00:27:48,480
+-我会去问明白的  -我可以打电话问问
+- I'll figure it out. - I can make a call.
+
+537
+00:27:48,480 --> 00:27:50,980
+我在和我丈夫说话  不过谢谢你
+I'm having a conversation with my husband, but thank you.
+
+538
+00:27:50,980 --> 00:27:53,860
+-好的  对不起  -我在官邸等你
+- OK. I apologize. - I'll see you at the residence.
+
+539
+00:27:53,860 --> 00:27:55,010
+七点半
+Seven-thirty.
+
+540
+00:28:36,190 --> 00:28:37,490
+不
+No.
+
+541
+00:28:37,490 --> 00:28:38,840
+现在不要
+Not now.
+
+542
+00:28:39,500 --> 00:28:42,630
+不  请离开
+No. Just... Please go.
+
+543
+00:28:46,550 --> 00:28:48,820
+请出去
+Get out. Please.
+
+544
+00:29:48,350 --> 00:29:51,990
+瑞秋  是我  我...
+Rachel, it's me. I, uh...
+
+545
+00:29:54,650 --> 00:29:56,040
+你应该接我的电话
+you should answer when I call.
+
+546
+00:29:56,190 --> 00:29:57,710
+我不喜欢留言
+I don't like leaving messages.
+
+547
+00:30:01,060 --> 00:30:02,070
+赛斯
+Seth?
+
+548
+00:30:02,160 --> 00:30:04,090
+艾拉  我只有15分钟吃饭
+Ayla, I get 15 minutes to eat,
+
+549
+00:30:04,090 --> 00:30:04,810
+这还算不忙
+on a good day.
+
+550
+00:30:04,810 --> 00:30:06,060
+冯山德
+Xander Feng.
+
+551
+00:30:06,060 --> 00:30:07,070
+我没听过
+Means nothing to me.
+
+552
+00:30:07,070 --> 00:30:09,010
+康纳跟我提过和中国的秘密外交渠道
+Connor told me about a back channel with China.
+
+553
+00:30:09,010 --> 00:30:11,210
+有推测认为是一个叫冯山德的人
+There was speculation it was a guy named Xander Feng.
+
+554
+00:30:11,220 --> 00:30:12,940
+14分52秒
+14 minutes, 52 seconds.
+
+555
+00:30:12,940 --> 00:30:14,300
+他和雷蒙德·塔斯克有生意往来
+He's in business with Raymond Tusk.
+
+556
+00:30:14,300 --> 00:30:15,990
+他们在中国一起经营一家精炼厂
+They're working on a refinery in China.
+
+557
+00:30:15,990 --> 00:30:17,680
+塔斯克与白宫有关联
+Tusk has ties to the White House.
+
+558
+00:30:17,710 --> 00:30:18,600
+14分37
+14 minutes, 37 --
+
+559
+00:30:18,600 --> 00:30:19,850
+美国最有钱的富翁之一
+One of the wealthiest men in America
+
+560
+00:30:19,860 --> 00:30:22,240
+和一个中国幕后外交官做生意
+in business with an off-the-books chinese diplomat?
+
+561
+00:30:22,300 --> 00:30:24,320
+而他对华盛顿的影响力从未见报
+Influence in Washington never been reported?
+
+562
+00:30:24,320 --> 00:30:26,080
+白宫在能源危机的紧要关头
+The White House pushes rare earth subsidies
+
+563
+00:30:26,080 --> 00:30:27,310
+推动核能补贴
+when the energy crisis spiked?
+
+564
+00:30:27,310 --> 00:30:29,520
+你到底要问什么
+Do you have a specific question for me?
+
+565
+00:30:29,760 --> 00:30:31,350
+我想请教副总统对此的看法
+I'd like to ask the vice president about this.
+
+566
+00:30:31,350 --> 00:30:32,970
+有什么具体要问我的问题
+A specific question for me,
+
+567
+00:30:33,440 --> 00:30:34,600
+不是问你是否要安排采访
+not an interview request.
+
+568
+00:30:34,600 --> 00:30:37,340
+副总统认识雷蒙德·塔斯克吗
+Does the vice president know Raymond Tusk?
+
+569
+00:30:37,560 --> 00:30:38,610
+据我了解不认识
+Not to my knowledge.
+
+570
+00:30:39,150 --> 00:30:40,560
+你在隐瞒什么  赛斯
+You're hiding something, Seth.
+
+571
+00:30:40,560 --> 00:30:42,070
+我没有隐瞒任何事
+I'm not hiding anything.
+
+572
+00:30:42,260 --> 00:30:43,950
+只是饿得血糖有点低
+I'm just a guy with low blood sugar.
+
+573
+00:30:47,160 --> 00:30:48,070
+加勒特
+Garrett?
+
+574
+00:30:51,730 --> 00:30:52,770
+怎么了
+What is it?
+
+575
+00:30:54,150 --> 00:30:55,210
+克里斯蒂娜
+Christina.
+
+576
+00:30:56,450 --> 00:30:57,900
+她总来烦我
+She won't leave me alone.
+
+577
+00:30:58,730 --> 00:31:01,380
+好像她过分地想要帮忙
+It's like she's trying too hard to be helpful.
+
+578
+00:31:01,380 --> 00:31:02,880
+我会让琳达和她谈谈的
+I'll have Linda talk to her.
+
+579
+00:31:03,300 --> 00:31:04,640
+不止是这个
+It's not just that.
+
+580
+00:31:05,830 --> 00:31:06,830
+我觉得这只是表象
+I feel like it's a mask.
+
+581
+00:31:06,830 --> 00:31:09,050
+我觉得还有别的隐情
+I feel like there's something else going on there.
+
+582
+00:31:09,050 --> 00:31:10,060
+比如说什么
+Like what?
+
+583
+00:31:11,250 --> 00:31:13,050
+有时我走进你办公室
+Sometimes, when I walk into your office
+
+584
+00:31:13,050 --> 00:31:14,860
+看见她在和你说话
+and see her talking to you...
+
+585
+00:31:16,490 --> 00:31:18,640
+你们俩总一起出差
+...and you've been traveling together so much.
+
+586
+00:31:19,410 --> 00:31:20,640
+天呐  特莉莎
+Jesus, Tricia.
+
+587
+00:31:20,640 --> 00:31:23,370
+不是说你  但她
+Oh, not you, her.
+
+588
+00:31:24,310 --> 00:31:26,500
+我认为她喜欢上你了
+I think she's attracted to you.
+
+589
+00:31:26,830 --> 00:31:28,080
+而且她以前也...
+And she does have a history--
+
+590
+00:31:28,080 --> 00:31:30,710
+真不敢相信我们居然在讨论这个
+I can't even believe we're having this conversation.
+
+591
+00:31:32,010 --> 00:31:33,260
+我希望你把她调走
+I want you to relocate her.
+
+592
+00:31:33,260 --> 00:31:35,340
+-让她去别的职位  -不行
+- Find her another position - Absolutely not.
+
+593
+00:31:35,490 --> 00:31:37,560
+-我知道这似乎有点反应过度  -她是个好助理
+I know it seems overboard - She's a good aide.
+
+594
+00:31:37,970 --> 00:31:38,960
+对琳达很有帮助
+She's valuable to Linda,
+
+595
+00:31:38,960 --> 00:31:40,530
+所以她也是政府的人才
+which makes her valuable to the administration.
+
+596
+00:31:40,530 --> 00:31:41,260
+我是你妻子
+I'm your wife.
+
+597
+00:31:41,260 --> 00:31:42,960
+我应该比这些更重要
+I should be more valuable than either of them.
+
+598
+00:31:42,960 --> 00:31:45,040
+-特莉莎  -她明明让我不舒服
+- Tricia. - I don't understand why you're fighting me on this
+
+599
+00:31:45,040 --> 00:31:48,330
+-你怎么还跟我争  -我们马上就到弗兰克家了
+- when she bothers me - we're pulling up to Frank's in two minutes.
+
+600
+00:31:56,990 --> 00:31:59,200
+真是太美味了  弗莱迪
+Really, superb, Freddy.
+
+601
+00:31:59,210 --> 00:32:00,320
+我可以说
+I can honestly say
+
+602
+00:32:00,320 --> 00:32:02,560
+我这辈子从没吃过这么好的肋排
+I have never had better ribs in my life.
+
+603
+00:32:02,560 --> 00:32:04,070
+很高兴您喜欢
+Well, I'm glad you liked you them.
+
+604
+00:32:04,080 --> 00:32:06,030
+我在《太阳报》上看到报道
+You know, I read the article in the Sun
+
+605
+00:32:06,030 --> 00:32:07,980
+写你去弗莱迪的餐馆
+about how you go to Freddy's.
+
+606
+00:32:08,150 --> 00:32:10,430
+希望你不介意我接受采访  弗兰克
+I hope you don't mind me speaking to that reporter, Frank.
+
+607
+00:32:10,430 --> 00:32:11,080
+完全没关系
+Not at all.
+
+608
+00:32:11,080 --> 00:32:13,110
+糟了  我忘了我不该这么叫你
+Oh shit, I forgot I'm not supposed to call you that.
+
+609
+00:32:13,110 --> 00:32:16,100
+就算你想  我也不会让你叫我"副总统"
+I wouldn't let you call me "Vice President" even if you tried.
+
+610
+00:32:16,100 --> 00:32:17,160
+而且我完全不介意
+And I didn't mind at all.
+
+611
+00:32:17,160 --> 00:32:18,450
+我觉得那篇报道非常好
+I thought the article was great.
+
+612
+00:32:18,450 --> 00:32:20,840
+报道出来以后生意一下兴隆了不少
+Well, it's been a big bump in business since it came out.
+
+613
+00:32:20,840 --> 00:32:22,800
+街上排起大队
+I'm talking lines around the block.
+
+614
+00:32:23,010 --> 00:32:25,820
+现在你不是唯一去那里的白人了
+You're not the only white person to show up there now.
+
+615
+00:32:26,540 --> 00:32:30,270
+我先走了  明天还要早起呢
+Well, I'm gonna call it a night. I got a early start in the morning.
+
+616
+00:32:30,430 --> 00:32:34,750
+很高兴见到你们  总统先生  沃克夫人
+It was a pleasure meeting you, Mr. President. Mrs. Walker.
+
+617
+00:32:34,750 --> 00:32:36,020
+我们也很高兴
+A pleasure. Truly.
+
+618
+00:32:36,020 --> 00:32:36,810
+谢谢  弗莱迪
+Thanks, Freddy.
+
+619
+00:32:36,810 --> 00:32:37,920
+随时为你效劳
+Always.
+
+620
+00:32:39,960 --> 00:32:41,440
+不  我不用了  谢谢
+No. None -- none for me, thanks.
+
+621
+00:32:41,440 --> 00:32:44,440
+总统先生  一块派有益心灵
+Mr. President, a slice of pie is good for the soul.
+
+622
+00:32:44,560 --> 00:32:46,990
+-我吃饱了  -吃一块派没关系的
+- I'm stuffed. - You can have a slice of pie.
+
+623
+00:32:47,650 --> 00:32:49,880
+真的不用了  谢谢你  弗兰克
+I'm fine, really, but thank you, Frank.
+
+624
+00:32:50,030 --> 00:32:51,330
+我要一块
+I'll have some.
+
+625
+00:32:52,540 --> 00:32:54,150
+我们俩也要
+For the two of us, as well.
+
+626
+00:32:55,490 --> 00:32:59,510
+她又要逼我多跑五英里把它消化掉了
+Now she is gonna make me run another five miles to work off this puppy.
+
+627
+00:32:59,510 --> 00:33:02,000
+你疯了吗  我几乎跟不上你
+Are you crazy? I can barely keep up with you.
+
+628
+00:33:02,000 --> 00:33:04,880
+-你比我快多了  -你们一起跑步吗
+- You're so much faster than me. - You two run together?
+
+629
+00:33:04,880 --> 00:33:07,530
+是的  时间很难找  但我们还是挤出时间了
+Yes. It's hard to find the time, but somehow we find it.
+
+630
+00:33:07,530 --> 00:33:10,140
+没错  而且只有我和他在一起
+We do. And it's something that's just ours, you know?
+
+631
+00:33:10,140 --> 00:33:13,930
+是啊  只有咱俩  再加八个特情局特工
+Yes. Just ours. And about eight Secret Service agents.
+
+632
+00:33:15,130 --> 00:33:17,240
+你们俩能一起跑步真是太好了
+That's so nice that you have that together.
+
+633
+00:33:17,650 --> 00:33:19,980
+真希望加勒特和我能有更多时间做那样的事
+I wish Garrett and I had more time for things like that.
+
+634
+00:33:20,750 --> 00:33:22,730
+我们曾一起去上过动感单车课
+We did take a spinning class together once.
+
+635
+00:33:22,730 --> 00:33:24,430
+你们真该看看加勒特在手把上弯着腰的样子
+You should have seen Garrett hunched over the handlebar --
+
+636
+00:33:24,430 --> 00:33:25,100
+行了
+Please.
+
+637
+00:33:28,430 --> 00:33:29,880
+再来点酒吗
+Would you like some more wine?
+
+638
+00:33:29,880 --> 00:33:32,750
+好的  谢谢  我看到你送他的沙袋了
+I would, thank you. I saw the punching bag you gave him.
+
+639
+00:33:32,750 --> 00:33:35,430
+这样吧  我来一块派吧
+You know what? I will have a slice of pie.
+
+640
+00:33:35,480 --> 00:33:37,220
+请给总统上一块派
+Pie, please. For the president.
+
+641
+00:33:40,280 --> 00:33:41,140
+谢谢
+Thank you.
+
+642
+00:33:44,140 --> 00:33:46,260
+我从头到尾读了一遍  我觉得很好
+I read it front to back. I think it's good.
+
+643
+00:33:46,540 --> 00:33:49,550
+可能会掀翻天  但也许这正是我们需要的
+It'll cause a shit-storm, but maybe that's what we need.
+
+644
+00:33:49,580 --> 00:33:51,160
+不能在中期选举间
+Not during the midterms.
+
+645
+00:33:51,290 --> 00:33:52,780
+我看不出有招致批评的风险
+I don't see how we take flack.
+
+646
+00:33:52,780 --> 00:33:55,160
+我们可是想减少强奸啊
+We're trying to curtail rape, for godsakes.
+
+647
+00:33:55,160 --> 00:33:57,850
+当然  一些右翼人士会老调重弹
+Sure, some right-wingers will do their usual song and dance--
+
+648
+00:33:57,850 --> 00:33:59,730
+先别急  我想自己看过再说
+Hold off. I want to read it myself first.
+
+649
+00:33:59,730 --> 00:34:02,080
+我们向副总统承诺我们会找联署人...
+We promised the Vice President we'd have cosponsors...
+
+650
+00:34:02,080 --> 00:34:04,280
+我知道我们承诺了什么  我们要拖延
+I know what we promised, and we're gonna stall.
+
+651
+00:34:04,280 --> 00:34:06,610
+-不要把草案泄露出去  -但你知道法案的要点
+- Don't disseminate the draft. - But you know the gist of the bill.
+
+652
+00:34:06,610 --> 00:34:07,980
+-我不明白为什么不能  -洛莉
+- I don't see why we can't-- - Lorrie.
+
+653
+00:34:09,180 --> 00:34:11,870
+好吧  那你先看着
+All right, I'll leave it with you.
+
+654
+00:34:12,940 --> 00:34:15,090
+-还有别的事吗  -不  没事了
+- Anything else? - No. I think we're good.
+
+655
+00:34:15,690 --> 00:34:17,070
+好吧  那我走了
+All right. Then I'm off.
+
+656
+00:34:18,110 --> 00:34:21,100
+跟老公的约会之夜  还不如杀了我
+Date night with the husband. Slit my wrists, please.
+
+657
+00:34:23,690 --> 00:34:25,310
+差不多了就回家  好吗
+Go home at some point, OK?
+
+658
+00:34:25,570 --> 00:34:27,600
+国会大厦明天早上还会在这里
+The Capitol will still be here in the morning.
+
+659
+00:35:18,140 --> 00:35:20,140
+这可真棒
+This is really something.
+
+660
+00:35:21,380 --> 00:35:22,970
+还没完工呢
+Ways to go yet.
+
+661
+00:35:23,930 --> 00:35:26,450
+谁赢了这场战役  北方还是南方
+Now, who won this battle? The North or the South?
+
+662
+00:35:26,450 --> 00:35:30,260
+双方都伤亡惨重  没有明显的赢家
+Massive casualties on both sides. No clear winner.
+
+663
+00:35:30,730 --> 00:35:32,300
+你怎么会有时间干这个
+How do you find the time?
+
+664
+00:35:32,300 --> 00:35:36,460
+我零零散散挤出半小时  能让我放松
+I carve out a half hour here and there. Helps me relax.
+
+665
+00:35:37,620 --> 00:35:39,350
+我都忘了什么叫放松了
+I've forgotten the meaning of that word.
+
+666
+00:35:39,350 --> 00:35:41,490
+送您沙袋就是干这个用的
+Well, that's what the punching bag is for.
+
+667
+00:35:41,920 --> 00:35:43,130
+说得没错
+It's very true.
+
+668
+00:35:46,950 --> 00:35:50,130
+一点就行  特莉莎和我过会儿该走了
+Just a little. Tricia and I should get going soon.
+
+669
+00:35:53,260 --> 00:35:56,180
+您这样的话一个任期都挺不过去  总统先生
+You're never gonna make it through this first term, Mr. President.
+
+670
+00:35:56,180 --> 00:35:56,890
+此话怎讲
+How do you mean?
+
+671
+00:35:56,890 --> 00:35:59,890
+这样可不行  让压力渐渐累积
+Well, not like this. Letting the stress creep in.
+
+672
+00:35:59,890 --> 00:36:02,500
+您是要跑马拉松  而不是冲刺
+You need to run the marathon, not the sprint.
+
+673
+00:36:03,290 --> 00:36:05,970
+您应该学会享受忙里偷闲
+You need to enjoy these little moments of escape.
+
+674
+00:36:08,450 --> 00:36:09,970
+多倒一点吧
+You can pour more than that.
+
+675
+00:36:11,700 --> 00:36:12,820
+谢谢
+Thank you.
+
+676
+00:36:17,380 --> 00:36:20,900
+-这是联军还是叛军  -联军  先生
+- This Union or rebel? - Union, sir.
+
+677
+00:36:20,900 --> 00:36:24,690
+别再叫"先生""总统先生"  叫名字吧
+Enough "Sirs" and "Mr. Presidents." Call me by my name.
+
+678
+00:36:25,460 --> 00:36:27,380
+我尊重您的职位  不能那么做
+I respect the office too much for that.
+
+679
+00:36:27,380 --> 00:36:28,950
+私下里没关系
+When we're in private, it's OK.
+
+680
+00:36:28,950 --> 00:36:31,040
+今晚  我不必扮演总统的角色
+Tonight, I don't have to be president.
+
+681
+00:36:31,980 --> 00:36:34,450
+我不是有意要介入你们的私生活
+I don't mean to get involved in your personal life.
+
+682
+00:36:34,450 --> 00:36:37,560
+不  是我提起来的
+Oh, no. I brought it up.
+
+683
+00:36:39,060 --> 00:36:41,270
+你真是为了克里斯蒂娜吗
+Is this really about Christina?
+
+684
+00:36:42,250 --> 00:36:45,910
+或者是别的什么事的表征
+Or maybe it's just a symptom of something else?
+
+685
+00:36:46,770 --> 00:36:49,210
+-比如呢  -我不知道
+- Like what? - I don't know.
+
+686
+00:36:53,870 --> 00:36:55,520
+我几乎见不到他
+I barely see him at all.
+
+687
+00:36:56,430 --> 00:37:00,480
+他现在很紧张  海外局势
+He's so wound up in everything that's going on overseas,
+
+688
+00:37:00,480 --> 00:37:03,370
+中期选举  经济危机
+the elections, the economy.
+
+689
+00:37:03,890 --> 00:37:06,030
+他当州长的时候  也不容易
+When he was governor, it wasn't a cake walk,
+
+690
+00:37:06,030 --> 00:37:08,130
+但跟现在是不能比了
+but it was nothing like this.
+
+691
+00:37:10,140 --> 00:37:12,340
+你和弗兰克是怎么做到的
+How do you and Frank do it?
+
+692
+00:37:12,340 --> 00:37:14,100
+你们看起来那么亲密
+You both seem so close.
+
+693
+00:37:14,480 --> 00:37:16,000
+我们对彼此很坦诚
+We're honest with each other.
+
+694
+00:37:16,710 --> 00:37:19,000
+我们什么都不会藏着掖着
+We don't sweep anything under the rug.
+
+695
+00:37:20,130 --> 00:37:22,970
+特莉莎  如果这事让你很困扰  和他谈谈
+Tricia, if it's eating at you, make him talk about it.
+
+696
+00:37:24,710 --> 00:37:29,040
+白宫不过是一时的  婚姻是一辈子的
+The White House is finite. Your marriage is for life.
+
+697
+00:37:41,070 --> 00:37:42,780
+-早上好  -好
+- Good morning. - Morning.
+
+698
+00:37:44,370 --> 00:37:45,770
+不喜欢这道汤吗
+You don't like your soup?
+
+699
+00:37:46,530 --> 00:37:48,260
+我用不好筷子
+I'm not good with chopsticks.
+
+700
+00:37:52,100 --> 00:37:53,700
+我觉得与昨晚的女伴相比
+I think you'll like this soup more than you liked the
+
+701
+00:37:53,700 --> 00:37:55,930
+这道汤会更合你口味
+two companions I sent you last night.
+
+702
+00:37:56,580 --> 00:37:57,810
+昨晚我太累了
+I was tired.
+
+703
+00:38:00,520 --> 00:38:03,200
+你考虑过我们昨天说的事了吗
+Have you had a chance to think about what we discussed yesterday?
+
+704
+00:38:04,240 --> 00:38:06,880
+在中国  接到礼物推辞一次是礼貌
+In China, it's polite to refuse a gift the first time.
+
+705
+00:38:07,470 --> 00:38:09,240
+也许我该拒绝你的礼物
+Maybe I should refuse yours.
+
+706
+00:38:09,240 --> 00:38:11,530
+如果不知道你想要什么  我们没法送你礼物
+We can't offer you a gift if I don't know what you want.
+
+707
+00:38:13,460 --> 00:38:15,030
+杰斐逊港大桥
+The Port Jefferson Bridge.
+
+708
+00:38:16,330 --> 00:38:18,810
+你在私下接触时把项目撤下了
+You pulled it, during the back-channel.
+
+709
+00:38:18,810 --> 00:38:21,580
+-我改主意了  -为什么
+- I changed my mind. - Why?
+
+710
+00:38:24,260 --> 00:38:26,340
+我有盟友想修建这座桥
+I have allies who want the bridge.
+
+711
+00:38:26,340 --> 00:38:28,300
+没了桥  他们就会变成敌人
+Without it, they become my enemies.
+
+712
+00:38:28,940 --> 00:38:31,760
+-我已经两次受审  -腐败指控
+- I've been put on trial twice. - Corruption charges.
+
+713
+00:38:33,430 --> 00:38:37,370
+在中国  我这个层次的人都会贿赂该贿赂的人
+Everyone in China who works on this level pays who they need to pay.
+
+714
+00:38:37,540 --> 00:38:39,350
+杀掉该杀的人
+And they kill who they need to kill.
+
+715
+00:38:40,350 --> 00:38:41,920
+总有人莫名消失  斯坦普先生
+People disappear all the time, Mr. Stamper.
+
+716
+00:38:41,920 --> 00:38:44,940
+我也可能消失  你也可能消失
+I could disappear. You could disappear.
+
+717
+00:38:47,770 --> 00:38:50,340
+别再去赌场  我们就给你这座桥
+Stop the junkets, and we'll get you the bridge.
+
+718
+00:38:50,340 --> 00:38:51,800
+先把桥定下来
+The bridge comes first.
+
+719
+00:38:52,900 --> 00:38:55,340
+副总统骗过我
+The vice president has lied to me before.
+
+720
+00:38:55,340 --> 00:38:58,770
+我要看到他诚意的证明  才会停止资金流
+I need proof of his commitment. Then the money will stop.
+
+721
+00:39:01,850 --> 00:39:05,440
+斯坦普先生  请用
+Please, Mr. Stamper. Eat.
+
+722
+00:39:06,080 --> 00:39:07,810
+你接下来要坐很久的航班呢
+You have a long flight ahead of you.
+
+723
+00:39:14,280 --> 00:39:16,550
+如果你觉得你一定要这么做
+If it's what you feel you need to do.
+
+724
+00:39:16,550 --> 00:39:18,610
+安德伍德夫人  我在这儿工作很愉快
+I've had a great experience here, Mrs. Underwood.
+
+725
+00:39:18,610 --> 00:39:22,040
+但是这个机会我实在没法错过
+But this is an opportunity I can't pass up.
+
+726
+00:39:22,040 --> 00:39:24,660
+-我猜钱肯定给得不少  -确实
+- I imagine the pay is substantial. - It is.
+
+727
+00:39:24,660 --> 00:39:27,830
+但不只是钱的事  在太空探索技术公司有上升空间
+But it's not just that. There's room to grow at SpaceX.
+
+728
+00:39:27,830 --> 00:39:30,390
+如果你决定了  我不会劝你留下来的
+Well, if your mind's made up, I won't try and convince you to stay.
+
+729
+00:39:30,390 --> 00:39:34,640
+说实话  我最初来的时候
+The truth is... when I first came on board,
+
+730
+00:39:34,640 --> 00:39:37,820
+我以为是同时为你和你丈夫工作
+I thought it was to work for both you and your husband.
+
+731
+00:39:37,820 --> 00:39:40,650
+别误会  为你工作我十分荣幸
+Don't get me wrong, it's been an honor working for you,
+
+732
+00:39:40,650 --> 00:39:43,510
+但我没想到要和赛斯一起工作
+but I didn't foresee having to work with Seth.
+
+733
+00:39:43,510 --> 00:39:45,840
+-你俩有些不合  -没错
+- You're not very fond of each other. - No.
+
+734
+00:39:46,240 --> 00:39:48,180
+这不是问题  我们都是专业人士
+Which is fine. We're professionals.
+
+735
+00:39:48,880 --> 00:39:51,080
+但我觉得这样最好
+But I think this is for the best.
+
+736
+00:39:51,080 --> 00:39:53,050
+雇佣出色人才的问题就在于
+Well, the problem with hiring great people
+
+737
+00:39:53,050 --> 00:39:54,810
+每个人都想把他们撬走
+is everyone wants to steal them away.
+
+738
+00:39:55,450 --> 00:39:57,890
+很感激你能这么善解人意
+I appreciate you being so understanding.
+
+739
+00:39:57,900 --> 00:39:59,840
+-我们会想念你的  康纳  -谢谢
+- You'll be missed, Connor.  - Thank you.
+
+740
+00:40:06,910 --> 00:40:09,210
+赛斯  是我  他刚离开了
+Seth, it's me. He just left.
+
+741
+00:40:09,210 --> 00:40:10,650
+和他谈谈  然后发一篇新闻稿
+Talk to him and put out a press release.
+
+742
+00:40:10,650 --> 00:40:12,430
+尽可能地平稳过渡
+Let's make this as smooth as possible.
+
+743
+00:40:14,210 --> 00:40:16,770
+我感兴趣的有两个机会
+It's two opportunities I'm interested in.
+
+744
+00:40:16,770 --> 00:40:21,600
+家族连锁餐厅  和零售烧烤酱
+Family-oriented restaurant chain and a retail barbecue sauce.
+
+745
+00:40:22,630 --> 00:40:23,890
+具体是什么内容
+What would that look like?
+
+746
+00:40:23,890 --> 00:40:26,890
+我们给你一笔预付款来购买你的品牌使用权
+We give you an upfront payment for the right to use your brand.
+
+747
+00:40:27,310 --> 00:40:29,310
+不管这两项投资是否失败
+Either venture fails, or they both do,
+
+748
+00:40:29,310 --> 00:40:30,900
+那些钱都还是你的
+you still get to keep that money.
+
+749
+00:40:32,390 --> 00:40:33,990
+那是多少钱啊
+How much money we talking?
+
+750
+00:40:34,130 --> 00:40:36,930
+只要你签合同  九万五千
+95,000 as soon as you sign.
+
+751
+00:40:37,600 --> 00:40:40,380
+如果买卖成功了  你还会有收益分红
+And then you'd have a share of the profits if we're successful.
+
+752
+00:40:42,140 --> 00:40:43,800
+分红怎么分
+What would the shares be?
+
+753
+00:40:44,410 --> 00:40:47,680
+这样吧  我草拟一份合同
+I'll tell you what. Let me draw up papers.
+
+754
+00:40:47,680 --> 00:40:50,070
+你好好看一遍  然后给你的律师看一遍
+You look them over. You show them to your lawyer.
+
+755
+00:40:50,070 --> 00:40:51,610
+我没有律师
+I don't have a lawyer.
+
+756
+00:40:51,610 --> 00:40:52,990
+那你得找一个了
+Well, you should get one.
+
+757
+00:40:53,640 --> 00:40:55,560
+我不想让你觉得自己被骗了
+I don't want you to feel like you're being cheated.
+
+758
+00:40:57,290 --> 00:40:58,500
+你还有疑虑
+You're skeptical.
+
+759
+00:41:02,060 --> 00:41:03,070
+听着
+Look,
+
+760
+00:41:05,390 --> 00:41:07,350
+要不是想买肋排
+money usually don't come through that door
+
+761
+00:41:07,350 --> 00:41:09,830
+一般没人送钱上门
+unless it's looking for a plate of ribs.
+
+762
+00:41:10,470 --> 00:41:12,970
+我们想卖成千上百的肋排
+And we want to sell thousands of those plates.
+
+763
+00:41:12,980 --> 00:41:15,310
+如果加盟店建立起来  将数以百万计
+Millions, if the franchise builds.
+
+764
+00:41:15,870 --> 00:41:18,430
+《太阳报》的文章让你名声大噪
+The Sun article put you on the map.
+
+765
+00:41:18,850 --> 00:41:21,570
+让我们用弗莱迪烧烤连锁店撑起这个名声
+Let's fill up that map with Freddy's barbecue joints.
+
+766
+00:41:29,210 --> 00:41:31,240
+-你在看什么  -你说什么
+- What are you looking at?  - Excuse me?
+
+767
+00:41:32,540 --> 00:41:34,190
+刀在厨房里
+The knives are in the kitchen.
+
+768
+00:41:34,190 --> 00:41:37,370
+你有枪  不用一直盯着我  
+You have a pistol. You can stop staring.
+
+769
+00:41:41,330 --> 00:41:43,070
+他来了吗  丹
+Is he in here? Dan!
+
+770
+00:41:44,740 --> 00:41:46,320
+-你好吗  -挺好
+- How are you? - Good.
+
+771
+00:41:46,320 --> 00:41:47,390
+要喝一杯吗
+Care for a drink?
+
+772
+00:41:47,390 --> 00:41:48,250
+不用了
+I'm good.
+
+773
+00:41:48,250 --> 00:41:50,550
+我们去客厅吧  那里更舒服
+Well, let's, uh, go into the living room. It's more cozy.
+
+774
+00:41:50,550 --> 00:41:52,030
+这里就挺好
+Uh, I'm just fine where I am.
+
+775
+00:41:52,030 --> 00:41:53,230
+也行  你先下去吧
+Well, all right. Uh, thank you.
+
+776
+00:41:53,230 --> 00:41:54,340
+是  先生
+Yes, sir.
+
+777
+00:41:58,400 --> 00:42:01,040
+你一定告诉雷蒙德我请你来这儿了吧
+I'm sure you've told Raymond that I've asked you here.
+
+778
+00:42:01,450 --> 00:42:02,160
+哪个雷蒙德
+Raymond who?
+
+779
+00:42:02,160 --> 00:42:04,260
+在我面前你不用装  丹
+Oh, you don't have to pretend, Dan.
+
+780
+00:42:04,260 --> 00:42:05,950
+冯证实了你的企图
+Feng confirmed what you're up to.
+
+781
+00:42:05,950 --> 00:42:07,200
+我没听过这人
+Name doesn't ring a bell.
+
+782
+00:42:07,210 --> 00:42:08,280
+我有航班记录
+I have flight records.
+
+783
+00:42:08,280 --> 00:42:10,740
+他的一架飞机多次飞往堪萨斯城
+One of his planes to Kansas City on multiple occasions.
+
+784
+00:42:10,740 --> 00:42:12,710
+我们还要继续玩下去吗
+Do we really have to play this game?
+
+785
+00:42:13,180 --> 00:42:16,670
+我来是因为我以为你有什么好提议
+I came here because I thought you might have something to offer.
+
+786
+00:42:16,670 --> 00:42:18,520
+不如直接切入正题吧
+Why don't we just skip to that part.
+
+787
+00:42:21,520 --> 00:42:24,000
+你一直是个忠诚的捐助人  丹
+You've been a loyal contributor, Dan.
+
+788
+00:42:24,000 --> 00:42:25,340
+你为我们募集资金
+You've thrown us fundraisers.
+
+789
+00:42:25,340 --> 00:42:28,610
+有很多我们握手的照片
+There are pictures of you and I shaking hands.
+
+790
+00:42:28,610 --> 00:42:31,130
+所以无论你这一季度做了什么  
+So whatever you've done this quarter
+
+791
+00:42:31,130 --> 00:42:32,300
+都可以一笔勾销
+can be forgotten.
+
+792
+00:42:32,310 --> 00:42:36,270
+但你的资金得停止流往错误的方向
+But I need the money to stop flowing in the wrong direction.
+
+793
+00:42:36,270 --> 00:42:38,790
+我还在等你的提议
+I'm still waiting for the offer.
+
+794
+00:42:38,790 --> 00:42:39,910
+你是个商人  丹
+You're a businessman, Dan,
+
+795
+00:42:39,910 --> 00:42:42,890
+-我知道利益是你的首要考虑  -没错
+- so I know your primary concern is profits. - Well, that's right.
+
+796
+00:42:42,890 --> 00:42:47,280
+但我现在要给你比金钱更有价值的东西
+But I'm offering you something that's far more valuable than money:
+
+797
+00:42:47,280 --> 00:42:49,970
+直通白宫的关系线
+a direct line to the White House.
+
+798
+00:42:49,970 --> 00:42:51,510
+听上去太含糊
+That sounds vague to me.
+
+799
+00:42:51,510 --> 00:42:53,610
+我对印第安人事务局有影响力
+I have influence over the BIA.
+
+800
+00:42:53,610 --> 00:42:55,430
+关于联邦赌博立法
+Over federal gambling legislation.
+
+801
+00:42:55,430 --> 00:42:58,850
+我已经靠捐款买到了这种影响力
+The sort of influence that my contributions have already bought.
+
+802
+00:42:58,850 --> 00:43:02,970
+但我没有直接参与  你在总统那边也说不上话
+Not with my direct involvement and the president's ear.
+
+803
+00:43:03,950 --> 00:43:05,770
+你知道我最喜欢钱哪一点吗
+You know what I like about money?
+
+804
+00:43:06,580 --> 00:43:10,000
+我能把钱摞在桌子上
+I can stack it on a table, like this one.
+
+805
+00:43:10,000 --> 00:43:12,290
+我能用尺子去丈量它
+I can measure it with a yardstick.
+
+806
+00:43:12,690 --> 00:43:15,160
+我能看见它  闻到它的味道  
+I can see it, smell it,
+
+807
+00:43:15,610 --> 00:43:17,350
+用它买任何东西
+buy things with it.
+
+808
+00:43:17,350 --> 00:43:22,320
+房子  车子  衣服  实实在在的东西
+Houses, cars, clothes. Things that are real.
+
+809
+00:43:22,580 --> 00:43:25,580
+你得让我看到更多诚意
+You're gonna have to show up with more than beads.
+
+810
+00:43:25,580 --> 00:43:29,440
+丹  我请你来我家是因为我认为
+Dan, I invited you to my home because I thought --
+
+811
+00:43:29,450 --> 00:43:30,690
+从后门
+Through the back door.
+
+812
+00:43:31,910 --> 00:43:32,810
+你说什么  
+Excuse me?
+
+813
+00:43:33,090 --> 00:43:34,740
+让我从后门进来  像佣人一样
+Through the back door, like a servant.
+
+814
+00:43:34,740 --> 00:43:36,810
+特勤局要求所有人都从后门进
+The Secret Service makes everyone come in that way.
+
+815
+00:43:36,810 --> 00:43:37,780
+这是防范措...
+It's a precautionary meas--
+
+816
+00:43:37,780 --> 00:43:40,290
+除非你给我的钱能多过塔斯克
+Unless you're gonna offer me more money than Tusk --
+
+817
+00:43:40,290 --> 00:43:42,100
+而我认为你做不到
+and I don't think that you can --
+
+818
+00:43:42,110 --> 00:43:44,560
+否则我们就没什么商量余地
+there's little left for us to talk about.
+
+819
+00:43:44,560 --> 00:43:47,610
+我现在向你提供机会和
+I am offering you an alliance with a man
+
+820
+00:43:47,610 --> 00:43:52,860
+在宾夕法尼亚大街1600号工作的人结盟
+who goes to work every day at 1600 Pennsylvania Avenue.
+
+821
+00:43:47,610 --> 00:43:52,860
+{\an8}即白宫
+
+822
+00:43:52,860 --> 00:43:56,230
+我从不信任任何白人
+I don't place my faith in any white man.
+
+823
+00:43:56,230 --> 00:43:59,420
+尤其是为联邦政府做事的白人
+Especially one that works for the federal government.
+
+824
+00:44:00,200 --> 00:44:02,280
+我和你一样  丹
+I am just like you, Dan.
+
+825
+00:44:02,280 --> 00:44:03,740
+我知道白手起家  
+I know what it means to start from nothing,
+
+826
+00:44:03,740 --> 00:44:05,040
+杀出一条路的艰辛
+to have to fight your way --
+
+827
+00:44:05,040 --> 00:44:08,470
+你根本不知道我走到今天的艰辛
+You know nothing about what it means to be me.
+
+828
+00:44:08,970 --> 00:44:12,930
+你所谓的白手起家  比我起步的时候要阔绰得多
+Your version of nothing was light years ahead of where I started.
+
+829
+00:44:12,930 --> 00:44:15,330
+我尊重你  丹  我重视你
+I respect you, Dan. I take you serious--
+
+830
+00:44:15,330 --> 00:44:18,930
+等我在乎你的尊重时  我会告诉你的
+I'll let you know when I give a fuck about your respect.
+
+831
+00:44:21,210 --> 00:44:23,900
+郝利戴  送拉尼根出去
+Holiday? Show Lanagin out.
+
+832
+00:44:24,840 --> 00:44:26,830
+我知道后门在哪
+I know where the back door is.
+
+833
+00:44:33,230 --> 00:44:34,450
+弗兰西斯
+Francis?
+
+834
+00:44:43,700 --> 00:44:47,040
+没摔坏  我能修好
+It's not broken. I can fix it.
+
+835
+00:44:51,580 --> 00:44:53,210
+别管它了  我一会儿收拾
+Leave it. I'll clean up later.
+
+836
+00:45:02,410 --> 00:45:06,100
+我们去跑步  让你消消火  
+Let's go for a run. Burn off some of this steam.
+
+837
+00:45:12,790 --> 00:45:13,790
+先生
+Sir?
+
+838
+00:45:15,700 --> 00:45:16,660
+我马上出来
+I'll be out in a moment.
+
+839
+00:45:16,660 --> 00:45:18,250
+我先走  你赶上我
+I'll go ahead. You catch up.
+
+840
+00:45:18,640 --> 00:45:21,020
+你上飞机前为什么没联系我
+Why didn't you reach out, before you got on a plane?
+
+841
+00:45:21,030 --> 00:45:23,520
+我担心我们的通讯被监视了
+I was afraid our communication might be monitored.
+
+842
+00:45:23,700 --> 00:45:24,900
+和拉尼根进展如何
+Where are we with Lanagin?
+
+843
+00:45:24,900 --> 00:45:26,820
+没有进展  你和冯呢
+Nowhere. Where are we with Feng?
+
+844
+00:45:26,820 --> 00:45:29,580
+我们也许有条路  但不太好走
+We might have an option, but it's gonna be tricky.
+
+846
+00:45:48,880 --> 00:46:18,880
+{\an5}{\pos(193,145)}2010年以前  美国选举法规定
+任何个人和组织向政治行动委员会捐款
+每次选举不能超过5000美元
+但是这个规定因为美国最高法院的一个判决而改变
+2008年  美国前第一夫人希拉里作为候选人参加民主党总统初选
+一个叫做"公民联合"的组织制作了一个攻击希拉里的纪录片打算在电视上播放
+但地方法院裁定该纪录片性质上等同于竞选广告
+在播出时间和制作费用上违反了选举法的有关规定
+"公民联合"于是将此事诉诸最高法院
+2010年1月  最高法院的9名法官以5比4的投票结果
+裁定当时施行的相关选举法法规违宪
+根据这个判决  美国的商业公司  工会组织和社会团体
+向政治行动委员会捐款时  不应该有数额限制
+超级政治行动委员会应运而生
+
+848
+00:46:18,880 --> 00:46:48,880
+{\an5}{\pos(193,145)}"Super PAC"是"独立支出政治活动委员会"的别称
+在美国  候选人参加政治选举
+或者一些社会机构想要对各级政府议会的立法行为进行影响和游说时
+需要成立"政治委员会"来向社会募集资金
+而这种独立的委员会之所以被媒体冠以"超级"的绰号
+则是因为个人或机构向这种委员会进行捐款没有金额上限
+在美国这样一个金钱和政治紧密难分的社会里
+"无上限"的捐款  自然会带来"超级"的政治影响
+"超级委员会"同普通政治行动委员会的不同之处还在于
+该机构不能同其所支持的候选人进行沟通
+亦不能在政治活动中进行协调
+就是说  如果一个"超级委员会"支持某个共和党候选人
+想要在报纸上登广告替该候选人宣传拉票
+事先不能知会该候选人  而候选人也不能对广告内容发表意见
+
+850
+00:46:48,880 --> 00:47:18,880
+{\an5}{\pos(193,145)}2012年的共和党总统初选
+是"超级委员会"首次登上全国性的政治舞台
+根据美国联邦选举委员会公布的数据
+在2012美国总统大选初选阶段
+有近四百家"超级委员会"筹集了一亿多美元的竞选资金
+针对2004年美国议会选举的一项统计结果显示
+90%以上的选举中都是资金最多的候选人获胜
+毫无疑问  在美国的政治制度中
+金钱是一个不可或缺的基本元素
+"超级委员会"便是这种金钱政治中最新出场的一支生力军
+
+851
+00:02:40,350 --> 00:02:41,770
+{\an7}{\pos(56.2,99.6)}翻译  somehacker
+
+852
+00:02:42,350 --> 00:02:43,770
+{\an7}{\pos(250.6,102.3)}翻译  小饭
+
+853
+00:02:44,440 --> 00:02:45,810
+{\an7}{\pos(72.4,241)}翻译  宅女之后
+
+854
+00:02:46,810 --> 00:02:48,190
+{\an7}{\pos(75.56,101.58)}翻译  章鱼X
+
+855
+00:02:48,610 --> 00:02:49,980
+{\an7}{\pos(239,241)}翻译  某豚
+
+856
+00:02:50,230 --> 00:02:51,610
+{\an7}{\pos(73.2,97.8)}翻译  艾瑞卡
+
+857
+00:02:52,490 --> 00:02:53,900
+{\an7}{\pos(52.68,239.2)}翻译  香茗小焙
+
+858
+00:02:53,990 --> 00:02:55,400
+{\an7}{\pos(241,243.7)}翻译  卫老哥
+
+859
+00:02:56,240 --> 00:02:57,620
+{\an7}{\pos(65.4,247.3)}翻译  痒痒
+
+860
+00:02:58,200 --> 00:02:59,620
+{\an7}{\pos(271.2,258.9)}翻译  葉某人
+
+861
+00:03:00,870 --> 00:03:02,290
+{\an7}{\pos(231.48,259.9)}时间轴  旅行的木讷
+
+862
+00:03:03,290 --> 00:03:04,710
+{\an7}{\pos(73.6,47.5)}时间轴  aaaBao
+
+863
+00:03:04,830 --> 00:03:06,670
+{\an7}{\pos(243,201.4)}时间轴  吉吉
+
+864
+00:03:06,960 --> 00:03:08,830
+{\an7}{\pos(66.6,195.1)}后期  饿得慌
+
+865
+00:03:09,630 --> 00:03:11,420
+{\an7}{\pos(257,203.4)}特效  宝宝
+
+866
+00:03:11,670 --> 00:03:13,590
+{\an7}{\pos(145.4,191)}顾问  老杜
+
+867
+00:03:13,800 --> 00:03:15,720
+{\an7}{\pos(98.2,256.5)}校对  草草
+
+868
+00:03:16,510 --> 00:03:18,430
+{\an7}{\pos(49.6,243.6)}总监  草草
+
+869
+00:04:00,050 --> 00:04:02,850
+{\pos(196,180)}纸牌屋
+
+870
+00:04:00,050 --> 00:04:02,850
+{\an2}{\pos(203.84,238.92)}第二季  第七集
+
+871
+00:04:00,050 --> 00:04:02,850
+{\pos(180,265)}人人影视倾情奉献
+

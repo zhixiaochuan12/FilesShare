@@ -1,0 +1,4660 @@
+﻿1
+00:10:19,930 --> 00:10:22,390
+{\an8}普契尼歌剧
+
+2
+00:10:19,930 --> 00:10:22,390
+{\an8}蝴蝶夫人
+
+3
+00:23:24,130 --> 00:23:25,800
+{\an8}{\pos(263.4,54)}安德伍德国际
+
+4
+00:23:25,800 --> 00:23:26,510
+{\an8}{\pos(263.4,54)}安德伍德国际
+
+5
+00:23:26,260 --> 00:23:27,220
+{\an8}{\pos(263.4,54)}安德伍德国际
+
+6
+00:24:13,260 --> 00:24:14,010
+{\an8}{\pos(79.8,108)}戴维营
+
+7
+00:24:14,010 --> 00:24:15,100
+{\an8}{\pos(79.8,108)}戴维营
+
+8
+00:24:15,100 --> 00:24:21,600
+{\an8}{\pos(79.8,108)}戴维营
+
+9
+00:36:23,340 --> 00:36:37,550
+{\an8}{\pos(268.2,222.3)}白宫观察
+
+10
+00:36:23,340 --> 00:36:37,550
+{\an8}{\pos(189,203.4)}华盛顿爆发抗议  沃克总统未表态
+
+11
+00:36:37,550 --> 00:36:54,690
+{\an8}{\pos(128.4,189.9)}梅杰·加勒特
+
+12
+00:36:37,550 --> 00:36:54,690
+{\an8}{\pos(148.8,207.9)}CBS新闻网首席白宫记者
+
+13
+00:36:54,690 --> 00:37:02,410
+{\an8}{\pos(268.2,222.3)}白宫观察
+
+14
+00:36:54,690 --> 00:37:02,410
+{\an8}{\pos(189,203.4)}华盛顿爆发抗议  沃克总统未表态
+
+15
+00:37:02,410 --> 00:37:04,570
+{\an8}{\pos(127.2,186.3)}斯科特·瑟曼
+
+16
+00:37:02,410 --> 00:37:04,570
+{\an8}{\pos(126,207)}ABC七台新闻组
+
+17
+00:37:04,570 --> 00:37:06,370
+{\an8}{\pos(127.2,186.3)}艾拉·萨伊德
+
+18
+00:37:04,570 --> 00:37:06,370
+{\an8}{\pos(126,207)}《华尔街电讯报》
+
+19
+00:37:06,370 --> 00:37:09,700
+{\an8}{\pos(127.2,186.3)}斯科特·瑟曼
+
+20
+00:37:06,370 --> 00:37:09,700
+{\an8}{\pos(126,207)}ABC七台新闻组
+
+21
+00:37:09,700 --> 00:37:20,050
+{\an8}{\pos(108,186.3)}斯科特·瑟曼
+
+22
+00:37:09,700 --> 00:37:20,050
+{\an8}{\pos(106.8,207)}ABC七台新闻组
+
+23
+00:37:09,700 --> 00:37:20,050
+{\an8}{\pos(247.2,187.2)}艾拉·萨伊德
+
+24
+00:37:09,700 --> 00:37:20,050
+{\an8}{\pos(246,207.9)}《华尔街电讯报》
+
+25
+00:37:20,050 --> 00:37:26,350
+{\an8}{\pos(127.2,186.3)}艾拉·萨伊德
+
+26
+00:37:20,050 --> 00:37:26,350
+{\an8}{\pos(126,207)}《华尔街电讯报》
+
+27
+00:37:26,350 --> 00:37:28,510
+{\an8}{\pos(108,186.3)}斯科特·瑟曼
+
+28
+00:37:26,350 --> 00:37:28,510
+{\an8}{\pos(106.8,207)}ABC七台新闻组
+
+29
+00:37:26,350 --> 00:37:28,510
+{\an8}{\pos(247.2,187.2)}艾拉·萨伊德
+
+30
+00:37:26,350 --> 00:37:28,510
+{\an8}{\pos(246,207.9)}《华尔街电讯报》
+
+31
+00:47:27,400 --> 00:47:37,870
+{\an8}{\pos(191.4,214.2)}重大新闻
+
+32
+00:47:27,400 --> 00:47:37,870
+{\an8}{\pos(257.4,223.2)}副总统抵达戴维营
+
+33
+00:49:30,150 --> 00:49:36,740
+{\an8}总统先生收
+
+34
+00:00:00,700 --> 00:00:03,890
+我们的总统不仅服用精神药物
+We have a president who not only took mind-altering medication --
+
+35
+00:00:03,890 --> 00:00:06,180
+当美国舰队与中国对峙时
+a man who has his finger on the button
+
+36
+00:00:06,180 --> 00:00:08,530
+他可以随时批准实施打击
+while U.S. Ships are squaring off with China --
+
+37
+00:00:08,530 --> 00:00:11,770
+还授意他的白宫顾问去干预...
+but then instructed his White House counsel to coach a --
+
+38
+00:00:11,780 --> 00:00:13,610
+据称  先生  没有被证实
+Allegedly, sir. Not proven.
+
+39
+00:00:13,610 --> 00:00:17,920
+去干预证人  他的做法
+To coach a witness. Which is behavior either resulting
+
+40
+00:00:17,920 --> 00:00:19,520
+要么是受药物影响  要么更糟
+from the use of those drugs, or worse,
+
+41
+00:00:19,520 --> 00:00:21,770
+是有意想践踏法律
+a deliberate attempt to obstruct the law.
+
+42
+00:00:21,780 --> 00:00:24,740
+你不觉得两种情况都该被弹劾吗
+Now wouldn't you call either scenario impeachable?
+
+43
+00:00:24,740 --> 00:00:27,310
+那该由国会决定  先生  而不是我
+That's for the United States Congress to decide, sir. Not me.
+
+44
+00:00:27,310 --> 00:00:30,340
+你知道总统在服用任何药物吗
+Were you aware that the president was taking any form of medication?
+
+45
+00:00:30,340 --> 00:00:31,620
+不  我不知道
+No, I was not.
+
+46
+00:00:31,620 --> 00:00:33,710
+你注意到他举止古怪吗
+Did you notice him acting in a bizarre fashion?
+
+47
+00:00:33,720 --> 00:00:35,910
+-情绪不稳  语无伦次  -没有  先生
+- Unstable, incoherent? - No, sir.
+
+48
+00:00:35,910 --> 00:00:38,250
+-有任何奇怪的行为吗  -没有  先生
+- Any odd behavior? - No, sir.
+
+49
+00:00:38,250 --> 00:00:41,520
+在贸易战之际解雇幕僚长不算吗
+Not even firing his chief of staff in the midst of a trade war?
+
+50
+00:00:41,530 --> 00:00:44,020
+他没有解雇我  是我主动辞职的
+He didn't fire me. I resigned.
+
+51
+00:00:44,020 --> 00:00:45,500
+你能告诉我们为什么吗
+Would you tell us why?
+
+52
+00:00:46,370 --> 00:00:49,390
+我辞职是因为我觉得自己无法
+I resigned because I felt I could no longer
+
+53
+00:00:49,390 --> 00:00:51,780
+再以最好的状态为总统服务
+serve the president to the best of my ability.
+
+54
+00:00:51,780 --> 00:00:54,730
+发生了什么变化  是什么让你得出那样的结论
+And what changed? How did you come to that conclusion?
+
+55
+00:00:56,150 --> 00:00:59,240
+我与白宫中的某些人
+I had some fundamental differences of opinion
+
+56
+00:00:59,240 --> 00:01:01,310
+基本理念不合
+with certain people in the White House.
+
+57
+00:01:01,310 --> 00:01:02,630
+比如谁  总统吗
+Like who? The president?
+
+58
+00:01:02,630 --> 00:01:04,000
+不  先生
+No, sir.
+
+59
+00:01:04,000 --> 00:01:05,580
+那某些人是指谁
+Well, what certain people then?
+
+60
+00:01:06,380 --> 00:01:07,610
+实际上只有一个人
+One person, actually.
+
+61
+00:01:07,610 --> 00:01:10,040
+副总统  弗兰克·安德伍德
+The vice president, Frank Underwood.
+
+62
+00:01:10,040 --> 00:01:11,730
+他想让你离开吗
+He wanted you gone?
+
+63
+00:01:11,870 --> 00:01:15,950
+我不敢说副总统想怎么样  不想怎么样
+I can't speak as to what the vice president did or didn't want.
+
+64
+00:01:15,950 --> 00:01:17,760
+他想要隐藏什么吗
+Was he trying to hide anything?
+
+65
+00:01:17,760 --> 00:01:20,430
+他是不是怕你曝光什么
+Was he afraid you might expose something?
+
+66
+00:01:20,430 --> 00:01:21,890
+那你得去问他  先生
+You'd have to ask him, sir.
+
+67
+00:01:22,250 --> 00:01:25,110
+司法委员会正在上演的是一出闹剧
+What's happening in the Judiciary Committee is a farce.
+
+68
+00:01:25,110 --> 00:01:26,840
+共和党正在利用这种...
+The Republicans are exploiting the situ--
+
+69
+00:01:26,840 --> 00:01:28,890
+插一句  副总统先生
+Excuse me, Mr. Vice President,
+
+70
+00:01:28,890 --> 00:01:31,020
+不仅仅是共和党
+but it's not just Republicans.
+
+71
+00:01:31,020 --> 00:01:33,460
+不少民主党人也站出来说
+A number of Democrats have come out saying
+
+72
+00:01:33,460 --> 00:01:35,470
+他们支持弹劾
+they would support impeachment.
+
+73
+00:01:35,470 --> 00:01:37,750
+包括多数党党鞭  杰姬·夏普
+Including the Majority Whip, Jackie Sharp.
+
+74
+00:01:37,760 --> 00:01:39,200
+这令人发指
+Which is egregious,
+
+75
+00:01:39,200 --> 00:01:41,410
+因为委员会还在进行听证
+since the committee hasn't stopped hearing testimony,
+
+76
+00:01:41,410 --> 00:01:44,480
+特别检察官也没有完成调查
+and nor has the special prosecutor completed her investigation.
+
+77
+00:01:44,480 --> 00:01:46,720
+你极力维护总统
+You vigorously defend the president,
+
+78
+00:01:46,720 --> 00:01:48,880
+但有报道称你们已经闹僵
+but there are reports that you've had a falling out.
+
+79
+00:01:48,880 --> 00:01:50,610
+你们好几个星期没说过话了
+That you haven't spoken in weeks.
+
+80
+00:01:50,610 --> 00:01:52,090
+一派胡言
+That is simply not true.
+
+81
+00:01:52,090 --> 00:01:54,660
+我与白宫的高级官员通过话
+I've spoken to senior staff at the White House
+
+82
+00:01:54,660 --> 00:01:59,000
+他说总统担心你会在2016年大选中与他竞争
+who say the president is worried you want to run against him in 2016.
+
+83
+00:01:59,000 --> 00:02:01,610
+而就在今天  琳达·瓦斯奎兹暗指你...
+And just today Linda Vasquez intimated that you --
+
+84
+00:02:01,610 --> 00:02:04,940
+我相信总统一定会在2016年竞选连任
+Look, I fully expect that the president will run in 2016,
+
+85
+00:02:04,940 --> 00:02:07,100
+而且我希望他能够慷慨地邀请我
+and I hope he's generous enough to invite me
+
+86
+00:02:07,100 --> 00:02:08,390
+作他的竞选伙伴
+to be his running mate.
+
+87
+00:02:08,390 --> 00:02:11,050
+弹劾  定罪  如果是这个结果呢
+Impeachment, conviction. Let's say it happens.
+
+88
+00:02:11,050 --> 00:02:13,020
+不会的  他完全是无辜的
+It won't. He's completely innocent.
+
+89
+00:02:13,020 --> 00:02:15,140
+我们假设一下  你成了总统
+Let's say it does happen. You become president.
+
+90
+00:02:15,140 --> 00:02:17,050
+我不会去想象那个情形
+That is not a scenario I'm going to entertain.
+
+91
+00:02:17,050 --> 00:02:19,290
+但你脑中肯定有过这个想法
+But the thought must have crossed your mind.
+
+92
+00:02:19,290 --> 00:02:21,790
+而且可以说  如果不是因为你
+And one could make the argument that the president
+
+93
+00:02:21,790 --> 00:02:24,950
+总统也不会陷入这样的窘境
+wouldn't be in this predicament if it weren't for you.
+
+94
+00:02:24,950 --> 00:02:27,950
+是你的幕僚长与冯和拉尼根的牵连
+It's your staff's involvement with Feng and Lanagin
+
+95
+00:02:27,950 --> 00:02:30,110
+才引发了邓巴的调查
+that expanded Dunbar's investigation,
+
+96
+00:02:30,110 --> 00:02:32,390
+-随之发现了出行记录  -这些弹劾听证
+- which resulted in the travel logs - Look, these impeachment hearings
+
+97
+00:02:32,390 --> 00:02:34,340
+是政治操纵的结果
+are the result of political maneuvering,
+
+98
+00:02:34,340 --> 00:02:37,260
+-而不是  -是你在操纵还是共和党
+- not the fact that-- - Your maneuverings, or the Republicans?
+
+99
+00:02:37,530 --> 00:02:41,010
+莫里  我一直很喜欢你  你的问题很尖锐
+Morley, I've always liked you. You ask the tough questions.
+
+100
+00:02:41,020 --> 00:02:43,370
+你当然可以质疑我的判断
+And you can certainly question my judgment.
+
+101
+00:02:43,370 --> 00:02:45,880
+但不要质疑我的爱国心
+But do not question my patriotism.
+
+102
+00:02:45,890 --> 00:02:49,830
+我为国家和总统服务  而不是我自己
+I serve this nation and my president, not myself.
+
+103
+00:02:49,830 --> 00:02:51,040
+他满口谎言
+He's lying through his teeth.
+
+104
+00:02:51,040 --> 00:02:52,970
+我们所做的已经见效了
+What we're doing is working.
+
+105
+00:02:52,970 --> 00:02:55,100
+让大家一直私下谈论
+We keep the whisper campaign alive.
+
+106
+00:02:55,100 --> 00:02:57,760
+我们让他显得渴望权利  显得奸诈
+We spin him as power-hungry, as duplicitous.
+
+107
+00:02:57,770 --> 00:02:59,510
+将焦点集中在他身上  而不是您
+Focus attention on him. Not you.
+
+108
+00:02:59,520 --> 00:03:01,190
+最新支持率是多少  20%吗
+What's the latest? 20%?
+
+109
+00:03:01,190 --> 00:03:04,530
+佐格比的数据是24%  您的讲话起了作用
+Zogby has you at 24. Your speech made a difference.
+
+110
+00:03:04,530 --> 00:03:07,270
+支持率正在上升
+The approval numbers are moving in the right direction.
+
+111
+00:03:09,060 --> 00:03:11,360
+我们不能再这么小打小闹了
+We need to do more than play the spin game.
+
+112
+00:03:12,340 --> 00:03:16,460
+我们要打垮弗兰克  让他而不是我去当牺牲品
+We need to destroy Frank. Offer his head instead of mine.
+
+113
+00:03:18,410 --> 00:03:20,980
+-我们利用雷蒙德·塔斯克  -怎么利用
+- We use Raymond Tusk. - How?
+
+114
+00:03:20,980 --> 00:03:24,460
+在他的听证会上  在他去司法委员会时
+At his hearing. When he goes to the Judiciary.
+
+115
+00:03:24,460 --> 00:03:27,940
+先生  您已经被指控干预一个证人了
+Sir, you're already being accused of coaching one witness.
+
+116
+00:03:27,940 --> 00:03:28,750
+如果您再干预另一...
+If you take steps to coach anoth--
+
+117
+00:03:28,760 --> 00:03:30,720
+不是干预  是让他说出事实
+Not coaching. The truth.
+
+118
+00:03:31,250 --> 00:03:32,960
+雷蒙德承认洗钱
+Raymond admits to the money laundering,
+
+119
+00:03:32,960 --> 00:03:36,260
+把弗兰克推到风口浪尖  说我什么都不知道
+puts Frank at the center of this, and says I knew nothing.
+
+120
+00:03:36,260 --> 00:03:38,940
+之后我们会回报他的诚实
+And then we'll reward him for his honesty.
+
+121
+00:03:38,940 --> 00:03:40,710
+您是说特赦吗
+You mean a pardon.
+
+122
+00:03:43,590 --> 00:03:45,450
+我想让你跟他去谈
+I want you to talk to him.
+
+123
+00:03:45,450 --> 00:03:47,180
+让我自己陷于危险之中吗
+And put myself at risk?
+
+124
+00:03:47,180 --> 00:03:49,580
+你现在不在政府供职了
+Well, you're not part of this administration anymore.
+
+125
+00:03:49,590 --> 00:03:52,900
+没有法律规定你不能去拜访雷蒙德·塔斯克
+There's no law that says you can't pay Raymond Tusk a visit.
+
+126
+00:03:52,900 --> 00:03:57,560
+作为回报  辞职也不非得永久有效  琳达
+And in return, resignations don't have to last forever, Linda.
+
+127
+00:04:01,300 --> 00:04:05,670
+如果我这么做  您得和我保持距离  越远越好
+If I do this, you have to be a million miles away.
+
+128
+00:04:06,180 --> 00:04:08,050
+特莉莎和我会去戴维营
+Tricia and I'll go to Camp David.
+
+129
+00:04:08,060 --> 00:04:12,640
+不算特别远  但也够了
+It's not a million miles away, but it'll do the job.
+
+130
+00:04:13,520 --> 00:04:15,500
+我可以对琳达下手  调查她的过去
+I can go after Linda. Dig into her past --
+
+131
+00:04:15,500 --> 00:04:18,140
+搞定她解决不了大问题
+Neutralizing her won't neutralize the bigger problem.
+
+132
+00:04:18,140 --> 00:04:20,580
+是总统想要我的命
+It's the president that's after blood.
+
+133
+00:04:20,580 --> 00:04:21,600
+那他打算怎么做
+Then what's his move?
+
+134
+00:04:21,600 --> 00:04:24,580
+他不能要求我辞职  只能把我挤走
+He can't ask me to resign. He'd have to force me out.
+
+135
+00:04:25,480 --> 00:04:28,530
+要挤走我的话  如果我是他
+And to do that, if I were him,
+
+136
+00:04:29,790 --> 00:04:32,630
+肯定会回去找最初成就我的人
+I would return to the hand that first fed me.
+
+137
+00:04:32,630 --> 00:04:34,900
+-雷蒙德·塔斯克吗  -没错
+- Raymond Tusk? - Exactly.
+
+138
+00:04:34,900 --> 00:04:37,220
+不会  他要是把你卷进去  他自己也难保
+No, he'd have to implicate himself to implicate you.
+
+139
+00:04:37,320 --> 00:04:39,280
+除非他能得到赦免
+Not if he gets a pardon.
+
+140
+00:04:39,280 --> 00:04:42,390
+这是唯一只有总统才能开出的条件
+It's the one thing that only a president can offer.
+
+141
+00:04:42,390 --> 00:04:44,140
+塔斯克是个手榴弹  如果他赦免了他...
+Tusk is a hand grenade. If he pardons him --
+
+142
+00:04:44,140 --> 00:04:46,030
+没错  塔斯克是个手榴弹
+You're right. Tusk is a hand grenade,
+
+143
+00:04:46,030 --> 00:04:48,200
+我们得拽下保险栓  朝沃克扔过去
+and we need to pull the pin and throw him at Walker
+
+144
+00:04:48,200 --> 00:04:50,830
+否则就是沃克拽下保险栓  扔向我们了
+before Walker pulls the pin and throws him at us.
+
+145
+00:04:51,300 --> 00:04:53,950
+我得和雷蒙德见面  一对一
+I want to meet with Raymond, one on one.
+
+146
+00:04:53,950 --> 00:04:55,510
+我代表你去谈吧
+Let me speak on your behalf.
+
+147
+00:04:55,510 --> 00:04:57,090
+-这样的话  如果有人发现  -我了解雷蒙德
+- That way if anyone finds -- -I know Raymond.
+
+148
+00:04:57,090 --> 00:04:59,220
+他只会对我做出回应
+He won't respond to anyone but me.
+
+149
+00:04:59,230 --> 00:05:00,460
+他的听证会安排在什么时候
+When's his hearing scheduled?
+
+150
+00:05:00,460 --> 00:05:03,670
+后天下午两点
+Uh, day after tomorrow. Two p.m.
+
+151
+00:05:04,120 --> 00:05:08,490
+-那我们还有40个小时行动  -是  先生
+- That gives us 40 hours to make it happen. - Yes, sir.
+
+152
+00:06:56,940 --> 00:06:58,280
+可能是我的手机
+I think it's mine.
+
+153
+00:07:02,740 --> 00:07:04,790
+赛斯  现在可是凌晨四点
+Seth, it's four in the morning.
+
+154
+00:07:07,170 --> 00:07:08,210
+什么时候
+When?
+
+155
+00:07:08,420 --> 00:07:09,640
+我希望你跟她一起去
+I want you to go with her.
+
+156
+00:07:09,640 --> 00:07:12,110
+-我这就去征求洛克兰的批准  -谢谢
+- I'll get it cleared with Rockland right now. -Thank you.
+
+157
+00:07:14,930 --> 00:07:17,390
+密查姆说飞机30分钟内就能准备好
+Meechum says the plane will be ready in 30 minutes.
+
+158
+00:07:17,400 --> 00:07:18,580
+行  好
+Okay, good.
+
+159
+00:07:19,140 --> 00:07:20,340
+你觉得只是恐慌症发作
+You think it was just a panic attack
+
+160
+00:07:20,340 --> 00:07:22,050
+-还是她真打算...  -我不知道
+- or was she really trying -- -I don't know.
+
+161
+00:07:22,050 --> 00:07:24,580
+他们要她留院观察一整夜就够糟了
+It was bad enough they felt they had to keep her overnight.
+
+162
+00:07:24,580 --> 00:07:26,210
+我给白宫医生办公室打个电话
+I'm gonna call the White House physician's office,
+
+163
+00:07:26,210 --> 00:07:28,030
+-看看他们能不能推荐什么人 -好
+- see if they can recommend anyone. - Okay.
+
+164
+00:07:28,030 --> 00:07:30,610
+-等等  我的手机  -在你手里
+- Oh, wait. My phone. - It's in your hand.
+
+165
+00:07:33,230 --> 00:07:34,870
+我今晚回来
+I'll be back sometime tonight.
+
+166
+00:07:36,510 --> 00:07:39,230
+弹劾是我们唯一的机会
+Impeachment is our only chance.
+
+167
+00:07:40,020 --> 00:07:43,000
+这些席位在中期选举中仍处于争夺状态
+Here are the seats that are still in contention in the midterms.
+
+168
+00:07:43,000 --> 00:07:44,990
+这13个我们再怎么努力也会失去
+These 13 we're gonna lose no matter what we do.
+
+169
+00:07:44,990 --> 00:07:46,960
+但即便我们拿下剩下所有席位
+But even if we win all the rest,
+
+170
+00:07:46,960 --> 00:07:50,030
+我们也只有五个席位的优势
+that only leaves us with a five-seat majority.
+
+171
+00:07:50,640 --> 00:07:52,640
+要么保党  要么保总统
+We either save the party or we save the president.
+
+172
+00:07:52,640 --> 00:07:55,290
+任何人反对弹劾的人
+Anyone who votes against impeachment
+
+173
+00:07:55,290 --> 00:07:58,520
+在选举前都会受到攻击性广告的攻击
+is gonna get pommeled by attack ads between now and election day.
+
+174
+00:07:58,520 --> 00:08:00,060
+你已经有多少票了
+How many do you have already?
+
+175
+00:08:00,060 --> 00:08:02,720
+我们需要18票  我只有六票
+We need 18. I have six.
+
+176
+00:08:02,720 --> 00:08:05,520
+那还要争取12票
+So, 12 more to go.
+
+177
+00:08:06,000 --> 00:08:10,250
+唐纳德  我知道这是个很大的人情
+Look, Donald, I know this is a big ask
+
+178
+00:08:10,250 --> 00:08:12,440
+你更想把注意力放在政策上  不...
+and you prefer to focus on policy and not --
+
+179
+00:08:12,440 --> 00:08:16,250
+杰姬  不用说了  我加入
+Jackie, you can stop. I'm on board.
+
+180
+00:08:16,250 --> 00:08:18,380
+-真的吗  - 百分百
+- Really? - 100%.
+
+181
+00:08:19,220 --> 00:08:21,670
+不得不说  我有点惊讶
+I have to say I'm a little surprised.
+
+182
+00:08:21,670 --> 00:08:24,210
+你把那些手推车推进休息室的时候  你说
+When you rolled those dollies into the cloakroom you said,
+
+183
+00:08:24,210 --> 00:08:27,850
+"跟我合作  我不是弗兰克·安德伍德"
+"Work with me. I'm not Frank Underwood."
+
+184
+00:08:28,620 --> 00:08:31,450
+然后你帮我通过了经济刺激方案
+And then you helped get my stimulus package through,
+
+185
+00:08:31,450 --> 00:08:33,050
+你信守了诺言
+just like you promised.
+
+186
+00:08:35,060 --> 00:08:37,370
+这次你有什么期望呢
+And what do you expect this time?
+
+187
+00:08:37,390 --> 00:08:40,020
+我希望你永远不会成为弗兰克·安德伍德
+That you never become Frank Underwood.
+
+188
+00:08:40,740 --> 00:08:44,620
+你要知道  如果我们成功了  他会取代沃克
+You must realize if we're successful, he will replace Walker.
+
+189
+00:08:44,620 --> 00:08:48,530
+我不喜欢弗兰克  但我更讨厌成为少数党
+I don't like Frank. but I hate being in the minority even more.
+
+190
+00:08:48,530 --> 00:08:51,710
+我们不能让共和党同时执掌国会两院
+We can't let the Republicans control both houses of Congress.
+
+191
+00:08:52,650 --> 00:08:54,970
+我加入领导层以来  你变了
+You've changed since I joined the leadership.
+
+192
+00:08:54,970 --> 00:08:57,690
+只是更懂得如何玩这场游戏了
+Just getting better at playing the game.
+
+193
+00:08:58,850 --> 00:09:01,530
+看来顽固不化这词不太对
+I guess you can teach an old liberal new tricks.
+
+194
+00:09:02,640 --> 00:09:04,060
+看来是的
+I guess so.
+
+195
+00:09:06,080 --> 00:09:08,500
+告诉我你还需要谁
+So, tell me who you still need.
+
+196
+00:09:08,710 --> 00:09:12,730
+我的律师说我赢得庭审的概率是一半一半
+My lawyers are saying 50/50 that I survive a trial.
+
+197
+00:09:12,740 --> 00:09:15,380
+我不太满意这个数字
+Now, I'm not a big fan of those odds,
+
+198
+00:09:15,680 --> 00:09:17,320
+但我愿意接受
+but I'm willing to take 'em.
+
+199
+00:09:17,320 --> 00:09:19,420
+如果你的律师说这事就看运气
+If your lawyers are putting it at a coin toss,
+
+200
+00:09:19,420 --> 00:09:22,160
+那你是花钱雇了一群太过乐观的人
+then you're paying them too much to be overly optimistic.
+
+201
+00:09:22,160 --> 00:09:23,470
+我怎么能信任加勒特
+And how can I trust Garrett?
+
+202
+00:09:23,470 --> 00:09:25,640
+他背叛了20年的友谊
+He turned his back on 20 years of friendship.
+
+203
+00:09:25,640 --> 00:09:27,460
+他也可以这么说你
+He could accuse you of the same.
+
+204
+00:09:30,830 --> 00:09:32,370
+这地球上没有人
+Well, nobody on this planet
+
+205
+00:09:32,370 --> 00:09:35,320
+比我更想看弗兰克·安德伍德进监狱了
+wants to see Frank Underwood go to jail more than I do.
+
+206
+00:09:36,000 --> 00:09:38,450
+我只是不想到时跟他关在一起
+I just don't want to be sharing a cell with him.
+
+207
+00:09:38,450 --> 00:09:39,820
+这种事不会发生的
+That won't happen.
+
+208
+00:09:40,540 --> 00:09:43,800
+你只给了我加勒特的口头承诺
+All you've given me to go on is Garrett's word.
+
+209
+00:09:43,810 --> 00:09:46,180
+他想让你说出实情
+He's asking you to tell the truth.
+
+210
+00:09:46,190 --> 00:09:48,760
+做正确的事的人必有好报
+Good things happen to those who do the right thing.
+
+211
+00:09:51,640 --> 00:09:54,330
+你们就指望弗兰克会跪地求饶
+And you just expect Frank to lie down,
+
+212
+00:09:54,340 --> 00:09:55,720
+举旗认输吗
+throw in the towel, hmm?
+
+213
+00:09:55,720 --> 00:09:56,720
+连求饶的机会也不给他
+We don't even give him the chance.
+
+214
+00:09:56,720 --> 00:09:59,080
+你的证词会让他全无反击之力
+Your testimony knocks him out cold.
+
+215
+00:10:00,620 --> 00:10:01,800
+请稍等
+Excuse me.
+
+216
+00:10:06,540 --> 00:10:08,920
+什么事  啊  多谢你
+Yes? Oh, thank you.
+
+217
+00:10:08,950 --> 00:10:10,070
+请等一下
+Hold on.
+
+218
+00:10:12,870 --> 00:10:14,010
+给你
+There you go.
+
+219
+00:10:27,930 --> 00:10:29,930
+我妻子送的小礼物
+Care package from my wife.
+
+220
+00:10:33,500 --> 00:10:35,610
+那么  请继续
+Now, you were saying.
+
+221
+00:10:40,120 --> 00:10:43,630
+我得提醒你一下  她现在完全不在状态
+I just want to warn you, she's not herself right now.
+
+222
+00:10:44,120 --> 00:10:46,550
+他们不得不给她服用了大剂量的药物
+They had to put her on some heavy doses.
+
+223
+00:10:46,550 --> 00:10:47,730
+什么药
+Of what?
+
+224
+00:10:47,730 --> 00:10:49,410
+主要是碳酸锂[抗躁狂药]
+Lithium, mostly.
+
+225
+00:10:49,690 --> 00:10:52,620
+不然就得留院观察30天了
+It was either that or commit her for 30 days.
+
+226
+00:10:52,920 --> 00:10:55,700
+她刚吃了药  可能有点...
+Now she just took some, so she might be a little...
+
+227
+00:11:03,900 --> 00:11:04,960
+梅根
+Megan?
+
+228
+00:11:27,270 --> 00:11:28,390
+别碰我
+Stop.
+
+229
+00:11:41,390 --> 00:11:44,880
+你妈妈告诉我他们从湖里救起了你
+Your mom told me they found you in the lake.
+
+230
+00:11:46,510 --> 00:11:47,880
+你管我呢
+What do you care?
+
+231
+00:11:48,440 --> 00:11:49,980
+我非常关心你
+I care very much.
+
+232
+00:11:52,980 --> 00:11:54,210
+才怪
+No, you don't.
+
+233
+00:11:57,110 --> 00:11:59,560
+没人会利用他们关心的人
+You don't use somebody you care about.
+
+234
+00:12:05,560 --> 00:12:06,620
+娼妓
+Whore.
+
+235
+00:12:07,820 --> 00:12:08,950
+荡妇
+Slut.
+
+236
+00:12:10,460 --> 00:12:11,570
+婊子
+Bitch.
+
+237
+00:12:12,890 --> 00:12:14,040
+叛徒
+Traitor.
+
+238
+00:12:15,760 --> 00:12:17,270
+他们就是这么说我的
+That's what they call me.
+
+239
+00:12:18,190 --> 00:12:21,020
+发邮件  在网上
+In my mail. Online.
+
+240
+00:12:23,050 --> 00:12:25,210
+真希望我没打那通电话
+I wish I'd never called.
+
+241
+00:12:25,950 --> 00:12:27,850
+真希望我没见过你
+I wish I'd never met you.
+
+242
+00:12:28,800 --> 00:12:32,070
+你说什么我信什么  真是蠢透了
+I feel so stupid believing what you told me.
+
+243
+00:12:32,350 --> 00:12:34,340
+我还以为你真心关心我
+Thinking that you did care.
+
+244
+00:12:35,340 --> 00:12:37,090
+我本来都快恢复了
+I was getting better.
+
+245
+00:12:38,480 --> 00:12:40,050
+这全怨你
+You did this to me.
+
+246
+00:12:44,820 --> 00:12:47,440
+我每吃一片药  都会想到他
+Every time I take one of these I think of him.
+
+247
+00:12:48,340 --> 00:12:50,380
+接下来我想到的
+And the next face I think of?
+
+248
+00:12:51,310 --> 00:12:52,540
+就是你
+It's yours.
+
+249
+00:12:57,230 --> 00:13:00,770
+你觉得被利用了  我很遗憾
+I'm sorry that you felt used.
+
+250
+00:13:02,500 --> 00:13:03,770
+我没有利用你
+You weren't.
+
+251
+00:13:06,610 --> 00:13:08,130
+我只是
+I just, um...
+
+252
+00:13:10,870 --> 00:13:13,790
+就像我说的  政治风向变了  而且
+like I told you, the political landscape shifted and --
+
+253
+00:13:13,790 --> 00:13:17,620
+而我们发现
+and we found...
+
+254
+00:13:23,030 --> 00:13:24,070
+梅根
+Megan?
+
+255
+00:13:41,160 --> 00:13:42,210
+你好
+Hello?
+
+256
+00:13:42,680 --> 00:13:44,290
+我收到你的短信了
+I got your text.
+
+257
+00:13:45,920 --> 00:13:48,240
+我知道我不该联系你  但我觉得
+I know I shouldn't be reaching out to you, but I thought...
+
+258
+00:13:48,240 --> 00:13:50,860
+不  没关系  我很高兴你通知了我
+No, that doesn't matter. I'm glad you did.
+
+259
+00:13:51,090 --> 00:13:52,170
+她怎么样
+How is she?
+
+260
+00:13:54,580 --> 00:13:55,930
+状态很不好
+In bad shape.
+
+261
+00:13:56,520 --> 00:13:59,670
+说实话我很吃惊他们还敢让她离开医院
+I'm surprised they even let her out of the hospital, to be honest.
+
+262
+00:14:00,090 --> 00:14:01,670
+有什么我能做的吗
+Is there anything I can do?
+
+263
+00:14:02,250 --> 00:14:05,200
+用不用我联系她的亲人  亲自去探望她
+Should I contact her family or go out there myself?
+
+264
+00:14:06,460 --> 00:14:08,330
+我们最好不要打扰她了
+We should probably leave her alone.
+
+265
+00:14:09,470 --> 00:14:10,730
+你还好吗
+Are you okay?
+
+266
+00:14:12,680 --> 00:14:15,250
+我没事  你呢
+I'm fine. How about you?
+
+267
+00:14:15,430 --> 00:14:17,420
+还撑得住
+Uh, holding up.
+
+268
+00:14:19,420 --> 00:14:21,960
+和律师商量了一整天
+Spent the whole day talking to lawyers.
+
+269
+00:14:23,580 --> 00:14:25,110
+这对孩子们太不容易了
+It's hard on the kids.
+
+270
+00:14:26,310 --> 00:14:29,390
+他们既窘迫又害怕
+They're embarrassed and frightened.
+
+271
+00:14:29,760 --> 00:14:31,150
+但我们会熬过去的
+But we'll get through it.
+
+272
+00:14:32,260 --> 00:14:35,630
+我觉得你和加勒特的讲话很感人
+I thought the speech you and Garrett gave was very moving.
+
+273
+00:14:35,630 --> 00:14:37,550
+似乎起了点作用
+Well, it seems to have helped some.
+
+274
+00:14:38,170 --> 00:14:40,200
+其实我是受你的启发
+I was inspired by you, actually.
+
+275
+00:14:40,960 --> 00:14:44,730
+你敢于在电视上承认堕过胎
+When you admitted to the abortion on TV.
+
+276
+00:14:45,110 --> 00:14:46,900
+真相往往很有冲击力
+The truth is a powerful thing.
+
+277
+00:14:51,760 --> 00:14:55,550
+特莉莎  我想向你道歉
+Tricia, I want to apologize.
+
+278
+00:14:55,950 --> 00:14:57,060
+为什么
+What for?
+
+279
+00:14:57,670 --> 00:14:59,610
+你的家庭所经历的这些变故
+I feel partly responsible for everything
+
+280
+00:14:59,610 --> 00:15:01,550
+我觉得我有一部分责任
+your family's going through.
+
+281
+00:15:04,370 --> 00:15:07,300
+是我建议你们去见咨询师
+It was my suggestion that you get counseling.
+
+282
+00:15:08,480 --> 00:15:11,340
+早知今日  我当初就什么都不会说了
+And had I known then, I never would have said a word.
+
+283
+00:15:11,340 --> 00:15:15,240
+克莱尔  别这么说  见咨询师效果很好
+Claire, please. Counseling was a godsend.
+
+284
+00:15:16,070 --> 00:15:17,200
+加勒特和我需要帮助
+Garrett and I needed help,
+
+285
+00:15:17,200 --> 00:15:18,580
+而且也确实起了作用
+and it's made things better.
+
+286
+00:15:18,580 --> 00:15:20,020
+我应该感谢你
+I should be thanking you.
+
+287
+00:15:20,600 --> 00:15:22,840
+还要感谢你把梅根的事告诉我
+And thank you for letting me know about Megan.
+
+288
+00:15:23,360 --> 00:15:25,700
+你能去看她  真是好心
+It was kind of you to make that trip.
+
+289
+00:15:26,200 --> 00:15:27,590
+你是个好人  克莱尔
+You're a good person, Claire.
+
+290
+00:15:28,930 --> 00:15:30,080
+保重
+Be well.
+
+291
+00:17:22,650 --> 00:17:25,160
+我估计你是想说听证会的事
+I take it this is about my hearing.
+
+292
+00:17:26,340 --> 00:17:28,430
+是不是沃克联系过你了
+Did Walker get to you first?
+
+293
+00:17:28,590 --> 00:17:29,620
+没比你快多少
+Barely.
+
+294
+00:17:29,920 --> 00:17:32,810
+但有时候  哪怕只快一点也足够了
+But sometimes barely is enough.
+
+295
+00:17:32,810 --> 00:17:35,250
+他肯定提出给你特赦
+I'm sure he offered you a pardon.
+
+296
+00:17:35,250 --> 00:17:38,680
+提供竞争对手给不了的  才是高招
+Always better to offer something your competitor can't.
+
+297
+00:17:40,410 --> 00:17:42,220
+但我能给你更好的
+Oh, but I can.
+
+298
+00:17:44,140 --> 00:17:46,180
+据我所知  宪法规定的
+The last time I read the Constitution,
+
+299
+00:17:46,180 --> 00:17:49,190
+副总统能给的最有价值的东西也就是...
+the most a vice president could offer was, um,
+
+300
+00:17:49,820 --> 00:17:51,160
+陪陪笑脸  递递眼色了
+smile and a wink.
+
+301
+00:17:51,160 --> 00:17:55,130
+我想我已经证明我不是一般的副总统
+I think I've proven that I'm not your typical vice president.
+
+302
+00:17:55,130 --> 00:17:57,730
+一般或不一般  你都输了  弗兰克
+Typical or not, you've lost, Frank.
+
+303
+00:17:58,290 --> 00:18:00,380
+我还有出路  你没有
+I have an out. You don't.
+
+304
+00:18:00,970 --> 00:18:04,580
+加勒特撑不过弹劾的
+Garrett will not survive impeachment.
+
+305
+00:18:05,080 --> 00:18:07,460
+你绝不能否认
+If there's one skill you can't deny,
+
+306
+00:18:07,460 --> 00:18:09,800
+我拉选票的能力
+it's my ability to whip votes.
+
+307
+00:18:09,800 --> 00:18:12,920
+那是在众议院  不是在参议院
+In the House. Not in the Senate.
+
+308
+00:18:12,920 --> 00:18:16,100
+但依据宪法  我是参议院的主席
+Which the Constitution makes me the President of.
+
+309
+00:18:16,100 --> 00:18:18,870
+你也看到我是怎么通过福利改革了
+And you saw what I did with entitlement.
+
+310
+00:18:18,870 --> 00:18:22,300
+傲慢使你自以为了不起了  弗兰克
+Hubris is giving you delusions of grandeur, Frank.
+
+311
+00:18:24,140 --> 00:18:26,710
+就算沃克侥幸逃过一劫
+Let's say Walker squeaks by.
+
+312
+00:18:26,710 --> 00:18:28,520
+是的  你能得到特赦
+Yes, you get your pardon.
+
+313
+00:18:28,520 --> 00:18:30,520
+但你却把自己跟一个
+But you've bound yourself at the hip
+
+314
+00:18:30,520 --> 00:18:33,090
+没有任何政治资本的人拴在一起了
+to a man who has zero political capital.
+
+315
+00:18:37,940 --> 00:18:40,270
+如果他被定罪  我们都要坐牢
+And if he gets convicted, we all go to jail.
+
+316
+00:18:40,270 --> 00:18:42,430
+谁都没有特赦了
+There's no pardon for anyone.
+
+317
+00:18:42,650 --> 00:18:44,240
+我愿意赌一把
+I'll roll the dice.
+
+318
+00:18:48,300 --> 00:18:51,710
+雷蒙德  用你的商业头脑想想
+Raymond, think like a businessman.
+
+319
+00:18:51,710 --> 00:18:55,510
+你不就是靠尽量减小风险积累财富的吗
+Haven't you built a fortune by minimizing risk?
+
+320
+00:18:55,720 --> 00:18:58,660
+这不就是你这些年用钱堆砌国会
+Isn't that why you stacked Congress all these years,
+
+321
+00:18:58,660 --> 00:19:00,290
+引领加勒特当上总统
+why you guided Garrett to the Oval,
+
+322
+00:19:00,290 --> 00:19:02,870
+留我当党鞭的原因吗
+and why you kept me on as Whip?
+
+323
+00:19:03,550 --> 00:19:07,320
+沃克是个垃圾股  贬值得快
+Walker is a junk bond quickly depreciating,
+
+324
+00:19:07,320 --> 00:19:09,890
+而我可以迅速解决和中国的贸易战
+whereas I can end the conflict with China
+
+325
+00:19:09,890 --> 00:19:11,970
+还能保你不坐牢
+and keep you in the black.
+
+326
+00:19:11,970 --> 00:19:15,100
+你没法保证改善和中国的关系
+You can't promise better relations with China.
+
+327
+00:19:15,580 --> 00:19:18,720
+我破坏的  我也能修复
+I wrecked them. I can repair them.
+
+328
+00:19:19,530 --> 00:19:24,510
+一起合作吧  就如我们起初打算的那样
+Now let's work together, as we always intended to do.
+
+329
+00:19:34,890 --> 00:19:39,390
+等你被关进棺材大的牢房里
+When they put you in that box barely bigger than a coffin,
+
+330
+00:19:42,880 --> 00:19:46,410
+记住今晚这美妙的音乐吧
+remember how beautiful the music was tonight.
+
+331
+00:19:49,100 --> 00:19:52,680
+或许能让你稍微好受点
+It might give you some small degree of comfort.
+
+332
+00:19:56,340 --> 00:20:01,000
+普契尼太伤感  我喜欢积极向上的
+Puccini's a downer. I prefer something much more optimistic.
+
+333
+00:20:10,510 --> 00:20:13,370
+他们不肯放布朗  审判日期已经定了
+They won't touch Brown. The trial date is set.
+
+334
+00:20:13,370 --> 00:20:15,200
+他们可以减少指控
+They can reduce the charges.
+
+335
+00:20:15,200 --> 00:20:17,750
+达拉斯不愿让步  如果我继续施压
+Dallas won't give. If I keep pressing,
+
+336
+00:20:17,750 --> 00:20:19,900
+会显得可疑
+it'll start to look suspect.
+
+337
+00:20:19,900 --> 00:20:23,760
+我能确保你不被起诉
+What I can do is make sure you don't get prosecuted.
+
+338
+00:20:23,920 --> 00:20:25,540
+还有我不再替你工作
+And I stop working for you.
+
+339
+00:20:25,540 --> 00:20:27,600
+不全是  我跟检察官说
+Not quite. I told the U.S. Attorney
+
+340
+00:20:27,600 --> 00:20:29,870
+我们想让你为我们工作
+that we wanted to bring you on with us.
+
+341
+00:20:30,310 --> 00:20:33,060
+网络恐怖主义分局  你的案底将一笔勾销
+Cyber terrorism division. You'd get a clean slate, as --
+
+342
+00:20:33,060 --> 00:20:34,400
+门都没有
+No fucking way.
+
+343
+00:20:34,660 --> 00:20:36,230
+他们不会就那么放弃你
+They're not gonna let your case go
+
+344
+00:20:36,230 --> 00:20:38,180
+除非我们给他们充分的理由
+unless we give them a compelling reason.
+
+345
+00:20:38,180 --> 00:20:40,590
+-没别的  -我跟调查局斗争了半辈子
+- There's no o - I've spent half my life fighting the Bureau.
+
+346
+00:20:40,590 --> 00:20:42,830
+我只能这么说
+It's the only way I could sell it.
+
+347
+00:20:42,830 --> 00:20:45,160
+抓住机会  嘉文
+Take this opportunity, Gavin,
+
+348
+00:20:45,160 --> 00:20:47,230
+趁他们还没改主意
+before they change their minds.
+
+349
+00:20:47,230 --> 00:20:49,090
+我要见道格拉斯·斯坦普
+I want to meet with Douglas Stamper.
+
+350
+00:20:50,560 --> 00:20:53,610
+不行  我们说好了我帮你找出路
+No. The deal was I find you a way out.
+
+351
+00:20:53,620 --> 00:20:56,180
+说好的是你帮布朗脱身并且还我自由
+No, the deal was you help out Brown and you give me my freedom.
+
+352
+00:20:56,180 --> 00:20:57,350
+你没为布朗办成任何事
+You haven't done shit for Brown,
+
+353
+00:20:57,350 --> 00:20:59,390
+还想继续控制我
+and you still want to keep me under your thumb.
+
+354
+00:20:59,890 --> 00:21:02,100
+让我见斯坦普  否则一切免谈
+So I meet Stamper, or any kinda deal is off.
+
+355
+00:21:16,660 --> 00:21:18,180
+雷蒙德没答应
+Raymond said no.
+
+356
+00:21:18,910 --> 00:21:20,230
+他没表态
+He said neither yes nor no.
+
+357
+00:21:20,230 --> 00:21:21,720
+我会继续施压
+I'll keep the pressure on.
+
+358
+00:21:21,720 --> 00:21:23,720
+他还是有可能指证你
+So he could still name you.
+
+359
+00:21:23,720 --> 00:21:25,550
+是的  一切皆有可能
+He could. Anything's possible.
+
+360
+00:21:25,550 --> 00:21:26,710
+你得阻止他
+Well, you have to stop him.
+
+361
+00:21:26,710 --> 00:21:27,960
+我在尝试
+I'm trying.
+
+362
+00:21:27,960 --> 00:21:29,580
+尝试远远不够  弗兰西斯
+Well, trying's not enough, Francis.
+
+363
+00:21:29,580 --> 00:21:31,380
+我总不能在听证会上坐在他旁边
+Well, I can't sit next to him in the hearing room
+
+364
+00:21:31,380 --> 00:21:32,700
+拿枪抵着他头
+with a gun to his head.
+
+365
+00:21:32,700 --> 00:21:34,220
+这听起来像在找借口
+Now that sounds like an excuse.
+
+366
+00:21:34,220 --> 00:21:35,510
+事实就是这样
+It's a reality.
+
+367
+00:21:35,510 --> 00:21:38,540
+你答应过  我不用做最坏的打算
+You promised me I wasn't going to have to prepare for the worst.
+
+368
+00:21:38,540 --> 00:21:40,030
+我也打算信守诺言
+And I intend to keep that promise.
+
+369
+00:21:40,030 --> 00:21:42,920
+我想确保  我们都要确定会没事
+Well, I want to be sure. I want both of us to be sure.
+
+370
+00:21:42,920 --> 00:21:46,290
+唯一万无一失的办法  就是让沃克阻止他
+The only surefire way is for Walker to call him off personally.
+
+371
+00:21:46,290 --> 00:21:47,870
+那就去办
+Then make that happen.
+
+372
+00:21:47,870 --> 00:21:50,220
+我不能逼一个拿我当敌人的人
+I cannot force a man who thinks I'm his enemy
+
+373
+00:21:50,220 --> 00:21:52,170
+突然把我当朋友
+to suddenly call me his friend.
+
+374
+00:21:53,650 --> 00:21:55,810
+我该做的都做了
+I've done what I had to do.
+
+375
+00:21:57,120 --> 00:21:59,170
+现在轮到你了
+Now you do what you have to do.
+
+376
+00:22:00,290 --> 00:22:02,810
+勾引他  把你的心交给他
+Seduce him. Give him your heart.
+
+377
+00:22:02,810 --> 00:22:05,300
+挖出来放在他手上
+Cut it out and put it in his fucking hands.
+
+378
+00:23:15,240 --> 00:23:16,820
+亲爱的总统先生
+Dear Mr. President,
+
+379
+00:23:17,810 --> 00:23:19,730
+我正在用我离开桑蒂诺时
+I'm writing on an Underwood portable
+
+380
+00:23:19,730 --> 00:23:22,580
+我父亲给我的安德伍德打字机给您写信
+my father gave me when I left for the Sentinel.
+
+381
+00:23:22,990 --> 00:23:25,830
+我父亲将它给我时说了些话
+It was the words my father said when he gave it to me
+
+382
+00:23:25,830 --> 00:23:29,620
+比这台七十多年的机器更让我能产生共鸣
+that have resonated even more than this 70-year-old machine.
+
+383
+00:23:31,990 --> 00:23:35,020
+"这个安德伍德建立了一个商业帝国"他说
+"This Underwood built an empire," He said.
+
+384
+00:23:35,280 --> 00:23:37,590
+"现在该你去建立一个属于你自己的帝国了"
+"Now you go and build one of your own."
+
+385
+00:23:38,930 --> 00:23:42,880
+这些话一直激励着我
+Those words have been a large part of what has motivated my life.
+
+386
+00:23:45,250 --> 00:23:48,230
+我只用这台打字机写过另一封信
+I've only written one other letter with these keys.
+
+387
+00:23:48,990 --> 00:23:53,530
+那封信不辱使命  希望这次也一样
+It did not fail me then. I hope it will not fail me now.
+
+388
+00:23:54,950 --> 00:23:56,960
+您说我想削弱您
+You said I wanted to diminish you.
+
+389
+00:23:57,150 --> 00:23:58,820
+实际上  我没有
+The truth is, I don't.
+
+390
+00:23:59,110 --> 00:24:01,950
+您说我想在2016年跟您竞争
+You said I wanted to challenge you in 2016.
+
+391
+00:24:02,000 --> 00:24:03,800
+实际上  我没有
+The truth is, I don't.
+
+392
+00:24:03,950 --> 00:24:06,560
+您说我想自己当总统
+You said I wanted the presidency for myself.
+
+393
+00:24:06,560 --> 00:24:07,910
+实际上
+The truth is,
+
+394
+00:24:09,690 --> 00:24:10,780
+我的确想
+I do.
+
+395
+00:24:12,330 --> 00:24:14,630
+哪个政客没想过
+What politician hasn't dreamed about what it would be like
+
+396
+00:24:14,630 --> 00:24:17,870
+宣誓执掌国家最高权力
+to take the oath of the highest office of our land?
+
+397
+00:24:18,660 --> 00:24:22,040
+我曾盯着您的总统办公桌看  觊觎它
+I've stared at your desk in the Oval and coveted it.
+
+398
+00:24:22,040 --> 00:24:24,260
+权力  威望
+The power, the prestige.
+
+399
+00:24:24,260 --> 00:24:27,810
+那些东西对我这样一个来自南卡罗来纳州
+Those things have a strong pull on someone like me,
+
+400
+00:24:27,810 --> 00:24:32,730
+一座小镇  曾一无所有的人来说有致命的吸引力
+who came from a small South Carolina town with nothing.
+
+401
+00:24:33,600 --> 00:24:35,180
+但自您就职时起
+But since you assumed office,
+
+402
+00:24:35,180 --> 00:24:37,760
+我唯一的目标就是为您而战
+my only aim has been to fight for you
+
+403
+00:24:37,760 --> 00:24:39,930
+与您并肩作战
+and alongside you,
+
+404
+00:24:39,930 --> 00:24:42,440
+无论是在国会还是现在
+whether that be in Congress or as now,
+
+405
+00:24:42,440 --> 00:24:44,400
+在这场弹劾之战中
+the battle over impeachment.
+
+406
+00:24:45,020 --> 00:24:49,070
+或许有一天  我有幸能成为总统
+Maybe one day I'll have my chance to serve as president,
+
+407
+00:24:49,070 --> 00:24:52,000
+但绝不是您在任期间
+but not while you are the nation's leader.
+
+408
+00:24:52,670 --> 00:24:56,800
+在您身上  我看到了勇敢
+And in you, sir, I see a brave man.
+
+409
+00:24:56,800 --> 00:25:01,040
+看到了正直  您是我愿意永远追随的总统
+A just man. A president whom I would follow anywhere,
+
+410
+00:25:01,040 --> 00:25:04,300
+无论我们遇到多大的阻力
+no matter how strong the wind blows against us.
+
+411
+00:25:10,110 --> 00:25:13,510
+有一件事我从没对任何人说过
+I want to tell you something I have never told anyone:
+
+412
+00:25:13,510 --> 00:25:17,190
+我13岁那年在谷仓里撞见我父亲
+When I was 13 I walked in on my father in the barn.
+
+413
+00:25:17,540 --> 00:25:19,790
+他把猎枪伸到嘴里
+There was a shotgun in his mouth.
+
+414
+00:25:20,240 --> 00:25:23,340
+他朝我摆了摆手说道"过来  弗兰西斯
+He waved me over. "Come here, Francis," He said.
+
+415
+00:25:23,950 --> 00:25:25,810
+替我扣动扳机"
+"Pull the trigger for me."
+
+416
+00:25:26,250 --> 00:25:28,910
+因为他没有勇气自己做
+Because he didn't have the courage to do it himself.
+
+417
+00:25:29,200 --> 00:25:30,620
+我说"不  爸爸"  就离开了
+I said, "No, Papa," And walked out,
+
+418
+00:25:30,620 --> 00:25:33,140
+我知道他永远没有那个勇气
+knowing he would never find that courage.
+
+419
+00:25:33,580 --> 00:25:36,070
+接下来的七年里  我父亲生不如死
+The next seven years were hell for my father,
+
+420
+00:25:36,070 --> 00:25:38,690
+但我母亲和我更加痛苦
+but even more hell for my mother and me.
+
+421
+00:25:39,000 --> 00:25:40,910
+他令我们都苦不堪言
+He made all of us miserable.
+
+422
+00:25:41,090 --> 00:25:43,980
+酗酒  绝望  暴力
+Drinking, despair, violence.
+
+423
+00:25:44,290 --> 00:25:48,970
+我一生中唯一的后悔  就是当时没扣动扳机
+My only regret in life is that I didn't pull that trigger.
+
+424
+00:25:49,420 --> 00:25:50,960
+死亡对他来说会是种解脱
+He would have been better off in the grave,
+
+425
+00:25:50,960 --> 00:25:52,960
+没有他我们也会过得更好
+and we would have been better off without him.
+
+426
+00:25:53,940 --> 00:25:55,900
+我不会让您陷入同样的境地
+I'm not going to put you in the same position
+
+427
+00:25:55,900 --> 00:25:57,820
+像我父亲对我那样
+as my father put me in.
+
+428
+00:25:58,520 --> 00:26:01,880
+信中附上了一张纸
+You will find enclosed on a separate sheet
+
+429
+00:26:01,890 --> 00:26:05,170
+上面供认了所有您被指控的罪名
+a confession to the crimes you have been accused of.
+
+430
+00:26:05,460 --> 00:26:09,060
+都是假的  但我的签名会使它们成真
+They're false words, but my signature will make them true.
+
+431
+00:26:09,780 --> 00:26:11,780
+有必要的话就用吧
+Use them if you must.
+
+432
+00:26:13,410 --> 00:26:17,050
+如果您真的认为我的所作所为都是为了自己
+If you truly believe that I have only served myself,
+
+433
+00:26:17,060 --> 00:26:19,490
+那么我已经永远失去了您的信任
+then I have forever lost your trust.
+
+434
+00:26:19,840 --> 00:26:24,840
+我现在能做的  只有献出自己的自由以保住您
+All I can do now is give you my freedom to save your own.
+
+435
+00:26:25,590 --> 00:26:27,930
+我说过我会替您承担责任
+I said I would take the fall for you,
+
+436
+00:26:27,930 --> 00:26:31,130
+现在我把方法告诉了您
+and now I give you the means to make that happen.
+
+437
+00:26:31,780 --> 00:26:34,030
+我要自己扣动扳机
+I am pulling the trigger myself.
+
+438
+00:26:35,070 --> 00:26:38,460
+为了实现梦想我们都要做出牺牲
+We all must make sacrifices to achieve our dream,
+
+439
+00:26:38,460 --> 00:26:42,120
+但有时为了大局必须牺牲自己
+but sometimes we must sacrifice ourselves for the greater good.
+
+440
+00:26:42,380 --> 00:26:45,220
+做出这样的牺牲是我的荣幸
+It is my honor to make such a sacrifice now.
+
+441
+00:26:46,060 --> 00:26:48,960
+您忠实的朋友  至少我仍这样认为
+Your loyal friend, still in my heart,
+
+442
+00:26:48,960 --> 00:26:51,880
+即便您不这么想  弗兰西斯
+if not in yours, Francis.
+
+443
+00:27:01,060 --> 00:27:03,650
+宪法列出了一般原则
+The Constitution sets forth the general principles --
+
+444
+00:27:03,650 --> 00:27:05,650
+先生  总统的电话
+Sir? The president's on the phone.
+
+445
+00:27:20,850 --> 00:27:22,120
+总统先生
+Mr. President.
+
+446
+00:27:22,760 --> 00:27:26,790
+我收到信了  我让特莉莎也看了
+I got your letter. I had Tricia read it, too.
+
+447
+00:27:28,890 --> 00:27:33,140
+我很纠结  弗兰克  一半认为你是恳诚的
+I'm torn, Frank. Half of me wants to think you're genuine.
+
+448
+00:27:33,570 --> 00:27:36,530
+另一半却一个字也不信
+The other half doesn't trust a word of it.
+
+449
+00:27:36,530 --> 00:27:38,170
+特莉莎也这么想吗
+Does Tricia feel the same way?
+
+450
+00:27:38,270 --> 00:27:41,700
+她信任克莱尔  所以她也想相信你
+She believes in Claire, which inclines her to believe in you.
+
+451
+00:27:42,410 --> 00:27:44,020
+我字字发自肺腑
+I meant every syllable.
+
+452
+00:27:44,860 --> 00:27:47,550
+我想让您百分之百地相信
+I wanted you to know beyond a shadow of a doubt
+
+453
+00:27:47,550 --> 00:27:49,900
+我愿做任何必要的事
+that I am willing to do whatever is necessary.
+
+454
+00:27:50,310 --> 00:27:52,530
+那么  我为什么抛不开疑虑呢
+Well, then why can't I shake the shadow?
+
+455
+00:27:53,230 --> 00:27:55,170
+因为我是个骗子  先生
+Because I'm a liar, sir.
+
+456
+00:27:56,360 --> 00:27:59,740
+因为我无所顾忌  甚至可以说没有同情心
+Because I lack scruples and some would even say compassion.
+
+457
+00:28:00,380 --> 00:28:02,920
+但那只是我展示给世人的一面
+But that's just the image that I present to the world
+
+458
+00:28:02,920 --> 00:28:05,620
+因为那能使人害怕  让人尊敬我
+because it elicits fear and respect.
+
+459
+00:28:05,840 --> 00:28:07,990
+但我不是那样的人
+But it is not who I am.
+
+460
+00:28:08,540 --> 00:28:12,180
+我希望我的信能向您证明这一点
+My hope was that my letter would prove that to you.
+
+461
+00:28:14,310 --> 00:28:17,000
+好吧  就算你说的都是真的
+Well, even if you are being genuine,
+
+462
+00:28:17,000 --> 00:28:18,880
+对我也没什么用
+that doesn't do much for me.
+
+463
+00:28:19,830 --> 00:28:21,310
+我想躲过弹劾  
+I won't survive impeachment
+
+464
+00:28:21,310 --> 00:28:23,350
+不能只靠我和我的副总统关系好
+because I got along with my vice president.
+
+465
+00:28:23,890 --> 00:28:27,230
+是啊  我同意  您需要的不只是我的好意
+No, I agree you need more than my good intentions.
+
+466
+00:28:28,370 --> 00:28:31,690
+证明给我看  弗兰克
+Proof. That's what I want to see, Frank.
+
+467
+00:28:32,260 --> 00:28:36,090
+别光承担责任  我要结果
+And not just falling on the sword. Show me results.
+
+468
+00:28:36,330 --> 00:28:39,510
+那样我会重新考虑你是否值得信任
+And then I'll reconsider whether you're worth any of my trust at all.
+
+469
+00:28:39,510 --> 00:28:40,670
+您是说投票
+You're talking votes.
+
+470
+00:28:40,680 --> 00:28:44,020
+是的  拉票是你的强项
+Yeah. Whipping votes was your strong suit.
+
+471
+00:28:44,020 --> 00:28:46,230
+我想看到你那一面
+That's the side of you I want to see.
+
+472
+00:28:46,230 --> 00:28:48,100
+我已经开始着手了  先生
+I've already begun, sir.
+
+473
+00:28:48,100 --> 00:28:49,470
+是吗  得到票数了吗
+Yeah? You have a count?
+
+474
+00:28:49,470 --> 00:28:52,060
+只有个大概  形势一直在变化
+An approximation. The sands keep shifting.
+
+475
+00:28:52,060 --> 00:28:53,930
+我们能得到众议院的支持吗
+Well, can we survive the House or not?
+
+476
+00:28:53,930 --> 00:28:56,620
+有可能  但是杰姬·夏普在阻挠
+Possibly, but Jackie Sharp is making it very difficult.
+
+477
+00:28:56,620 --> 00:28:57,920
+告诉我票数
+Give me numbers.
+
+478
+00:28:57,920 --> 00:28:59,690
+她需要18票  已经拉到过半
+Over half of the 18 that she needs,
+
+479
+00:28:59,690 --> 00:29:02,700
+所以我想从参议院下手
+which is why I'd like to start focusing on the Senate.
+
+480
+00:29:02,700 --> 00:29:04,320
+你不觉得现在行动有点早吗
+Don't you think that's premature?
+
+481
+00:29:04,320 --> 00:29:06,030
+我们必须有所准备
+We should be prepared.
+
+482
+00:29:06,030 --> 00:29:09,550
+重中之重就是确保您不被定罪
+The key battle is making sure that you avoid conviction.
+
+483
+00:29:10,470 --> 00:29:14,540
+你继续拉票  有消息告诉我
+Well, you keep whipping, you keep getting me information,
+
+484
+00:29:14,880 --> 00:29:16,220
+我就等你电话了
+I'll answer your calls.
+
+485
+00:29:17,170 --> 00:29:20,330
+但别以为你我就此相安无事了  弗兰克
+But don't take that as a sign of reconciliation, Frank.
+
+486
+00:29:20,990 --> 00:29:22,680
+我会感激收获  先生
+I'll sing for my supper, sir.
+
+487
+00:29:23,330 --> 00:29:25,000
+但我不会以为我能不劳而获
+I don't expect it for free.
+
+488
+00:29:25,890 --> 00:29:27,420
+我们明早再商量
+Let's talk again tomorrow.
+
+489
+00:29:28,100 --> 00:29:29,660
+谢谢您  总统先生
+Thank you, Mr. President.
+
+490
+00:29:31,690 --> 00:29:33,200
+你说你想有选择余地
+You said you wanted options.
+
+491
+00:29:33,200 --> 00:29:35,000
+但弗兰克让我没得选  他坑了我
+Frank didn't leave me options. He fucked me.
+
+492
+00:29:35,000 --> 00:29:37,270
+是你和塔斯克沆瀣一气  先把他坑了
+You fucked him first when you sided with Tusk.
+
+493
+00:29:37,270 --> 00:29:39,290
+但谁管中间过程怎样
+But who cares what happened each inning?
+
+494
+00:29:39,290 --> 00:29:41,510
+只有最终比分才算数
+It's the final score that counts.
+
+495
+00:29:41,510 --> 00:29:44,860
+我在他麾下八年  为他跑前跑后
+Eight years I spent busting my ass in this office.
+
+496
+00:29:45,600 --> 00:29:47,070
+看来还是躲不过为他卖命
+I can't seem to escape it.
+
+497
+00:29:47,070 --> 00:29:48,470
+你是帮我们还是不帮
+You gonna help us or not?
+
+498
+00:29:48,470 --> 00:29:49,480
+我要知道我有什么好处
+I need to know what I gain.
+
+499
+00:29:49,480 --> 00:29:52,020
+-你会得到关照的  -说具体点
+- You'll be taking care of. - Specifically.
+
+500
+00:29:52,990 --> 00:29:56,310
+等到尘埃落定  再看看要怎么办吧
+We'll see what makes sense when all the chips have fallen.
+
+501
+00:29:56,310 --> 00:29:57,830
+那你是要我闷头往悬崖下跳
+So you just want me to leap off a cliff
+
+502
+00:29:57,830 --> 00:29:59,500
+指望着运气好摔不死吗
+and hope for a soft landing beneath?
+
+503
+00:29:59,500 --> 00:30:02,100
+现在谁都不会要你  除了我们
+No one will touch you now. Nobody except us.
+
+504
+00:30:02,100 --> 00:30:04,500
+我们就是你最好的运气
+We're as soft as you're gonna get.
+
+505
+00:30:05,140 --> 00:30:06,850
+能在白宫给我一官半职吗
+A job at the White House?
+
+506
+00:30:07,530 --> 00:30:08,880
+这我说不准
+No promises.
+
+507
+00:30:09,530 --> 00:30:11,130
+结果如何取决于你的
+Other than something commensurate
+
+508
+00:30:11,140 --> 00:30:13,160
+忠诚度和经验
+with your loyalty and experience.
+
+509
+00:30:14,640 --> 00:30:17,290
+我完全可以就此抽身  开始新的生活
+I could just walk away from it all. Start a new life.
+
+510
+00:30:17,300 --> 00:30:20,190
+你抽不了身  你知道你做不到
+No, you can't. You know you can't.
+
+511
+00:30:20,190 --> 00:30:22,360
+离了国会山  你只会衰萎
+You'd wither away anywhere but the Hill.
+
+512
+00:30:22,890 --> 00:30:24,320
+不管你怎么骗自己
+It's never been about the money,
+
+513
+00:30:24,320 --> 00:30:25,740
+你做这一行不是为了钱
+no matter what you tell yourself.
+
+514
+00:30:25,990 --> 00:30:28,190
+我跳槽的时候  弗兰克求我留下
+When I left, Frank begged me to stay.
+
+515
+00:30:29,750 --> 00:30:31,800
+他说"这是权和钱二选一"
+"Power versus money," He said.
+
+516
+00:30:31,800 --> 00:30:34,170
+别屈尊加入那些缴富人税的人
+Don't reduce myself to a tax bracket.
+
+517
+00:30:34,170 --> 00:30:37,130
+他说得对  但我不认为他会求你
+He was right. And I doubt he begged.
+
+518
+00:30:37,130 --> 00:30:38,160
+他对了一半
+He was half right.
+
+519
+00:30:38,160 --> 00:30:40,730
+只要有权力握在手里  就比钱有用
+Power is better than money for as long as it lasts.
+
+520
+00:30:41,430 --> 00:30:43,090
+但权力总会滑出手心
+But it never lasts.
+
+521
+00:30:44,640 --> 00:30:46,040
+你的回答是什么
+What's your answer?
+
+522
+00:30:53,350 --> 00:30:55,890
+你当了党鞭之后变得更冷血了
+You've gotten colder since you've taken over this job.
+
+523
+00:30:58,740 --> 00:31:00,510
+这样办事容易些
+It makes things easier.
+
+524
+00:31:00,960 --> 00:31:02,320
+只是对外吗
+On the outside.
+
+525
+00:31:04,140 --> 00:31:05,600
+内外皆是
+And the inside.
+
+526
+00:31:08,270 --> 00:31:09,640
+我想你  杰姬
+I miss you, Jackie.
+
+527
+00:31:12,770 --> 00:31:14,840
+你打算合作的话  就告诉我
+Tell me if you'll cooperate.
+
+528
+00:31:17,400 --> 00:31:19,940
+你哥哥在议员手下干得如何
+How's your brother enjoying working with the congressman?
+
+529
+00:31:21,620 --> 00:31:23,170
+我接个电话
+Oh, excuse me one second.
+
+530
+00:31:24,580 --> 00:31:25,730
+总统先生
+Mr. President.
+
+531
+00:31:26,130 --> 00:31:29,210
+我要你打给塔斯克  告诉他交易取消
+I want you to call Tusk. Tell him the deal is off.
+
+532
+00:31:29,600 --> 00:31:31,370
+-什么  -你说得对
+- What? - You were right.
+
+533
+00:31:31,540 --> 00:31:33,050
+我不想冒此风险
+I don't want to take the risk.
+
+534
+00:31:33,050 --> 00:31:34,190
+但我已经和他谈过了
+But I already spoke to him.
+
+535
+00:31:34,190 --> 00:31:36,990
+那就再和他谈谈  告诉他特赦没戏了
+Well, so speak to him again. And tell him there's no pardon.
+
+536
+00:31:37,540 --> 00:31:40,290
+先生  我起初对这策略确实有些怀疑
+Sir, I -- I -- I was skeptical of this strategy at first,
+
+537
+00:31:40,290 --> 00:31:43,300
+但我们已经选了这条路  就该走到底
+but now that we've gone down this road, we should stick to it.
+
+538
+00:31:43,300 --> 00:31:45,300
+琳达  你还想回来做幕僚长吗
+Linda, do you still want your job back?
+
+539
+00:31:45,840 --> 00:31:47,350
+当然  先生
+Of course, sir.
+
+540
+00:31:47,350 --> 00:31:48,810
+那就打给他
+Then make the call.
+
+541
+00:31:52,970 --> 00:31:55,260
+我想先看看众议院的结果
+I'd rather see what happens in the House
+
+542
+00:31:55,260 --> 00:31:57,650
+再决定要不要帮你们
+before I get involved in any way.
+
+543
+00:31:57,660 --> 00:32:00,300
+但如果你能表现出对总统坚定的支持
+But if you came out vigorously in defense of the President,
+
+544
+00:32:00,300 --> 00:32:01,960
+可能会让司法委员会觉得...
+it might convince the Judiciary Committee --
+
+545
+00:32:01,960 --> 00:32:03,670
+说实话  我并不是很想
+To be honest, I'm not particularly inclined
+
+546
+00:32:03,670 --> 00:32:06,120
+帮沃克的忙
+to be doing Walker any favors.
+
+547
+00:32:06,120 --> 00:32:09,660
+迈克尔  我知道他撤销了你的国务卿提名
+Now, Michael, I know he revoked your nomination.
+
+548
+00:32:09,660 --> 00:32:11,000
+他完全没有为我争取
+He didn't fight for me at all.
+
+549
+00:32:11,000 --> 00:32:13,470
+他那时刚刚当选  还没有足够的...
+Well, he'd just been elected. He wasn't in a position to --
+
+550
+00:32:13,470 --> 00:32:16,030
+才怪  他明明有这权力
+Wrong. He had a clear mandate.
+
+551
+00:32:16,030 --> 00:32:18,240
+他完全可以支持我
+He was in a strong position to defend me.
+
+552
+00:32:19,650 --> 00:32:20,760
+你说得对
+You're right.
+
+553
+00:32:21,320 --> 00:32:24,060
+如果我是总统  我不会那么轻易放弃
+If I had been President I wouldn't have given in so easily.
+
+554
+00:32:24,060 --> 00:32:26,990
+我会在那篇文章曝光后坚定支持你
+I would've stuck by you after that article came to light.
+
+555
+00:32:27,510 --> 00:32:30,500
+老实说  如果国务卿是你而不是杜兰特
+In fact, if you'd been our secretary of state instead of Durant,
+
+556
+00:32:30,500 --> 00:32:33,180
+我们和中国的关系或许就不会这么差了
+I don't think we'd be in the mess we are with China.
+
+557
+00:32:33,600 --> 00:32:34,500
+但事实是  如果换了我
+But the truth is, I wouldn't have
+
+558
+00:32:34,500 --> 00:32:36,920
+我也不会提名你做国务卿
+nominated you for secretary of state in the first place.
+
+559
+00:32:36,920 --> 00:32:39,180
+我会提名你做财政部长
+I would have nominated you for secretary of treasury.
+
+560
+00:32:39,180 --> 00:32:41,150
+因为你在经济领域的专业知识
+Because your expertise in economics is
+
+561
+00:32:41,150 --> 00:32:43,110
+比你的外交知识强得多
+even better than your grasp on foreign affairs.
+
+562
+00:32:43,110 --> 00:32:47,430
+如果我是总统  你就会做财政部长
+No, if I were president, you'd be secretary of treasury.
+
+563
+00:32:48,630 --> 00:32:50,550
+如果你是总统...
+If you were president.
+
+564
+00:32:51,440 --> 00:32:52,540
+没错
+That's right.
+
+565
+00:32:53,840 --> 00:32:55,180
+你不能这样
+You can't do this.
+
+566
+00:32:57,410 --> 00:32:58,640
+怎么回事
+What happened?
+
+567
+00:33:02,170 --> 00:33:03,480
+是弗兰克捣的鬼吗
+Was it Frank?
+
+568
+00:33:06,250 --> 00:33:07,730
+琳达  听我说
+Linda, listen to me --
+
+569
+00:33:12,850 --> 00:33:14,160
+我明白
+I understand.
+
+570
+00:33:15,470 --> 00:33:16,580
+谢谢你
+Thanks.
+
+571
+00:33:18,300 --> 00:33:19,510
+交易取消了
+The deal is off.
+
+572
+00:33:20,180 --> 00:33:20,970
+她说原因了吗
+Did she say why?
+
+573
+00:33:20,980 --> 00:33:24,280
+没有  只说他改主意了
+No. Other than he changed his mind.
+
+574
+00:33:24,780 --> 00:33:26,390
+但肯定是因为弗兰克
+But it must be Frank.
+
+575
+00:33:26,740 --> 00:33:28,460
+我们还是按原计划来
+Then we go back to the original plan.
+
+576
+00:33:28,460 --> 00:33:30,860
+没错  和以前一样拒不解释
+That's right. You plead the Fifth just like you did before.
+
+577
+00:33:30,860 --> 00:33:31,860
+这就是出政治闹剧
+This is political theater.
+
+578
+00:33:31,860 --> 00:33:33,430
+-我们可以蒙混过关然后关注  -天呐
+- We get past it and focus on the - Jesus Christ.
+
+579
+00:33:33,430 --> 00:33:34,260
+怎么了
+What is it?
+
+580
+00:33:34,600 --> 00:33:37,990
+雷米·丹顿自愿去邓巴那里作证  就是现在
+Remy Danton is volunteering to testify to Dunbar, right now.
+
+581
+00:33:37,990 --> 00:33:40,220
+他自愿的  不是被传唤的吗
+He volunteered? He wasn't subpoenaed?
+
+582
+00:33:40,220 --> 00:33:41,380
+看起来是的
+Looks that way.
+
+583
+00:33:41,960 --> 00:33:43,680
+他要出卖我
+He's gonna sell me out.
+
+584
+00:33:43,680 --> 00:33:45,560
+那样的话他也会遭到起诉
+That would open him up to prosecution.
+
+585
+00:33:46,760 --> 00:33:48,880
+除非他受到了保护
+Unless he's being protected.
+
+586
+00:33:54,420 --> 00:33:55,580
+丹顿在哪
+Where's Danton?
+
+587
+00:33:57,010 --> 00:33:58,700
+我给他助理打电话
+I'll call his assistant.
+
+588
+00:34:01,650 --> 00:34:04,570
+你是否促成外资
+Did you or did you not facilitate foreign money
+
+589
+00:34:04,570 --> 00:34:07,730
+流入政治行动委员会
+being funneled into political action committees?
+
+590
+00:34:09,670 --> 00:34:11,160
+根据我律师的意见
+On the advice of my counsel,
+
+591
+00:34:11,160 --> 00:34:14,670
+我保留行使第五修正案的权利
+I reserve my right to invoke the Fifth Amendment.
+
+592
+00:34:14,890 --> 00:34:16,910
+冯山德声称你不仅是促成了此事
+Xander Feng claims you not only facilitated,
+
+593
+00:34:16,910 --> 00:34:18,290
+更是最初的策划者
+you orchestrated the scheme.
+
+594
+00:34:18,300 --> 00:34:20,960
+你如何回应这项证词
+Now what is your response to that testimony?
+
+595
+00:34:22,790 --> 00:34:26,500
+根据我律师的意见  我保留我的权利
+On the advice of my counsel, I reserve my right to --
+
+596
+00:34:26,500 --> 00:34:29,940
+你今天可以一直保留你的权利  塔斯克先生
+You can reserve your right all day long, Mr. Tusk.
+
+597
+00:34:29,940 --> 00:34:31,620
+但等你面对陪审团时
+But when you appear in front of a grand jury,
+
+598
+00:34:31,620 --> 00:34:34,500
+我确信司法部门一定会起诉你
+as I'm sure the Justice Department intends,
+
+599
+00:34:34,500 --> 00:34:36,540
+你的沉默将使你垮台
+your silence will be your downfall.
+
+600
+00:34:36,540 --> 00:34:37,590
+议员有问题要问吗
+Does the congressman have a question?
+
+601
+00:34:37,590 --> 00:34:40,760
+你可以躲着我们  先生
+You can hide from us all you want, sir.
+
+602
+00:34:40,760 --> 00:34:43,140
+却躲不过与你平起平坐的陪审团
+You cannot hide from a jury of your peers.
+
+603
+00:34:43,140 --> 00:34:44,810
+-主席先生  -就这样吧  我说完了
+- Mr. Chairman. - That's it. I'm done.
+
+604
+00:34:44,810 --> 00:34:47,360
+我放弃我剩余的时间
+I relinquish the remainder of my time.
+
+605
+00:34:48,320 --> 00:34:50,900
+下面交给田纳西州女议员
+The chair recognizes the congresswoman from Tennessee.
+
+606
+00:34:50,910 --> 00:34:52,330
+12分钟  女士
+You have 12 minutes, ma'am.
+
+607
+00:34:52,490 --> 00:34:57,080
+塔斯克先生  我们卷入了与中国的贸易战中
+Mr. Tusk, our nation is currently embroiled in a trade war with China.
+
+608
+00:34:57,580 --> 00:34:59,730
+这严重挫伤了我国经济
+It has gutted our economy.
+
+609
+00:34:59,730 --> 00:35:02,480
+使我们的海军处于险境
+It has placed our navy in harm's way.
+
+610
+00:35:02,480 --> 00:35:04,620
+-而使我们陷入这困境的总统  -他知道
+- The president who put us there has -- He knew.
+
+611
+00:35:08,060 --> 00:35:09,530
+你说什么
+Excuse me?
+
+612
+00:35:09,530 --> 00:35:10,740
+我的委托人保留
+My client reserves the --
+
+613
+00:35:10,740 --> 00:35:13,480
+他知道  你们不就是想知道这个吗
+He knew. Isn't that what you're all wondering?
+
+614
+00:35:15,530 --> 00:35:16,850
+请安静
+Quiet, please.
+
+615
+00:35:17,400 --> 00:35:19,290
+知道什么  确切一些
+Knew what, exactly?
+
+616
+00:35:20,650 --> 00:35:24,700
+有一套机制  它在过去10年里
+There was a mechanism by which a great many contributions
+
+617
+00:35:24,700 --> 00:35:27,200
+贡献了大量的捐助款
+were made over the last 10 years.
+
+618
+00:35:27,200 --> 00:35:29,590
+我仍然认为
+The legality of this mechanism is something
+
+619
+00:35:29,590 --> 00:35:33,290
+这套机制并不触犯法律
+that I continue to believe is within the boundaries of the law.
+
+620
+00:35:37,740 --> 00:35:41,260
+但至于该机制本身  冯山德先生说得对
+But as for the mechanism itself, Mr. Feng is correct.
+
+621
+00:35:41,260 --> 00:35:44,140
+是我策划的  是我促成的
+I orchestrated it. I facilitated it.
+
+622
+00:35:44,140 --> 00:35:46,370
+总统是知道的
+And the president knew about it.
+
+623
+00:35:46,370 --> 00:35:47,850
+丹顿刚刚取消了
+Danton just canceled.
+
+624
+00:35:48,810 --> 00:35:51,550
+去他的吧  我们有塔斯克
+Screw Danton. We've got Tusk.
+
+625
+00:35:53,060 --> 00:35:54,620
+接通司法部长
+Get me the attorney general.
+
+626
+00:36:02,850 --> 00:36:04,910
+没有这个必要  塔斯克先生
+That won't be necessary, Mr. Tusk.
+
+627
+00:36:04,910 --> 00:36:06,260
+请和我们走一趟
+If you'll come with us.
+
+628
+00:36:06,460 --> 00:36:07,640
+真可惜
+That's a shame.
+
+629
+00:36:08,000 --> 00:36:10,810
+手铐也是我遗愿清单中的一项呢
+Handcuffs were another item on my bucket list.
+
+630
+00:36:10,810 --> 00:36:13,430
+这边走  先生  你有权保持沉默
+Right this way, sir. You have the right to remain silent.
+
+631
+00:36:13,430 --> 00:36:15,660
+你所说的一切将用来作为控告你的证据
+Anything you say can and will be used against you.
+
+632
+00:36:15,660 --> 00:36:19,290
+我们谈谈条件吧  他在听证会上很配合
+We'll want a bond. For his cooperation in the hearing.
+
+633
+00:36:19,290 --> 00:36:21,130
+认罪了再谈条件
+I'll talk bonds if you'll talk a plea.
+
+634
+00:36:22,260 --> 00:36:25,350
+人们对证词的反应又快又强烈
+Response to the testimony has been swift and vocal.
+
+635
+00:36:25,350 --> 00:36:27,040
+抗议者从昨天起
+Protesters have been gathering in front of
+
+636
+00:36:27,040 --> 00:36:28,860
+便聚集在白宫前
+the White House since yesterday,
+
+637
+00:36:28,860 --> 00:36:31,390
+要求沃克总统下台
+demanding President Walker's resignation.
+
+638
+00:36:31,390 --> 00:36:33,880
+一份网上请愿书在过去24小时里
+And an online petition has already accumulated
+
+639
+00:36:33,880 --> 00:36:37,840
+已经获得二十多万人签名
+over 200,000 signatures in the past 24 hours.
+
+640
+00:36:37,850 --> 00:36:40,360
+两院公开谴责总统的人数
+The list of lawmakers publicly condemning the president
+
+641
+00:36:40,360 --> 00:36:42,580
+越来越多
+has grown on both sides of the aisle.
+
+642
+00:36:42,580 --> 00:36:44,290
+今天下午  中国大使
+And this afternoon the Chinese ambassador
+
+643
+00:36:44,290 --> 00:36:46,740
+也谴责了沃克政府
+also condemned the Walker administration,
+
+644
+00:36:46,740 --> 00:36:49,150
+指责其瞒着北京与腐败商人做交易
+saying China would not negotiate with a president
+
+645
+00:36:49,150 --> 00:36:52,770
+他说中国不会与这样的总统进行谈判 
+who dealt with corrupt businessmen behind Beijing's back.
+
+646
+00:36:52,770 --> 00:36:54,980
+如今  两国的军舰
+This at a time when warships from both countries --
+
+647
+00:36:54,980 --> 00:36:56,740
+与此同时  总统与第一夫人
+Meanwhile the president and first lady
+
+648
+00:36:56,740 --> 00:37:00,250
+仍在戴维营闭门不出  尚未对华盛顿
+remain bunkered at Camp David and have offered no public response
+
+649
+00:37:00,250 --> 00:37:02,390
+最新的进展发表公开回应
+to the most recent developments in Washington.
+
+650
+00:37:02,390 --> 00:37:04,890
+我们请到了《华尔街电讯报》的艾拉·萨伊德
+I'm here with Ayla Sayyad of the Wall Street Telegraph.
+
+651
+00:37:04,890 --> 00:37:06,660
+艾拉  我必须先说
+And Ayla, I have to begin by saying that sources
+
+652
+00:37:06,660 --> 00:37:08,320
+据国会知情人士透露
+on the Hill are telling me
+
+653
+00:37:08,320 --> 00:37:11,720
+司法委员会可能完全跳过辩论
+that the Judiciary Committee may bypass debate all together.
+
+654
+00:37:11,730 --> 00:37:14,180
+不  委员会还没有人正式发表这样的声明
+Uh, no one on the committee has gone on record about that.
+
+655
+00:37:14,180 --> 00:37:15,880
+但如果不是委员会十分倾向于
+But do you think these rumors would be circulating
+
+656
+00:37:15,880 --> 00:37:18,050
+建议众议院启动弹劾程序
+if there weren't some sort of strong preference
+
+657
+00:37:18,060 --> 00:37:20,240
+也不会有这种传言了吧
+to recommend the Articles of Impeachment to the House?
+
+658
+00:37:20,240 --> 00:37:22,880
+我认为几乎可以肯定弹劾很受支持
+I think it's safe to assume there is strong support.
+
+659
+00:37:22,880 --> 00:37:24,580
+我看到的每份民调都显示
+Every poll I've seen shows
+
+660
+00:37:24,580 --> 00:37:26,990
+很大一部分美国人希望更进一步
+an overwhelming majority of Americans want this to move forward.
+
+661
+00:37:26,990 --> 00:37:28,980
+我觉得政客们不会无视这一点
+I don't think politicians are going to ignore that.
+
+662
+00:37:29,190 --> 00:37:31,580
+我已经和我的一些同事聊过了
+I've talked to a number of my colleagues already.
+
+663
+00:37:31,580 --> 00:37:33,480
+民主党这边有些支持者
+There's support on my side of the aisle.
+
+664
+00:37:33,480 --> 00:37:36,610
+-你有多少  -现在包括我在内有五个
+- Well, how many do you have? - Five at this point, including me.
+
+665
+00:37:36,610 --> 00:37:39,540
+那就一共有60个了  还需要七个
+That would put us at 60. We'd still need seven more.
+
+666
+00:37:39,540 --> 00:37:41,220
+你也看了昨晚的民调了
+You've seen the overnight polls.
+
+667
+00:37:41,230 --> 00:37:43,750
+他的支持率都降到个位数了
+He's dipped down into the single digits.
+
+668
+00:37:43,750 --> 00:37:46,160
+你想和我们一起发表公开声明吗
+Are you willing to make a public statement with us?
+
+669
+00:37:46,160 --> 00:37:47,460
+我觉得事到如今
+I think the country could use
+
+670
+00:37:47,460 --> 00:37:50,800
+两党合作一下也不是坏事吧
+a little bipartisanship right now, don't you?
+
+671
+00:37:51,390 --> 00:37:52,700
+你觉得他们在虚张声势吗
+Do you think they're bluffing?
+
+672
+00:37:53,430 --> 00:37:57,870
+为了动摇参议院那些仍在犹豫的人而耍的花招
+That it's some sort of stunt to sway the undecideds in the Senate?
+
+673
+00:37:58,300 --> 00:38:00,790
+迈克尔·科恩小气又记仇  先生
+Michael Kern is bitter and small-minded, sir,
+
+674
+00:38:00,790 --> 00:38:02,690
+但如果他们没获得足够的支持
+but he wouldn't appear publicly with Mendoza
+
+675
+00:38:02,700 --> 00:38:04,240
+他不会和门多萨一同公开表态
+if they didn't have the numbers.
+
+676
+00:38:04,240 --> 00:38:06,960
+可以想象众议院的情况比之前更糟了
+Well, I imagine we're worse off in the House than we were before.
+
+677
+00:38:06,960 --> 00:38:10,080
+其实我本来和杰姬·夏普聊得还挺有成效
+In fact, I had a very productive conversation with Jackie Sharp.
+
+678
+00:38:10,080 --> 00:38:11,740
+她同意停止攻击
+She agreed to stop the attack
+
+679
+00:38:11,740 --> 00:38:14,380
+只要我们在中期选举后支持她做多数党领袖
+if we give her our support for majority leader after the midterms.
+
+680
+00:38:14,380 --> 00:38:16,570
+但雷蒙德一提供他的证词
+But once Raymond gave his testimony,
+
+681
+00:38:16,570 --> 00:38:18,590
+她就打电话说交易取消
+she called to say the deal was off.
+
+682
+00:38:19,420 --> 00:38:21,300
+雷蒙德真的给了我们很大打击
+Raymond really has set us back.
+
+683
+00:38:21,300 --> 00:38:23,920
+我真想不通他为什么要撒谎
+I can't fathom why he lied.
+
+684
+00:38:23,920 --> 00:38:25,490
+他要报复我
+Well, it's retribution.
+
+685
+00:38:25,490 --> 00:38:28,300
+-为了什么  能源危机吗  -不是
+- For what? The energy crisis? - No.
+
+686
+00:38:30,990 --> 00:38:32,880
+您给了他什么好处吗
+Did you offer him something?
+
+687
+00:38:34,950 --> 00:38:36,360
+雷蒙德的证词确实于我们不利
+Well, Raymond's testimony hurts,
+
+688
+00:38:36,360 --> 00:38:37,780
+但并没有终结我们
+but it can't finish us off.
+
+689
+00:38:37,780 --> 00:38:39,850
+谎言是无法证明的
+It's impossible to prove a lie.
+
+690
+00:38:39,850 --> 00:38:41,540
+弹劾不可避免
+Impeachment is inevitable.
+
+691
+00:38:42,490 --> 00:38:46,680
+现在民众舆论成了敌人  事实已经不重要了
+Public opinion is the adversary now. Facts no longer matter.
+
+692
+00:38:46,680 --> 00:38:50,260
+您应该给科恩打个电话  跟他本人聊聊
+You should give Kern a call. The personal touch.
+
+693
+00:38:50,260 --> 00:38:51,730
+如果他重新支持我们
+If he came back to us,
+
+694
+00:38:51,730 --> 00:38:54,050
+别的民主党可能就会胆怯退缩
+it might make the other Democrats get cold feet.
+
+695
+00:38:54,050 --> 00:38:55,700
+中国也在帮倒忙
+Well, China isn't helping.
+
+696
+00:38:56,150 --> 00:38:58,080
+钱主席不回我的电话
+President Qian won't return my calls.
+
+697
+00:38:58,080 --> 00:38:59,760
+北京那边肯定觉得我气数已尽
+Beijing must smell death.
+
+698
+00:38:59,760 --> 00:39:02,750
+他们只是在利用这个局面寻求筹码
+They're just exploiting the situation for leverage.
+
+699
+00:39:02,750 --> 00:39:04,650
+现在先别考虑中国
+Let's not worry about China for the moment.
+
+700
+00:39:04,660 --> 00:39:06,990
+一步一步慢慢来  先生
+One battle at a time, sir.
+
+701
+00:39:07,250 --> 00:39:09,260
+我大概是完了  弗兰克
+Maybe I'm finished, Frank.
+
+702
+00:39:10,320 --> 00:39:13,600
+也许我该接受  我们没法全身而退了
+Maybe I need to start accepting that we won't pull out of this.
+
+703
+00:39:13,600 --> 00:39:15,890
+总统先生  我知道您累了
+Mr. President, I know you're tired.
+
+704
+00:39:15,890 --> 00:39:17,630
+我知道这一切让您备受折磨
+I know this has been hell for you.
+
+705
+00:39:17,630 --> 00:39:20,460
+确实  弹劾会是个严重的打击
+And, yes, impeachment would be an awful blow.
+
+706
+00:39:20,460 --> 00:39:23,460
+我们要在参议院浴血奋战了
+We'd have to fight tooth and nail in the Senate.
+
+707
+00:39:23,460 --> 00:39:25,870
+确实  我们将不得不哀求和妥协
+And, yes, we'll have to beg and compromise
+
+708
+00:39:25,870 --> 00:39:28,070
+重新赚回我们的政治资本
+to regain our political capital.
+
+709
+00:39:28,070 --> 00:39:30,320
+但我们一定会胜利  先生
+But we have it in us, sir.
+
+710
+00:39:30,320 --> 00:39:33,110
+不管拼得多么头破血流
+No matter how many scars it leaves us with.
+
+711
+00:39:33,430 --> 00:39:35,190
+不仅仅是我们  弗兰克
+It's not just us, Frank.
+
+712
+00:39:35,890 --> 00:39:38,070
+还有特莉莎  还有我的孩子们
+It's Tricia. It's my children.
+
+713
+00:39:39,390 --> 00:39:43,880
+我整夜失眠  想着他们看到父亲退缩
+I stay awake at night, thinking how much it would crush them,
+
+714
+00:39:44,110 --> 00:39:46,320
+将是多大的打击
+seeing their father hauled off.
+
+715
+00:39:46,320 --> 00:39:48,760
+先生  不会那样的  我不会允许
+Sir, that won't happen because I won't let it.
+
+716
+00:39:48,760 --> 00:39:50,180
+如果我们遇上最糟的情况
+If we're confronted by the worst,
+
+717
+00:39:50,180 --> 00:39:52,930
+我至少会确保您不会遭受牢狱之灾
+I'll make sure you never step foot behind bars.
+
+718
+00:39:52,930 --> 00:39:54,690
+我向您保证
+You have my word on that.
+
+719
+00:39:57,540 --> 00:39:59,590
+他现在身处黑暗
+He's in the darkness now.
+
+720
+00:39:59,590 --> 00:40:01,820
+我是唯一指路的明灯
+And I'm the only beacon of light.
+
+721
+00:40:01,820 --> 00:40:05,020
+现在只要温柔地把他引向礁石就可以了
+Now we gently guide him toward the rocks.
+
+722
+00:40:05,720 --> 00:40:08,630
+总统先生  您还有我的信
+Mr. President, you also still have my letter.
+
+723
+00:40:08,980 --> 00:40:11,750
+如果您想走那条路  现在还不算太晚
+It's not too late, if you want to use that option.
+
+724
+00:40:11,750 --> 00:40:14,750
+不  你留在国会比待在监狱更有用
+No, you're more useful to me on the Hill than in handcuffs.
+
+725
+00:40:17,200 --> 00:40:18,500
+我会给科恩打电话
+I'll call Kern.
+
+726
+00:40:18,850 --> 00:40:21,100
+-晚安  先生  -晚安
+- Goodnight, sir. - Night.
+
+727
+00:40:51,340 --> 00:40:52,790
+格林告诉你多少
+How much did Green tell you?
+
+728
+00:40:53,020 --> 00:40:54,520
+足够让我现身
+Enough that I showed up.
+
+729
+00:40:56,010 --> 00:40:58,410
+他大概没提到瑞秋·波斯纳  是吧
+He probably didn't mention Rachel Posner, huh?
+
+730
+00:41:00,330 --> 00:41:01,730
+别担心  他不知道
+Don't worry. He doesn't know.
+
+731
+00:41:03,040 --> 00:41:03,650
+但我知道
+I do.
+
+732
+00:41:05,700 --> 00:41:08,120
+你把她藏在乔帕的一间公寓里
+You have her in an apartment in Joppa.
+
+733
+00:41:08,830 --> 00:41:10,460
+我知道你的一举一动
+I have your movements.
+
+734
+00:41:10,460 --> 00:41:13,660
+你有你毁掉手机之前的短信
+I have your text messages before you destroyed your phone.
+
+735
+00:41:13,660 --> 00:41:15,380
+不过这已经足够了
+But that's more than enough.
+
+736
+00:41:16,070 --> 00:41:19,270
+我相信很多人都很想知道她知道的事
+I'll bet a lot of people would like to know what she knows.
+
+737
+00:41:21,570 --> 00:41:23,700
+你给我听好了
+Now you listen to me very carefully.
+
+738
+00:41:24,810 --> 00:41:26,720
+不管你以为你拿到了什么
+Whatever you think you've got,
+
+739
+00:41:27,030 --> 00:41:28,900
+也不管你打算拿这些东西做什么
+whatever you intend to do with it,
+
+740
+00:41:29,750 --> 00:41:32,720
+我不会像格林那样被敲诈牵着走
+I don't respond to extortion the same way that Green does.
+
+741
+00:41:33,800 --> 00:41:35,520
+格林给你的许诺
+What Green promised you,
+
+742
+00:41:37,300 --> 00:41:39,120
+我瞬间就可以抵消
+that can be undone in a heartbeat.
+
+743
+00:41:40,280 --> 00:41:42,920
+所以才把你找来  确保不会变卦
+And that's why you're here. Make sure it isn't.
+
+744
+00:41:47,050 --> 00:41:48,880
+你想要我的保护
+You want my protection.
+
+745
+00:41:48,880 --> 00:41:51,230
+我不信任格林或联调局的任何人
+I don't trust Green or anyone at the Bureau.
+
+746
+00:41:55,900 --> 00:41:57,520
+还有谁知道
+Who else knows about this?
+
+747
+00:41:59,900 --> 00:42:01,030
+没人知道
+No one.
+
+748
+00:42:04,480 --> 00:42:05,810
+我为什么要相信你
+Why should I trust you?
+
+749
+00:42:07,080 --> 00:42:09,380
+因为我们两个都输不起  伙计
+'Cause we both have too much to lose, man.
+
+750
+00:42:32,740 --> 00:42:33,890
+穿上衣服
+Get dressed.
+
+751
+00:42:34,690 --> 00:42:36,710
+你在干什么
+What -- what are you doing here?
+
+752
+00:42:36,710 --> 00:42:37,920
+穿上衣服
+Put some clothes on.
+
+753
+00:42:39,800 --> 00:42:41,070
+为什么
+Why -- why?
+
+754
+00:42:41,310 --> 00:42:43,140
+快点  我们走
+Now. Let's go.
+
+755
+00:42:48,410 --> 00:42:50,030
+有人联系你吗
+Did anyone contact you?
+
+756
+00:42:51,910 --> 00:42:53,050
+你要带我去哪
+Where are you taking me?
+
+757
+00:42:53,050 --> 00:42:54,490
+回答我的问题
+Answer my question.
+
+758
+00:42:56,420 --> 00:42:58,090
+没人联系我
+No. Nobody.
+
+759
+00:43:01,690 --> 00:43:03,490
+有人知道了我们的事
+There's someone who knows about us.
+
+760
+00:43:04,820 --> 00:43:06,180
+知道你在哪
+Who knows where you are.
+
+761
+00:43:06,700 --> 00:43:07,970
+知道我们什么时候见过面
+And when we've met.
+
+762
+00:43:12,390 --> 00:43:13,920
+你是不是要伤害我
+Are you gonna hurt me?
+
+763
+00:43:15,610 --> 00:43:18,320
+你和我说实话就什么事都不会有
+Nothing's going to happen if you tell the truth.
+
+764
+00:43:18,320 --> 00:43:21,140
+我在说实话  没有任何人联系我
+I am. I -- I haven't been contacted by anybody.
+
+765
+00:43:23,460 --> 00:43:24,990
+别再撒谎了  瑞秋
+Stop lying, Rachel.
+
+766
+00:43:27,830 --> 00:43:28,950
+你让我干什么都行
+I will do whatever you want.
+
+767
+00:43:28,950 --> 00:43:29,920
+求你别伤害我
+Please, just don't hurt me.
+
+768
+00:43:29,920 --> 00:43:32,940
+我想让你回答我的问题
+What I want is for you to answer my questions,
+
+769
+00:43:32,940 --> 00:43:33,990
+这样我才能帮你
+so I can help you.
+
+770
+00:43:33,990 --> 00:43:36,010
+你一直以来都在毁掉我的生活
+All you have ever done is fuck up my life.
+
+771
+00:43:36,290 --> 00:43:37,200
+你毁了团契的事
+You fucked up the fellowship.
+
+772
+00:43:37,200 --> 00:43:38,650
+你毁了我和丽萨的感情
+You fucked up what I had with Lisa.
+
+773
+00:43:38,660 --> 00:43:39,960
+即使我都按你说的做了
+Even when I did what you asked.
+
+774
+00:43:39,960 --> 00:43:42,570
+你每次来找我都像变态一样
+And your sick fucking visits,
+
+775
+00:43:42,570 --> 00:43:44,620
+要我哄小孩似的给你读书
+and reading to you like a fucking child.
+
+776
+00:43:44,620 --> 00:43:46,290
+你有什么毛病
+What is wrong with you?
+
+777
+00:43:47,080 --> 00:43:48,570
+为什么你就不能放了我
+Why can't you just leave me be?
+
+778
+00:43:48,570 --> 00:43:51,030
+-为什么你非要这么  -住嘴
+- Why do you have to be such a fucking -- - stop!
+
+779
+00:44:34,380 --> 00:44:37,370
+瑞秋  别做傻事
+Rachel? Don't be stupid.
+
+780
+00:44:47,630 --> 00:44:48,620
+瑞秋
+Rachel?
+
+781
+00:44:50,160 --> 00:44:51,320
+不会有事的
+Everything's gonna be fine.
+
+782
+00:44:58,470 --> 00:45:00,490
+我做的一切都是想保护你
+All I've ever done is try to protect you.
+
+783
+00:45:01,420 --> 00:45:02,880
+我现在也是想保护你
+That's what I'm trying to do now.
+
+784
+00:45:05,320 --> 00:45:06,600
+你要相信我
+You have to believe that.
+
+785
+00:45:08,260 --> 00:45:09,580
+我本来没必要保护你
+I didn't have to.
+
+786
+00:45:10,800 --> 00:45:12,380
+那样事情会简单得多
+Been a lot easier if I didn't.
+
+787
+00:45:16,260 --> 00:45:18,800
+但我还是那样做了  因为我...
+But I did. I did it because I --
+
+788
+00:45:25,980 --> 00:45:27,130
+你干什么
+What are you doing?
+
+789
+00:45:49,650 --> 00:45:52,170
+昨天我们结束了关于
+Yesterday we completed hearings with regard to Articles
+
+790
+00:45:52,170 --> 00:45:55,180
+弹劾美国总统的听证会
+of Impeachment for the president of the United States.
+
+791
+00:45:55,180 --> 00:45:57,740
+主席现在开始听取委员会动议
+The chair will now entertain motions from the committee.
+
+792
+00:45:58,100 --> 00:45:59,160
+主席先生
+Mr. Chairman.
+
+793
+00:45:59,160 --> 00:46:01,780
+主席请阿拉巴马州议员发言
+The chair recognizes the congressman from Alabama.
+
+794
+00:46:02,520 --> 00:46:06,100
+我建议我们直接开始对提议进行投票
+I move that we put our recommendation directly to a vote
+
+795
+00:46:06,290 --> 00:46:08,660
+这样众议院435名成员
+so that debate on this important matter may take place
+
+796
+00:46:08,660 --> 00:46:12,470
+都可以就此事进行辩论
+on the House floor, open to all 435 members.
+
+797
+00:46:13,400 --> 00:46:16,830
+委员会有人反对跳过辩论阶段吗
+Are there any objections to bypassing debate in this committee?
+
+798
+00:46:18,790 --> 00:46:20,900
+现在开始对是否将弹劾状
+We will now vote on recommendation of the Articles
+
+799
+00:46:20,900 --> 00:46:23,280
+送交众议院投票进行表决
+of Impeachment to the full House.
+
+800
+00:46:23,280 --> 00:46:25,870
+同意提议的请喊"赞成"
+Those in favor of recommendation say, "Aye."
+
+801
+00:46:25,870 --> 00:46:27,150
+赞成
+Aye.
+
+802
+00:46:27,150 --> 00:46:28,170
+反对者
+Those opposed?
+
+803
+00:46:28,170 --> 00:46:29,360
+反对
+Nay.
+
+804
+00:46:29,730 --> 00:46:31,100
+赞成占多数
+The ayes have it.
+
+805
+00:46:31,100 --> 00:46:33,110
+委员会正式建议众议院
+This committee officially recommends Articles
+
+806
+00:46:33,110 --> 00:46:35,640
+对弹劾状进行投票
+of Impeachment proceed to the House floor.
+
+807
+00:46:55,750 --> 00:46:56,750
+他来了
+He's here.
+
+808
+00:47:26,590 --> 00:47:30,320
+副总统刚刚到达戴维营
+The vice president is just arriving now here at Camp David.
+
+809
+00:47:30,320 --> 00:47:33,360
+我们预计沃克总统
+We except President Walker to speak within the hour,
+
+810
+00:47:33,360 --> 00:47:35,500
+会在一小时内宣布
+announcing his official resignation
+
+811
+00:47:35,500 --> 00:47:37,630
+辞去美国总统的职务
+as president of the United States.
+
+812
+00:47:51,790 --> 00:47:54,100
+-你怎么样  -我还好
+- How are you? - I'm fine.
+
+813
+00:47:57,320 --> 00:47:58,450
+总统先生
+Mr. President.
+
+814
+00:47:59,710 --> 00:48:01,750
+我在厨房里煮了咖啡
+I have coffee in the kitchen.
+
+815
+00:48:02,020 --> 00:48:03,780
+-要来点吗  -不用了
+- Would you like some? - I'm fine.
+
+816
+00:48:12,920 --> 00:48:16,040
+你马上就要成为
+Well, you're about to become
+
+817
+00:48:16,040 --> 00:48:18,190
+自由世界最有权势的人了
+the most powerful man in the free world.
+
+818
+00:48:18,540 --> 00:48:20,830
+您没必要这么做  先生
+You don't have to do this, sir.
+
+819
+00:48:21,040 --> 00:48:22,650
+我昨晚和科恩谈过了
+I spoke to Kern last night.
+
+820
+00:48:23,100 --> 00:48:24,590
+他不肯让步
+He's not gonna back down.
+
+821
+00:48:24,590 --> 00:48:26,280
+那我们就打败他
+So we'll beat him down.
+
+822
+00:48:27,120 --> 00:48:27,990
+不  弗兰克
+No, Frank.
+
+823
+00:48:28,460 --> 00:48:30,320
+我的支持率只剩8%了
+My approvals are at eight percent.
+
+824
+00:48:30,550 --> 00:48:33,010
+即使我不被定罪  我也没有领导国家的威仪了
+Even if I avoid conviction, I have no mandate to lead.
+
+825
+00:48:33,010 --> 00:48:36,380
+所以我还是有尊严地下台
+So better I step aside with some dignity
+
+826
+00:48:36,390 --> 00:48:38,320
+让国家开始康复
+so the nation can start to heal.
+
+827
+00:48:45,140 --> 00:48:47,370
+我永远无法与您比肩  先生
+I can never fill your shoes, sir.
+
+828
+00:48:51,020 --> 00:48:52,630
+你现在没有选择了
+You don't have a choice now.
+
+829
+00:49:01,900 --> 00:49:02,940
+你的信
+Your letter.
+
+830
+00:49:12,220 --> 00:49:13,210
+好了
+Well,
+
+831
+00:49:14,520 --> 00:49:18,410
+我们去向大家引见美国第46任总统吧
+shall we go introduce the 46th president of the United States?
+
+832
+00:49:35,320 --> 00:49:36,820
+自即日起
+Effective immediately,
+
+833
+00:49:37,760 --> 00:49:40,680
+我辞去美国总统一职
+I am resigning the presidency of the United States.
+
+834
+00:49:41,600 --> 00:49:45,050
+特莉莎和我认为这是最合适的办法
+Tricia and I believe that this is the best course of action,
+
+835
+00:49:45,050 --> 00:49:47,710
+既是为了我们和孩子
+not only for us and our children,
+
+836
+00:49:48,260 --> 00:49:49,650
+更是为了这个国家
+but for the country.
+
+837
+00:49:50,600 --> 00:49:53,610
+我无法否认  这对我们是不幸的一天
+It's a sad day for us. I can't deny that.
+
+838
+00:49:54,180 --> 00:49:55,950
+但让我心有慰藉的是
+But I take solace in this:
+
+839
+00:49:56,800 --> 00:50:01,110
+弗兰克·安德伍德将把美德  经验
+Frank Underwood will bring virtue, experience,
+
+840
+00:50:01,110 --> 00:50:03,700
+和勇气带入总统办公室
+and courage to the Oval Office.
+
+841
+00:50:04,120 --> 00:50:06,770
+由他担任我的副总统  是我的荣幸
+I have been blessed to have him as my vice president.
+
+842
+00:50:07,260 --> 00:50:10,470
+而有他这样的朋友  更是我的幸运
+But I'm even more blessed to call him my friend.
+
+843
+00:50:13,050 --> 00:50:14,200
+能够担任
+It has been...
+
+844
+00:50:16,760 --> 00:50:19,750
+总统一职  服务国家
+the greatest honor of my life
+
+845
+00:50:19,750 --> 00:50:21,650
+是我这一生无上的荣耀
+to serve this country as president.
+
+846
+00:50:22,810 --> 00:50:26,080
+我感谢我的家人  白宫的工作人员
+I thank my family, my staff,
+
+847
+00:50:26,080 --> 00:50:28,220
+以及所有那些支持我的人
+and all of those who have supported me.
+
+848
+00:50:29,470 --> 00:50:31,480
+尽管最近几个月风波不断
+Despite the last few months,
+
+849
+00:50:31,480 --> 00:50:35,130
+但我对祖国的信仰愈发坚定
+my faith in this country has never been stronger.
+
+850
+00:50:36,270 --> 00:50:37,760
+上帝保佑你们
+God bless all of you.
+
+851
+00:50:38,300 --> 00:50:40,600
+上帝保佑美利坚合众国
+And god bless the United States of America.
+
+852
+00:50:43,880 --> 00:50:46,050
+谢谢您的美言  总统先生
+Thank you, Mr. President, for those words.
+
+853
+00:50:46,480 --> 00:50:47,790
+祝您好运  先生
+Good luck to you, sir.
+
+854
+00:51:00,140 --> 00:51:04,860
+先生  请举起右手  跟我宣誓
+Sir, please raise your right hand and repeat after me.
+
+855
+00:51:05,080 --> 00:51:07,830
+本人  弗兰西斯·J·安德伍德
+I, Francis J. Underwood...
+
+856
+00:51:07,830 --> 00:51:10,340
+本人  弗兰西斯·J·安德伍德
+I, Francis J. Underwood...
+
+857
+00:51:10,340 --> 00:51:11,740
+在此庄严宣誓
+Do solemnly swear...
+
+858
+00:51:11,740 --> 00:51:13,360
+在此庄严宣誓
+Do solemnly swear...
+
+859
+00:51:15,900 --> 00:51:16,950
+总统先生
+Mr. President.
+
+860
+00:51:17,120 --> 00:51:18,400
+总统先生
+Mr. President.
+
+861
+00:51:19,050 --> 00:51:20,490
+国务卿女士
+Madam Secretary.
+
+862
+00:51:20,490 --> 00:51:23,010
+内阁其余成员都在白宫等您
+The rest of the Cabinet is awaiting you at the White House.
+
+863
+00:51:23,010 --> 00:51:25,490
+我们希望马上为您做国家安全简报  长官
+We'd like to give you a national security briefing right away, sir.
+
+864
+00:51:25,500 --> 00:51:26,500
+详情我都知道
+I'm aware of the particulars.
+
+865
+00:51:26,500 --> 00:51:28,520
+请联系一下北京
+Can you please get Beijing on the phone?
+
+866
+00:51:28,520 --> 00:51:31,640
+钱主席已经两天没回过总统的电话了
+Qian hasn't returned the President's calls for two days.
+
+867
+00:51:33,530 --> 00:51:35,510
+现在总统换人了
+Well, there's a new president now.
+
+868
+00:51:35,930 --> 00:51:37,440
+马上给他打电话
+Please get him on the line.
+
+869
+00:51:39,620 --> 00:51:41,610
+两个小时前  作为三军统帅
+Two hours ago, President Underwood,
+
+870
+00:51:41,610 --> 00:51:44,080
+安德伍德总统下达了第一道命令
+in his first act as commander in chief,
+
+871
+00:51:44,080 --> 00:51:47,480
+他要求第七舰队撤出日本周边海域
+gave orders to the seventh fleet to vacate Japanese waters.
+
+872
+00:51:47,480 --> 00:51:50,090
+这得益于总统与钱主席进行的一次
+This was a result of a productive conversation
+
+873
+00:51:50,090 --> 00:51:51,290
+颇有成效的对话
+with President Qian,
+
+874
+00:51:51,290 --> 00:51:52,420
+而钱主席也对该海域的
+who gave similar orders
+
+875
+00:51:52,420 --> 00:51:54,980
+中国舰队下达了撤退的命令
+to Chinese naval vessels in the same region.
+
+876
+00:51:54,980 --> 00:51:55,820
+他行动挺快啊
+He moves quick.
+
+877
+00:51:55,820 --> 00:51:57,950
+你是说对中国人  还是对沃克
+Do you mean with the Chinese or with Walker?
+
+878
+00:52:03,230 --> 00:52:05,030
+-冯先生  -怎么了
+- Mr. Feng? - What is it?
+
+879
+00:52:05,030 --> 00:52:07,910
+我们是司法部的  请随我们走一趟
+U.S. Justice Department. We need you to come with us.
+
+880
+00:52:08,320 --> 00:52:10,740
+-去哪  -你将被遣返回中国
+- Where? - You're going back to China.
+
+881
+00:52:11,190 --> 00:52:12,500
+我申请了政治避难
+I have asylum.
+
+882
+00:52:12,500 --> 00:52:15,110
+不  先生  你的避难请求已经被驳回了
+No, sir, you don't. Your asylum has been rescinded.
+
+883
+00:52:15,330 --> 00:52:17,570
+我有书面证明  无条件无限期的庇护
+I have it in writing. Unconditional and permanent.
+
+884
+00:52:17,570 --> 00:52:20,660
+先生  我说过了  对你的庇护已经作废了
+Sir, I'm telling you, your asylum has been rescinded.
+
+885
+00:52:20,660 --> 00:52:23,810
+请收拾个人物品  跟我们走
+Now, please, gather your things and come with us.
+
+886
+00:52:26,780 --> 00:52:29,610
+驳回他的避难不是没有后果的
+Revoking his asylum will have consequences.
+
+887
+00:52:29,610 --> 00:52:31,450
+但是法律上没问题吧
+But we're solid from a legal perspective?
+
+888
+00:52:31,450 --> 00:52:35,290
+法律上没问题  他的文件还没进入批准流程
+Legally yes. His initial paperwork hasn't been processed,
+
+889
+00:52:35,290 --> 00:52:38,610
+我们可以声称他对我国利益构成威胁
+and we can claim he poses a threat to our national interests.
+
+890
+00:52:38,610 --> 00:52:42,000
+但这会削弱国务院的信誉
+But it diminishes the integrity of our State Department.
+
+891
+00:52:42,300 --> 00:52:46,060
+哪一个更重要  凯茜  信誉还是和平
+What's more important, Cathy? Integrity or peace?
+
+892
+00:52:46,400 --> 00:52:48,200
+你知道他会被处决的
+You know they'll execute him.
+
+893
+00:52:48,200 --> 00:52:50,170
+中国人说对了一件事
+The Chinese are right about one thing.
+
+894
+00:52:50,170 --> 00:52:53,540
+有时候  就得舍弃一人  保证全局
+Sometimes you have to sacrifice the one for the many.
+
+895
+00:52:54,530 --> 00:52:56,000
+我们回华盛顿吧
+Let's get back to Washington.
+
+896
+00:53:06,170 --> 00:53:08,930
+好的  请及时通知我  非常感谢
+Okay. Please let me know. Thanks very much.
+
+897
+00:53:08,930 --> 00:53:10,410
+-有消息吗  -还是没有
+- Anything? - Not yet.
+
+898
+00:53:10,410 --> 00:53:12,890
+你看看能不能通过戒酒互助会查到他的行踪
+See if you can track down anyone from his regular AA meetings.
+
+899
+00:53:12,890 --> 00:53:13,760
+我和辅导员谈过了
+I spoke to the moderator.
+
+900
+00:53:13,760 --> 00:53:15,970
+他说已经有好几周没见过道格了
+He said he hasn't seen Doug in several weeks.
+
+901
+00:53:15,970 --> 00:53:18,240
+我查过医院  问过他的房东
+I checked all the hospitals, his landlord...
+
+902
+00:53:18,360 --> 00:53:20,070
+先生  人都到齐了
+Sir, everyone's here.
+
+903
+00:53:20,070 --> 00:53:21,330
+好  等手头事一过
+All right, when this is all over
+
+904
+00:53:21,330 --> 00:53:23,060
+你和南茜一起找道格
+I want you to work with Nancy on finding Doug.
+
+905
+00:53:23,060 --> 00:53:24,940
+我已经和特区警察局打过招呼
+I've already alerted the D.C. Metro.
+
+906
+00:53:24,940 --> 00:53:26,190
+他们会对他的车牌发布全境通告
+They put out an APB on his car.
+
+907
+00:53:26,190 --> 00:53:27,450
+我们会找到他的  先生
+We'll find him, sir.
+
+908
+00:53:27,460 --> 00:53:28,220
+克莱尔呢
+Claire?
+
+909
+00:53:28,220 --> 00:53:29,440
+就在外面
+Just outside.
+
+910
+00:53:29,440 --> 00:53:30,760
+咱们走  南茜
+Let's go, Nancy.
+
+911
+00:53:40,950 --> 00:53:42,250
+女士们先生们
+Ladies and gentleman,
+
+912
+00:53:42,670 --> 00:53:45,050
+有请总统先生和第一夫人
+the President and the first lady.
+
+913
+00:54:31,300 --> 00:54:32,390
+弗兰西斯
+Francis,
+
+914
+00:54:33,860 --> 00:54:36,690
+我知道离你生日还有段时间
+I know your birthday isn't for a couple weeks,
+
+915
+00:54:36,690 --> 00:54:37,650
+但我要送你一份礼物
+but I got you something.
+
+916
+00:54:37,790 --> 00:54:39,750
+-这是干什么  -打开嘛
+- What's this? - Open it.
+
+917
+00:54:47,550 --> 00:54:49,130
+我让人新做了一个
+I had a new one made.
+
+918
+00:54:52,610 --> 00:54:53,700
+我爱你
+I love you.
+
+919
+00:54:54,140 --> 00:54:55,390
+我也爱你
+I love you, too.
+
+920
+00:54:57,670 --> 00:54:58,820
+你进去吧
+You go ahead.
+
+921
+00:54:59,240 --> 00:55:00,250
+一起来吧
+Come on.
+
+922
+00:55:00,700 --> 00:55:02,210
+这是我们共同努力的结果
+We earned this together.
+
+923
+00:55:02,450 --> 00:55:04,850
+你先自己去  好好享受一下
+Take a few moments for yourself first.
+
+924
+00:55:05,790 --> 00:55:07,020
+我就在外面
+I'll be out here.
+
+926
+00:56:51,830 --> 00:57:21,830
+{\an5}{\pos(193,145)}1789年4月21日  美国第一任副总统约翰·亚当斯在纽约宣誓就职时
+当选总统乔治·华盛顿还在赶往临时首都的路上
+直到4月30日才正式就任  所以在30日之前的9天里
+亚当斯作为副总统就成了这个年轻国家的最高行政长官
+美国是先有有副总统  后有总统的
+美国历史上  曾有9位副总统因总统亡故或辞职而接任成为总统
+1973年  美国副总统阿格纽因贪腐被调查而被迫辞职
+来自密西根州的众议员福特被时任总统的尼克松任命为副总统
+次年  尼克松因水门事件被迫辞职  福特成为美国第38任总统
+福特未经民主选举就担任过副总统和总统的职位
+
+927
+00:05:15,580 --> 00:05:17,000
+{\an7}{\pos(68.2,100.5)}翻译  卫老哥
+
+928
+00:05:17,580 --> 00:05:19,000
+{\an7}{\pos(248.8,101.4)}翻译  某豚
+
+929
+00:05:19,580 --> 00:05:21,040
+{\an7}{\pos(96.4,240.1)}翻译  章鱼X
+
+930
+00:05:22,050 --> 00:05:23,420
+{\an7}{\pos(76.76,100.68)}翻译  艾瑞卡
+
+931
+00:05:23,800 --> 00:05:25,220
+{\an7}{\pos(295.4,241)}翻译  冬麟
+
+932
+00:05:25,420 --> 00:05:26,840
+{\an7}{\pos(52.2,95.1)}翻译  香茗小焙
+
+933
+00:05:27,720 --> 00:05:29,140
+{\an7}{\pos(64,240.1)}时间轴  吉吉
+
+934
+00:05:29,220 --> 00:05:30,640
+{\an7}{\pos(256.2,242.8)}后期  饿得慌
+
+935
+00:05:31,430 --> 00:05:32,850
+{\an7}{\pos(79.2,245.5)}特效  宝宝
+
+936
+00:05:33,180 --> 00:05:34,850
+{\an7}{\pos(245,213.3)}顾问  老杜
+
+937
+00:05:35,770 --> 00:05:37,520
+{\an7}{\pos(252.8,200)}校对  草草
+
+938
+00:05:38,190 --> 00:05:39,940
+{\an7}{\pos(83.8,27)}总监  草草
+
+939
+00:06:35,120 --> 00:06:38,080
+{\pos(196,180)}纸牌屋
+
+940
+00:06:35,120 --> 00:06:38,080
+{\an2}{\pos(209.84,238.02)}第二季  第十三集
+
+941
+00:06:35,120 --> 00:06:38,080
+{\pos(180,265)}人人影视倾情奉献
+

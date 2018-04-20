@@ -1,0 +1,3371 @@
+1
+00:06:22,100 --> 00:06:25,060
+《越狱》第四季 第四集
+Prison.Break.S04E04
+
+2
+00:00:00,230 --> 00:00:02,660
+《越狱》剧情回顾
+Previously on Prison Break.
+
+3
+00:00:03,230 --> 00:00:05,260
+他们称它锡拉
+They refer to it as "Scylla."
+
+4
+00:00:05,300 --> 00:00:07,660
+是一本"公司"的黑皮书
+It's like the company's black book.
+
+5
+00:00:07,700 --> 00:00:10,200
+那是什么  可以在十码内获取
+What's that? Wireless hard drive that swallows up
+
+6
+00:00:10,230 --> 00:00:12,130
+任何电子信息的无线硬盘
+any electronic data within ten feet of it.
+
+7
+00:00:12,160 --> 00:00:13,960
+能接收储存在锡拉里的信息吗
+And the information embedded in Scylla?
+
+8
+00:00:14,000 --> 00:00:15,700
+如果靠得够近的话
+If we can get close enough...
+
+9
+00:00:15,730 --> 00:00:17,460
+就能得到了
+it's ours.
+
+10
+00:00:17,500 --> 00:00:19,160
+如果锡拉是一张饼
+If Scylla was like a pizza,
+
+11
+00:00:19,200 --> 00:00:20,530
+我们只得到了一块
+all we got's a slice.
+
+12
+00:00:20,560 --> 00:00:22,330
+锡拉不只一张卡
+So Scylla isn't one card,
+
+13
+00:00:22,360 --> 00:00:23,630
+是六张
+it's six.
+
+14
+00:00:23,660 --> 00:00:25,000
+他们杀了我儿子
+They killed my boy.
+
+15
+00:00:25,030 --> 00:00:27,500
+我要找出谁是干的
+I need to find out who did it.
+
+16
+00:00:27,530 --> 00:00:29,630
+婊子  天亮了
+Rise and shine, bitch.
+
+17
+00:00:29,660 --> 00:00:30,430
+吃早饭了
+Breakfast.
+
+18
+00:00:32,030 --> 00:00:32,730
+喂
+Hello?
+
+19
+00:00:32,760 --> 00:00:33,530
+科尔·普发
+Cole Pfeiffer,
+
+20
+00:00:33,560 --> 00:00:34,700
+我是  格里高里·怀特
+Gregory White here.
+
+21
+00:00:34,730 --> 00:00:36,800
+我会明天早上在伽特公司见你
+I'll see you at GATE first thing tomorrow.
+
+22
+00:00:36,830 --> 00:00:38,100
+而且  我会亲自给你
+And I will personally hand you
+
+23
+00:00:38,130 --> 00:00:39,460
+你的花红支票
+your bonus check.
+
+24
+00:00:39,500 --> 00:00:40,930
+莎拉·唐克雷蒂在很安全的地方
+Sara Tancredi's
+
+25
+00:00:40,960 --> 00:00:42,800
+是不是 布鲁斯
+somewhere safe, ist she, Bruce?
+
+26
+00:00:45,660 --> 00:00:47,700
+告诉我  莎拉在什么地方
+So tell me, where is Sara?
+
+27
+00:00:49,130 --> 00:00:50,400
+洛杉矶
+Los Angeles?
+
+28
+00:00:50,430 --> 00:00:52,300
+干得好
+Good job.
+
+29
+00:00:52,330 --> 00:00:53,300
+这不仅是两个锡拉持卡人
+It wasn't a meeting
+
+30
+00:00:53,330 --> 00:00:55,700
+会面  赛尔夫探员
+between two Scylla cardholders, Agent Self.
+
+31
+00:00:55,730 --> 00:00:57,100
+所有
+It was a meeting
+
+32
+00:00:57,130 --> 00:00:58,700
+六个持卡人都在那儿
+between all six cardholders.
+
+33
+00:00:58,730 --> 00:01:00,330
+所以我们已经知道
+So now we know who has the other
+
+34
+00:01:00,360 --> 00:01:01,630
+其他五张卡在谁手里
+five cards.
+
+35
+00:01:12,900 --> 00:01:16,200
+嘿  你从录像中看出什么了吗？
+Hey. You got anything off the video?
+
+36
+00:01:16,230 --> 00:01:19,000
+这是在50码外用手机录的
+It's a camera phone 50 feet away.
+
+37
+00:01:19,030 --> 00:01:21,030
+所以  画面比较粗糙
+So, it's pretty grainy.
+
+38
+00:01:21,060 --> 00:01:24,000
+还在打印
+Still printing.
+
+39
+00:01:25,960 --> 00:01:28,430
+你坐过那种船吗
+You ever been on one of those?
+
+40
+00:01:28,460 --> 00:01:30,360
+是的
+Yeah.
+
+41
+00:01:30,400 --> 00:01:32,430
+那个时候我还是个酒鬼
+I was still drinking at the time,
+
+42
+00:01:32,460 --> 00:01:33,830
+所以  我没什么太多的印象
+so I don't remember much.
+
+43
+00:01:33,860 --> 00:01:35,000
+嗯
+Um,
+
+44
+00:01:35,030 --> 00:01:37,000
+他们说我那时总出丑
+told I was a lot of fun.
+
+45
+00:01:37,030 --> 00:01:39,030
+你呢
+You?
+
+46
+00:01:39,060 --> 00:01:40,930
+不
+No.
+
+47
+00:01:40,960 --> 00:01:44,130
+我以前住的地方没有多少船
+Not a lot of yachts where I'm from.
+
+48
+00:01:44,160 --> 00:01:46,960
+我一直都向往住在那种船上
+I always kind of wanted to live on one.
+
+49
+00:01:47,000 --> 00:01:49,800
+我一直以为面朝大海是件不错的事
+I thought it'd be nice to have the ocean as my front yard.
+
+50
+00:01:49,830 --> 00:01:52,460
+现在大海就近在你眼前
+The ocean is your front yard.
+
+51
+00:01:54,760 --> 00:01:57,600
+你觉得我以前做的纸鸭子怎么样
+What's wrong with the SS Minnow back there?
+
+52
+00:01:57,630 --> 00:01:58,830
+挺好的
+Nothing.
+
+53
+00:01:58,860 --> 00:02:01,760
+你难道真想把那个放到水上
+You really want to drop that thing in the water someday
+
+54
+00:02:01,800 --> 00:02:03,860
+让它带着你去神秘的地方
+and sail off to parts unknown?
+
+55
+00:02:03,900 --> 00:02:05,200
+为什么不呢
+Yeah, why not?
+
+56
+00:02:05,230 --> 00:02:06,930
+只要你和我在一起
+As long as it's you and me.
+
+57
+00:02:08,660 --> 00:02:11,530
+你嘴真甜
+I like the sound of that.
+
+58
+00:02:11,560 --> 00:02:13,230
+嘿 伙计
+Yo, papi.
+
+59
+00:02:14,030 --> 00:02:15,300
+有发现了
+We got something.
+
+60
+00:02:23,000 --> 00:02:25,060
+总有那么一天的
+One day.
+
+61
+00:02:30,900 --> 00:02:32,130
+发现了什么
+What've we got?
+
+62
+00:02:32,160 --> 00:02:35,930
+我们发现了一张车牌
+Uh, we got a, we got a license plate.
+
+63
+00:02:35,960 --> 00:02:37,900
+从手机录像里打印出来的
+It's a printout from the camera phone.
+
+64
+00:02:37,930 --> 00:02:39,160
+数字很不清楚
+The numbers are
+
+65
+00:02:39,200 --> 00:02:41,230
+所有的东西都不清楚
+fuzzy, though. The whole damn thing's fuzzy.
+
+66
+00:02:41,260 --> 00:02:42,160
+不要管那车牌号了
+Forget the numbers.
+
+67
+00:02:42,200 --> 00:02:43,360
+车牌旁边是什么
+What's that next to the plate?
+
+68
+00:02:43,400 --> 00:02:44,330
+看起来是一张贴纸
+Looks like a sticker.
+
+69
+00:02:44,360 --> 00:02:45,800
+-DMV?  -那是一面旗
+-DMV? -That's a flag.
+
+70
+00:02:45,830 --> 00:02:47,200
+是外交部的车牌
+It's a diplomatic plate.
+
+71
+00:02:47,230 --> 00:02:48,130
+伙计们 六个P
+The Six Ps, guys.
+
+72
+00:02:48,160 --> 00:02:49,360
+以前我在福克斯河管理32个
+When I supervised 32 COs
+
+73
+00:02:49,400 --> 00:02:52,400
+小组的时候  就是全靠这六个p来实现的
+back at Fox River-- it was the Six Ps made it happen.
+
+74
+00:02:52,430 --> 00:02:53,600
+你能放大吗
+Can you blow it up?
+
+75
+00:02:53,630 --> 00:02:55,030
+我得仔细看看
+I need to see more detail.
+
+76
+00:02:55,060 --> 00:02:56,160
+我正在做了
+I'm already on it.
+
+77
+00:02:56,200 --> 00:02:57,830
+准备  计划  预防
+Prior, Planning, Prevents,
+
+78
+00:02:57,860 --> 00:02:59,330
+无视  贬低  表现
+-Piss-Poor, Performance. -How about you
+
+79
+00:02:59,360 --> 00:03:01,360
+别抱怨了  说说你的想法
+quit shaking your ass and say what's on your mind?
+
+80
+00:03:01,400 --> 00:03:03,030
+那个第二步
+The second step.
+
+81
+00:03:03,060 --> 00:03:04,130
+破解内容
+Deciphering the cards.
+
+82
+00:03:04,160 --> 00:03:05,830
+入侵行动  我们需要计划一下
+The break-in. We need to plan.
+
+83
+00:03:05,860 --> 00:03:08,160
+赛尔夫探员会给我们那些资料
+Agent Self will provide that information.
+
+84
+00:03:08,200 --> 00:03:10,060
+你和惠斯勒在一起呆过
+You worked with Whistler.
+
+85
+00:03:10,100 --> 00:03:11,600
+他有没有提过一个地点
+Didn't he say anything about a location?
+
+86
+00:03:11,630 --> 00:03:13,660
+会不会是在那本关于鸟的书上
+Wasn't that in his bird book?
+
+87
+00:03:13,700 --> 00:03:15,030
+但是在帝博格手里
+Which T-Bag has.
+
+88
+00:03:15,060 --> 00:03:17,430
+如果他活着逃出了索纳监狱
+If he made it out of Sona alive.
+
+89
+00:03:17,460 --> 00:03:19,730
+找到突破口根本没有意义
+Finding where the break-in is doesn't mean anything
+
+90
+00:03:19,760 --> 00:03:21,100
+因为我们没有那些卡
+if we don't have the cards.
+
+91
+00:03:21,130 --> 00:03:22,630
+这就是那面旗
+Here's your flag.
+
+92
+00:03:24,530 --> 00:03:26,430
+阿尔及利亚?  土耳其
+Algeria? Turkey.
+
+93
+00:03:27,630 --> 00:03:30,000
+找到土耳其领事馆在哪里
+Find out where the Turkish Consul is in town.
+
+94
+00:03:30,030 --> 00:03:32,430
+听着  到你出场了
+You know what? Get with the program.
+
+95
+00:03:32,460 --> 00:03:33,430
+你去找
+You're up.
+
+96
+00:03:33,460 --> 00:03:35,360
+他的名字是埃罗·特巴克
+Uh, his name's Erol Tabak.
+
+97
+00:03:35,400 --> 00:03:37,200
+-领事馆在市中心 -但是
+-Consulate is downtown. -Yeah, but
+
+98
+00:03:37,230 --> 00:03:38,400
+我们进不去领事馆
+we can't get into the consulate.
+
+99
+00:03:38,430 --> 00:03:40,830
+我们可以从那里开始跟踪他
+We can follow him from there.
+
+100
+00:03:40,860 --> 00:03:42,660
+迈克
+Michael.
+
+101
+00:03:42,700 --> 00:03:45,900
+我想留下来研究一下录像
+I'm gonna stay back and work on the video.
+
+102
+00:03:45,930 --> 00:03:47,630
+好的
+Okay.
+
+103
+00:03:50,700 --> 00:03:53,000
+-会有那么一天的  -一定会
+-One day. -one day.
+
+104
+00:03:59,630 --> 00:04:01,400
+科尔·普发
+Cole Pfeiffer.
+
+105
+00:04:01,430 --> 00:04:02,730
+你好吗
+How are ya?
+
+106
+00:04:02,760 --> 00:04:03,900
+科尔
+Cole.
+
+107
+00:04:03,930 --> 00:04:04,960
+普发
+Pfeiffer.
+
+108
+00:04:05,000 --> 00:04:06,330
+P-f-e-i-f-e
+P-f-e-i-f-e...
+
+109
+00:04:06,360 --> 00:04:07,360
+科尔·普发
+Damn it!
+
+110
+00:04:08,760 --> 00:04:09,730
+科尔·普发
+Cole Pfeiffer.
+
+111
+00:04:09,760 --> 00:04:10,730
+你好吗
+How are ya?
+
+112
+00:04:10,760 --> 00:04:11,800
+不对
+No.
+
+113
+00:04:13,030 --> 00:04:14,300
+不对
+No.
+
+114
+00:04:14,330 --> 00:04:16,330
+叫我科尔吧
+Call me Cole, please.
+
+115
+00:04:17,260 --> 00:04:19,530
+P-f-e-i-f... e...
+P-f-e-i-f... e...
+
+116
+00:04:19,560 --> 00:04:22,100
+操
+Damn!
+
+117
+00:04:22,130 --> 00:04:24,030
+
+
+118
+00:04:24,060 --> 00:04:25,460
+这就是我们要做到的
+That's what we're doing here.
+
+119
+00:04:25,500 --> 00:04:26,600
+这就是我们伽特公司要做到的
+That's what we're doing here at GATE.
+
+120
+00:04:26,630 --> 00:04:28,500
+我会鼓励你们所有人
+And I would encourage all of you to...
+
+121
+00:04:28,530 --> 00:04:30,200
+嗯
+Huh.
+
+122
+00:04:33,160 --> 00:04:35,960
+P-f-e-i-f-f-e-r.
+P-f-e-i-f-f-e-r.
+
+123
+00:04:36,000 --> 00:04:36,960
+...f-e-r.
+...f-e-r.
+
+124
+00:04:37,000 --> 00:04:38,300
+P-f-e-i-f...
+P-f-e-i-f...
+
+125
+00:04:38,330 --> 00:04:40,430
+P-f-e-i-f-f-e-r.
+P-f-e-i-f-f-e-r.
+
+126
+00:04:45,600 --> 00:04:47,530
+外交官平时都干什么
+What do diplomats usually do?
+
+127
+00:04:47,560 --> 00:04:49,660
+也没什么事  就是能随意停车
+Not a whole lot, but they park anywhere they want.
+
+128
+00:04:49,700 --> 00:04:51,900
+把这个放在车前面
+Put this on the dash.
+
+129
+00:04:55,630 --> 00:04:57,700
+我们还能再靠近点吗
+Can we get any closer?
+
+130
+00:05:04,700 --> 00:05:06,230
+就是他
+That's our guy.
+
+131
+00:05:08,300 --> 00:05:10,100
+是吗
+Yeah?
+
+132
+00:05:10,130 --> 00:05:11,500
+正在拷贝
+We're copying.
+
+133
+00:05:11,530 --> 00:05:12,800
+卡在他身上
+He's got the card on him.
+
+134
+00:05:12,830 --> 00:05:14,060
+太好了
+Hell yes.
+
+135
+00:05:16,360 --> 00:05:18,200
+他老婆吗
+That's his wife?
+
+136
+00:05:18,230 --> 00:05:19,560
+算我一个
+Sign me up.
+
+137
+00:05:24,700 --> 00:05:25,930
+没信号了
+You lost it.
+
+138
+00:05:25,960 --> 00:05:27,100
+怎么可能
+How?
+
+139
+00:05:27,130 --> 00:05:28,160
+我也不知道
+Dude, I don't know
+
+140
+00:05:28,200 --> 00:05:29,460
+我只能告诉你没有信号了
+what to tell you other than you lost it.
+
+141
+00:05:29,500 --> 00:05:30,230
+什么都没有
+It's gone, man.
+
+142
+00:05:30,260 --> 00:05:31,130
+没信号了
+We lost it.
+
+143
+00:05:31,160 --> 00:05:32,200
+什么
+What!
+
+144
+00:05:32,230 --> 00:05:33,200
+怎么可能收不到
+How did we lose him?
+
+145
+00:05:33,230 --> 00:05:34,260
+我们就在他旁边
+We're right next to him.
+
+146
+00:05:34,300 --> 00:05:36,760
+卡不在他那儿
+He's not the cardholder.
+
+147
+00:05:37,900 --> 00:05:40,060
+在他老婆那儿
+She is.
+
+148
+00:05:48,730 --> 00:05:51,260
+我们最好在被发现之前赶快离开
+We gotta get out here now before we get made.
+
+149
+00:05:51,300 --> 00:05:53,400
+快点  走  走
+Come on, go! Go!
+
+150
+00:06:40,820 --> 00:06:42,320
+我们有些共同点  你知道吧
+You know what we've got in common, right?
+
+151
+00:06:42,350 --> 00:06:43,380
+什么
+What?
+
+152
+00:06:43,420 --> 00:06:44,950
+我们都活在一个
+We both live in the real world
+
+153
+00:06:44,980 --> 00:06:46,680
+没人理解现实世界里
+as opposed to these other knuckleheads.
+
+154
+00:06:46,720 --> 00:06:48,180
+你刚才说到
+So that whole prior planning
+
+155
+00:06:48,220 --> 00:06:49,480
+事前准备的事
+thing you were talking about,
+
+156
+00:06:49,520 --> 00:06:51,520
+如果你有什么计划
+if you got something on your mind
+
+157
+00:06:51,550 --> 00:06:53,480
+别人不关心  但你可以告诉我  好吗
+and no one else is interested, you just run it by me, okay?
+
+158
+00:06:53,520 --> 00:06:54,580
+我们先这么说好
+And we'll just leave it at that.
+
+159
+00:06:54,620 --> 00:06:56,450
+怎么样
+All right.
+
+160
+00:07:08,050 --> 00:07:09,380
+喂
+Hello?
+
+161
+00:07:09,420 --> 00:07:10,420
+莎拉
+Sara?
+
+162
+00:07:10,450 --> 00:07:12,480
+我是当·赛尔夫
+Hey, it's Don Self.
+
+163
+00:07:12,520 --> 00:07:13,920
+听着
+Listen, um,
+
+164
+00:07:13,950 --> 00:07:16,020
+我有些坏消息
+I have some bad news.
+
+165
+00:07:17,180 --> 00:07:18,620
+今天早上 在布鲁斯·班尼特的公寓里
+Bruce Bennett was found dead
+
+166
+00:07:18,650 --> 00:07:20,150
+发现他被杀了
+in his apartment this morning.
+
+167
+00:07:22,250 --> 00:07:24,350
+我很抱歉
+I'm sorry.
+
+168
+00:07:31,480 --> 00:07:33,980
+丽莎  请进
+Lisa, come in.
+
+169
+00:07:34,020 --> 00:07:35,720
+不会耽误太久
+This will be quick.
+
+170
+00:07:35,750 --> 00:07:37,950
+我知道你有你的安排
+I know you're on a schedule.
+
+171
+00:07:40,720 --> 00:07:43,820
+那个地方的价值现在是1亿
+The value of the kip is at ten right now.
+
+172
+00:07:43,850 --> 00:07:46,320
+如果涨到1亿5千万 我会马上让你知道
+I'll let you know as soon as it reaches 15.
+
+173
+00:07:46,350 --> 00:07:48,650
+当那个时候  你要马上离开
+At that point, you'll have to leave immediately.
+
+174
+00:07:48,680 --> 00:07:50,280
+我已经整理好行李了
+I have my bags with me.
+
+175
+00:07:50,320 --> 00:07:51,220
+我现在就能走
+I could go now.
+
+176
+00:07:51,250 --> 00:07:53,520
+你今晚不是还要露面吗
+Don't you have that event tonight?
+
+177
+00:07:53,550 --> 00:07:55,320
+是的
+Yes.
+
+178
+00:07:55,350 --> 00:07:56,450
+但我
+But I...
+
+179
+00:07:56,480 --> 00:07:58,820
+该露面的时候 还是要露面的
+It's important to keep up appearances.
+
+180
+00:07:58,850 --> 00:08:00,320
+这样就不会有人怀疑
+Not arouse suspicion.
+
+181
+00:08:00,350 --> 00:08:02,520
+好吧
+Fine.
+
+182
+00:08:02,550 --> 00:08:06,380
+我对你的领导能力很有信心 丽莎
+I have no doubt in your leadership
+
+183
+00:08:06,420 --> 00:08:07,750
+-但是  丽莎  -很好
+-abilities, Lisa, but... -Good.
+
+184
+00:08:07,780 --> 00:08:09,620
+我对你也很有信心
+Nor do I.
+
+185
+00:08:09,650 --> 00:08:12,180
+所以 我现在就走了
+So I won't keep you any longer.
+
+186
+00:08:14,350 --> 00:08:15,980
+请
+Please...
+
+187
+00:08:16,020 --> 00:08:18,180
+注意安全
+be safe.
+
+188
+00:08:28,180 --> 00:08:30,220
+她出来了
+There she is.
+
+189
+00:08:32,820 --> 00:08:35,120
+好吧  做你该做的
+All right, do what you gotta do.
+
+190
+00:08:35,150 --> 00:08:37,480
+跟着她两分钟  这样才能拷贝卡
+Be next to her for two minutes so the device can copy the card.
+
+191
+00:08:37,520 --> 00:08:38,580
+我能搞定
+I'll get it.
+
+192
+00:08:40,250 --> 00:08:42,220
+坐下 坐下
+Take a seat. Take a seat.
+
+193
+00:08:43,520 --> 00:08:44,980
+看见那三个穿西装的了吗
+See the three suits?
+
+194
+00:08:45,020 --> 00:08:46,980
+像三角一样在她周围
+Forming a triangle around her?
+
+195
+00:08:47,020 --> 00:08:48,320
+那些是私人保镖
+Those are private contractors.
+
+196
+00:08:48,350 --> 00:08:49,480
+"公司"只会在保护
+The Company would only do that
+
+197
+00:08:49,520 --> 00:08:50,720
+重要人物的时候才这么做
+for the inner circle.
+
+198
+00:08:50,750 --> 00:08:52,320
+我们不可能接近她
+We're not getting anywhere near that lady.
+
+199
+00:08:52,350 --> 00:08:53,720
+-今天不行   -真倒霉
+-Not today. -Great.
+
+200
+00:09:06,410 --> 00:09:07,580
+怎么了
+What's wrong?
+
+201
+00:09:52,880 --> 00:09:55,280
+嘿  帝博格
+Hey, Teddy.
+
+202
+00:09:55,320 --> 00:09:57,380
+遇到老熟人了
+Well, if it ain't the Brothers Grim.
+
+203
+00:09:57,420 --> 00:09:59,380
+冷静点  林肯  记着 我们需要他
+Easy, Linc. Remember, we need him.
+
+204
+00:09:59,420 --> 00:10:01,350
+你来洛杉矶干什么
+What are you doing in Los Angeles?
+
+205
+00:10:01,380 --> 00:10:03,550
+我想当一个摄影师
+I was thinking about maybe getting me a career in pictures.
+
+206
+00:10:03,580 --> 00:10:05,250
+嘿  如果有人
+Hey! If anyone's
+
+207
+00:10:05,280 --> 00:10:06,980
+有权生气  应该是我
+got a right to be pissed-- it's me.
+
+208
+00:10:07,020 --> 00:10:08,520
+你们把我留在巴拿马
+You put me out to pasture back in Panama.
+
+209
+00:10:08,550 --> 00:10:10,280
+让我等死
+Left me for dead.
+
+210
+00:10:10,320 --> 00:10:12,650
+这已经是第三次了
+Which makes it the third time, I believe. So, congratulations,
+
+211
+00:10:12,680 --> 00:10:14,780
+-那我祝贺你 你做到了  -那本书在哪
+you got yourself a turkey. Where's the bird book?
+
+212
+00:10:14,820 --> 00:10:16,220
+关于鸟的书
+Bird book?
+
+213
+00:10:16,250 --> 00:10:17,250
+书在哪
+Where's the book?!
+
+214
+00:10:17,280 --> 00:10:19,150
+帅哥  你看谁在看我们呢
+Ooh, look who's looking, pretty.
+
+215
+00:10:19,180 --> 00:10:20,250
+看谁在看我们
+Look who's looking.
+
+216
+00:10:20,280 --> 00:10:21,550
+我觉得
+I don't think
+
+217
+00:10:21,580 --> 00:10:24,720
+你们俩更不应该在洛杉矶出现
+the two of you are supposed to be carousing around the Angel City ...
+
+218
+00:10:24,750 --> 00:10:26,720
+你不知道你现在的处境有多复杂
+You don't know what you've gotten yourself into,
+
+219
+00:10:26,750 --> 00:10:28,180
+帝博格  如果你不想知道
+Teddy. But if you dot want to find out,
+
+220
+00:10:28,220 --> 00:10:29,850
+你就告诉我们书藏哪了
+you're gonna tell us where that bird book is.
+
+221
+00:10:29,880 --> 00:10:31,480
+你们现在就让我走
+You're gonna let me go right now
+
+222
+00:10:31,520 --> 00:10:33,450
+要不我们就都被抓
+or all of us are going down together.
+
+223
+00:10:34,320 --> 00:10:35,480
+你选
+Your choice.
+
+224
+00:10:36,820 --> 00:10:38,580
+林肯 走吧
+Linc, come on.
+
+225
+00:10:38,620 --> 00:10:39,850
+走吧 林肯
+Let's go, Linc!
+
+226
+00:10:54,680 --> 00:10:56,820
+唐克雷蒂. T-A-N...
+Tancredi. T-A-N...
+
+227
+00:10:56,850 --> 00:11:01,120
+C-R-E-D-I.
+C-R-E-D-I.
+
+228
+00:11:01,150 --> 00:11:03,420
+35英里以内
+Make it a buckshot across the grid.
+
+229
+00:11:03,450 --> 00:11:05,950
+仔细盘查
+35-mile radius.
+
+230
+00:11:05,980 --> 00:11:08,720
+如果她和其他名字出现了  告诉我
+If she or any of those other names come up, call me.
+
+231
+00:11:08,750 --> 00:11:10,180
+明白
+Confirmed.
+
+232
+00:11:14,880 --> 00:11:16,950
+你在哪
+Where are you?
+
+233
+00:11:16,980 --> 00:11:19,050
+洛杉矶
+Los Angeles.
+
+234
+00:11:19,080 --> 00:11:22,150
+在找莎拉·唐克雷蒂医生
+Trailing Dr. Sara Tancredi.
+
+235
+00:11:22,180 --> 00:11:24,850
+我没让你找她
+I ask for the knights, you're chasing a pawn.
+
+236
+00:11:24,880 --> 00:11:26,620
+她与这事无关
+She's irrelevant.
+
+237
+00:11:26,650 --> 00:11:29,020
+和斯科菲尔德有关
+Not to Scofield.
+
+238
+00:11:29,050 --> 00:11:33,020
+如果有人知道他在哪  肯定是她
+If anyone knows what rock he's hiding under, it's her.
+
+239
+00:11:33,050 --> 00:11:35,020
+格雷琴怎么办
+What about Gretchen?
+
+240
+00:11:35,050 --> 00:11:37,580
+我要让她说实话
+I'm having her softened up,
+
+241
+00:11:37,620 --> 00:11:40,420
+但是我觉得她活着有什么意义
+but I question the merit of keeping her alive.
+
+242
+00:11:40,450 --> 00:11:41,920
+我觉得你不应该让
+I don't think you should allow...
+
+243
+00:11:41,950 --> 00:11:43,550
+她肯定知道一些事情
+She must know something.
+
+244
+00:11:43,580 --> 00:11:45,380
+只要她招
+She lives
+
+245
+00:11:45,420 --> 00:11:47,180
+她就没价值了
+until she talks.
+
+246
+00:11:47,220 --> 00:11:50,880
+我需要你帮我做一些其他的事
+Now, I have something else I need you to do for me.
+
+247
+00:11:52,450 --> 00:11:54,480
+好像有一个前任雇员
+It seems a former employee
+
+248
+00:11:54,520 --> 00:11:56,580
+正在查找锡拉
+is looking into Scylla.
+
+249
+00:12:02,120 --> 00:12:03,450
+帝博格也在这里吗
+T-Bag's in town?
+
+250
+00:12:03,480 --> 00:12:04,620
+是的  但是我们跟丢了
+Yeah, but we lost him.
+
+251
+00:12:04,650 --> 00:12:05,980
+他可能在任何地方
+He could be anywhere by now.
+
+252
+00:12:06,020 --> 00:12:08,080
+他在哪不重要  重要的是他来这儿什么
+It's not where he is. It's what he's doing.
+
+253
+00:12:08,120 --> 00:12:10,150
+他搞糟了我们的事情
+He blew this whole thing for all of us.
+
+254
+00:12:10,180 --> 00:12:11,420
+-莎拉在哪  -船上
+-Where's Sara? -The boat.
+
+255
+00:12:15,020 --> 00:12:17,220
+绝对的
+Of course
+
+256
+00:12:17,250 --> 00:12:18,450
+他的死绝对是我的错
+it's my fault that he's dead.
+
+257
+00:12:18,480 --> 00:12:20,550
+-不是的  -你我都清楚
+-It's not true. -We both know it is.
+
+258
+00:12:21,580 --> 00:12:22,750
+我不应该给他打电话
+I shouldn't have called him.
+
+259
+00:12:22,780 --> 00:12:24,520
+我知道的  我不应该找他
+I knew that. I should never have reached out to him.
+
+260
+00:12:24,550 --> 00:12:25,580
+我不应该让他参与进来
+I shouldn't have involved him in any...
+
+261
+00:12:25,580 --> 00:12:28,020
+班尼特是自愿帮你的
+Bennett chose to help you.
+
+262
+00:12:29,850 --> 00:12:33,180
+是"公司"的人杀了他  不是你
+The Company killed him, not you.
+
+263
+00:12:36,820 --> 00:12:38,380
+听我说  莎拉  这不是
+Listen to me, Sara. This is...
+
+264
+00:12:38,420 --> 00:12:41,120
+这不是你的错
+This is not your fault.
+
+265
+00:12:44,280 --> 00:12:46,180
+我很抱歉
+I'm sorry.
+
+266
+00:12:49,150 --> 00:12:51,950
+我真的很抱歉
+I'm really sorry.
+
+267
+00:13:14,950 --> 00:13:16,950
+有什么能帮你的吗
+Hi. Can I help you?
+
+268
+00:13:16,980 --> 00:13:21,380
+我是科尔·普发  真喜欢你的笑
+With that smile you have, I'm Cole Pfeiffer.
+
+269
+00:13:21,420 --> 00:13:25,050
+普发先生  欢迎你来到洛杉矶
+Mr. Pfeiffer, uh, welcome to Los Angeles.
+
+270
+00:13:25,080 --> 00:13:25,950
+谢谢
+No, please.
+
+271
+00:13:25,980 --> 00:13:27,020
+叫我科尔就行了
+Call me Cole.
+
+272
+00:13:27,050 --> 00:13:30,120
+怀特先生正在等你
+Uh, Mr. White is looking forward to meeting with you,
+
+273
+00:13:30,150 --> 00:13:31,620
+科尔  不过他几分钟前
+uh, Cole, but he's just running
+
+274
+00:13:31,650 --> 00:13:33,080
+刚好离开了
+a few minutes late.
+
+275
+00:13:33,320 --> 00:13:36,020
+那么我们的谈话有多久
+Precisely how few minutes are we talking about?
+
+276
+00:13:36,050 --> 00:13:37,720
+不会太久的
+Oh, it shouldn't take long.
+
+277
+00:13:37,750 --> 00:13:40,520
+你可以在那边坐一会
+You can have a seat right over there.
+
+278
+00:13:42,120 --> 00:13:44,080
+对了  我差点忘了
+Oh. Oh, I almost forgot.
+
+279
+00:13:44,120 --> 00:13:46,580
+你有一条留言
+You already have a message.
+
+280
+00:13:46,620 --> 00:13:47,850
+我吗
+I do?
+
+281
+00:13:47,880 --> 00:13:49,420
+是的   星先生打过来的
+Mm-hmm. Mr. Xing called.
+
+282
+00:13:49,450 --> 00:13:50,680
+打了两次
+Twice.
+
+283
+00:13:50,720 --> 00:13:52,750
+我想你的人缘不错
+I guess your reputation precedes you.
+
+284
+00:13:52,780 --> 00:13:54,850
+我也这么想
+I guess so.
+
+285
+00:14:16,220 --> 00:14:16,650
+当·赛尔夫
+Don Self.
+
+286
+00:14:16,680 --> 00:14:18,550
+他们什么时候发现那家伙的
+When did they find the body?
+
+287
+00:14:18,580 --> 00:14:19,750
+今天早上
+This morning.
+
+288
+00:14:19,780 --> 00:14:21,280
+他们说是自杀
+They're saying it was a suicide,
+
+289
+00:14:21,320 --> 00:14:22,780
+但你和我最清楚
+but you and I know better.
+
+290
+00:14:22,820 --> 00:14:24,980
+我想问你些很重要的事
+So I need to ask you something very important, okay?
+
+291
+00:14:25,020 --> 00:14:26,820
+布鲁斯·班尼特知道你现在在哪吗
+Did Bruce Bennet know where you are now?
+
+292
+00:14:26,850 --> 00:14:27,980
+我不知道
+I don't know.
+
+293
+00:14:28,020 --> 00:14:29,180
+因为如果他知道的话
+Because if he did,
+
+294
+00:14:29,220 --> 00:14:31,520
+公司现在就有好机会来行动
+there's a damn good chance that the Company does now too.Okay?
+
+295
+00:14:31,550 --> 00:14:33,150
+所以你现在要加倍努力
+So you need to work double time.
+
+296
+00:14:33,180 --> 00:14:35,380
+自己小心点  明白吗
+Get some eyes in the back of your head, you understand?
+
+297
+00:14:35,420 --> 00:14:37,780
+我感谢你的鼓励
+Look, I appreciate the motivational speech,
+
+298
+00:14:37,820 --> 00:14:39,080
+那你能告诉我
+but how about you figure out
+
+299
+00:14:39,120 --> 00:14:42,050
+我们在哪才能找到那6张卡并且破译它吗
+where we have to break in so we can decode those cards?
+
+300
+00:14:42,080 --> 00:14:43,020
+行了  我了解
+I've, I've got
+
+301
+00:14:43,050 --> 00:14:45,150
+大家都在干活  对吧
+some guys doing some digging, okay?
+
+302
+00:14:45,180 --> 00:14:46,450
+实际上  有两帮人给你干活
+Actually, you might have two.
+
+303
+00:14:46,480 --> 00:14:48,450
+什么  你说什么呢
+Well, what are you... what are you talking about?
+
+304
+00:14:48,480 --> 00:14:50,420
+他名叫帝博格
+His name is Theodore Bagwell.
+
+305
+00:14:50,450 --> 00:14:51,820
+在巴拿马的时候和我们在一起
+He was with us in Panama,
+
+306
+00:14:52,850 --> 00:14:54,450
+现在他就在洛杉矶
+and now he's here in Los Angeles,
+
+307
+00:14:54,480 --> 00:14:56,280
+他有一本曾经属于惠斯勒的书
+and he has a book that used to belong
+
+308
+00:14:56,320 --> 00:14:57,720
+马宏认为
+to Whistler, and Mahone thinks...
+
+309
+00:14:58,750 --> 00:15:02,220
+那本书对我们有利
+Mahone thinks this book has a plan for the break-in.
+
+310
+00:15:02,250 --> 00:15:03,780
+你开玩笑吧
+You've got to be kidding me.
+
+311
+00:15:03,820 --> 00:15:05,950
+我也希望是玩笑
+I wish I were.
+
+312
+00:15:12,050 --> 00:15:13,820
+这里是贾斯帕·波茨
+You've reached Jasper Potts.
+
+313
+00:15:13,850 --> 00:15:15,020
+请留言
+Leave a message.
+
+314
+00:15:15,050 --> 00:15:17,150
+是我  听着
+Hey, it's me. Listen, I need that information
+
+315
+00:15:17,180 --> 00:15:19,280
+我需要我们昨天讨论过的资料
+we talked about, like yesterday, you understand?,
+
+316
+00:15:19,290 --> 00:15:24,720
+尽快的给我回电
+Call me back. Call... me... back as soon as possible.
+
+317
+00:15:25,400 --> 00:15:27,870
+丽莎·特巴克 土耳其领事的妻子
+Lisa Tabak. Wife of the Turkish Consul.
+
+318
+00:15:27,900 --> 00:15:30,930
+结婚4年  没有孩子
+Married four years, children-- none.
+
+319
+00:15:30,970 --> 00:15:32,370
+行政档案上列出
+Listed as the logistician
+
+320
+00:15:32,400 --> 00:15:34,630
+她还是物流师
+in the executive profile for SENSA,
+
+321
+00:15:34,670 --> 00:15:36,600
+和私人基金理财师  办公地点设在华盛顿  纽约
+a privately funded think tank with offices in D.C,
+
+322
+00:15:36,630 --> 00:15:38,170
+芝加哥和洛杉矶
+New York, Chicago and Los Angeles.
+
+323
+00:15:38,200 --> 00:15:39,270
+我只想知道的是
+Yeah, and the only thing
+
+324
+00:15:39,300 --> 00:15:40,600
+她的日程表
+I want to know about this chick is her schedule.
+
+325
+00:15:40,630 --> 00:15:42,130
+她在做什么  往哪去
+What she's doing, where she's going.
+
+326
+00:15:42,170 --> 00:15:43,570
+我们可能没有那么多时间了
+We might not have that kind of time.
+
+327
+00:15:44,600 --> 00:15:46,670
+今天早上她出车门的时候
+This morning, when she first got out of the car,
+
+328
+00:15:46,700 --> 00:15:48,370
+带着手提箱
+she had a suitcase.
+
+329
+00:15:48,400 --> 00:15:50,200
+查一下航空公司的航班记录
+Well, let's check the airlines, match her name against
+
+330
+00:15:50,230 --> 00:15:50,800
+再查查她的名字
+aparting flights.
+
+331
+00:15:51,830 --> 00:15:52,630
+说不定她已经走了
+Maybe she's already gone.
+
+332
+00:15:52,670 --> 00:15:54,800
+不一定
+I don't think so.
+
+333
+00:15:54,830 --> 00:15:55,600
+如果她今天要去哪儿
+If she's going anywhere today,
+
+334
+00:15:55,630 --> 00:15:57,270
+她肯定会坐夜间航班
+it's gonna be on the red eye.
+
+335
+00:15:58,300 --> 00:16:00,830
+从新闻上看  她在一些市里的慈善组织中
+According to this press release, Lisa Tabak is being honored
+
+336
+00:16:00,870 --> 00:16:02,270
+很受尊敬
+at some charity shindig downtown.
+
+337
+00:16:02,300 --> 00:16:03,470
+不错  那就是我们能找到她的地方
+Well, that's great. That's where we'll get her.
+
+338
+00:16:03,500 --> 00:16:04,670
+她目的是什么
+What's the benefit for?
+
+339
+00:16:05,700 --> 00:16:07,530
+他是雄鹰和天使组织的
+She's the top donor of an organization
+
+340
+00:16:07,570 --> 00:16:10,170
+最大投资人
+called Eagles and Angels.
+
+341
+00:16:10,200 --> 00:16:11,700
+雄鹰和天使
+Eagles and Angels?
+
+342
+00:16:11,730 --> 00:16:12,970
+你听说过吗
+You've heard of it?
+
+343
+00:16:14,270 --> 00:16:17,370
+当警官因公殉职时
+When a police officer dies in the line of duty,
+
+344
+00:16:17,400 --> 00:16:19,130
+他被称为雄鹰
+he's an Eagle.
+
+345
+00:16:19,170 --> 00:16:21,800
+他留下来的人就叫做天使
+The ones he leaves behind are Angels.
+
+346
+00:16:21,830 --> 00:16:24,300
+这是个有益于执法的社团啊
+That's a benefit for the Association of Law Enforcement.
+
+347
+00:16:24,330 --> 00:16:26,230
+如果想接近她
+If you're gonna get near her,
+
+348
+00:16:26,270 --> 00:16:29,900
+那会招来洛杉矶市的半数警察
+it's gonna be with about half the cops in L.A.
+
+349
+00:16:43,830 --> 00:16:45,630
+贾斯帕  你死哪儿去了
+Jasper, where the hell you been?
+
+350
+00:16:45,670 --> 00:16:47,600
+- 思考  - 你想什么?
+-Thinking.  -Thinking?
+
+351
+00:16:47,630 --> 00:16:49,130
+拜托  你现在最要想的是
+Come on, the only thing you ould be thinking about
+
+352
+00:16:49,170 --> 00:16:50,530
+我要你为我找的东西
+is what I asked you to get for me.
+
+353
+00:16:50,570 --> 00:16:52,030
+你找到那个位置了吗
+Did you find the location?
+
+354
+00:16:52,070 --> 00:16:53,900
+是的  别再说废话了行吗
+Yes, yes, and don't say anything else, okay?
+
+355
+00:16:53,930 --> 00:16:55,570
+我昨天听到手机响了
+I heard clicks yesterday on my phone.
+
+356
+00:16:55,600 --> 00:16:57,530
+好的  别紧张  我马上就来
+All right, settle down, all right? I'm coming to you.
+
+357
+00:16:57,570 --> 00:16:59,230
+没事  你是不可能进去的
+It doesn't matter, you know, cause you're never gonna
+
+358
+00:16:59,270 --> 00:17:01,130
+那不是他们的地方
+be able to get in, not where they're keeping it.
+
+359
+00:17:01,170 --> 00:17:03,330
+我真不该帮你的
+I should have never helped you out. I...
+
+360
+00:17:03,370 --> 00:17:06,300
+冷静好吗  我马上就到你那
+Just relax, okay? I'm coming to you right now.
+
+361
+00:17:32,830 --> 00:17:35,500
+这些够厉害吗
+Think they're strong enough?
+
+362
+00:17:35,530 --> 00:17:37,870
+放一起应该可以
+Together they should be.
+
+363
+00:17:38,870 --> 00:17:40,500
+这些就是单子上的所有东西
+That's everything on the list.
+
+364
+00:17:40,530 --> 00:17:42,630
+我们一定要去偷吗
+You sure we have to steal them?
+
+365
+00:17:42,670 --> 00:17:45,300
+这些都是我们需要的  商店买不到
+It's the one thing we need that we can't get at a store,
+
+366
+00:17:45,330 --> 00:17:46,900
+兄弟  我们必须去偷
+buddy, so yes, we got to steal them.
+
+367
+00:17:46,930 --> 00:17:48,670
+我们拿到了所有的东西就和你们在那碰头
+We'll get everything else and meet you there.
+
+368
+00:17:48,700 --> 00:17:50,670
+好的
+All right.
+
+369
+00:17:53,700 --> 00:17:54,830
+嘿
+Look, um,
+
+370
+00:17:54,870 --> 00:17:56,330
+你没事吧
+you gonna be okay?
+
+371
+00:17:56,370 --> 00:17:58,130
+是的 我只是需要时间
+Yeah. I just need time.
+
+372
+00:17:58,170 --> 00:17:59,470
+好的
+Right.
+
+373
+00:17:59,500 --> 00:18:01,870
+我尽快回来
+I'll be back as soon as I can.
+
+374
+00:18:01,900 --> 00:18:04,000
+好的
+Okay.
+
+375
+00:18:07,800 --> 00:18:10,030
+我真的很抱歉
+I am so sorry
+
+376
+00:18:10,070 --> 00:18:11,930
+我下个星期不能待在这里
+I'm not going to be around next week
+
+377
+00:18:11,970 --> 00:18:13,270
+看你的表现科尔
+to see you in action, Cole,
+
+378
+00:18:13,300 --> 00:18:15,400
+但是你有安迪在这里给你当帮手
+but you' be in good hands with Andy here.
+
+379
+00:18:15,430 --> 00:18:17,730
+我要赶去旧金山的飞机
+I have got to catch a flight to San Francisco,
+
+380
+00:18:17,770 --> 00:18:20,000
+但是我要告诉你 你能来这里
+but I just wanted to say how thrilled we are
+
+381
+00:18:20,030 --> 00:18:22,270
+我们真是太激动了 希望其他
+to have you here, and hopefully, some of the rest
+
+382
+00:18:22,300 --> 00:18:24,570
+人能从你这学到点销售本领
+of the sales force can learn a thing or two.
+
+383
+00:18:24,600 --> 00:18:27,770
+在我回来后再解决支票的问题  怎么样
+Uh, we'll settle up that check when I get back, all right?
+
+384
+00:18:27,800 --> 00:18:29,470
+记住了 别喊我弗里斯科了
+Uh, remember, don't call it Frisco.
+
+385
+00:18:29,500 --> 00:18:30,830
+我讨厌那个叫法
+They hate that up there.
+
+386
+00:18:30,870 --> 00:18:32,470
+没问题
+True.
+
+387
+00:18:32,500 --> 00:18:35,170
+好  就让我领你看看你的办公室吧  科尔
+Well, why don't I show you to your office, Cole?
+
+388
+00:18:35,200 --> 00:18:36,930
+-好的  -不好意思
+-Okeydoke. -I'm sorry.
+
+389
+00:18:36,970 --> 00:18:38,800
+我从没有看到关于你是
+I didn't see anywhere in your paperwork
+
+390
+00:18:38,830 --> 00:18:40,200
+残疾人的书面材料
+that you were... handicapped.
+
+391
+00:18:40,230 --> 00:18:42,370
+不然的话 我对你办公的地方做一些
+Otherwise, I would have made the necessary adjustments
+
+392
+00:18:42,400 --> 00:18:43,930
+必要的调整
+to your work space.
+
+393
+00:18:43,970 --> 00:18:46,170
+安迪 我觉得自己是一个
+Andy, I like to think of myself as...
+
+394
+00:18:46,200 --> 00:18:48,500
+"残疾全能人"
+handicapable.
+
+395
+00:18:48,530 --> 00:18:49,900
+绝对是
+Right. Yeah.
+
+396
+00:18:51,200 --> 00:18:52,600
+就是这里了
+Well, here you are.
+
+397
+00:18:52,630 --> 00:18:54,570
+好的 好的
+Right, right.
+
+398
+00:18:54,600 --> 00:18:57,470
+这就是我将要工作的
+So this is where I'm gonna be doing my, uh...
+
+399
+00:18:57,500 --> 00:19:00,530
+我就要在这里工作的
+my work, right here in this, uh...
+
+400
+00:19:01,570 --> 00:19:02,600
+办公室
+...office.
+
+401
+00:19:02,630 --> 00:19:04,200
+没错
+That's right.
+
+402
+00:19:04,230 --> 00:19:07,030
+看来我要开始卷起我的袖子了
+So, I'd better be rolling  my sleeves, then.
+
+403
+00:19:07,070 --> 00:19:09,300
+你知道吧  科尔  我不得不告诉你
+You know, Cole, I-I got to tell you.
+
+404
+00:19:09,330 --> 00:19:10,800
+我还是觉得很惊奇
+I'm still a little amazed
+
+405
+00:19:10,830 --> 00:19:13,300
+我从没见过像你这样的例子
+at somebody I've never even seen at a convention
+
+406
+00:19:13,330 --> 00:19:15,530
+简直像从天而降一样
+or seminar just falls from the sky
+
+407
+00:19:15,570 --> 00:19:17,600
+打破了我们所有的销售记录
+and shatters all of our sales records.
+
+408
+00:19:17,630 --> 00:19:20,730
+当你和我一样相信伽特公司
+When you believe in GATE like I do,
+
+409
+00:19:20,770 --> 00:19:22,770
+想做销售就不那么难了
+it ain't that hard to sell.
+
+410
+00:19:22,800 --> 00:19:24,930
+说的对
+There you go.
+
+411
+00:19:24,970 --> 00:19:27,030
+好的
+Well.
+
+412
+00:19:28,870 --> 00:19:32,370
+这就是你要求的转角办公室
+And here's your corner office as requested.
+
+413
+00:19:33,400 --> 00:19:35,370
+欢迎加入团队
+Welcome to the team.
+
+414
+00:19:35,400 --> 00:19:37,700
+好的  谢谢了
+All righty, then. Thank you.
+
+415
+00:19:50,370 --> 00:19:52,330
+One...
+
+416
+00:19:52,370 --> 00:19:54,500
+22...
+
+417
+00:19:56,000 --> 00:19:58,400
+...B
+...B.
+
+418
+00:20:00,370 --> 00:20:02,500
+哦
+Oh.
+
+419
+00:20:08,630 --> 00:20:11,000
+你好  莎拉
+Hello, Sara.
+
+420
+00:20:26,070 --> 00:20:28,830
+莎拉  你去哪
+Hey, Sara, where you going?
+
+421
+00:20:49,800 --> 00:20:51,670
+来点什么
+What can I get you?
+
+422
+00:20:51,700 --> 00:20:53,830
+苏打水  谢谢
+Club soda, please.
+
+423
+00:21:01,530 --> 00:21:03,230
+多少年了
+How many years?
+
+424
+00:21:03,270 --> 00:21:04,630
+什么
+Sorry?
+
+425
+00:21:04,670 --> 00:21:06,300
+你参加戒酒计划
+In the program. How many years
+
+426
+00:21:06,330 --> 00:21:07,530
+有多少个年头了
+have you been sober?
+
+427
+00:21:07,570 --> 00:21:09,330
+三年又三个月了
+About three years and three months.
+
+428
+00:21:09,370 --> 00:21:11,270
+很好啊
+Good for you.
+
+429
+00:21:11,300 --> 00:21:12,930
+是啊  今天感觉不好
+Yeah, it doesn't feel good today.
+
+430
+00:21:12,970 --> 00:21:15,070
+但是如果
+But I'll take
+
+431
+00:21:15,100 --> 00:21:17,030
+解决了这个大问题后我会非常高兴
+the high five for cracking the big question.
+
+432
+00:21:17,070 --> 00:21:19,170
+什么问题
+Which is?
+
+433
+00:21:19,200 --> 00:21:21,770
+生活是场悲剧吗
+Is life a tragedy,
+
+434
+00:21:21,800 --> 00:21:23,530
+或者还有
+or is there...
+
+435
+00:21:24,470 --> 00:21:26,500
+希望
+...hope?
+
+436
+00:21:26,530 --> 00:21:29,370
+你告诉我
+You tell me.
+
+437
+00:21:34,900 --> 00:21:36,700
+双份波旁威士忌  不加水
+Double bourbon, neat.
+
+438
+00:21:38,200 --> 00:21:41,230
+倒吧
+Just pour it.
+
+439
+00:21:51,270 --> 00:21:53,230
+干杯  甜心
+Cheers, honey.
+
+440
+00:23:52,070 --> 00:23:54,370
+这里
+Over here.
+
+441
+00:24:41,570 --> 00:24:45,070
+雄鹰和天使组织里是对公司有贡献的人
+Eagles and Angels, with contributions from the Company.
+
+442
+00:24:51,770 --> 00:24:54,670
+再过五分钟就差不多要开始了
+This thing's supposed to start in five minutes.
+
+443
+00:25:13,870 --> 00:25:15,470
+-不好意思  对不起  -没关系
+Excuse me, sorry. No problem.
+
+444
+00:25:15,500 --> 00:25:16,970
+你在哪个部门工作
+Where do you work out of?
+
+445
+00:25:19,600 --> 00:25:22,370
+那里有我的一个手下
+That's one of my guys up there.
+
+446
+00:25:22,400 --> 00:25:23,730
+不好意思  我只是
+I'm sorry, I just...
+
+447
+00:25:23,770 --> 00:25:25,370
+没关系
+Oh, sure, sure.
+
+448
+00:25:25,400 --> 00:25:28,030
+没关系
+Of course.
+
+449
+00:25:35,970 --> 00:25:38,170
+我生下来就知道他了
+I've known him my whole life.
+
+450
+00:25:38,200 --> 00:25:40,470
+他是我家的一个非常亲密的朋友
+He was a very close person to my family.
+
+451
+00:25:40,500 --> 00:25:42,830
+总有一些好人
+It's always the good ones.
+
+452
+00:25:42,870 --> 00:25:45,600
+你不喝吗
+You ain't gonna drink that?
+
+453
+00:25:45,630 --> 00:25:47,030
+甜心
+Honey
+
+454
+00:25:47,070 --> 00:25:49,200
+好好先生谢尔帕德现在就能减轻你的痛苦
+the Good Shepard is here to ease your pain.
+
+455
+00:25:50,930 --> 00:25:53,130
+罗纳德·温斯顿·谢尔帕德  你可以喊我谢尔
+Ronald Winston Shepard-- you can call me Shep.
+
+456
+00:25:53,170 --> 00:25:55,700
+谢尔  我现在真的不想说话
+Shep, I really don't feel like talking right now.
+
+457
+00:25:56,700 --> 00:25:58,670
+你一直在和她说话
+You've been talking to her.
+
+458
+00:25:58,700 --> 00:26:00,430
+让她清净会好吧
+Leave her alone, okay?
+
+459
+00:26:04,400 --> 00:26:06,200
+不好意思
+Pardon me.
+
+460
+00:26:19,900 --> 00:26:21,600
+继续
+Go on.
+
+461
+00:26:23,030 --> 00:26:27,000
+当我13岁时我要去见音乐家安妮
+When I was 13, I had to go see Annie, the musical,
+
+462
+00:26:27,030 --> 00:26:28,930
+但是我的妈妈在那年早些时候去世了
+but my mom had passed away
+
+463
+00:26:28,970 --> 00:26:33,030
+我爸爸答应带我去
+earlier that year and my dad had agreed to take me and...
+
+464
+00:26:33,070 --> 00:26:36,130
+我都换上新衣服了
+I was all ready in my new drs,
+
+465
+00:26:36,170 --> 00:26:40,070
+并且我详细的记得关于这事情
+and, uh, and I knew every word of this thing.
+
+466
+00:26:40,770 --> 00:26:42,300
+我爸从公司打电话来
+And my dad called from work,
+
+467
+00:26:42,330 --> 00:26:44,300
+说他没时间带我去
+and he said he wasn't going to make it.
+
+468
+00:26:44,330 --> 00:26:45,830
+那已不是第一次
+That wasn't the first time.
+
+469
+00:26:47,930 --> 00:26:51,730
+我记得  感觉自己像在独自飘零
+And I remember feeling like I was floating...
+
+470
+00:26:51,770 --> 00:26:55,870
+好像自己是世上唯一的一个人
+like I was the only person in the whole world.
+
+471
+00:26:58,200 --> 00:27:00,630
+这时布鲁斯来了
+And Bruce came.
+
+472
+00:27:00,670 --> 00:27:04,830
+他出现了  带着我
+He showed up to take me and...
+
+473
+00:27:04,870 --> 00:27:07,900
+之后  他又带我回家  他说
+And after, he took me home, and he said
+
+474
+00:27:07,930 --> 00:27:12,170
+如果我需要他  他都会帮我
+that if I ever needed him, he'd be there for me.
+
+475
+00:27:19,800 --> 00:27:22,270
+一个月前  我需要他帮忙  打电话给他
+And a month ago, I needed him, and I called him.
+
+476
+00:27:24,270 --> 00:27:26,900
+而他因此丧命
+And he died for it.
+
+477
+00:27:32,170 --> 00:27:33,500
+等等
+Just a sec.
+
+478
+00:27:35,470 --> 00:27:38,530
+他会让你怎么做
+What would he want you to do?
+
+479
+00:27:47,700 --> 00:27:49,530
+我来帮你吧
+Let me do you a favor.
+
+480
+00:28:04,170 --> 00:28:07,330
+在我们就坐用餐前
+Uh, before we sit down to eat,
+
+481
+00:28:07,370 --> 00:28:09,200
+欢迎各位参加
+I'd like to welcome everyone
+
+482
+00:28:09,230 --> 00:28:12,200
+第15届年度飞鹰天使慈善宴会
+to the 15th Annual Eagles and Angels Benefit.
+
+483
+00:28:14,200 --> 00:28:16,100
+我们都知道今晚聚餐的目的
+We all know why we're here tonight,
+
+484
+00:28:16,130 --> 00:28:18,800
+我希望先进行默哀时刻
+so I'd like to begin with a moment of silence
+
+485
+00:28:18,830 --> 00:28:21,200
+重申我们对法律的贡献
+to renew our dedication to the law
+
+486
+00:28:21,230 --> 00:28:24,870
+并向那些无畏追求公正
+and to honor those whose lives were cut short
+
+487
+00:28:24,900 --> 00:28:27,730
+英明早逝的同志们致哀
+by their fearless pursuit of justice.
+
+488
+00:28:28,670 --> 00:28:31,100
+我们会将他们铭记在心
+They will truly be missed.
+
+489
+00:29:05,400 --> 00:29:07,470
+谢谢
+Thank you.
+
+490
+00:29:08,400 --> 00:29:10,270
+用餐愉快
+Enjoy your dinner.
+
+491
+00:29:16,070 --> 00:29:18,000
+我被认出来了  伙计们
+I've been made, guys.
+
+492
+00:29:19,600 --> 00:29:22,300
+只管复制卡
+Just get the card copy.
+
+493
+00:29:27,270 --> 00:29:29,630
+开始了
+Here we go.
+
+494
+00:29:35,800 --> 00:29:38,030
+正在复制
+We're copying
+
+495
+00:29:39,530 --> 00:29:41,300
+节哀
+Hi, my condolences.
+
+496
+00:29:45,300 --> 00:29:46,870
+喂
+Yes?
+
+497
+00:29:46,900 --> 00:29:49,330
+15点启程
+The kip's at 15.
+
+498
+00:29:50,400 --> 00:29:52,670
+我明白
+I understand.
+
+499
+00:29:57,900 --> 00:30:01,130
+我很抱歉  但我得先走了
+I'm very sorry, but I'm going to have to leave.
+
+500
+00:30:14,330 --> 00:30:18,400
+我很抱歉  对
+Yeah. I'm so sorry. Yes.
+
+501
+00:30:18,430 --> 00:30:19,770
+她想干什么?
+What's she doing?
+
+502
+00:30:19,800 --> 00:30:21,370
+她要走了
+She's leaving.
+
+503
+00:30:21,400 --> 00:30:23,700
+我很抱歉
+I'm... so sorry.
+
+504
+00:30:28,230 --> 00:30:30,200
+喂
+Yeah?
+
+505
+00:30:30,230 --> 00:30:33,170
+我被发现了  在后门等我
+I've been made. Meet me out back.
+
+506
+00:30:33,210 --> 00:30:34,030
+走
+Go.
+
+507
+00:30:47,270 --> 00:30:48,870
+林肯·布伦斯
+Lincoln Burrows.
+
+508
+00:30:55,640 --> 00:30:58,600
+我不知道你说谁
+I don't who you think I am.
+
+509
+00:30:58,600 --> 00:31:01,670
+我知道你是谁  现在把枪套解开
+I know who you are. Now put the gun slowy.
+
+510
+00:31:09,370 --> 00:31:11,300
+3号  呼叫
+Three. Copy?
+
+511
+00:31:11,330 --> 00:31:14,130
+3号  呼叫
+Three. Copy?
+
+512
+00:31:14,170 --> 00:31:15,830
+走
+Move.
+
+513
+00:31:15,870 --> 00:31:18,400
+走
+Move it.
+
+514
+00:31:19,470 --> 00:31:22,000
+该把装置拿回来了
+Time to get the device.
+
+515
+00:31:25,300 --> 00:31:27,400
+够了
+That's far enough.
+
+516
+00:31:27,430 --> 00:31:29,500
+你为何不叫个警察来?
+Why don't you just call one of the cops?
+
+517
+00:31:29,530 --> 00:31:31,800
+我们为公司卖命  布伦斯  我们不需要警察
+We work for the Company, Burrows. We don't need cops.
+
+518
+00:31:31,830 --> 00:31:33,700
+准备好遗言了吗
+Got any last words?
+
+519
+00:31:49,800 --> 00:31:51,470
+喂
+Yeah?
+
+520
+00:31:51,500 --> 00:31:54,500
+我们有麻烦了  我刚杀了一个保镖
+We got a problem. I just killed one of the guards.
+
+521
+00:31:54,530 --> 00:31:55,500
+我们快走吧
+Let's go now!
+
+522
+00:31:55,530 --> 00:31:57,900
+不  我们还没拿到手
+No. We don't have it yet.
+
+523
+00:31:57,930 --> 00:31:58,900
+你继续想办法
+Do what you got to do.
+
+524
+00:31:58,930 --> 00:32:00,930
+我们得处理尸体
+We got to get rid of the body.
+
+525
+00:32:05,430 --> 00:32:07,000
+让他们找到他
+Let them find him.
+
+526
+00:32:07,030 --> 00:32:07,870
+什么?
+What?
+
+527
+00:32:07,900 --> 00:32:09,530
+等马宏
+Wait for Mahone.
+
+528
+00:32:30,500 --> 00:32:32,670
+格雷琴
+Gretchen.
+
+529
+00:32:36,800 --> 00:32:38,430
+美女感觉如何
+How's my girl?
+
+530
+00:32:44,900 --> 00:32:46,830
+看来不止你的朋友
+It seems your friend Whistler
+
+531
+00:32:46,870 --> 00:32:50,400
+惠斯勒在找锡拉
+wasn't the only one looking into Scylla.
+
+532
+00:32:50,430 --> 00:32:53,800
+你知道这事吗
+You know anything about that?
+
+533
+00:32:53,830 --> 00:32:55,470
+不
+No
+
+534
+00:32:56,370 --> 00:32:59,170
+不
+No.
+
+535
+00:33:00,970 --> 00:33:04,430
+你什么也不知道  对吧
+You never know anything, do you?
+
+536
+00:33:04,470 --> 00:33:08,500
+你跟这些事都没关系
+You have nothing to do with any of this.
+
+537
+00:33:08,530 --> 00:33:11,670
+斯科菲尔德  布伦斯
+Scofield, Burrows...
+
+538
+00:33:11,700 --> 00:33:13,570
+你不知道  谁...
+You don't know who...
+
+539
+00:33:13,600 --> 00:33:14,870
+不
+No.
+
+540
+00:33:14,900 --> 00:33:18,570
+你不能一直对我撒谎
+You can't keep lying to me.
+
+541
+00:33:18,600 --> 00:33:21,300
+不
+No!
+
+542
+00:33:21,330 --> 00:33:22,570
+我不知道
+I don't know!
+
+543
+00:33:22,600 --> 00:33:24,670
+我不知道
+I don't know!
+
+544
+00:33:30,800 --> 00:33:32,900
+你看上去...
+You look so...
+
+545
+00:33:34,130 --> 00:33:36,200
+相当轻松
+...damn easy.
+
+546
+00:33:39,870 --> 00:33:41,970
+我会让你痛苦点
+I can make this a lot harder.
+
+547
+00:33:50,030 --> 00:33:51,930
+喂
+Yes.
+
+548
+00:33:51,970 --> 00:33:53,830
+布鲁斯·班尼特的一张信用卡
+A credit card belonging to Bruce Bennett
+
+549
+00:33:53,870 --> 00:33:56,030
+刚在圣佩德罗的一间酒吧消费过
+was just used at a bar in San Pedro.
+
+550
+00:34:16,530 --> 00:34:18,570
+谢谢  很贴心
+Thank you. It's lovely.
+
+551
+00:34:18,600 --> 00:34:19,700
+打扰一下
+Excuse me.
+
+552
+00:34:19,730 --> 00:34:20,730
+打扰一下
+Excuse me.
+
+553
+00:34:22,770 --> 00:34:24,170
+我们在外面找到一具死尸
+we have a DOA outside,
+
+554
+00:34:24,200 --> 00:34:25,600
+我想是你们的一个手下
+I believe it's one of your men.
+
+555
+00:34:25,630 --> 00:34:27,230
+你得跟我去一趟
+You need to come with me.
+
+556
+00:34:27,270 --> 00:34:29,900
+什么?
+Excuse me?
+
+557
+00:34:29,930 --> 00:34:31,830
+在你确认他身份前  谁都不能离开
+No one's leaving here until you make an ID.
+
+558
+00:34:31,870 --> 00:34:33,530
+请
+Please.
+
+559
+00:34:33,570 --> 00:34:35,370
+玛瑟斯
+Mathers.
+
+560
+00:34:35,400 --> 00:34:36,470
+请跟特巴克夫人呆在一起
+Stay with Mrs. Tabak.
+
+561
+00:34:36,500 --> 00:34:38,330
+怎么回事?  我要赶飞机
+Uh, what hpened? I have a plane to catch.
+
+562
+00:34:38,370 --> 00:34:40,130
+我明白  我们很快就解决
+I understand. We'll make this fast.
+
+563
+00:34:40,170 --> 00:34:42,030
+玛瑟斯警官会跟你留在这
+Officer Mathers, he'll wait with you.
+
+564
+00:34:42,070 --> 00:34:43,830
+请  跟她呆在这
+Please. Stay with her.
+
+565
+00:34:43,870 --> 00:34:46,470
+麻烦跟我在这稍等  夫人
+If you could just wait with me, ma'am.
+
+566
+00:34:46,500 --> 00:34:48,770
+谢谢
+Thank you.
+
+567
+00:34:51,070 --> 00:34:51,900
+怎么回事?
+What's going on?
+
+568
+00:34:51,930 --> 00:34:54,300
+只耽误几分钟而已
+Should only take a few minutes.
+
+569
+00:35:07,970 --> 00:35:10,270
+真是个不错的纪念方式啊
+This is a nice memorial.
+
+570
+00:35:12,130 --> 00:35:13,930
+我真的很佩服
+I very much respect
+
+571
+00:35:13,970 --> 00:35:16,330
+你们所做出的牺牲
+the sacrifices you men make.
+
+572
+00:35:16,370 --> 00:35:19,500
+那里的坏人可多着呢
+There's a lot of bad people out there.
+
+573
+00:35:20,430 --> 00:35:22,300
+玛瑟斯长官  你...
+Officer Mathers, you, um...
+
+574
+00:35:22,330 --> 00:35:23,670
+你脸上有东西
+you have something.
+
+575
+00:35:23,700 --> 00:35:25,730
+你的...你的鼻子在流血
+Your, your nose is bleeding.
+
+576
+00:35:51,370 --> 00:35:52,770
+总有一天...
+One day...
+
+577
+00:36:03,870 --> 00:36:05,670
+打扰一下
+Excuse me.
+
+578
+00:36:05,700 --> 00:36:07,830
+我在找这个女人
+I'm looking for this woman.
+
+579
+00:36:25,470 --> 00:36:28,200
+来  拿着
+Here, take that.
+
+580
+00:36:34,200 --> 00:36:35,600
+你没事吧
+You okay?
+
+581
+00:36:39,130 --> 00:36:40,970
+妈的  没事
+Hell, yes.
+
+582
+00:36:45,070 --> 00:36:47,330
+没什么的  旅途顺利
+It's nothing. Travel safely.
+
+583
+00:36:48,670 --> 00:36:51,230
+特巴克夫人  我们得走了
+Mrs. Tabak, we've got to leave.
+
+584
+00:36:51,270 --> 00:36:52,830
+夫人  快走
+Ma'am, now.
+
+585
+00:36:54,600 --> 00:36:58,130
+告诉你  我没有见到她
+I'm telling you, I haven't seen her.
+
+586
+00:36:58,170 --> 00:36:59,600
+你确信?
+You're sure?
+
+587
+00:37:22,630 --> 00:37:25,470
+大家小心
+Oh, look out, fellas!
+
+588
+00:37:25,500 --> 00:37:26,900
+是那些猪头来了  快跑!
+It's the pigs! Run!
+
+589
+00:37:26,930 --> 00:37:28,830
+闭嘴  混蛋
+Shut up, wiseass.
+
+590
+00:37:30,070 --> 00:37:31,800
+你确信你拿到所有的东西了?
+You're sure you got the whole thing?
+
+591
+00:37:31,830 --> 00:37:33,230
+百分百确信
+A hundred percent.
+
+592
+00:37:33,270 --> 00:37:34,330
+莎拉在哪?
+Where's Sara?
+
+593
+00:37:34,370 --> 00:37:36,500
+我又不是负责看她的
+It's not my turn to watch her.
+
+594
+00:37:36,530 --> 00:37:38,130
+我们到底要干吗  肯定有人看见我们了
+What the hell are we gonna do? Someone must've seen us.
+
+595
+00:37:38,170 --> 00:37:41,000
+别急  应付得了
+Don't worry, it's handled.
+
+596
+00:37:42,400 --> 00:37:45,970
+政治针对行动?
+Politically motivated?
+
+597
+00:37:46,000 --> 00:37:49,500
+他们认为和那些亚美尼亚人有关系
+They think it had something to do with the Armenians.
+
+598
+00:37:50,930 --> 00:37:52,070
+迪普进了洛杉矶警察局
+Tip came in to LAPD.
+
+599
+00:37:52,100 --> 00:37:54,100
+杀手以为领事...
+The assailant thought the consul
+
+600
+00:37:54,130 --> 00:37:55,200
+在那里
+was at the event.
+
+601
+00:37:55,230 --> 00:37:57,500
+丽莎的贴身保镖挡了路
+Lisa's bodyguard got in the way.
+
+602
+00:37:58,870 --> 00:38:00,270
+丽莎坐那个航班了吗
+Did Lisa make her flight?
+
+603
+00:38:00,300 --> 00:38:02,030
+是的  将军
+Yes, General.
+
+604
+00:38:18,670 --> 00:38:20,130
+你找到什么了
+What do you got?
+
+605
+00:38:20,170 --> 00:38:22,000
+一个人
+I had a guy.
+
+606
+00:38:22,030 --> 00:38:24,230
+真的  我有这么一个人
+I did. I had a guy.
+
+607
+00:38:24,270 --> 00:38:26,470
+他...是个告密者
+He, uh, was an informant.
+
+608
+00:38:26,500 --> 00:38:28,170
+事实上  他给公司服务了...
+Actually, he used to work for the Company
+
+609
+00:38:28,200 --> 00:38:29,730
+十一年  直到现在...
+for about 11 years until he
+
+610
+00:38:29,770 --> 00:38:31,230
+他决定帮助我们一起抵抗公司
+turned against them and decided to help me.
+
+611
+00:38:31,270 --> 00:38:34,170
+他有我们要的地点
+He said he had the location we needed.
+
+612
+00:38:34,200 --> 00:38:35,330
+但是我...
+But I, uh...
+
+613
+00:38:35,370 --> 00:38:38,230
+今天发现他已经死在他的公寓了
+found him dead in his apartment today.
+
+614
+00:38:38,270 --> 00:38:42,870
+我很遗憾
+I'm sorry.
+
+615
+00:38:42,900 --> 00:38:44,130
+先是班尼特  现在就轮到你们了
+First Bennett, now your guy, huh?
+
+616
+00:38:44,170 --> 00:38:45,970
+是啊
+Yeah.
+
+617
+00:38:46,000 --> 00:38:47,470
+他们咄咄逼人啊
+They're closing in on us.
+
+618
+00:38:47,500 --> 00:38:49,030
+毫无疑问
+There's no doubt about it,
+
+619
+00:38:49,070 --> 00:38:50,670
+而且现在  我也是...
+and now, I'm, uh...
+
+620
+00:38:50,700 --> 00:38:52,770
+两手空空  束手无策了
+empty-handed.
+
+621
+00:38:52,800 --> 00:38:55,830
+我也不知道去哪里...
+And now I have no idea where we need
+
+622
+00:38:55,870 --> 00:38:58,000
+找突破点
+to break into.
+
+623
+00:38:58,030 --> 00:39:00,100
+我们这样继续追寻
+We keep moving forward, ent Self.
+
+624
+00:39:00,130 --> 00:39:01,700
+却什么都没改变
+Nothing changes.
+
+625
+00:39:01,730 --> 00:39:04,430
+-不管做了什么  -是啊
+-No matter what. -Right.
+
+626
+00:39:06,530 --> 00:39:08,630
+好了
+Okay .
+
+627
+00:39:09,730 --> 00:39:12,770
+不管发生什么  我...
+Regardless of what happens, I, uh,
+
+628
+00:39:12,800 --> 00:39:14,930
+我都支持你  斯科菲尔德
+I like your style, Scofield.
+
+629
+00:39:26,830 --> 00:39:28,500
+可乐先生  还需要点别的吗
+You need anything else, Mr. Cole?
+
+630
+00:39:28,530 --> 00:39:30,730
+不用了  小姐  谢谢
+I'm all right, little lady.
+
+631
+00:39:44,700 --> 00:39:48,270
+惠斯勒先生  你以前到底有什么计划
+What was your plan, Mr. Whistler?
+
+632
+00:39:48,300 --> 00:39:49,800
+到底是什么计划
+What was your plan?
+
+633
+00:39:55,530 --> 00:39:57,200
+单星...
+Shan Xing...
+
+634
+00:40:01,270 --> 00:40:04,430
+科尔·普发没有参加我们的会面
+Cole Pfeiffer did not arrive for our meeting.
+
+635
+00:40:09,530 --> 00:40:13,000
+这么说你没有拿到锡拉了?
+So you don't have Scylla?
+
+636
+00:40:18,130 --> 00:40:20,870
+单星  下次吧...
+Next time, Shan Xing.
+
+637
+00:40:34,070 --> 00:40:37,170
+如果有谁找我的话  我在洛杉矶
+I'll be in Los Angeles if anyone needs me.
+
+638
+00:40:40,000 --> 00:40:42,600
+第二张卡下载好了  继续第三张
+Number two down, on to number three.
+
+639
+00:40:44,130 --> 00:40:47,170
+我们设法窃取了丽莎的电话
+We manage to get anything off Lisa Tabak's phone?
+
+640
+00:40:48,170 --> 00:40:49,470
+我不知道
+I don't know.
+
+641
+00:40:49,500 --> 00:40:51,700
+除了卡  我什么都没拿
+I didn't pick up anything but the card.
+
+642
+00:41:03,370 --> 00:41:04,630
+对于你在那做的那些事
+I want to thank you
+
+643
+00:41:04,670 --> 00:41:06,770
+我表示感谢
+for what you did back there.
+
+644
+00:41:18,630 --> 00:41:21,700
+我要你帮我做些事
+I need you to do something for me.
+
+645
+00:41:21,730 --> 00:41:24,270
+好啊  不是每个人都行哦
+Yeah, doesn't everybody.
+
+646
+00:41:26,500 --> 00:41:29,230
+我在找那个杀了我儿子的人
+I'm looking for the man who killed my son.
+
+647
+00:41:33,370 --> 00:41:35,330
+你要什么
+What do you need?
+
+648
+00:41:35,370 --> 00:41:36,730
+这里是警方的报告
+Here's the police report.
+
+649
+00:41:37,670 --> 00:41:39,970
+我要你进入...
+I need you to get
+
+650
+00:41:40,000 --> 00:41:42,200
+FBI的数据库...
+into the FBI database
+
+651
+00:41:42,230 --> 00:41:44,170
+找到一份资料
+and find a profile.
+
+652
+00:41:44,200 --> 00:41:47,070
+这个人是职业杀手
+This man is a professional assassin.
+
+653
+00:41:47,100 --> 00:41:49,070
+黑白混血  六英尺高
+He's African-American, six foot, four.
+
+654
+00:41:49,100 --> 00:41:51,330
+大约重220磅
+About 220 pounds.
+
+655
+00:41:54,030 --> 00:41:55,930
+这只给你一个人看
+That's for your eyes only.
+
+656
+00:42:13,630 --> 00:42:15,300
+你好
+Hi.
+
+657
+00:42:15,330 --> 00:42:16,670
+你没事吧
+Hey, are you all right?
+
+658
+00:42:16,700 --> 00:42:18,030
+没事
+Yeah.
+
+659
+00:42:18,070 --> 00:42:19,970
+我想没事
+Yeah, I think so.
+
+660
+00:42:20,000 --> 00:42:21,230
+我很担心你  你去哪了
+Well, I was worried. Where are you?
+
+661
+00:42:21,270 --> 00:42:22,270
+我来接你吧
+Let me come get you.
+
+662
+00:42:22,300 --> 00:42:24,470
+不用了  我快到家了
+No, it's okay. I'm almost home.
+
+663
+00:42:25,670 --> 00:42:28,300
+听着...
+Um, listen...
+
+664
+00:42:29,830 --> 00:42:32,170
+你  是唯一让我还活着的理由
+You're what's keeping me going right now.
+
+665
+00:42:34,070 --> 00:42:36,700
+你也是我唯一拥有的了  而这也正是让我害怕的
+And you're all I have left, and that scares me.
+
+666
+00:42:39,300 --> 00:42:41,900
+我只是想和你在一起
+I just want to be together.
+
+667
+00:42:41,930 --> 00:42:45,770
+我知道这坏境和理想的还不能比
+I know the circumstances are a little less than ideal,
+
+668
+00:42:45,800 --> 00:42:48,170
+但至少我们在一起
+but we are together.
+
+669
+00:42:48,200 --> 00:42:50,330
+你在这里  我在这里
+You're here, I'm here.
+
+670
+00:42:50,370 --> 00:42:53,600
+不用再等"总有一天"  而是...
+It's not "one day" anymore, it's, um...
+
+671
+00:42:53,630 --> 00:42:55,730
+而是现在拥有
+it's today.
+
+672
+00:42:59,130 --> 00:43:01,200
+你为什么不回来...
+Well, why don't you come back
+
+673
+00:43:01,230 --> 00:43:03,200
+咱们一起吃吃饭...
+and, uh, we'll make some dinner
+
+674
+00:43:03,230 --> 00:43:07,330
+聊聊天  共享二人世界...
+and maybe find a little time for ourselves.
+
+675
+00:43:07,370 --> 00:43:09,030
+好的  我马上就来
+Okay, I'll be right there.

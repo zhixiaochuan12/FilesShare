@@ -1,0 +1,2032 @@
+1
+00:00:00,000 --> 00:00:03,050
+Previously, on AMC's "The Walking Dead"...
+
+2
+00:00:03,050 --> 00:00:04,550
+I need a search party.
+
+3
+00:00:04,550 --> 00:00:08,130
+See if Daryl ran home like the dumb animal that he is.
+
+4
+00:00:08,130 --> 00:00:09,590
+Daryl does turn up here,
+
+5
+00:00:09,590 --> 00:00:12,750
+just know there's no statute of limitations on this.
+
+6
+00:00:12,920 --> 00:00:16,900
+I'm utterly, completely, stone cold Negan.
+
+7
+00:00:16,900 --> 00:00:18,800
+How many people here can fight?
+
+8
+00:00:18,800 --> 00:00:20,980
+Who would train all this cannon fodder?
+
+9
+00:00:20,980 --> 00:00:22,080
+- I will. - Give me a week.
+
+10
+00:00:22,080 --> 00:00:23,760
+I memorized everything
+
+11
+00:00:23,760 --> 00:00:26,040
+Daryl and Carl took Rick about the inside of Negan's place.
+
+12
+00:00:26,040 --> 00:00:27,970
+- There's only two of us. - Are you changing your mind?
+
+13
+00:00:27,970 --> 00:00:29,730
+I'm ready to kill him.
+
+14
+00:02:00,850 --> 00:02:05,850
+m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8
+
+15
+00:02:00,850 --> 00:02:05,850
+m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8
+
+16
+00:02:00,850 --> 00:02:05,850
+m 211 -8 b 217 -6 217 -4 217 -2 l 217 24 b 217 26 217 29 211 31 l 31 31 b 26 29 26 26 26 24 l 26 -2 b 26 -4 26 -6 31 -8
+
+17
+00:02:01,350 --> 00:02:05,850
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+18
+00:02:01,350 --> 00:02:05,850
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+19
+00:02:01,350 --> 00:02:05,850
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+20
+00:02:01,350 --> 00:02:05,850
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+21
+00:02:06,570 --> 00:02:37,580
+m 38 -1 l 44 6 l 38 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1
+
+22
+00:02:07,070 --> 00:02:37,580
+m 200 -1 l 200 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1
+
+23
+00:05:47,360 --> 00:05:48,770
+Are you here --
+
+24
+00:05:48,770 --> 00:05:50,130
+I'm here because I need your help.
+
+25
+00:06:38,120 --> 00:06:39,870
+Sorry for taking over your trailer.
+
+26
+00:06:41,710 --> 00:06:43,340
+I grew up ?with a lot of people around.
+
+27
+00:06:43,710 --> 00:06:44,630
+I'm used to it.
+
+28
+00:06:45,040 --> 00:06:45,950
+Big family?
+
+29
+00:06:46,800 --> 00:06:48,800
+Uh...group home.
+
+30
+00:06:51,510 --> 00:06:52,930
+This isn't like that, though.
+
+31
+00:06:53,780 --> 00:06:55,300
+Not the bad parts, at least.
+
+32
+00:06:56,530 --> 00:06:58,360
+For the first time, I feel like I belong.
+
+33
+00:07:00,080 --> 00:07:02,440
+Trying to make sure you and Sasha became a part of this
+
+34
+00:07:02,530 --> 00:07:03,910
+made me a part of this.
+
+35
+00:07:05,740 --> 00:07:07,060
+When I was first here...
+
+36
+00:07:07,830 --> 00:07:09,090
+I was never here.
+
+37
+00:07:09,880 --> 00:07:10,780
+I, um...
+
+38
+00:07:11,400 --> 00:07:13,350
+I always found it hard getting close to anyone --
+
+39
+00:07:14,730 --> 00:07:16,770
+neighbors, friends...
+
+40
+00:07:18,120 --> 00:07:19,070
+boyfriends.
+
+41
+00:07:25,110 --> 00:07:26,430
+You should try it sometime.
+
+42
+00:07:27,970 --> 00:07:29,440
+Even if it doesn't last.
+
+43
+00:07:31,860 --> 00:07:35,060
+I'm gonna talk to our blacksmith about making more spears.
+
+44
+00:07:35,560 --> 00:07:38,400
+Maybe we can trade with the Kingdom for some body armor.
+
+45
+00:07:39,270 --> 00:07:42,570
+Thing is, what we really need is riot gear.
+
+46
+00:08:21,990 --> 00:08:22,860
+I was...
+
+47
+00:08:23,580 --> 00:08:26,880
+looking for something to read the other day.
+
+48
+00:08:32,350 --> 00:08:33,810
+You can have the bullets.
+
+49
+00:08:34,980 --> 00:08:36,260
+I didn't know you had a gun.
+
+50
+00:08:36,500 --> 00:08:37,440
+I didn't.
+
+51
+00:08:38,950 --> 00:08:39,990
+I do now.
+
+52
+00:08:42,190 --> 00:08:44,360
+Sasha, don't go -- not yet.
+
+53
+00:08:48,360 --> 00:08:50,410
+Rosita didn't come here to train people.
+
+54
+00:08:51,120 --> 00:08:52,580
+You're both going after Negan.
+
+55
+00:08:54,200 --> 00:08:55,860
+But you can't do that without people.
+
+56
+00:08:56,640 --> 00:08:58,180
+A lot of people.
+
+57
+00:08:58,330 --> 00:08:59,660
+We've talked about this.
+
+58
+00:09:01,030 --> 00:09:02,470
+I know what you think.
+
+59
+00:09:03,030 --> 00:09:04,440
+And I appreciate that.
+
+60
+00:09:05,360 --> 00:09:07,070
+But I'm not gonna change my mind.
+
+61
+00:09:08,230 --> 00:09:09,420
+She's not.
+
+62
+00:09:11,490 --> 00:09:13,360
+Does Maggie know Rosita's here yet?
+
+63
+00:09:14,540 --> 00:09:17,060
+Uh, I-I-I don't think so.
+
+64
+00:09:17,760 --> 00:09:18,800
+I didn't...
+
+65
+00:09:20,460 --> 00:09:21,630
+You should tell her.
+
+66
+00:09:22,540 --> 00:09:23,390
+About all of it.
+
+67
+00:09:23,390 --> 00:09:26,090
+No. Not yet.
+
+68
+00:09:27,020 --> 00:09:27,770
+Sh--
+
+69
+00:09:27,770 --> 00:09:29,710
+I'm still -- I'm still getting ready.
+
+70
+00:09:31,540 --> 00:09:34,270
+And the thing is, Rosita is going,
+
+71
+00:09:34,270 --> 00:09:35,560
+with or without me.
+
+72
+00:09:35,570 --> 00:09:36,870
+So it should be with me.
+
+73
+00:09:36,870 --> 00:09:38,310
+- Then I'll go, too. - Me, too.
+
+74
+00:09:38,310 --> 00:09:39,140
+No.
+
+75
+00:09:39,930 --> 00:09:42,410
+The Hilltop has to be ready for what happens after.
+
+76
+00:09:43,220 --> 00:09:44,850
+Maggie needs you.
+
+77
+00:09:46,380 --> 00:09:48,000
+She needs you, too.
+
+78
+00:09:49,560 --> 00:09:50,570
+Not anymore.
+
+79
+00:09:52,630 --> 00:09:54,100
+She has everyone else,
+
+80
+00:09:54,820 --> 00:09:55,960
+and they have her.
+
+81
+00:10:03,810 --> 00:10:04,940
+You can stay.
+
+82
+00:10:05,810 --> 00:10:07,080
+I know you can.
+
+83
+00:10:08,870 --> 00:10:10,980
+But I know you won't and she won't,
+
+84
+00:10:10,980 --> 00:10:13,130
+but I wish you would.
+
+85
+00:10:14,180 --> 00:10:17,080
+'Cause it's a long life, and then it isn't.
+
+86
+00:10:18,110 --> 00:10:19,810
+You can take anything else you need.
+
+87
+00:10:20,740 --> 00:10:23,620
+But you and Rosita need to talk to Maggie.
+
+88
+00:10:24,020 --> 00:10:25,340
+You owe her that much.
+
+89
+00:10:41,150 --> 00:10:42,050
+Listen...
+
+90
+00:10:43,260 --> 00:10:44,160
+Enid...
+
+91
+00:10:45,770 --> 00:10:47,200
+Maggie trusts you.
+
+92
+00:10:49,420 --> 00:10:52,310
+You have to protect her, no matter what.
+
+93
+00:10:53,670 --> 00:10:55,630
+She's the future of this place.
+
+94
+00:10:55,980 --> 00:10:56,970
+I know it.
+
+95
+00:11:00,330 --> 00:11:01,380
+So are you.
+
+96
+00:11:08,130 --> 00:11:09,610
+Hold on to this for me.
+
+97
+00:11:12,630 --> 00:11:13,770
+It's for the baby.
+
+98
+00:11:17,070 --> 00:11:18,780
+Maybe you can work on it while I'm gone.
+
+99
+00:11:22,580 --> 00:11:23,370
+Okay.
+
+100
+00:11:26,200 --> 00:11:27,170
+Sasha...
+
+101
+00:11:28,450 --> 00:11:29,300
+Yeah.
+
+102
+00:11:34,860 --> 00:11:35,580
+In 10 minutes,
+
+103
+00:11:35,580 --> 00:11:37,350
+I'm gonna tell Maggie what's going on.
+
+104
+00:11:39,670 --> 00:11:41,500
+It's up to you what you want to do with that.
+
+105
+00:11:44,440 --> 00:11:45,890
+I'm doing what you asked.
+
+106
+00:12:06,720 --> 00:12:08,450
+The Saviors are coming!
+
+107
+00:12:08,900 --> 00:12:10,210
+The Saviors are coming!
+
+108
+00:12:10,210 --> 00:12:10,950
+We have to get Maggie.
+
+109
+00:12:10,950 --> 00:12:12,160
+- Where is she? ?- Come on!
+
+110
+00:12:20,250 --> 00:12:21,000
+Where do we hide?
+
+111
+00:12:21,000 --> 00:12:21,890
+We're not hiding.
+
+112
+00:12:29,020 --> 00:12:29,900
+All right, get in.
+
+113
+00:12:30,510 --> 00:12:31,620
+It goes to the other side.
+
+114
+00:12:31,620 --> 00:12:33,110
+We got to get out before Maggie does.
+
+115
+00:12:45,770 --> 00:12:47,310
+We'll never make it in time.
+
+116
+00:12:48,170 --> 00:12:48,960
+Come on!
+
+117
+00:12:57,410 --> 00:12:58,390
+Just stay down there.
+
+118
+00:12:58,390 --> 00:12:59,410
+I'll keep them away.
+
+119
+00:12:59,620 --> 00:13:01,570
+They aren't the same ones who came to Alexandria.
+
+120
+00:13:33,110 --> 00:13:35,890
+Simon! Hello.
+
+121
+00:13:35,890 --> 00:13:38,200
+Right back at you, Gregory.
+
+122
+00:13:38,210 --> 00:13:39,180
+Hello.
+
+123
+00:13:43,110 --> 00:13:45,790
+We weren't, uh, expecting you back so soon.
+
+124
+00:13:46,280 --> 00:13:47,760
+You want to talk in my office?
+
+125
+00:13:48,150 --> 00:13:50,470
+I got a bottle of gin my people found.
+
+126
+00:13:50,470 --> 00:13:51,870
+You're a gin man, right?
+
+127
+00:13:52,420 --> 00:13:54,670
+Oh, I'm a man of...
+
+128
+00:13:54,670 --> 00:13:57,280
+shifting specifics of tastes in transition.
+
+129
+00:13:57,280 --> 00:13:59,260
+I'm into tequila now.
+
+130
+00:14:00,590 --> 00:14:03,080
+A?ejo. Reposado.
+
+131
+00:14:03,080 --> 00:14:04,610
+Sipping, mixing...
+
+132
+00:14:05,380 --> 00:14:07,120
+Un mundo de sabor.
+
+133
+00:14:08,630 --> 00:14:10,420
+Gin seems like turpentine.
+
+134
+00:14:11,270 --> 00:14:13,480
+It happened quick with a gimlet the other night.
+
+135
+00:14:15,120 --> 00:14:17,000
+I'm an unusual kind of creature.
+
+136
+00:14:17,700 --> 00:14:18,630
+You know what?
+
+137
+00:14:19,050 --> 00:14:20,220
+I respect that.
+
+138
+00:14:20,370 --> 00:14:22,250
+Yeah. Tequila.
+
+139
+00:14:22,970 --> 00:14:25,150
+Mental note. Locked.
+
+140
+00:14:25,260 --> 00:14:26,300
+Great.
+
+141
+00:14:26,620 --> 00:14:28,480
+Oh, no need to talk.
+
+142
+00:14:28,480 --> 00:14:30,800
+This is hopefully a quick visit.
+
+143
+00:14:31,880 --> 00:14:34,260
+Well, what can I do for you?
+
+144
+00:14:34,840 --> 00:14:36,280
+That's an excellent question.
+
+145
+00:14:36,530 --> 00:14:38,880
+Alas, the answer's not so excellent.
+
+146
+00:14:39,320 --> 00:14:41,820
+You have a certain somebody that, uh...
+
+147
+00:14:41,840 --> 00:14:43,560
+now needs to be Negan's certain somebody,
+
+148
+00:14:43,560 --> 00:14:47,440
+so what you can do for me is point me in their direction.
+
+149
+00:14:50,810 --> 00:14:52,010
+So, who is it?
+
+150
+00:14:52,620 --> 00:14:55,150
+You get your pointy finger up, and I'll tells ya.
+
+151
+00:15:02,670 --> 00:15:03,560
+Daryl.
+
+152
+00:15:06,960 --> 00:15:07,900
+Daryl.
+
+153
+00:15:09,670 --> 00:15:10,620
+Daryl.
+
+154
+00:15:24,850 --> 00:15:26,300
+Did you dig that tunnel?
+
+155
+00:15:26,810 --> 00:15:28,690
+Maggie thought we needed a quick way out.
+
+156
+00:15:28,840 --> 00:15:30,060
+So I made one.
+
+157
+00:15:30,080 --> 00:15:32,550
+Well, we're out. So now what?
+
+158
+00:15:33,970 --> 00:15:34,980
+You know.
+
+159
+00:15:56,660 --> 00:15:58,670
+If this one starts, I'll siphon some gas.
+
+160
+00:15:58,670 --> 00:15:59,540
+I just got to find --
+
+161
+00:15:59,540 --> 00:16:00,950
+There's an empty water bottle.
+
+162
+00:16:04,080 --> 00:16:05,860
+I thought this was the one, but...
+
+163
+00:16:16,160 --> 00:16:17,100
+Like it?
+
+164
+00:16:17,890 --> 00:16:18,890
+I made it.
+
+165
+00:16:19,140 --> 00:16:20,140
+Car's dead.
+
+166
+00:17:07,260 --> 00:17:08,980
+Where'd you learn to disarm bombs?
+
+167
+00:17:11,530 --> 00:17:12,790
+Were you in the Army?
+
+168
+00:17:13,520 --> 00:17:14,720
+Someone I knew.
+
+169
+00:17:16,550 --> 00:17:17,480
+Not him.
+
+170
+00:17:18,740 --> 00:17:20,120
+Listen, I'm not here to play "Get to Know You,"
+
+171
+00:17:20,120 --> 00:17:22,210
+so either we talk about the mission or we don't.
+
+172
+00:17:28,760 --> 00:17:29,690
+Okay.
+
+173
+00:17:38,020 --> 00:17:39,740
+Jesus said there's some buildings,
+
+174
+00:17:40,040 --> 00:17:41,010
+two, three, four stories,
+
+175
+00:17:41,010 --> 00:17:43,220
+just outside the sanctuary to the east of it.
+
+176
+00:17:43,630 --> 00:17:46,290
+At least one of them should have a line of sight to the rear courtyard,
+
+177
+00:17:46,290 --> 00:17:47,970
+past the fence with the walkers on it.
+
+178
+00:17:48,560 --> 00:17:51,800
+We hole up, we wait, we take a shot from there.
+
+179
+00:17:52,810 --> 00:17:54,560
+If we have to get closer,
+
+180
+00:17:54,690 --> 00:17:55,960
+there's some weak spots in the perimeter
+
+181
+00:17:55,970 --> 00:17:57,450
+we might still be able to take advantage of,
+
+182
+00:17:57,450 --> 00:17:59,600
+but if we can,
+
+183
+00:17:59,870 --> 00:18:02,780
+I say we stay outside, do it clean.
+
+184
+00:18:03,590 --> 00:18:05,400
+Maybe make it out of there alive.
+
+185
+00:18:16,120 --> 00:18:17,210
+You see a problem with that?
+
+186
+00:18:17,210 --> 00:18:18,660
+I want to make sure we get him.
+
+187
+00:18:18,670 --> 00:18:19,580
+That means we go in.
+
+188
+00:18:19,580 --> 00:18:20,920
+If we shoot from a distance and miss,
+
+189
+00:18:20,920 --> 00:18:21,880
+we don't get another chance.
+
+190
+00:18:21,880 --> 00:18:22,760
+I won't miss.
+
+191
+00:18:22,760 --> 00:18:24,720
+Even if you shoot and graze him, he doesn't die.
+
+192
+00:18:24,720 --> 00:18:26,370
+I won't miss.
+
+193
+00:18:26,370 --> 00:18:28,100
+If we go in and get caught --
+
+194
+00:18:28,100 --> 00:18:29,310
+I won't get caught.
+
+195
+00:18:29,430 --> 00:18:30,690
+What the hell's wrong with you?
+
+196
+00:18:32,590 --> 00:18:34,380
+They take us, we don't get another try.
+
+197
+00:18:35,030 --> 00:18:36,440
+Because they'll kill us.
+
+198
+00:18:38,270 --> 00:18:40,020
+If we're out here, we're alive.
+
+199
+00:18:40,030 --> 00:18:41,280
+We get another go.
+
+200
+00:18:57,480 --> 00:18:59,570
+Nothing is wrong with me, Sasha.
+
+201
+00:18:59,660 --> 00:19:01,060
+I'm gonna make sure he's dead.
+
+202
+00:19:02,200 --> 00:19:03,570
+Look, if this is too much for you,
+
+203
+00:19:03,570 --> 00:19:05,440
+you want to bail, now's your chance.
+
+204
+00:19:05,770 --> 00:19:06,750
+I'm not going anywhere.
+
+205
+00:19:06,750 --> 00:19:08,870
+- Well, I'm done talking about it. - Good.
+
+206
+00:19:09,070 --> 00:19:10,470
+Maybe you'll think about it.
+
+207
+00:19:11,540 --> 00:19:12,390
+Maybe you'll change your mind
+
+208
+00:19:12,390 --> 00:19:15,030
+about what it takes to get what you want.
+
+209
+00:19:26,990 --> 00:19:29,240
+- I've got fresh veggies. - Stop.
+
+210
+00:19:30,230 --> 00:19:31,930
+They're vegetables.
+
+211
+00:19:31,930 --> 00:19:33,350
+Use the whole word.
+
+212
+00:19:33,350 --> 00:19:34,550
+We have time.
+
+213
+00:19:36,380 --> 00:19:37,390
+Okay.
+
+214
+00:19:37,690 --> 00:19:41,630
+I have these vegetables they told me to bring over,
+
+215
+00:19:41,630 --> 00:19:44,450
+and the basket's pretty heavy.
+
+216
+00:19:44,920 --> 00:19:46,420
+For me, I mean.
+
+217
+00:19:46,680 --> 00:19:48,300
+Probably not you. Uh, here.
+
+218
+00:19:48,300 --> 00:19:49,210
+Load them in the truck,
+
+219
+00:19:49,210 --> 00:19:51,370
+and, uh, if you meet me by the garden,
+
+220
+00:19:51,370 --> 00:19:53,340
+- I can get you the rest... - ?Stop.
+
+221
+00:19:54,430 --> 00:19:57,530
+I don't know who you think I am or who we are.
+
+222
+00:19:58,270 --> 00:20:00,460
+Load them yourself. I'm busy.
+
+223
+00:20:02,400 --> 00:20:03,270
+- Sorry. I'm sorry. - Girl,
+
+224
+00:20:03,270 --> 00:20:06,700
+pick that shit up right now and scram.
+
+225
+00:20:10,390 --> 00:20:11,720
+And I'll take that.
+
+226
+00:20:14,680 --> 00:20:15,680
+Now.
+
+227
+00:20:16,140 --> 00:20:18,050
+Don't make me cut it off you, girl.
+
+228
+00:21:25,730 --> 00:21:27,920
+Dr. Harlan Carson, correct?
+
+229
+00:21:29,520 --> 00:21:30,820
+Do you need a checkup?
+
+230
+00:21:31,480 --> 00:21:33,010
+Probably. It's been a few years,
+
+231
+00:21:33,010 --> 00:21:34,440
+but I'm not here for that.
+
+232
+00:21:36,440 --> 00:21:39,220
+We already gave you as much medicine as we could spare
+
+233
+00:21:39,220 --> 00:21:41,800
+- the last time you were here. - ?Yes, you did.
+
+234
+00:21:41,800 --> 00:21:44,260
+But we're not here to take more of that.
+
+235
+00:21:44,990 --> 00:21:46,380
+Congratulations!
+
+236
+00:21:46,380 --> 00:21:48,060
+You're moving up in the world.
+
+237
+00:21:48,340 --> 00:21:50,200
+Negan wants you where he is.
+
+238
+00:21:50,410 --> 00:21:52,300
+You're an important fellow, Harlan.
+
+239
+00:21:54,330 --> 00:21:55,580
+You're coming with us.
+
+240
+00:21:57,490 --> 00:22:01,340
+Look, I -- I have patients here that need me.
+
+241
+00:22:01,340 --> 00:22:03,250
+Why does Negan need two doctors?
+
+242
+00:22:11,380 --> 00:22:14,660
+Well, I think my look may have conveyed the information.
+
+243
+00:22:15,110 --> 00:22:17,620
+People say I have an expressive face.
+
+244
+00:22:17,620 --> 00:22:19,830
+But if not, let me repeat your question.
+
+245
+00:22:19,840 --> 00:22:21,410
+Why do we need two doctors?
+
+246
+00:22:21,410 --> 00:22:24,010
+Answer - we don't.
+
+247
+00:22:29,060 --> 00:22:30,080
+So...
+
+248
+00:22:31,840 --> 00:22:34,510
+my brother pissed someone off, get himself killed?
+
+249
+00:22:35,390 --> 00:22:36,720
+Something like that.
+
+250
+00:22:37,540 --> 00:22:39,600
+Very, very ugly stuff.
+
+251
+00:22:39,640 --> 00:22:41,160
+My condolences.
+
+252
+00:22:42,800 --> 00:22:44,630
+But it's time.
+
+253
+00:22:46,580 --> 00:22:48,400
+All of my charts are in order.
+
+254
+00:22:48,460 --> 00:22:51,090
+You need to make arrangements for some kind of medical care here,
+
+255
+00:22:51,100 --> 00:22:53,050
+especially for my ongoing patients.
+
+256
+00:22:53,750 --> 00:22:54,740
+I will.
+
+257
+00:22:57,230 --> 00:22:59,250
+- I need to pack. - You don't.
+
+258
+00:22:59,310 --> 00:23:00,060
+We have everything you need,
+
+259
+00:23:00,060 --> 00:23:01,710
+and what we don't, we'll get.
+
+260
+00:23:02,190 --> 00:23:03,720
+Hey, you like ice cream?
+
+261
+00:23:04,190 --> 00:23:05,770
+We have ice cream.
+
+262
+00:23:06,160 --> 00:23:09,480
+We have a lady ?that makes cardamom gelato.
+
+263
+00:23:09,480 --> 00:23:10,630
+Shit you not.
+
+264
+00:23:11,150 --> 00:23:13,340
+Oh! Almost forgot. Set that down.
+
+265
+00:23:15,620 --> 00:23:16,920
+Well, fair is fair.
+
+266
+00:23:19,040 --> 00:23:20,610
+We're not leaving you high and dry
+
+267
+00:23:20,610 --> 00:23:22,980
+when it comes to medical solutions.
+
+268
+00:23:22,980 --> 00:23:23,950
+Go on.
+
+269
+00:23:40,840 --> 00:23:42,720
+Simon, a word?
+
+270
+00:23:47,580 --> 00:23:48,590
+Look,
+
+271
+00:23:48,960 --> 00:23:52,870
+I think I've proven that I can work with Negan.
+
+272
+00:23:52,870 --> 00:23:55,100
+I'm a can-do guy,
+
+273
+00:23:55,400 --> 00:23:57,920
+but I got to hang on to my peoples' trust.
+
+274
+00:23:57,920 --> 00:24:00,170
+Otherwise, you don't know who might take over.
+
+275
+00:24:01,110 --> 00:24:03,890
+You know, someone else might not be so cooperative.
+
+276
+00:24:04,160 --> 00:24:06,730
+They might have crazy ideas.
+
+277
+00:24:09,220 --> 00:24:11,360
+Who might take over?
+
+278
+00:24:11,360 --> 00:24:14,110
+- What crazy ideas? - I don't know.
+
+279
+00:24:14,110 --> 00:24:16,920
+I'm just considering worst-case scenarios.
+
+280
+00:24:16,920 --> 00:24:18,300
+You know, What I'm saying is,
+
+281
+00:24:18,300 --> 00:24:22,870
+I know human nature, and it isn't inconceivable.
+
+282
+00:24:24,460 --> 00:24:26,870
+I hear your concern.
+
+283
+00:24:27,700 --> 00:24:31,590
+I'm not insensitive to it. Mm. ?Right?
+
+284
+00:24:33,800 --> 00:24:37,150
+If you're having problems of that nature...
+
+285
+00:24:38,410 --> 00:24:40,670
+come to see me.
+
+286
+00:24:41,350 --> 00:24:42,460
+Anytime.
+
+287
+00:24:42,540 --> 00:24:43,880
+I don't know where to go.
+
+288
+00:24:46,200 --> 00:24:50,030
+I'll arrange it so that...
+
+289
+00:24:52,750 --> 00:24:55,460
+...you just tell the guard who you are...
+
+290
+00:24:57,010 --> 00:24:58,490
+...and he'll let you right in.
+
+291
+00:25:02,510 --> 00:25:05,010
+Long as ?there's no shenanigans afoot.
+
+292
+00:25:06,220 --> 00:25:07,560
+There will be none.
+
+293
+00:25:11,410 --> 00:25:14,380
+- I just -- I just would like you to consider -- - Wonderful.
+
+294
+00:25:19,580 --> 00:25:21,480
+We'll crack open some tequila.
+
+295
+00:25:22,730 --> 00:25:23,840
+We'll talk.
+
+296
+00:25:25,060 --> 00:25:26,410
+We'll work it out.
+
+297
+00:25:27,690 --> 00:25:28,820
+You're a good producer for us.
+
+298
+00:25:28,820 --> 00:25:31,390
+- I don't want you to be so stressed. - Yeah.
+
+299
+00:25:32,450 --> 00:25:34,440
+I'd be a lot less stressed if you'd leave my doctor.
+
+300
+00:25:34,440 --> 00:25:35,450
+Gregory...
+
+301
+00:25:36,270 --> 00:25:38,450
+Got it. Okay.
+
+302
+00:25:38,880 --> 00:25:40,230
+I won't ask again.
+
+303
+00:26:37,950 --> 00:26:39,470
+?You were gonna kill that guy.
+
+304
+00:26:40,920 --> 00:26:42,220
+He was gonna find us.
+
+305
+00:26:42,570 --> 00:26:45,430
+He wasn't, and he didn't.
+
+306
+00:26:48,440 --> 00:26:49,770
+He deserved to die.
+
+307
+00:26:51,860 --> 00:26:53,520
+Ever since you got here,
+
+308
+00:26:53,520 --> 00:26:55,260
+you haven't said a word to me.
+
+309
+00:26:57,960 --> 00:26:59,270
+Would you look at me?
+
+310
+00:27:01,030 --> 00:27:02,030
+Please?
+
+311
+00:27:08,890 --> 00:27:09,890
+Daryl...
+
+312
+00:27:14,800 --> 00:27:15,860
+I'm sorry.
+
+313
+00:27:18,800 --> 00:27:19,850
+I'm sorry.
+
+314
+00:27:29,360 --> 00:27:31,250
+It wasn't your fault.
+
+315
+00:27:33,300 --> 00:27:34,650
+It was.
+
+316
+00:27:35,750 --> 00:27:36,670
+No.
+
+317
+00:27:37,490 --> 00:27:38,550
+It wasn't.
+
+318
+00:27:40,570 --> 00:27:42,790
+You're one of the good things in this world.
+
+319
+00:27:44,130 --> 00:27:45,660
+That's what Glenn thought.
+
+320
+00:27:46,790 --> 00:27:48,030
+And he would know,
+
+321
+00:27:48,760 --> 00:27:50,820
+'cause he was ?one of the good things, too.
+
+322
+00:27:54,230 --> 00:27:55,180
+And, uh...
+
+323
+00:27:58,210 --> 00:28:00,030
+I wanted to kill that guy, too.
+
+324
+00:28:01,610 --> 00:28:04,260
+I wanted to string them all up and watch them die.
+
+325
+00:28:09,640 --> 00:28:11,220
+But we have to win.
+
+326
+00:28:20,590 --> 00:28:21,740
+Help me win.
+
+327
+00:29:32,770 --> 00:29:33,930
+This'll work.
+
+328
+00:30:14,790 --> 00:30:15,750
+Now.
+
+329
+00:30:45,820 --> 00:30:46,950
+?Get in!
+
+330
+00:32:01,470 --> 00:32:02,440
+?Anything?
+
+331
+00:32:03,470 --> 00:32:05,350
+Negan still hasn't come out.
+
+332
+00:32:05,720 --> 00:32:07,110
+But Eugene's out there.
+
+333
+00:32:08,690 --> 00:32:09,710
+Eugene?
+
+334
+00:32:10,010 --> 00:32:11,360
+It looks like...
+
+335
+00:32:11,620 --> 00:32:13,570
+he's ordering people around.
+
+336
+00:32:15,730 --> 00:32:17,440
+Playing some angle.
+
+337
+00:32:21,720 --> 00:32:23,230
+Will you teach me those knots?
+
+338
+00:32:24,370 --> 00:32:25,950
+I know a bunch, but not those.
+
+339
+00:32:27,430 --> 00:32:28,880
+Won't matter soon.
+
+340
+00:32:31,550 --> 00:32:32,610
+It might.
+
+341
+00:32:43,570 --> 00:32:44,770
+Yeah, I'll show you.
+
+342
+00:32:46,260 --> 00:32:47,770
+All right, here's the first one.
+
+343
+00:32:49,740 --> 00:32:51,480
+Cross it over your hand like that.
+
+344
+00:32:51,810 --> 00:32:56,040
+Then you take the top loop, bring it down, up,
+
+345
+00:32:56,040 --> 00:32:58,620
+and back through, then...
+
+346
+00:33:00,690 --> 00:33:01,790
+Got it?
+
+347
+00:33:01,930 --> 00:33:03,310
+Let me try.
+
+348
+00:33:28,340 --> 00:33:30,270
+You know...
+
+349
+00:33:30,450 --> 00:33:32,690
+we got lucky, having you with us.
+
+350
+00:33:34,840 --> 00:33:36,200
+You know how to do everything.
+
+351
+00:33:54,070 --> 00:33:55,200
+Johnny.
+
+352
+00:33:56,510 --> 00:33:58,230
+That's who taught me about bombs.
+
+353
+00:33:59,100 --> 00:34:01,040
+Survivalist, prepper-type shit.
+
+354
+00:34:03,700 --> 00:34:04,980
+Marcus taught me about cars.
+
+355
+00:34:04,980 --> 00:34:06,490
+He was a mechanic...
+
+356
+00:34:06,820 --> 00:34:08,370
+and a wannabe stunt driver.
+
+357
+00:34:10,070 --> 00:34:11,420
+And an asshole.
+
+358
+00:34:12,840 --> 00:34:14,620
+Knot-tying was from Chaser.
+
+359
+00:34:16,310 --> 00:34:17,930
+Yeah, that wasn't his real name.
+
+360
+00:34:20,900 --> 00:34:22,140
+There were others.
+
+361
+00:34:24,080 --> 00:34:26,030
+Were those people you lost on the way to D.C.?
+
+362
+00:34:26,030 --> 00:34:27,440
+No, not them.
+
+363
+00:34:28,270 --> 00:34:30,050
+A lot of guys wanted to protect me,
+
+364
+00:34:31,230 --> 00:34:34,070
+like there was no way i could know how to take care of myself.
+
+365
+00:34:35,510 --> 00:34:36,620
+And I didn't.
+
+366
+00:34:38,310 --> 00:34:40,020
+And I hated the way that felt.
+
+367
+00:34:42,070 --> 00:34:43,430
+So I rolled with it.
+
+368
+00:34:44,700 --> 00:34:46,480
+They didn't even notice I was picking up
+
+369
+00:34:46,480 --> 00:34:48,610
+everything they knew how to do and doing it better.
+
+370
+00:34:52,900 --> 00:34:55,180
+Then I'd outgrow them and bounce.
+
+371
+00:35:00,170 --> 00:35:01,790
+The sex was just for fun.
+
+372
+00:35:04,030 --> 00:35:05,230
+When the world's over,
+
+373
+00:35:05,850 --> 00:35:07,580
+everyone should be getting their rocks off.
+
+374
+00:35:14,540 --> 00:35:16,020
+Was that how it was with him?
+
+375
+00:35:19,390 --> 00:35:20,590
+Abraham?
+
+376
+00:35:25,050 --> 00:35:26,250
+No.
+
+377
+00:35:29,830 --> 00:35:30,760
+I fell in with him
+
+378
+00:35:30,760 --> 00:35:32,580
+because he saw I could handle my shit.
+
+379
+00:35:33,510 --> 00:35:35,160
+And I never looked back.
+
+380
+00:35:42,250 --> 00:35:43,580
+Well, no, I did.
+
+381
+00:35:46,190 --> 00:35:47,380
+When it was over.
+
+382
+00:35:51,180 --> 00:35:52,200
+Yeah.
+
+383
+00:35:59,230 --> 00:36:00,960
+You know the thing that killed me?
+
+384
+00:36:03,220 --> 00:36:04,630
+When we got to Alexandria,
+
+385
+00:36:04,630 --> 00:36:06,800
+I was acting like I was all good 'cause he wasn't.
+
+386
+00:36:09,470 --> 00:36:11,920
+Then, the son of a bitch was actually all good.
+
+387
+00:36:14,420 --> 00:36:15,920
+And I couldn't figure this one out.
+
+388
+00:36:17,680 --> 00:36:19,430
+Living there, feeling like we had made it,
+
+389
+00:36:19,430 --> 00:36:20,930
+I couldn't pick that up.
+
+390
+00:36:21,970 --> 00:36:23,750
+Then, when he bounced, I...
+
+391
+00:36:28,830 --> 00:36:30,410
+...I thought I hated you.
+
+392
+00:36:34,350 --> 00:36:35,600
+But maybe I just hated
+
+393
+00:36:35,600 --> 00:36:37,250
+that he figured out his shit first.
+
+394
+00:36:45,430 --> 00:36:47,420
+I've never told anyone any of that stuff.
+
+395
+00:36:48,980 --> 00:36:50,640
+Who I was, what I did...
+
+396
+00:36:53,250 --> 00:36:54,370
+I'm glad...
+
+397
+00:36:55,620 --> 00:36:57,170
+that you felt like...
+
+398
+00:36:59,070 --> 00:37:00,100
+you could.
+
+399
+00:37:06,920 --> 00:37:09,070
+I was stupid to waste so much time.
+
+400
+00:37:18,870 --> 00:37:20,310
+Now I'll never get to tell Abraham
+
+401
+00:37:20,310 --> 00:37:21,960
+I'm happy he was happy.
+
+402
+00:37:32,910 --> 00:37:34,260
+Were you happy?
+
+403
+00:37:41,640 --> 00:37:42,860
+I was.
+
+404
+00:37:51,530 --> 00:37:52,950
+It wasn't his time.
+
+405
+00:37:55,080 --> 00:37:57,320
+Abraham would've wanted to go out fighting.
+
+406
+00:38:02,210 --> 00:38:05,460
+And that asshole with the bat took that away, too.
+
+407
+00:38:08,610 --> 00:38:11,210
+To go out with a point to going out.
+
+408
+00:38:21,870 --> 00:38:23,710
+I guess we all want that.
+
+409
+00:38:30,530 --> 00:38:32,180
+No matter how it all goes down,
+
+410
+00:38:33,090 --> 00:38:34,420
+I got your back.
+
+411
+00:38:36,010 --> 00:38:37,300
+And I've got yours.
+
+412
+00:38:43,660 --> 00:38:45,200
+You think that prick's out there yet?
+
+413
+00:39:08,350 --> 00:39:11,350
+Oh...shit.
+
+414
+00:39:11,710 --> 00:39:12,620
+What?
+
+415
+00:39:12,620 --> 00:39:14,570
+Dr. Carson, Maggie's doctor.
+
+416
+00:39:15,330 --> 00:39:16,770
+They brought him here.
+
+417
+00:39:25,020 --> 00:39:26,430
+Negan's out.
+
+418
+00:39:36,090 --> 00:39:38,090
+Oh, he's too close.
+
+419
+00:39:39,790 --> 00:39:41,960
+Ah, I can't get a clean shot.
+
+420
+00:39:44,090 --> 00:39:45,290
+Turn on the walkie.
+
+421
+00:39:54,580 --> 00:39:57,630
+This is Dr. Eugene Porter, Chief Engineer, speaking.
+
+422
+00:39:57,630 --> 00:39:59,200
+I'm gonna need a dozen more walkers,
+
+423
+00:39:59,200 --> 00:40:01,100
+a.k.a. "dead ones" in the local parlance,
+
+424
+00:40:01,100 --> 00:40:03,640
+for expanding the fence protocol PDQ.
+
+425
+00:40:04,660 --> 00:40:06,270
+Actually, PFQ.
+
+426
+00:40:06,730 --> 00:40:09,080
+This is per Negan, who I also am,
+
+427
+00:40:09,080 --> 00:40:11,300
+even if it takes all night to procure them,
+
+428
+00:40:11,300 --> 00:40:13,140
+so I need able-bodied persons out there
+
+429
+00:40:13,140 --> 00:40:14,470
+in the surrounding blocks of buildings
+
+430
+00:40:14,470 --> 00:40:16,200
+snoopin' and snatchin', stat.
+
+431
+00:40:16,930 --> 00:40:18,970
+Negan will be indisposed in the boudoir,
+
+432
+00:40:18,970 --> 00:40:20,540
+so in the meantime,
+
+433
+00:40:20,540 --> 00:40:23,240
+any questions should be directed to yours truly.
+
+434
+00:40:23,660 --> 00:40:26,340
+Dr. Eugene Porter, Chief Engineer,
+
+435
+00:40:26,340 --> 00:40:28,820
+also known as Negan, who I am.
+
+436
+00:40:31,480 --> 00:40:32,700
+Change of plans.
+
+437
+00:40:38,400 --> 00:40:39,500
+So we go in.
+
+438
+00:40:42,420 --> 00:40:43,440
+I'm ready.
+
+439
+00:40:58,490 --> 00:40:59,960
+Come in.
+
+440
+00:41:04,560 --> 00:41:05,950
+Freddie said you wanted to see me?
+
+441
+00:41:05,950 --> 00:41:07,620
+Yes, have a seat.
+
+442
+00:41:14,010 --> 00:41:16,870
+I noticed you've been slacking on your scavenging
+
+443
+00:41:16,870 --> 00:41:18,360
+and recruiting lately.
+
+444
+00:41:18,360 --> 00:41:21,970
+And there are too many people in your trailer.
+
+445
+00:41:21,970 --> 00:41:23,380
+Fire hazard.
+
+446
+00:41:23,450 --> 00:41:27,010
+Plenty of room here at Barrington House for our guests.
+
+447
+00:41:27,800 --> 00:41:29,250
+Speaking of which,
+
+448
+00:41:29,580 --> 00:41:33,280
+I have job assignments for the newcomers.
+
+449
+00:41:33,280 --> 00:41:35,100
+People are gonna stay, they're gonna chip in.
+
+450
+00:41:35,100 --> 00:41:37,130
+No more free rides on the teat.
+
+451
+00:41:37,290 --> 00:41:39,040
+You let them take Dr. Carson.
+
+452
+00:41:39,240 --> 00:41:41,050
+Surprised you didn't kneel again.
+
+453
+00:41:41,740 --> 00:41:42,960
+You must be really worried
+
+454
+00:41:42,960 --> 00:41:44,470
+if you're trying to split everyone up.
+
+455
+00:41:47,280 --> 00:41:48,660
+Shouldn't talk to me like that.
+
+456
+00:41:49,440 --> 00:41:50,660
+Who knows what might happen
+
+457
+00:41:50,660 --> 00:41:52,800
+with all these Saviors coming around?
+
+458
+00:41:53,930 --> 00:41:55,210
+Did you just threaten me?
+
+459
+00:41:55,950 --> 00:41:58,120
+I was being sarcastic, okay?
+
+460
+00:41:58,120 --> 00:41:59,930
+No, I think you just threatened me.
+
+461
+00:41:59,930 --> 00:42:01,250
+Think what you want.
+
+462
+00:42:01,250 --> 00:42:02,130
+You know, what I'm saying is,
+
+463
+00:42:02,130 --> 00:42:03,750
+I look out for my friends,
+
+464
+00:42:03,750 --> 00:42:06,880
+and I realized... we're not friends.
+
+465
+00:42:08,540 --> 00:42:09,820
+?Come in.
+
+466
+00:42:11,790 --> 00:42:14,410
+Ah, wonderful -- tequila.
+
+467
+00:42:14,870 --> 00:42:16,730
+Crack that open for me, would you?
+
+468
+00:42:17,230 --> 00:42:18,700
+You may go now.
+
+469
+00:42:19,010 --> 00:42:20,500
+Show him out, will you, Kal?
+
+470
+00:42:35,950 --> 00:42:36,810
+Everything okay?
+
+471
+00:42:36,810 --> 00:42:38,330
+Where's Sasha and Rosita?
+
+472
+00:42:42,930 --> 00:42:44,160
+You see that over there?
+
+473
+00:42:44,660 --> 00:42:47,280
+That is a half-assed attempt at a safety protocol.
+
+474
+00:42:47,530 --> 00:42:50,320
+We need a full-assed, full-court press.
+
+475
+00:42:50,320 --> 00:42:52,970
+That stuff out front with the spikes and the chains and the heads,
+
+476
+00:42:52,970 --> 00:42:54,030
+that's good for the optics.
+
+477
+00:42:54,030 --> 00:42:55,650
+It sends a message to would-be intruders
+
+478
+00:42:55,650 --> 00:42:57,680
+of the "Don't Mess with Texas" Variety.
+
+479
+00:42:59,190 --> 00:43:02,240
+But we need to drill down on actual safety protocol,
+
+480
+00:43:02,750 --> 00:43:04,640
+especially at points that have proven to be janky.
+
+481
+00:43:04,790 --> 00:43:05,930
+Well, yeah.
+
+482
+00:43:06,330 --> 00:43:08,290
+That's why I'm on guard duty now.
+
+483
+00:43:08,670 --> 00:43:10,530
+No offense to that last guy,
+
+484
+00:43:10,660 --> 00:43:12,410
+but he could hardly handle a gun.
+
+485
+00:43:15,680 --> 00:43:17,360
+Get up. You're getting out.
+
+486
+00:43:21,020 --> 00:43:22,630
+Eugene, get up.
+
+487
+00:43:22,630 --> 00:43:23,790
+We're breaking you out.
+
+488
+00:43:27,070 --> 00:43:28,320
+Eugene!
+
+489
+00:43:31,250 --> 00:43:32,510
+No.
+
+490
+00:43:33,150 --> 00:43:34,450
+I'm not going with you.
+
+491
+00:43:35,020 --> 00:43:36,250
+What?
+
+492
+00:43:38,000 --> 00:43:40,110
+I didn't ask you to come, so go.
+
+493
+00:43:42,830 --> 00:43:44,300
+People got to be en route.
+
+494
+00:43:56,100 --> 00:43:59,240
+That weak, lying sack of shit.
+
+495
+00:44:02,650 --> 00:44:03,530
+This is it.
+
+496
+00:44:03,530 --> 00:44:04,670
+I'm going in.
+
+497
+00:44:07,430 --> 00:44:08,450
+Hold on.
+
+498
+00:44:08,450 --> 00:44:09,930
+This is gonna take a second.
+
+499
+00:44:10,130 --> 00:44:10,970
+More could be coming back.
+
+500
+00:44:10,970 --> 00:44:11,960
+Keep an eye out.
+
+501
+00:44:20,060 --> 00:44:21,340
+Just another second.
+
+502
+00:44:29,940 --> 00:44:30,740
+What the hell are you doing?
+
+503
+00:44:30,740 --> 00:44:31,970
+Go.
+
+504
+00:44:32,340 --> 00:44:33,730
+It's not your time.
+
+505
+00:44:34,770 --> 00:44:36,440
+There's got to be a point to it, right?
+
+506
+00:44:37,960 --> 00:44:39,230
+They need you.
+
+507
+00:45:16,650 --> 00:45:17,780
+Damn it.
+
+508
+00:45:18,420 --> 00:45:19,520
+Damn it!
+

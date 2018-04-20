@@ -1,0 +1,1811 @@
+1
+00:03:50,380 --> 00:03:51,720
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+2
+00:03:50,380 --> 00:03:51,720
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+3
+00:03:50,380 --> 00:03:51,720
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+4
+00:03:51,730 --> 00:03:52,400
+本字幕由人人影视字幕组翻译
+禁止用作任何商业盈利行为
+
+5
+00:03:52,400 --> 00:03:53,650
+翻译  森の鸟
+
+6
+00:03:54,900 --> 00:03:56,150
+翻译  Marshal同学
+
+7
+00:03:56,860 --> 00:03:58,070
+翻译  Reginamoon
+
+8
+00:03:58,070 --> 00:03:59,490
+翻译  重案组李Sir
+
+9
+00:03:59,490 --> 00:04:00,780
+翻译  小饭
+
+10
+00:04:00,780 --> 00:04:02,080
+翻译  CS小明漫画家
+
+11
+00:04:02,080 --> 00:04:03,410
+翻译  33来了
+
+12
+00:04:06,960 --> 00:04:08,210
+翻译/校对  冰蓝
+
+13
+00:04:10,040 --> 00:04:11,290
+校对  米小勒 送小孩
+
+14
+00:04:11,290 --> 00:04:12,540
+时间轴  雪贵人
+
+15
+00:04:12,920 --> 00:04:14,170
+时间轴  涛涛  鸟の森
+
+16
+00:04:14,170 --> 00:04:15,420
+后期  、青衣
+
+17
+00:04:16,050 --> 00:04:17,300
+特效/后期  送小哥
+
+18
+00:04:17,300 --> 00:04:18,590
+总监  送小孩
+
+19
+00:04:20,840 --> 00:04:25,420
+行尸走肉
+第四季  第十二集
+
+20
+00:06:46,720 --> 00:06:47,980
+我想喝点
+I need a drink.
+
+21
+00:06:54,030 --> 00:06:55,640
+不  我是说真家伙
+No, I mean a real drink.
+
+22
+00:06:57,770 --> 00:06:59,060
+比如说酒
+As in alcohol.
+
+23
+00:07:03,410 --> 00:07:04,570
+我从没喝过
+I've never had one.
+
+24
+00:07:06,040 --> 00:07:07,450
+因为我爸爸
+'Cause of my dad.
+
+25
+00:07:08,670 --> 00:07:11,590
+但他不在了  所以...
+But he's not exactly around anymore, so...
+
+26
+00:07:17,440 --> 00:07:19,090
+我觉得我们可以去找一些
+I thought we could go find some.
+
+27
+00:07:29,270 --> 00:07:30,180
+好吧
+Okay.
+
+28
+00:07:32,370 --> 00:07:34,940
+慢慢吃你的蛇肉干吧
+Well, enjoy your snake jerky.
+
+29
+00:07:55,970 --> 00:07:56,890
+混蛋
+Jerk.
+
+30
+00:08:57,440 --> 00:08:58,800
+我们好像找到路了
+I think we made it a way.
+
+31
+00:09:00,110 --> 00:09:02,790
+我很肯定得走那边才找的到酒
+I'm pretty sure we got to go that way to find the booze.
+
+32
+00:09:04,650 --> 00:09:05,450
+搞什么
+What the hell?
+
+33
+00:09:05,450 --> 00:09:06,540
+你又把我带回来了
+You brought me back.
+
+34
+00:09:06,960 --> 00:09:09,420
+我才不要待在那个逊毙了的营地
+I'm not staying in this suck-ass camp.
+
+35
+00:09:09,950 --> 00:09:11,850
+你玩够了没有
+Hey! You had your fun.
+
+36
+00:09:11,850 --> 00:09:14,910
+你有毛病吗  你难道没感情吗
+What the hell is wrong with you? Do you feel anything?
+
+37
+00:09:15,760 --> 00:09:17,660
+是啊  你觉得一切都玩完了
+Yeah, you think everything's screwed.
+
+38
+00:09:17,660 --> 00:09:19,010
+我想那也是一种感情
+I guess that's a feeling.
+
+39
+00:09:19,410 --> 00:09:20,670
+所以你想盯着一堆火
+So you want to spend the rest of our lives
+
+40
+00:09:20,670 --> 00:09:22,760
+吃着泥蛇度过余生吗
+staring into a fire and eating mud snakes?
+
+41
+00:09:23,220 --> 00:09:24,610
+去他的
+Screw that.
+
+42
+00:09:25,030 --> 00:09:26,980
+我们倒不如做点别的
+We might as well do something.
+
+43
+00:09:28,100 --> 00:09:29,550
+我能照顾好自己
+I can take care of myself
+
+44
+00:09:29,550 --> 00:09:31,460
+我一定要去喝杯酒
+and I'm gonna get a damn drink.
+
+45
+00:09:55,110 --> 00:09:57,180
+高尔夫球手嗜酒成性  对吗
+Golfers like to booze it up, right?
+
+46
+00:10:03,030 --> 00:10:03,740
+快走
+Come on.
+
+47
+00:10:11,520 --> 00:10:16,310
+松景乡村俱乐部
+
+48
+00:10:21,460 --> 00:10:22,970
+里面可能有人
+Might be people inside.
+
+49
+00:10:51,720 --> 00:10:52,490
+走吧
+Come on.
+
+50
+00:12:17,150 --> 00:12:20,650
+华盛顿特区  国会大厦
+
+51
+00:12:31,280 --> 00:12:33,000
+你为什么要拿那些东西
+Why are you keeping all that stuff?
+
+52
+00:12:41,440 --> 00:12:42,200
+快走
+Come on.
+
+53
+00:15:01,320 --> 00:15:02,360
+谢谢你帮我
+Thanks for the help.
+
+54
+00:15:03,250 --> 00:15:05,030
+你说过能照顾好自己
+You said you could take care of yourself.
+
+55
+00:15:05,390 --> 00:15:06,170
+真是呢
+You did.
+
+56
+00:15:08,940 --> 00:15:10,730
+欢迎来到
+狗宅
+
+57
+00:16:31,150 --> 00:16:37,070
+富家婊
+
+58
+00:16:41,240 --> 00:16:45,660
+富家婊
+
+59
+00:17:01,060 --> 00:17:02,110
+帮我把她放下
+Help me take her down.
+
+60
+00:17:02,770 --> 00:17:04,130
+无所谓了  她死了
+It don't matter. She's dead.
+
+61
+00:17:04,380 --> 00:17:05,400
+有所谓
+It does matter.
+
+62
+00:17:14,390 --> 00:17:15,130
+用这个
+Here.
+
+63
+00:17:37,360 --> 00:17:38,060
+好的
+Okay.
+
+64
+00:17:45,530 --> 00:17:46,260
+快走
+Move.
+
+65
+00:19:11,170 --> 00:19:11,960
+我们到了
+We made it.
+
+66
+00:19:16,350 --> 00:19:17,860
+我知道你觉得这很傻
+I know you think this is stupid.
+
+67
+00:19:18,930 --> 00:19:20,290
+可能真的很傻
+And it probably is.
+
+68
+00:19:21,620 --> 00:19:23,690
+但我不在乎
+But I don't care.
+
+69
+00:19:24,300 --> 00:19:26,440
+我今天只想躺下大哭
+All I wanted to do today was lay down and cry,
+
+70
+00:19:26,440 --> 00:19:27,820
+但是我们没这个权力
+but we don't get to do that.
+
+71
+00:19:28,630 --> 00:19:32,060
+所以要是想撒气的话就去暴打行尸好了
+So beat up on walkers if that makes you feel better.
+
+72
+00:19:33,920 --> 00:19:35,030
+我必须这么做
+I need to do this.
+
+73
+00:20:05,360 --> 00:20:06,800
+你有必要弄碎玻璃吗
+Did you have to break the glass?
+
+74
+00:20:06,800 --> 00:20:07,670
+没有
+No.
+
+75
+00:20:09,890 --> 00:20:11,100
+你找到喝的了吗
+You have your drink yet?
+
+76
+00:20:12,140 --> 00:20:12,880
+没有
+No.
+
+77
+00:20:14,220 --> 00:20:15,220
+但我找到这个了
+But I found this.
+
+78
+00:20:18,950 --> 00:20:19,940
+桃味蒸馏酒
+Peach schnapps.
+
+79
+00:20:21,690 --> 00:20:23,230
+-好喝吗  -不好喝
+- Is it good? - No.
+
+80
+00:20:27,300 --> 00:20:28,620
+只剩下这个了
+Well, it's the only thing left.
+
+81
+00:20:59,750 --> 00:21:00,860
+何必用酒杯呢
+Who needs a glass?
+
+82
+00:21:58,550 --> 00:22:00,080
+你第一次喝酒
+Ain't gonna have your first drink
+
+83
+00:22:00,090 --> 00:22:01,780
+不能就喝这个破桃味蒸馏酒
+be no damned peach schnapps.
+
+84
+00:22:06,780 --> 00:22:07,540
+走吧
+Come on.
+
+85
+00:22:21,380 --> 00:22:22,920
+摩托车修理工
+A motorcycle mechanic.
+
+86
+00:22:23,420 --> 00:22:25,850
+-什么  -我猜的
+- Huh? - That's my guess.
+
+87
+00:22:26,370 --> 00:22:28,120
+灾变前你所从事的职业
+For what you were doing before the turn.
+
+88
+00:22:28,950 --> 00:22:30,270
+扎克也是这么猜的吗
+Did Zack ever guess that one?
+
+89
+00:22:30,790 --> 00:22:31,740
+无关紧要了
+It don't matter.
+
+90
+00:22:32,380 --> 00:22:33,850
+已经无关紧要很久了
+Hasn't mattered for a long time.
+
+91
+00:22:34,750 --> 00:22:36,760
+人们就是这么聊天的
+It's just what people talk about,
+
+92
+00:22:36,760 --> 00:22:38,760
+为了感觉自己是个正常人
+you know, to feel normal.
+
+93
+00:22:38,760 --> 00:22:41,040
+我从没觉得这么聊很正常
+Yeah, well, that never felt normal to me.
+
+94
+00:22:47,790 --> 00:22:49,330
+我跟米琼恩找到的这个地方
+Found this place with Michonne.
+
+95
+00:22:52,740 --> 00:22:54,460
+我以为是酒水店
+I was expecting a liquor store.
+
+96
+00:22:54,760 --> 00:22:56,270
+不是  这个更好
+No, this is better.
+
+97
+00:23:14,960 --> 00:23:15,830
+那是什么
+What's that?
+
+98
+00:23:18,440 --> 00:23:19,270
+私酒
+Moonshine.
+
+99
+00:23:22,260 --> 00:23:22,980
+来吧
+Come on.
+
+100
+00:23:52,700 --> 00:23:53,540
+好了
+All right.
+
+101
+00:23:57,470 --> 00:23:59,410
+这才是第一次该喝的酒
+That's a real first drink right there.
+
+102
+00:24:03,770 --> 00:24:04,560
+怎么了
+What's the matter?
+
+103
+00:24:06,240 --> 00:24:07,030
+没什么
+Nothing.
+
+104
+00:24:08,610 --> 00:24:09,470
+只是...
+It's just...
+
+105
+00:24:10,630 --> 00:24:13,020
+我爸总是说  喝劣质私酒会致盲
+my dad always said bad moonshine can make you go blind.
+
+106
+00:24:13,030 --> 00:24:15,310
+反正外面也没有什么值得看了
+Ain't nothing worth seeing out there anymore anyway.
+
+107
+00:24:25,480 --> 00:24:27,770
+这是我喝过的最恶心的东西
+That's the most disgusting thing I've ever tasted.
+
+108
+00:24:37,250 --> 00:24:38,240
+喝到第二口就好多了
+Second round's better.
+
+109
+00:24:39,290 --> 00:24:40,190
+慢点喝
+Slow down.
+
+110
+00:24:40,820 --> 00:24:43,130
+-这杯是给你倒的  -不用了
+- This one's for you. - No, I'm good.
+
+111
+00:24:44,110 --> 00:24:46,270
+-为什么  -得有个人留神
+- Why? - Someone's got to keep watch.
+
+112
+00:24:46,500 --> 00:24:48,520
+怎么  你现在是我的保护人吗
+So, what, you're like my chaperone now?
+
+113
+00:24:49,140 --> 00:24:50,420
+你就多喝点水吧
+Just drink lots of water.
+
+114
+00:24:50,420 --> 00:24:51,860
+是  迪克森先生
+Yes, Mr. Dixon.
+
+115
+00:25:00,730 --> 00:25:02,130
+谁会走进一家商店
+Who'd go into a store
+
+116
+00:25:02,130 --> 00:25:03,820
+然后拎着这玩意儿出来
+and walk out with this?
+
+117
+00:25:04,730 --> 00:25:06,050
+我爸  他就愿意
+My dad, that's who.
+
+118
+00:25:07,700 --> 00:25:08,920
+他就是个傻帽
+Oh, he's a dumbass.
+
+119
+00:25:09,870 --> 00:25:11,860
+他会把那些摆在电视上
+He'd set those up on top of the TV set,
+
+120
+00:25:11,860 --> 00:25:13,460
+用它们来练射击
+use them as target practice.
+
+121
+00:25:13,800 --> 00:25:15,430
+他在家里开枪射击吗
+He shot things inside your house?
+
+122
+00:25:16,180 --> 00:25:17,880
+反正那只是一堆垃圾
+It was just a bunch of junk anyway.
+
+123
+00:25:18,990 --> 00:25:20,610
+所以我知道这地方以前是什么
+That's how I knew what this place was.
+
+124
+00:25:20,630 --> 00:25:21,580
+外面的那个棚屋
+That shed out there,
+
+125
+00:25:21,890 --> 00:25:23,750
+我爸之前也有那样的棚屋
+my dad had a place just like this.
+
+126
+00:25:24,190 --> 00:25:25,680
+有个大靠椅
+You got your Dumpster chair.
+
+127
+00:25:26,240 --> 00:25:29,730
+你坐在上头  抽屉里全是夏季饮料
+That's for sitting in and your drawers all summer drinking.
+
+128
+00:25:30,590 --> 00:25:32,030
+旁边有个花哨的大桶
+Got your fancy buckets.
+
+129
+00:25:32,280 --> 00:25:33,610
+那是用来吐嚼烟的
+That's for spitting chaw in
+
+130
+00:25:34,270 --> 00:25:36,310
+因为你家老太婆叫你戒烟
+after your old lady tells you to stop smoking.
+
+131
+00:25:38,480 --> 00:25:40,180
+这个是你的"互联网"
+You got your Internet.
+
+132
+00:25:50,900 --> 00:25:53,120
+-只有一个  -我们要去干掉它吗
+- It's just one of 'em. - Should we get it?
+
+133
+00:25:53,760 --> 00:25:55,500
+假如它一直吵个不停  那就干掉
+If he keeps making too much noise, yeah.
+
+134
+00:25:56,750 --> 00:25:59,350
+假如我们又要被困住
+Well, if we're gonna be trapped again,
+
+135
+00:25:59,350 --> 00:26:01,140
+我们最好随遇而安
+we might as well make the best of it.
+
+136
+00:26:03,530 --> 00:26:06,210
+除非你忙着保护我  迪克森先生
+Unless you're too busy chaperoning, Mr. Dixon.
+
+137
+00:26:08,690 --> 00:26:12,050
+对啊  最好随遇而安
+Hell, might as well make the best of it.
+
+138
+00:26:21,840 --> 00:26:22,840
+家  可爱的家
+Home, sweet home.
+
+139
+00:26:30,950 --> 00:26:34,190
+首先  我说一件我从没做过的事
+So first, I say something I've never done
+
+140
+00:26:34,370 --> 00:26:36,300
+假如你做过这件事  你就得喝酒
+and if you have done it, you drink,
+
+141
+00:26:36,310 --> 00:26:38,130
+假如你没做过  那就我喝
+and if you haven't, I drink.
+
+142
+00:26:38,680 --> 00:26:39,730
+然后换你说
+Then we switch.
+
+143
+00:26:41,800 --> 00:26:43,050
+你真的不知道这个游戏吗
+You really don't know this game?
+
+144
+00:26:43,680 --> 00:26:45,830
+我从不需要游戏来喝醉
+I never needed a game to get lit before.
+
+145
+00:26:46,030 --> 00:26:47,570
+等等  我们开始玩了吗
+Wait, are we starting?
+
+146
+00:26:47,930 --> 00:26:50,300
+-你从哪学的  -我朋友玩过
+- How do you know this game? - My friends played.
+
+147
+00:26:50,820 --> 00:26:53,900
+我看过  好了  从我开始
+I watched. Okay, I'll start.
+
+148
+00:26:55,450 --> 00:26:57,980
+我从没射过十字弩
+I've never shot a crossbow.
+
+149
+00:26:58,770 --> 00:27:00,110
+你喝酒吧
+So now you drink.
+
+150
+00:27:01,450 --> 00:27:02,710
+这不算游戏吧
+Ain't much of a game.
+
+151
+00:27:03,150 --> 00:27:06,170
+热身而已  换你了
+That was a warm-up. Now you go.
+
+152
+00:27:09,440 --> 00:27:10,260
+我不知道
+I don't know.
+
+153
+00:27:10,580 --> 00:27:12,840
+随便说你想到的第一件事
+Just say the first thing that pops into your head.
+
+154
+00:27:13,700 --> 00:27:15,240
+我从没出过乔治亚州
+I've never been out of Georgia.
+
+155
+00:27:15,560 --> 00:27:19,090
+真的吗  这个不错
+Really? Okay, good one.
+
+156
+00:27:22,630 --> 00:27:24,800
+我从没
+I've never...
+
+157
+00:27:24,970 --> 00:27:27,140
+喝醉做出后悔的事
+been drunk and did something I regretted.
+
+158
+00:27:33,530 --> 00:27:34,780
+我倒干过很多
+I've done a lot of things.
+
+159
+00:27:37,010 --> 00:27:37,840
+轮到你了
+Your turn.
+
+160
+00:27:41,230 --> 00:27:42,650
+我从没度过假
+I've never been on vacation.
+
+161
+00:27:42,990 --> 00:27:44,090
+野营算吗
+What about camping?
+
+162
+00:27:44,140 --> 00:27:47,300
+不算  那只是学打猎的必修课
+No, that was just something I had to learn to hunt.
+
+163
+00:27:48,100 --> 00:27:49,080
+你爸爸教你的吗
+Your dad teach you?
+
+164
+00:27:53,190 --> 00:27:54,040
+好吧
+Okay.
+
+165
+00:28:00,180 --> 00:28:02,000
+我从没
+I've never...
+
+166
+00:28:02,670 --> 00:28:03,640
+进过监狱
+been in jail.
+
+167
+00:28:05,230 --> 00:28:07,490
+我是说  没当过囚犯
+I mean, as a prisoner.
+
+168
+00:28:14,470 --> 00:28:15,680
+你就是那么看我的吗
+Is that what you think of me?
+
+169
+00:28:16,000 --> 00:28:17,290
+我不是说什么大事儿
+I didn't mean anything serious.
+
+170
+00:28:17,290 --> 00:28:19,610
+就是喝醉被拘留什么的
+I just thought, you know, like the drunk tank.
+
+171
+00:28:20,170 --> 00:28:23,210
+连我爸都因此进过牢房
+Even my dad got locked up for that back in the day.
+
+172
+00:28:23,700 --> 00:28:25,330
+-喝吧  -等等
+- Drink up. - Wait.
+
+173
+00:28:25,380 --> 00:28:26,460
+狱警
+Prison guard.
+
+174
+00:28:26,720 --> 00:28:28,610
+你以前是狱警吗
+Were you a prison guard before?
+
+175
+00:28:31,760 --> 00:28:32,570
+不是
+No.
+
+176
+00:28:36,720 --> 00:28:37,980
+又轮到你了
+It's your turn again.
+
+177
+00:28:42,880 --> 00:28:44,000
+我去小便
+I'm gonna take a piss.
+
+178
+00:28:48,940 --> 00:28:49,950
+安静点
+You have to be quiet.
+
+179
+00:28:49,950 --> 00:28:51,860
+我听不清  我在小便
+Can't hear you! I'm taking a piss!
+
+180
+00:28:52,090 --> 00:28:53,600
+达里尔  别这么大声
+Daryl, don't talk so loud.
+
+181
+00:28:53,600 --> 00:28:54,990
+怎么  你是我的保护人吗
+What, are you my chaperone now?
+
+182
+00:29:01,080 --> 00:29:01,610
+等等
+Oh, wait.
+
+183
+00:29:01,610 --> 00:29:02,800
+轮到我了对吧
+It's my turn, right?
+
+184
+00:29:03,850 --> 00:29:05,550
+我从没
+I've never--
+
+185
+00:29:07,980 --> 00:29:09,400
+从没吃过酸奶冰淇淋
+never eaten frozen yogurt.
+
+186
+00:29:09,800 --> 00:29:11,310
+从没养过宠物小马
+Never had a pet pony.
+
+187
+00:29:11,570 --> 00:29:13,540
+从没收过圣诞老人的礼物
+Never got nothing from Santa Claus.
+
+188
+00:29:14,530 --> 00:29:16,990
+从不需要他人庇护
+Never relied on anyone for protection before.
+
+189
+00:29:17,480 --> 00:29:19,910
+妈的  老子从没依赖过任何人
+Hell, I don't think I've ever relied on anyone for anything.
+
+190
+00:29:19,910 --> 00:29:21,990
+-达里尔  -我从没当着大伙儿的面唱歌
+- Daryl. - Never sung out in front of a big group
+
+191
+00:29:21,990 --> 00:29:24,280
+以为这一切很有趣
+out in public like everything was fun.
+
+192
+00:29:25,530 --> 00:29:27,130
+以为这是一场游戏
+Like everything was a big game.
+
+193
+00:29:29,610 --> 00:29:32,440
+我他妈的也从没割腕求关注  
+I sure as hell never cut my wrists looking for attention.
+
+194
+00:29:37,330 --> 00:29:38,460
+听起来外面的朋友
+Sounds like our friend out there
+
+195
+00:29:38,460 --> 00:29:39,530
+在召唤它的兄弟们
+is trying to call all of his buddies.
+
+196
+00:29:39,530 --> 00:29:42,810
+-达里尔  快住嘴  -嘿  你从没用过弩是吧
+- Daryl, just shut up. - Hey, you never shot a crossbow before?
+
+197
+00:29:42,850 --> 00:29:44,390
+我现在就教你
+I'm gonna teach you right now.
+
+198
+00:29:44,390 --> 00:29:46,500
+来吧  会很有趣的
+Come on. It's gonna be fun.
+
+199
+00:29:46,500 --> 00:29:49,950
+我们应该待在屋里  达里尔  住手
+We should stay inside. Daryl, cut it out!
+
+200
+00:29:49,950 --> 00:29:50,940
+达里尔  
+Daryl!
+
+201
+00:29:51,450 --> 00:29:53,910
+蠢货  来呀  蠢货
+Dumbass. Come here, dumbass.
+
+202
+00:29:55,060 --> 00:29:56,850
+-达里尔  -你想试试吗
+- Daryl. - You want to shoot?
+
+203
+00:29:57,070 --> 00:29:58,870
+-我不会  -很简单
+- I don't know how. - Oh, it's easy.
+
+204
+00:29:58,870 --> 00:30:00,850
+过来  瞄准右角  
+Come here. Right corner.
+
+205
+00:30:01,210 --> 00:30:02,960
+以后再练吧
+Let's practice later.
+
+206
+00:30:02,980 --> 00:30:05,210
+-接着来  很有趣  -别闹了
+- Come on, it's fun. - Just stop it.
+
+207
+00:30:05,210 --> 00:30:07,470
+-达里尔  -过来
+- Daryl! - Come here.
+
+208
+00:30:09,970 --> 00:30:12,800
+-八球进洞  -快干掉它
+- Eight ball. - Just kill it!
+
+209
+00:30:13,060 --> 00:30:15,030
+格林  过来  我们把箭拔出来
+Come here, Greene. Let's pull these out.
+
+210
+00:30:15,030 --> 00:30:16,700
+那它当靶子多练练手
+Get a little more target practice.
+
+211
+00:30:20,900 --> 00:30:22,720
+你杀它干嘛  爷正乐着呢
+What the hell you do that for? I was having fun.
+
+212
+00:30:22,720 --> 00:30:25,050
+才不  你太混蛋了
+No, you were being a jackass.
+
+213
+00:30:25,050 --> 00:30:27,190
+-如果有人对我老爸...  -别
+- If anyone found my dad-- - Don't.
+
+214
+00:30:27,190 --> 00:30:28,700
+这两个根本不是一回事
+That ain't remotely the same.
+
+215
+00:30:28,700 --> 00:30:31,270
+杀行尸不应该是有趣的
+Killing them is not supposed to be fun.
+
+216
+00:30:31,270 --> 00:30:32,540
+那你到底要我怎么做  丫头
+What do you want from me, girl, huh?
+
+217
+00:30:32,540 --> 00:30:33,710
+我想让你别一副
+I want to you stop acting
+
+218
+00:30:33,710 --> 00:30:35,770
+什么都不在意的样子
+like you don't give a crap about anything.
+
+219
+00:30:35,810 --> 00:30:37,940
+就好像我们经历的这一切都毫无意义
+Like nothing we went through matters.
+
+220
+00:30:37,940 --> 00:30:41,640
+那些去世的人对你来说都一文不值一样
+Like none of the people we lost meant anything to you.
+
+221
+00:30:41,960 --> 00:30:43,950
+这太混账了
+It's bullshit!
+
+222
+00:30:44,390 --> 00:30:46,530
+-你是这么想的吗  -我知道就是这样
+- Is that what you think? - That's what I know.
+
+223
+00:30:47,460 --> 00:30:48,480
+你什么也不懂
+You don't know nothing.
+
+224
+00:30:48,480 --> 00:30:51,230
+我知道在你眼里我只是个将死的女孩
+I know you look at me and you just see another dead girl.
+
+225
+00:30:51,230 --> 00:30:54,900
+我不是米琼恩  不是卡萝儿  也不是玛姬
+I'm not Michonne. I'm not Carol. I'm not Maggie.
+
+226
+00:30:55,210 --> 00:30:56,780
+我活下来了  你却不明白
+I've survived and you don't get it
+
+227
+00:30:56,780 --> 00:30:59,840
+虽然我不像你或者其他人
+'cause I'm not like you or them.
+
+228
+00:30:59,960 --> 00:31:03,480
+但我做到了  你不能因为自己畏惧
+But I made it and you don't get to treat me like crap
+
+229
+00:31:03,480 --> 00:31:05,960
+就这样对我
+just because you're afraid.
+
+230
+00:31:08,370 --> 00:31:10,130
+我无所畏惧
+I ain't afraid of nothing.
+
+231
+00:31:12,360 --> 00:31:13,700
+我记得
+I remember.
+
+232
+00:31:16,310 --> 00:31:18,330
+当那个小女孩跟在我妈身后
+When that little girl came out of the barn
+
+233
+00:31:19,020 --> 00:31:20,210
+从谷仓出来时
+after my mom.
+
+234
+00:31:22,190 --> 00:31:23,450
+你就跟我一样
+You were like me.
+
+235
+00:31:25,730 --> 00:31:26,950
+而从那以后
+And now God forbid
+
+236
+00:31:26,950 --> 00:31:29,030
+你就不敢亲近任何人
+you ever let anybody get too close.
+
+237
+00:31:29,030 --> 00:31:32,170
+亲近是吗  你当然懂了
+Too close, huh? You know all about that.
+
+238
+00:31:32,170 --> 00:31:35,150
+你失去了两个男友  一滴眼泪都没流
+You lost two boyfriends, you can't even shed a tear.
+
+239
+00:31:35,150 --> 00:31:36,490
+你全家人都没了
+Your whole family's gone,
+
+240
+00:31:36,490 --> 00:31:37,750
+你却像个愚蠢的大学生一样
+all you can do is just go out looking for hooch
+
+241
+00:31:37,750 --> 00:31:39,100
+出去找酒喝
+like some dumb college bitch.
+
+242
+00:31:39,100 --> 00:31:40,820
+去你的  你根本不了解情况
+Screw you. You don't get it.
+
+243
+00:31:40,820 --> 00:31:42,150
+是你不了解情况
+No, you don't get it!
+
+244
+00:31:42,150 --> 00:31:44,900
+-我们认识的人都死了  -你根本不确定
+- Everyone we know is dead! - You don't know that!
+
+245
+00:31:44,900 --> 00:31:47,510
+没什么差别  因为你再也不会见到他们
+Might as well be, 'cause you ain't never gonna see 'em again.
+
+246
+00:31:49,740 --> 00:31:53,480
+瑞克  你再也见不到玛姬了
+Rick. You ain't never gonna see Maggie again.
+
+247
+00:31:53,480 --> 00:31:55,050
+-达里尔  别说了  -不
+- Daryl, just stop.  - No!
+
+248
+00:31:56,770 --> 00:31:58,900
+总督直接来到了我们家门口
+The Governor rolled right up to our gates.
+
+249
+00:32:02,800 --> 00:32:05,330
+如果当初我没有停止寻找他
+Maybe if I wouldn't have stopped looking.
+
+250
+00:32:06,060 --> 00:32:07,840
+也许这一切都是我的错  因为我放弃了
+Maybe 'cause I gave up. That's on me.
+
+251
+00:32:07,840 --> 00:32:09,600
+-达里尔  -不
+- Daryl.  - No--
+
+252
+00:32:14,760 --> 00:32:16,060
+还有你爸
+And your dad.
+
+253
+00:32:19,560 --> 00:32:22,540
+或许  我本可以做点什么
+Maybe-- maybe I could have done something.
+
+254
+00:32:51,320 --> 00:32:53,180
+我明白我爸为什么戒酒了
+I get why my dad stopped drinking.
+
+255
+00:32:54,280 --> 00:32:55,440
+你想吐吗
+You feel sick?
+
+256
+00:32:56,480 --> 00:32:57,320
+没有
+Nope.
+
+257
+00:32:59,370 --> 00:33:01,360
+我希望我能一直有这样的感觉
+I wish I could feel like this all the time.
+
+258
+00:33:02,640 --> 00:33:04,010
+这可不好
+That's bad.
+
+259
+00:33:05,390 --> 00:33:07,220
+形容酒品好  反义为"愤怒的醉鬼"
+
+260
+00:33:05,390 --> 00:33:07,220
+你很幸运  你是个快乐的醉鬼
+You're lucky you're a happy drunk.
+
+261
+00:33:07,420 --> 00:33:08,940
+没错  我很幸运
+Yeah, I'm lucky.
+
+262
+00:33:10,150 --> 00:33:12,490
+有的人喝醉后就各种撒泼耍赖
+Some people can be real jerks when they drink.
+
+263
+00:33:13,080 --> 00:33:16,650
+是的  我喝醉之后就那样
+Yeah, I'm a dick when I'm drunk.
+
+264
+00:33:25,970 --> 00:33:27,610
+莫尔有个毒贩朋友
+Merle had this dealer.
+
+265
+00:33:28,860 --> 00:33:31,740
+一个讨人嫌的小个子白人
+This janky little white guy.
+
+266
+00:33:31,900 --> 00:33:33,340
+瘾君子
+A tweaker.
+
+267
+00:33:35,500 --> 00:33:39,840
+某天  我们在他家看电视
+One day we were over at his house watching TV.
+
+268
+00:33:42,140 --> 00:33:46,050
+还没到中午  我们都喝高了
+Wasn't even noon yet and we were all wasted.
+
+269
+00:33:46,050 --> 00:33:47,320
+莫尔嗑嗨了
+Merle was high.
+
+270
+00:33:49,710 --> 00:33:51,120
+我们在看一个电视节目
+We were watching this show
+
+271
+00:33:51,750 --> 00:33:54,430
+莫尔一直说那个节目很难看
+and Merle was talking all this dumb stuff about it.
+
+272
+00:33:55,280 --> 00:33:56,710
+不肯闭嘴
+And he wouldn't let up.
+
+273
+00:33:57,460 --> 00:33:59,430
+他一直如此
+Merle never could.
+
+274
+00:34:02,400 --> 00:34:03,700
+结果
+Turns out,
+
+275
+00:34:04,970 --> 00:34:07,240
+那是那瘾君子的孩子们最喜欢的节目
+it was the tweaker's kids' favorite show.
+
+276
+00:34:08,970 --> 00:34:10,140
+他从没见过他的孩子们
+And he never sees his kids,
+
+277
+00:34:10,140 --> 00:34:13,860
+所以他觉得内疚了之类的
+so he felt guilty about it or something.
+
+278
+00:34:15,550 --> 00:34:17,700
+所以狠狠揍在莫尔脸上
+So he punches Merle in the face.
+
+279
+00:34:19,340 --> 00:34:22,660
+所以我就狠狠地揍那瘾君子
+So I started hitting the tweaker, like, hard.
+
+280
+00:34:22,660 --> 00:34:23,930
+能多狠就多狠
+As hard as I can.
+
+281
+00:34:25,590 --> 00:34:28,020
+他抽出一把枪来
+Then he pulls a gun,
+
+282
+00:34:28,020 --> 00:34:29,820
+顶着我的脑袋
+sticks it right here.
+
+283
+00:34:31,190 --> 00:34:33,690
+他说  我要杀了你  混蛋
+He says, "I'm gonna kill you, bitch."
+
+284
+00:34:34,040 --> 00:34:35,880
+所以莫尔也抽出枪来对着他
+So Merle pulls his gun on him.
+
+285
+00:34:37,070 --> 00:34:39,370
+大家都在大吼  我也大吼
+Everyone's yelling. I'm yelling.
+
+286
+00:34:42,970 --> 00:34:45,010
+我以为我会死
+I thought I was dead.
+
+287
+00:34:46,810 --> 00:34:51,410
+就因为一个会讲话的小狗的蠢动画
+Over a dumb cartoon about a talking dog.
+
+288
+00:34:57,350 --> 00:34:59,520
+你们怎么脱险的
+How'd you get out of it?
+
+289
+00:35:02,420 --> 00:35:04,890
+瘾君子揍了我肚子
+The tweaker punched me in the gut.
+
+290
+00:35:04,890 --> 00:35:06,730
+我吐了
+I puked.
+
+291
+00:35:06,730 --> 00:35:10,330
+他们俩就开始笑  忘了这一切
+They both started laughing and forgot all about it.
+
+292
+00:35:14,500 --> 00:35:17,440
+你想知道灾难之前我是什么样的人吗
+You want to know what I was before all this?
+
+293
+00:35:21,180 --> 00:35:23,480
+我跟着莫尔四处漂流
+I was just drifting around with Merle...
+
+294
+00:35:25,550 --> 00:35:28,170
+他让我做什么我就做什么
+Doing whatever he said we were gonna be doing that day.
+
+295
+00:35:34,400 --> 00:35:35,660
+我微不足道
+I was nobody.
+
+296
+00:35:38,990 --> 00:35:41,200
+一无是处
+Nothing.
+
+297
+00:35:43,630 --> 00:35:45,690
+是个混蛋乡巴佬
+Some redneck asshole
+
+298
+00:35:46,500 --> 00:35:50,200
+有个更混蛋的哥哥
+and an even bigger asshole for a brother.
+
+299
+00:35:57,250 --> 00:35:58,980
+你想他了  是吧
+You miss him, don't you?
+
+300
+00:36:00,720 --> 00:36:03,380
+我也想玛姬
+I miss Maggie.
+
+301
+00:36:05,750 --> 00:36:08,320
+我想念她支使我
+I miss her bossing me around.
+
+302
+00:36:10,060 --> 00:36:12,330
+我想念我哥哥沙恩
+I miss my big brother Shawn.
+
+303
+00:36:14,600 --> 00:36:16,860
+他曾经很烦  过度保护我
+He was so annoying and overprotective.
+
+304
+00:36:20,270 --> 00:36:22,240
+还有我爸爸
+And my dad.
+
+305
+00:36:23,740 --> 00:36:24,700
+我以为
+I thought--
+
+306
+00:36:25,370 --> 00:36:28,140
+我曾希望他余生生活得平静安逸  知道吗
+I hoped he'd just live the rest of his life in peace, you know?
+
+307
+00:36:32,250 --> 00:36:35,190
+我以为玛姬和格伦会有个孩子
+I thought Maggie and Glenn would have a baby.
+
+308
+00:36:36,680 --> 00:36:38,780
+我爸爸会当上姥爷
+And he'd get to be a grandpa.
+
+309
+00:36:40,320 --> 00:36:43,750
+我们一起过生日  度假
+And we'd have birthdays and holidays
+
+310
+00:36:43,750 --> 00:36:45,270
+还有夏日野餐
+and summer picnics.
+
+311
+00:36:49,660 --> 00:36:52,070
+然后他会变老
+And he'd get really old.
+
+312
+00:36:54,770 --> 00:36:59,040
+死亡会来临  但会很平静
+And it'd happen, but it'd be quiet.
+
+313
+00:37:03,110 --> 00:37:05,010
+不会有事
+It'd be okay.
+
+314
+00:37:08,220 --> 00:37:11,290
+他的周围会是他爱的人
+He'd be surrounded by people he loved.
+
+315
+00:37:29,740 --> 00:37:32,610
+我就是这么难以置信的蠢
+That's how unbelievably stupid I am.
+
+316
+00:37:37,410 --> 00:37:39,680
+本来就该是这样
+That's how it was supposed to be.
+
+317
+00:37:44,650 --> 00:37:47,990
+真希望我可以
+I wish I could just...
+
+318
+00:37:47,990 --> 00:37:50,320
+改变
+change.
+
+319
+00:37:50,330 --> 00:37:52,260
+你变了
+You did.
+
+320
+00:37:52,260 --> 00:37:54,330
+还不够
+Not enough.
+
+321
+00:37:55,160 --> 00:37:56,310
+不像你
+Not like you.
+
+322
+00:37:56,310 --> 00:37:59,090
+你好像天生就适合现在的情况
+It's like you were made for how things are now.
+
+323
+00:37:59,090 --> 00:38:02,350
+我只是习惯了  糟糕的情况
+I'm just used to it, things being ugly.
+
+324
+00:38:02,350 --> 00:38:04,340
+我在这种地方长大
+Growing up in a place like this.
+
+325
+00:38:06,050 --> 00:38:07,390
+但你逃离了这种地方
+Well, you got away from it.
+
+326
+00:38:08,940 --> 00:38:11,650
+-我没有  -你有
+- I didn't. - You did.
+
+327
+00:38:11,650 --> 00:38:14,280
+也许你该时不时提醒一下我
+Maybe you got to keep on reminding me sometimes.
+
+328
+00:38:14,280 --> 00:38:15,580
+不
+No.
+
+329
+00:38:16,770 --> 00:38:19,090
+你不可以依赖别人  记得吗
+You can't depend on anybody for anything, right?
+
+330
+00:38:24,440 --> 00:38:26,500
+-我早晚也会离开  -别这么说
+- I'll be gone someday. - Stop.
+
+331
+00:38:26,500 --> 00:38:27,640
+我会的
+I will.
+
+332
+00:38:31,600 --> 00:38:33,520
+你会站到最后
+You're gonna be the last man standing.
+
+333
+00:38:37,300 --> 00:38:38,400
+你会的
+You are.
+
+334
+00:38:46,080 --> 00:38:49,480
+等我离开了你会非常想我  达里尔·迪克森
+You're gonna miss me so bad when I'm gone, Daryl Dixon.
+
+335
+00:38:53,480 --> 00:38:55,820
+你完全不是个快乐的醉鬼
+You ain't a happy drunk at all.
+
+336
+00:38:55,820 --> 00:38:58,630
+我很快乐  只是不瞎
+Yeah, I'm happy. I'm just not blind.
+
+337
+00:39:01,900 --> 00:39:05,000
+你得着眼现在
+You got to stay who you are,
+
+338
+00:39:05,000 --> 00:39:06,670
+而不是怀恋过去
+not who you were.
+
+339
+00:39:08,300 --> 00:39:11,810
+这样的地方
+Places like this,
+
+340
+00:39:11,810 --> 00:39:14,040
+你必须忘记
+you have to put it away.
+
+341
+00:39:17,210 --> 00:39:18,750
+忘不了呢
+What if you can't?
+
+342
+00:39:18,750 --> 00:39:20,210
+必须忘记
+You have to.
+
+343
+00:39:22,080 --> 00:39:24,320
+否则会难受死
+Or it kills you.
+
+344
+00:39:34,130 --> 00:39:35,960
+在心里
+Here.
+
+345
+00:39:44,640 --> 00:39:46,810
+我们该进去了
+We should go inside.
+
+346
+00:39:53,350 --> 00:39:55,380
+我们该把屋子烧了
+We should burn it down.
+
+347
+00:40:15,100 --> 00:40:16,910
+我们需要更多酒
+We're gonna need more booze.
+
+348
+00:40:19,020 --> 00:40:29,020
+Up The Wolves
+The Mountain Goats
+
+349
+00:40:33,750 --> 00:40:38,260
+? There's bound to be a ghost at the back of your closet ?
+
+350
+00:40:41,550 --> 00:40:44,450
+? No matter where you live ?
+
+351
+00:40:46,100 --> 00:40:51,260
+? There'll always be a few things, maybe several things ?
+
+352
+00:40:52,070 --> 00:40:56,710
+? That you're gonna find really difficult to forgive ?
+
+353
+00:40:58,190 --> 00:41:00,470
+-你要来吗  -必须的
+- You wanna? - Hell, yeah.
+
+354
+00:41:10,960 --> 00:41:15,030
+? There's gonna come a day when you feel better ?
+
+355
+00:41:16,950 --> 00:41:21,170
+? You'll rise up free and easy on that day ?
+
+356
+00:41:23,430 --> 00:41:26,490
+? And float from branch to branch ?
+
+357
+00:41:26,560 --> 00:41:29,270
+? Lighter than the air ?
+
+358
+00:41:29,320 --> 00:41:32,010
+? Just when that day is coming ?
+
+359
+00:41:32,050 --> 00:41:35,370
+? Who can say? Who can say? ?
+
+360
+00:41:35,410 --> 00:41:38,190
+? Our mother has been absent ?
+
+361
+00:41:38,240 --> 00:41:41,320
+? Ever since we founded Rome ?
+
+362
+00:41:41,360 --> 00:41:46,000
+? But there's gonna be a party when the wolf comes home ?
+
+363
+00:41:49,350 --> 00:41:53,590
+? I'm gonna get myself in fighting trim ?
+
+364
+00:41:55,880 --> 00:42:00,330
+? Scope out every angle of unfair advantage ?
+
+365
+00:42:01,630 --> 00:42:04,380
+? I'm gonna bribe the officials ?
+
+366
+00:42:04,440 --> 00:42:07,510
+? I'm gonna kill all the judges ?
+
+367
+00:42:07,570 --> 00:42:10,240
+? It's gonna take you people years ?
+
+368
+00:42:10,290 --> 00:42:12,830
+? To recover from all of the damage ?
+
+369
+00:42:12,900 --> 00:42:15,980
+? Our mother has been absent ?
+
+370
+00:42:16,020 --> 00:42:19,030
+? Ever since we founded Rome ?
+
+371
+00:42:19,090 --> 00:42:23,650
+? But there's gonna be a party when the wolf comes home ?
+
